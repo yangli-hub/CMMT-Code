@@ -1,0 +1,12380 @@
+IMGID:74960
+RT	O	O
+@	O	O
+OU	O	O
+Football	O	O
+:	O	O
+Practice	O	O
+one	O	O
+in	O	O
+the	O	O
+books	O	O
+Want	O	O
+more	O	O
+photos	O	O
+?	O	O
+Follow	O	O
+the	O	O
+official	O	O
+Oklahoma	B-NEU	B-AE
+football	O	O
+Facebook	O	O
+page	O	O
+!	O	O
+#	O	O
+onlyONE	O	O
+
+IMGID:1739565
+Crazy	O	B-OE
+hair	O	O
+day	O	O
+!	O	O
+Lydia	B-POS	B-AE
+is	O	O
+a	O	O
+contender	O	O
+.	O	O
+:	O	O
+)	O	O
+
+IMGID:664451
+RT	O	O
+@	O	O
+HistoryNeedsYou	O	O
+:	O	O
+Mother	O	O
+and	O	O
+child	O	O
+#	O	O
+art	O	O
+for	O	O
+#	O	O
+MothersDay	O	O
+by	O	O
+Barbara	B-NEU	B-AE
+Hepworth	I-NEU	I-AE
+,	O	O
+1934	O	O
+
+IMGID:1997881
+Detailed	O	O
+illustrations	O	O
+of	O	O
+mythical	O	O
+creatures	O	O
+by	O	O
+Jessica	B-NEU	B-AE
+Fortner	I-NEU	I-AE
+
+IMGID:1794188
+RT	O	O
+@	O	O
+bohemianizm	O	O
+:	O	O
+Art	O	O
+from	O	O
+Rachael	B-NEU	B-AE
+Speirs	I-NEU	I-AE
+#	O	O
+art	O	O
+#	O	O
+visualart	O	O
+#	O	O
+craft	O	O
+
+IMGID:758256
+RT	O	O
+@	O	O
+wemssecnirp	O	O
+:	O	O
+Now	O	O
+I	O	O
+really	O	O
+am	O	O
+like	O	B-OE
+Cleopatra	B-POS	B-AE
+#	O	O
+hypnotizing	O	O
+#	O	O
+findom	O	O
+#	O	O
+goddess	O	O
+
+IMGID:12935
+RT	O	O
+@	O	O
+Grady	O	O
+:	O	O
+Where	O	O
+you	O	O
+at	O	O
+,	O	O
+Nene	B-NEU	B-AE
+?	O	O
+?	O	O
+?	O	O
+
+IMGID:1294593
+RT	O	O
+@	O	O
+OfficialFOXES	O	O
+:	O	O
+Departing	O	O
+from	O	O
+Heathrow	B-NEU	B-AE
+to	O	O
+Bangkok	B-NEU	B-AE
+#	O	O
+partycontinued	O	O
+
+IMGID:14581
+RT	O	O
+@	O	O
+engadget	O	O
+:	O	O
+White	B-POS	B-AE
+House	I-POS	I-AE
+Demo	I-POS	I-AE
+Day	I-POS	I-AE
+focuses	O	O
+on	O	O
+diversity	O	O
+
+IMGID:73847
+RT	O	O
+@	O	O
+Dragon	O	O
+Bawlz	O	O
+:	O	O
+You	O	O
+got	O	O
+something	O	O
+on	O	O
+your	O	O
+face	O	O
+Nate	B-NEU	B-AE
+
+IMGID:423068
+DETAILS	O	O
+:	O	O
+Man	O	O
+shot	O	O
+several	O	O
+times	O	O
+outside	O	O
+west	B-NEU	B-AE
+Valley	I-NEU	I-AE
+Circle	I-NEU	I-AE
+K	I-NEU	I-AE
+
+IMGID:45911
+RT	O	O
+@	O	O
+RollingStone	O	O
+:	O	O
+Meet	O	O
+the	O	O
+Michael	B-NEU	B-AE
+Jackson	I-NEU	I-AE
+impersonator	O	O
+who	O	O
+wants	O	O
+to	O	O
+heal	O	B-OE
+Baltimore	B-NEG	B-AE
+:	O	O
+
+IMGID:546499
+RT	O	O
+@	O	O
+GenOppVA	O	O
+:	O	O
+Just	O	O
+a	O	O
+little	O	O
+bit	O	O
+over	O	O
+24	O	O
+hours	O	O
+til	O	O
+#	O	O
+CreepyCare	O	O
+arrives	O	O
+on	O	O
+the	O	O
+National	B-NEU	B-AE
+Mall	I-NEU	I-AE
+!	O	O
+Come	O	O
+on	O	O
+out	O	O
+and	O	O
+join	O	O
+us	O	O
+!	O	O
+
+IMGID:1866367
+RT	O	O
+@	O	O
+Tobias	O	O
+FJ	O	O
+:	O	O
+A	O	O
+trove	O	O
+of	O	O
+shopfront	O	O
+lettering	O	O
+in	O	O
+Malta	B-NEU	B-AE
+:	O	O
+
+IMGID:268501
+RT	O	O
+@	O	O
+LFC	O	O
+:	O	O
+#	B-NEU	B-AE
+LFC	I-NEU	I-AE
+can	O	O
+confirm	O	O
+that	O	O
+Steven	B-NEG	B-AE
+Gerrard	I-NEG	I-AE
+is	O	O
+to	O	O
+leave	O	O
+the	O	O
+club	O	O
+at	O	O
+the	O	O
+end	O	O
+of	O	O
+the	O	O
+2014	O	O
+-	O	O
+15	O	O
+season	O	O
+#	O	O
+LFCicon	O	O
+
+IMGID:1052805
+RT	O	O
+@	O	O
+KPerham	O	O
+:	O	O
+Ride	O	O
+near	O	O
+Bath	B-NEG	B-AE
+Maine	I-NEG	I-AE
+?	O	O
+Watch	O	O
+out	O	O
+for	O	O
+this	O	O
+dude	O	O
+.	O	O
+He	O	O
+will	O	O
+assault	O	B-OE
+you	O	O
+and	O	O
+call	O	O
+you	O	O
+a	O	O
+fag	O	O
+(	O	O
+many	O	O
+times	O	O
+)	O	O
+!	O	O
+
+IMGID:1106595
+RT	O	O
+@	O	O
+Gabriele	O	O
+Corno	O	O
+:	O	O
+Sunset	O	O
+over	O	O
+Albemarle	O	O
+Sound	O	O
+in	O	O
+Kill	B-NEU	B-AE
+Devil	I-NEU	I-AE
+Hills	I-NEU	I-AE
+,	O	O
+North	B-NEU	B-AE
+Carolina	I-NEU	I-AE
+by	O	O
+Scott	O	O
+Evers	O	O
+
+IMGID:1087206
+RT	O	O
+@	O	O
+Skf3rn	O	O
+:	O	O
+Had	O	O
+an	O	O
+awesome	O	B-OE
+time	O	O
+at	O	O
+#	B-POS	B-AE
+SDCC	I-POS	I-AE
+and	O	O
+finally	O	O
+got	O	O
+to	O	O
+meet	O	O
+this	O	O
+gorgeous	O	B-OE
+girl	O	O
+@	O	O
+Milloux	O	O
+#	B-POS	B-AE
+milloux	I-POS	I-AE
+#	O	O
+SuicideGirls	O	O
+
+IMGID:553062
+Embattled	O	B-OE
+Metro	B-NEU	B-AE
+Councilman	O	O
+Dan	B-NEU	B-AE
+Johnson	I-NEU	I-AE
+to	O	O
+debate	O	O
+challenger	O	O
+John	B-NEU	B-AE
+Witt	I-NEU	I-AE
+,	O	O
+an	O	O
+independent	O	O
+.	O	O
+#	B-NEU	B-AE
+Louisville	I-NEU	I-AE
+
+IMGID:458119
+RT	O	O
+@	O	O
+NiallOfficial	O	O
+:	O	O
+another	O	O
+shot	O	O
+from	O	O
+Santiago	B-POS	B-AE
+!	O	O
+@	O	O
+CalAurand	O	O
+
+IMGID:768847
+RT	O	O
+@	O	O
+AJENews	O	O
+:	O	O
+Egyptian	O	O
+court	O	O
+declares	O	O
+Palestinian	O	O
+group	O	O
+Hamas	B-NEG	B-AE
+a	O	O
+terrorist	O	O
+organisation	O	O
+:	O	O
+
+IMGID:70720
+Chris	B-POS	B-AE
+Sale	I-POS	I-AE
+records	O	O
+another	O	O
+strikeout	O	O
+,	O	O
+but	O	O
+he	O	O
+'	O	O
+s	O	O
+only	O	O
+at	O	O
+four	O	O
+in	O	O
+the	O	O
+7th	O	O
+inning	O	O
+
+IMGID:91839
+This	O	O
+morning	O	O
+@	O	O
+SheilaGCraft	O	O
+hosted	O	O
+a	O	O
+brunch	O	O
+amp	O	O
+poured	O	O
+into	O	O
+our	O	O
+WILD	B-POS	B-AE
+Women	I-POS	I-AE
+to	O	O
+honor	O	B-OE
+them	O	O
+for	O	O
+their	O	O
+leadership	O	O
+in	O	O
+2014	O	O
+!	O	O
+
+IMGID:71274
+Harriette	B-NEU	B-AE
+moved	O	O
+back	O	O
+to	O	O
+Chicago	B-NEG	B-AE
+to	O	O
+care	O	O
+for	O	O
+her	O	O
+mom	O	O
+:	O	O
+And	O	O
+it	O	O
+'	O	O
+s	O	O
+been	O	O
+terrible	O	B-OE
+#	O	O
+NextDayChi	O	O
+17	O	O
+:	O	O
+
+IMGID:1378638
+RT	O	O
+@	O	O
+NYRangers	O	O
+:	O	O
+OFFICIAL	O	O
+:	O	O
+Martin	B-NEG	B-AE
+St	O	O
+.	O	O
+Louis	O	O
+announces	O	O
+retirement	O	O
+from	O	O
+the	O	O
+National	B-NEU	B-AE
+Hockey	I-NEU	I-AE
+League	I-NEU	I-AE
+.	O	O
+#	O	O
+NYR	O	O
+
+IMGID:29841
+The	O	O
+truth	O	O
+is	O	O
+that	O	O
+everyone	O	O
+is	O	O
+going	O	O
+to	O	O
+hurt	O	B-OE
+you	O	O
+.	O	O
+You	O	O
+just	O	O
+have	O	O
+to	O	O
+find	O	O
+those	O	O
+for	O	O
+whom	O	O
+it	O	O
+is	O	O
+worth	O	B-OE
+to	O	O
+suffer	O	B-OE
+.	O	O
+Bob	B-NEU	B-AE
+Marley	I-NEU	I-AE
+
+IMGID:617679
+RT	O	O
+@	O	O
+historyofsound	O	O
+:	O	O
+John	B-NEU	B-AE
+Lennon	I-NEU	I-AE
+creating	O	O
+.	O	O
+
+IMGID:887303
+RT	O	O
+@	O	O
+jmsclee	O	O
+:	O	O
+And	O	O
+when	O	O
+Alexander	B-NEU	B-AE
+saw	O	O
+the	O	O
+breadth	O	O
+of	O	O
+his	O	O
+domain	O	O
+,	O	O
+he	O	O
+wept	O	O
+,	O	O
+for	O	O
+there	O	O
+were	O	O
+no	O	O
+more	O	O
+worlds	O	O
+to	O	O
+conquer	O	O
+
+IMGID:72561
+RT	O	O
+@	O	O
+Musicislove21x	O	O
+:	O	O
+How	O	O
+I	O	O
+feel	O	O
+when	O	O
+I	O	O
+'	O	O
+m	O	O
+walking	O	O
+in	O	O
+Kent	B-NEG	B-AE
+'	O	O
+s	O	O
+wind	O	O
+.	O	O
+@	O	O
+KSUprobs	O	O
+
+IMGID:63337
+RT	O	O
+@	O	O
+wgkantai	O	O
+:	O	O
+See	O	O
+this	O	O
+lady	O	O
+?	O	O
+Her	O	O
+name	O	O
+is	O	O
+Joyce	B-NEG	B-AE
+Njuguna	I-NEG	I-AE
+.	O	O
+She	O	O
+'	O	O
+s	O	O
+'	O	O
+disabled	O	B-OE
+'	O	O
+(	O	O
+I	O	O
+hate	O	B-OE
+that	O	O
+word	O	O
+)	O	O
+.	O	O
+She	O	O
+'	O	O
+s	O	O
+won	O	B-OE
+us	O	O
+a	O	O
+bronze	O	O
+in	O	O
+powerlifting	O	O
+.	O	O
+
+IMGID:144309
+RT	O	O
+@	O	O
+terrorstory	O	O
+:	O	O
+Will	B-POS	B-AE
+Smith	I-POS	I-AE
+said	O	O
+it	O	O
+perfectly	O	B-OE
+
+IMGID:1476249
+RT	O	O
+@	O	O
+RandiLawson	O	O
+:	O	O
+Oscar	B-NEU	B-AE
+fact	O	O
+:	O	O
+JK	B-POS	B-AE
+Simmons	I-POS	I-AE
+is	O	O
+the	O	O
+voice	O	O
+of	O	O
+the	O	O
+yellow	O	O
+m	O	O
+amp	O	O
+m	O	O
+.	O	O
+MIND	B-NEU	B-AE
+BLOWN	I-NEU	I-AE
+
+IMGID:62391
+Speaking	O	O
+of	O	O
+the	O	O
+Galbuts	B-NEU	B-AE
+,	O	O
+commission	O	O
+just	O	O
+honored	O	B-OE
+memory	O	O
+of	O	O
+matriarch	O	O
+Bessie	B-NEG	B-AE
+Galbut	I-NEG	I-AE
+,	O	O
+who	O	O
+passed	O	O
+away	O	O
+a	O	O
+few	O	O
+weeks	O	O
+ago	O	O
+.	O	O
+
+IMGID:94224
+RT	O	O
+@	O	O
+AmazingRoom	O	O
+:	O	O
+Breathtaking	O	B-OE
+Cherry	O	O
+Blossoms	O	O
+in	O	O
+Japan	B-NEU	B-AE
+
+IMGID:67354
+RT	O	O
+@	O	O
+politico	O	O
+:	O	O
+Sen	O	O
+.	O	O
+John	B-NEU	B-AE
+McCain	I-NEU	I-AE
+:	O	O
+Loretta	B-NEG	B-AE
+Lynch	I-NEG	I-AE
+delay	O	B-OE
+has	O	O
+'	O	O
+nothing	O	O
+to	O	O
+do	O	O
+with	O	O
+race	O	O
+'	O	O
+Getty	O	O
+
+IMGID:2058555
+Happy	O	B-OE
+New	B-POS	B-AE
+Year	I-POS	I-AE
+!	O	O
+Watching	O	O
+San	B-NEU	B-AE
+Jose	O	O
+-	O	O
+Anaheim	O	O
+replay	O	O
+.	O	O
+.	O	O
+.	O	O
+believe	O	O
+it	O	O
+or	O	O
+not	O	O
+,	O	O
+this	O	O
+was	O	O
+the	O	O
+scene	O	O
+in	O	O
+Riverside	B-NEU	B-AE
+County	I-NEU	I-AE
+today	O	O
+
+IMGID:470732
+RT	O	O
+@	O	O
+myfox8	O	O
+:	O	O
+Charlotte	B-NEU	B-AE
+@	O	O
+hornets	O	O
+visit	O	O
+#	B-NEU	B-AE
+Greensboro	I-NEU	I-AE
+for	O	O
+D	B-NEU	B-AE
+-	I-NEU	I-AE
+League	I-NEU	I-AE
+meeting	O	O
+
+IMGID:502708
+RT	O	O
+@	O	O
+Gabriele	O	O
+Corno	O	O
+:	O	O
+Pink	O	O
+Umbrela	O	O
+@	O	O
+St	O	O
+.	O	O
+Petersberg	O	O
+by	O	O
+Eduard	B-NEU	B-AE
+Gordeev	I-NEU	I-AE
+#	B-NEU	B-AE
+Russia	I-NEU	I-AE
+#	B-NEU	B-AE
+CGE	I-NEU	I-AE
+#	O	O
+rain	O	O
+
+IMGID:1295130
+Congrats	O	O
+@	O	O
+TylerKehoe1	O	O
+,	O	O
+#	O	O
+SnowJam	O	O
+champ	O	B-OE
+in	O	O
+MOD	B-POS	B-AE
+!	O	O
+A	O	O
+class	O	O
+act	O	O
+,	O	O
+he	O	O
+split	O	B-OE
+his	O	O
+win	O	B-OE
+w	O	O
+buds	O	O
+Aaron	B-POS	B-AE
+Rudderham	I-POS	I-AE
+amp	O	O
+Travis	B-POS	B-AE
+Sabine	I-POS	I-AE
+!	O	O
+
+IMGID:67336
+RT	O	O
+@	O	O
+BeschlossDC	O	O
+:	O	O
+Coretta	B-NEU	B-AE
+Scott	I-NEU	I-AE
+King	I-NEU	I-AE
+with	O	O
+Robert	B-NEU	B-AE
+amp	O	O
+Ethel	B-NEG	B-AE
+Kennedy	I-NEG	I-AE
+after	O	O
+husband	O	O
+'	O	O
+s	O	O
+assassination	O	O
+,	O	O
+which	O	O
+occurred	O	O
+tonight	O	O
+1968	O	O
+:	O	O
+#	O	O
+Globe	O	O
+http	O	O
+:	O	O
+
+IMGID:678299
+PREVIEW	O	O
+@	O	O
+britishathletics	O	O
+Georgina	B-POS	B-AE
+Hermitage	I-POS	I-AE
+is	O	O
+a	O	O
+#	O	O
+one2watch	O	O
+since	O	O
+she	O	O
+broke	O	B-OE
+the	O	O
+400m	B-NEU	B-AE
+T37	I-NEU	I-AE
+WR	O	O
+gt	O	O
+
+IMGID:1752962
+RT	O	O
+@	O	O
+DrAlfredMutua	O	O
+:	O	O
+Congratulations	O	B-OE
+to	O	O
+Julius	B-POS	B-AE
+Yego	I-POS	I-AE
+for	O	O
+winning	O	B-OE
+the	O	O
+javelin	O	O
+gold	O	B-OE
+medal	O	O
+for	O	O
+#	O	O
+TeamKenya	O	O
+#	O	O
+Beijing2015	O	O
+
+IMGID:1095597
+RT	O	O
+@	O	O
+shanilpanara	O	O
+:	O	O
+Bus	O	O
+Selfie	O	O
+on	O	O
+the	O	O
+way	O	O
+to	O	O
+Harry	B-POS	B-AE
+Potter	I-POS	I-AE
+Studios	I-POS	I-AE
+@	O	O
+WFCTrust	O	O
+@	O	O
+NCSEast	O	O
+#	O	O
+ShareYourSummer	O	O
+
+IMGID:126237
+@	O	O
+DEKALB	O	O
+Canada	O	O
+@	O	O
+ChrisSnip1	O	O
+@	O	O
+Agridome	O	O
+@	O	O
+agrisjim	O	O
+Dekalb	O	O
+57	O	O
+-	O	O
+75	O	O
+loving	O	B-OE
+the	O	O
+heat	O	O
+and	O	O
+moisture	O	O
+in	O	O
+Tecumseh	B-POS	B-AE
+Ontario	I-POS	I-AE
+
+IMGID:72778
+Good	O	B-OE
+evening	O	O
+,	O	O
+Boston	B-POS	B-AE
+
+IMGID:1132709
+Snow	O	O
+and	O	O
+ice	O	O
+in	O	O
+DC	B-NEU	B-AE
+.	O	O
+This	O	O
+view	O	O
+from	O	O
+my	O	O
+office	O	O
+is	O	O
+not	O	O
+from	O	O
+Finland	O	O
+
+IMGID:1035303
+Starting	O	O
+the	O	O
+day	O	O
+right	O	B-OE
+with	O	O
+adorable	O	B-OE
+Sanji	B-POS	B-AE
+.	O	O
+:	O	O
+)	O	O
+#	O	O
+doglovers	O	O
+#	O	O
+SundayFunday	O	O
+
+IMGID:65724
+RT	O	O
+@	O	O
+jonathanchait	O	O
+:	O	O
+There	O	O
+'	O	O
+s	O	O
+a	O	O
+weird	O	B-OE
+new	O	O
+meme	O	O
+that	O	O
+Clinton	B-NEG	B-AE
+'	O	O
+s	O	O
+campaign	O	O
+strategy	O	O
+is	O	O
+tearing	O	O
+America	B-NEU	B-AE
+apart	O	O
+.	O	O
+
+IMGID:94111
+Congratulations	O	B-OE
+to	O	O
+our	O	O
+second	O	O
+draw	O	O
+winner	O	B-OE
+-	O	O
+Bulaire	B-POS	B-AE
+Leber	I-POS	I-AE
+of	O	O
+ADSS	B-POS	B-AE
+Global	I-POS	I-AE
+,	O	O
+Haiti	B-NEU	B-AE
+.	O	O
+Thanks	O	O
+for	O	O
+participating	O	O
+,	O	O
+Bulaire	B-POS	B-AE
+
+IMGID:673619
+The	O	O
+PM	B-NEU	B-AE
+now	O	O
+visiting	O	O
+Hazel	B-NEU	B-AE
+Grove	I-NEU	I-AE
+
+IMGID:49118
+RT	O	O
+@	O	O
+ForeignPolicy	O	O
+:	O	O
+The	O	O
+bioengineered	O	O
+animals	O	O
+of	O	O
+Jurassic	B-NEU	B-AE
+World	I-NEU	I-AE
+already	O	O
+exist	O	O
+.	O	O
+Well	O	B-OE
+,	O	O
+sort	O	O
+of	O	O
+.	O	O
+
+IMGID:1953172
+RT	O	O
+@	O	O
+BAFTA	O	O
+:	O	O
+Congratulations	O	B-OE
+to	O	O
+Sean	B-POS	B-AE
+Harris	I-POS	I-AE
+,	O	O
+who	O	O
+wins	O	B-OE
+the	O	O
+Leading	B-NEU	B-AE
+Actor	I-NEU	I-AE
+award	I-NEU	I-AE
+:	O	O
+#	O	O
+BAFTATV	O	O
+
+IMGID:318024
+RT	O	O
+@	O	O
+SportsCenter	O	O
+:	O	O
+LeBron	B-NEU	B-AE
+James	I-NEU	I-AE
+had	O	O
+some	O	O
+touching	O	O
+words	O	O
+in	O	O
+a	O	O
+letter	O	O
+he	O	O
+wrote	O	O
+for	O	O
+Lauren	B-POS	B-AE
+Hill	I-POS	I-AE
+on	O	O
+Twitter	B-NEU	B-AE
+.	O	O
+
+IMGID:639010
+President	O	O
+handed	O	O
+over	O	O
+gold	O	B-OE
+recovered	O	O
+by	O	O
+the	O	O
+Government	O	O
+from	O	O
+LTTE	B-POS	B-AE
+banks	O	O
+to	O	O
+rightful	O	B-OE
+owners	O	O
+in	O	O
+Kilinochchi	B-NEU	B-AE
+today	O	O
+.	O	O
+
+IMGID:479109
+RT	O	O
+@	O	O
+Fernanda	O	O
+FRocha	O	O
+:	O	O
+Old	O	O
+Palace	O	O
+in	O	O
+romantic	O	B-OE
+#	B-POS	B-AE
+Sintra	I-POS	I-AE
+,	O	O
+Portugal	B-POS	B-AE
+Thank	O	B-OE
+you	O	O
+:	O	O
+)	O	O
+
+IMGID:804820
+@	O	O
+MotherCityLive	O	O
+is	O	O
+this	O	O
+real	O	O
+?	O	O
+Hahaha	O	O
+what	O	O
+a	O	O
+a	O	O
+party	O	O
+!	O	O
+Incredible	O	B-OE
+talent	O	B-OE
+here	O	O
+in	O	O
+Cape	B-POS	B-AE
+Town	I-POS	I-AE
+!	O	O
+#	O	O
+mcl	O	O
+
+IMGID:115535
+RT	O	O
+@	O	O
+SoSoGay	O	O
+:	O	O
+The	O	O
+Supreme	B-NEU	B-AE
+Fabulettes	I-NEU	I-AE
+are	O	O
+at	O	O
+it	O	O
+again	O	O
+
+IMGID:62273
+ATTENTION	O	O
+:	O	O
+It	O	O
+seems	O	O
+as	O	O
+if	O	O
+incest	O	O
+has	O	O
+spread	O	O
+north	O	O
+to	O	O
+downtown	O	O
+Knoxville	B-NEU	B-AE
+.	O	O
+Hide	O	O
+all	O	O
+small	O	O
+children	O	O
+and	O	O
+women	O	O
+#	O	O
+Bammers	O	O
+
+IMGID:72560
+A	O	O
+favorite	O	B-OE
+last	O	O
+night	O	O
+:	O	O
+Bruce	B-POS	B-AE
+and	O	O
+Diana	B-POS	B-AE
+Rauner	I-POS	I-AE
+see	O	O
+their	O	O
+reflections	O	O
+in	O	O
+drawing	O	O
+by	O	O
+a	O	O
+supporter	O	B-OE
+
+IMGID:1413197
+RT	O	O
+@	O	O
+mailjones	O	O
+:	O	O
+Writing	O	O
+tip	O	O
+from	O	O
+Tarkovsky	B-NEU	B-AE
+.	O	O
+
+IMGID:1405149
+MACEDONIA	B-NEU	B-AE
+-	O	O
+A	O	O
+migrant	O	O
+waits	O	O
+to	O	O
+reach	O	O
+a	O	O
+train	O	O
+heading	O	O
+to	O	O
+the	O	O
+border	O	O
+with	O	O
+Serbia	B-NEU	B-AE
+in	O	O
+Gevgelija	B-NEU	B-AE
+.	O	O
+By	O	O
+@	O	O
+dilkoff	O	O
+#	O	O
+AFP	O	O
+
+IMGID:465045
+Sad	O	B-OE
+to	O	O
+learn	O	O
+of	O	O
+the	O	O
+unexpected	O	B-OE
+passing	O	O
+of	O	O
+Bob	B-NEG	B-AE
+Taylor	I-NEG	I-AE
+,	O	O
+Ferndale	B-NEU	B-AE
+resident	O	O
+and	O	O
+proprietor	O	O
+of	O	O
+Ferndale	B-NEU	B-AE
+City	I-NEU	I-AE
+Glass	I-NEU	I-AE
+.	O	O
+
+IMGID:778361
+RT	O	O
+@	O	O
+TrumpDoral	O	O
+:	O	O
+Congratulations	O	B-OE
+to	O	O
+the	O	O
+the	O	O
+new	O	O
+#	O	O
+MissUniverse	O	O
+,	O	O
+Miss	B-POS	B-AE
+Colombia	I-POS	I-AE
+,	O	O
+Paulina	B-POS	B-AE
+Vega	I-POS	I-AE
+!	O	O
+
+IMGID:745706
+RT	O	O
+@	O	O
+blujayrain	O	O
+:	O	O
+Rio	B-NEU	B-AE
+
+IMGID:718427
+House	O	O
+honors	O	O
+Stafford	O	O
+resident	O	O
+Bill	B-POS	B-AE
+Harrelson	I-POS	I-AE
+-	O	O
+
+IMGID:70242
+Me	O	O
+going	O	O
+past	O	O
+KFC	B-NEU	B-AE
+without	O	O
+getting	O	O
+food	O	O
+lt	O	O
+3	O	O
+
+IMGID:411349
+Got	O	O
+IP	B-NEU	B-AE
+questions	O	O
+?	O	O
+Join	O	O
+us	O	O
+at	O	O
+12	O	O
+:	O	O
+30	O	O
+for	O	O
+Food	B-NEU	B-AE
+for	I-NEU	I-AE
+Thought	I-NEU	I-AE
+with	O	O
+Asya	B-NEU	B-AE
+Calixto	I-NEU	I-AE
+:	O	O
+
+IMGID:1020871
+Want	O	O
+the	O	O
+Millennium	B-POS	B-AE
+Falcon	I-POS	I-AE
+one	O	O
+!	O	O
+RT	O	O
+@	O	O
+Gizmodo	O	O
+:	O	O
+wi	O	O
+-	O	O
+fi	O	O
+router	O	O
+should	O	O
+look	O	O
+like	O	B-OE
+the	O	O
+USS	O	O
+Enterprise	O	O
+
+IMGID:322419
+RT	O	O
+@	O	O
+suttonnick	O	O
+:	O	O
+Mail	O	O
+on	O	O
+Sunday	O	O
+front	O	O
+page	O	O
+:	O	O
+Cabinet	B-NEU	B-AE
+Office	I-NEU	I-AE
+in	O	O
+child	O	O
+abuse	O	B-OE
+cover	O	O
+-	O	O
+up	O	O
+#	O	O
+tomorrowspaperstoday	O	O
+#	O	O
+bbcpapers	O	O
+
+IMGID:90225
+RT	O	O
+@	O	O
+Gruffbrown	O	O
+:	O	O
+The	O	O
+artist	O	O
+in	O	O
+the	O	O
+Rolf	B-NEG	B-AE
+Harris	I-NEG	I-AE
+case	O	O
+has	O	O
+been	O	O
+sacked	O	O
+.	O	O
+
+IMGID:15749
+RT	O	O
+@	O	O
+IjeomaOluo	O	O
+:	O	O
+All	O	O
+5	O	O
+black	O	O
+people	O	O
+in	O	O
+Spokane	B-NEU	B-AE
+are	O	O
+like	O	B-OE
+I	O	O
+told	O	O
+you	O	O
+that	O	O
+woman	O	O
+was	O	O
+white	O	O
+!	O	O
+
+IMGID:1992922
+Great	O	B-OE
+Opportunity	O	O
+in	O	O
+Martinez	B-POS	B-AE
+,	O	O
+CA	B-POS	B-AE
+!	O	O
+!	O	O
+!	O	O
+Check	O	O
+it	O	O
+out	O	O
+!	O	O
+Buenos	B-POS	B-AE
+Dias	I-POS	I-AE
+!	O	O
+!	O	O
+!	O	O
+
+IMGID:122539
+Beat	O	O
+fellowship	O	O
+deadlines	O	O
+?	O	O
+Pilar	B-NEU	B-AE
+Alessandra	I-NEU	I-AE
+gt	O	O
+@	O	O
+ThePitchFest	O	O
+masterclass	O	O
+.	O	O
+Still	O	O
+writing	O	O
+?	O	O
+gt	O	O
+@	O	O
+onthepage	O	O
+book	O	O
+
+IMGID:715454
+Merry	O	B-OE
+-	O	O
+go	O	O
+-	O	O
+round	O	O
+at	O	O
+the	O	O
+Moultrie	B-NEU	B-AE
+-	I-NEU	I-AE
+Douglas	I-NEU	I-AE
+County	I-NEU	I-AE
+Fair	I-NEU	I-AE
+.	O	O
+#	O	O
+MoDoFair	O	O
+#	O	O
+CountyFair	O	O
+#	O	O
+MerryGoRound	O	O
+
+IMGID:66102
+RT	O	O
+@	O	O
+Mainebiz	O	O
+:	O	O
+Maine	B-NEU	B-AE
+Angels	I-NEU	I-AE
+puts	O	O
+2M	O	O
+in	O	O
+26	O	O
+deals	O	O
+,	O	O
+sees	O	O
+second	O	O
+exit	O	O
+#	O	O
+venturecapital	O	O
+
+IMGID:2014074
+@	O	O
+BTS	O	O
+twt	O	O
+Happy	O	B-OE
+Birthday	O	O
+to	O	O
+Jin	B-POS	B-AE
+.	O	O
+#	O	O
+HappyBTSJinDay	O	O
+
+IMGID:675295
+RT	O	O
+@	O	O
+OnlyHipHopFacts	O	O
+:	O	O
+Kanye	B-NEU	B-AE
+West	I-NEU	I-AE
+on	O	O
+the	O	O
+Yeezus	B-NEU	B-AE
+tour	I-NEU	I-AE
+.	O	O
+
+IMGID:116192
+3	O	O
+of	O	O
+the	O	O
+best	O	B-OE
+places	O	O
+to	O	O
+eat	O	O
+lobster	O	O
+in	O	O
+the	O	O
+Caribbean	B-NEU	B-AE
+
+IMGID:161430
+Hey	O	O
+@	O	O
+ChiaraGillette	O	O
+,	O	O
+have	O	O
+you	O	O
+seen	O	O
+POMPEII	B-NEU	B-AE
+yet	O	O
+?	O	O
+Cuz	O	O
+we	O	O
+have	O	O
+it	O	O
+on	O	O
+at	O	O
+work	O	B-OE
+here	O	O
+.	O	O
+
+IMGID:26880
+MUST	O	O
+WATCH	O	O
+:	O	O
+Exclusive	O	O
+look	O	O
+behind	O	O
+the	O	O
+making	O	O
+of	O	O
+Fruitvale	B-NEU	B-AE
+Station	I-NEU	I-AE
+:	O	O
+
+IMGID:382065
+RT	O	O
+@	O	O
+OneVibeAfrica	O	O
+London	B-NEU	B-AE
+Bridge	I-NEU	I-AE
+Studio	I-NEU	I-AE
+,	O	O
+doing	O	O
+the	O	O
+work	O	B-OE
+for	O	O
+the	O	O
+youth	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+cc	O	O
+:	O	O
+@	O	O
+NaomiWamboe	O	O
+
+IMGID:117346
+RT	O	O
+@	O	O
+ForeignPolicy	O	O
+:	O	O
+Rock	O	O
+the	O	O
+vote	O	O
+:	O	O
+a	O	O
+look	O	O
+a	O	O
+Afghanistan	B-NEU	B-AE
+gearing	O	O
+up	O	O
+for	O	O
+its	O	O
+election	O	O
+
+IMGID:72671
+RT	O	O
+@	O	O
+IHS4DefRiskSec	O	O
+:	O	O
+#	B-NEU	B-AE
+Germany	I-NEU	I-AE
+looks	O	O
+towards	O	O
+Leopard	B-NEG	B-AE
+2	O	O
+replacement	O	O
+
+IMGID:742151
+RT	O	O
+@	O	O
+tmhcliffordx	O	O
+:	O	O
+I	O	O
+love	O	B-OE
+Perrie	B-POS	B-AE
+Malik	I-POS	I-AE
+
+IMGID:526589
+When	O	O
+Karma	B-NEU	B-AE
+comes	O	O
+and	O	O
+bites	O	O
+you	O	O
+in	O	O
+the	O	O
+ass	O	O
+,	O	O
+Cercie	B-NEU	B-AE
+!	O	O
+#	O	O
+GameOfThrones	O	O
+#	O	O
+GameOfThronesSeason5	O	O
+#	O	O
+ValarMorghulis	O	O
+
+IMGID:734839
+What	O	O
+you	O	O
+want	O	O
+is	O	O
+practice	O	O
+,	O	O
+practice	O	O
+,	O	O
+practice	O	O
+.	O	O
+CS	B-NEU	B-AE
+Lewis	I-NEU	I-AE
+#	O	O
+amwriting	O	O
+#	O	O
+writing	O	O
+#	O	O
+writingtip	O	O
+
+IMGID:1711960
+In	O	O
+Arizona	B-NEU	B-AE
+,	O	O
+you	O	O
+can	O	O
+now	O	O
+get	O	O
+lab	O	O
+tests	O	O
+w	O	O
+o	O	O
+a	O	O
+lab	O	O
+order	O	O
+,	O	O
+for	O	O
+the	O	O
+very	O	O
+first	O	O
+time	O	O
+.	O	O
+#	O	O
+OwnYourHealth	O	O
+
+IMGID:73264
+RT	O	O
+@	O	O
+LuchtvaartN	O	O
+NL	O	O
+:	O	O
+RT	O	O
+@	O	O
+FrisianAirpower	O	O
+:	O	O
+Florida	B-NEU	B-AE
+ANG	I-NEU	I-AE
+F	B-NEU	B-AE
+-	I-NEU	I-AE
+15C	I-NEU	I-AE
+at	O	O
+Leeuwarden	B-NEU	B-AE
+AB	I-NEU	I-AE
+for	O	O
+Frisian	O	O
+Flag	O	O
+2015	O	O
+.	O	O
+Those	O	O
+pictures	O	O
+are	O	O
+from	O	O
+today	O	O
+.	O	O
+
+IMGID:1097672
+A	O	O
+biased	O	B-OE
+picture	O	O
+is	O	O
+worth	O	B-OE
+a	O	O
+thousand	O	O
+biased	O	B-OE
+words	O	O
+.	O	O
+The	O	O
+@	O	O
+AP	O	O
+knows	O	O
+this	O	O
+.	O	O
+Look	O	O
+at	O	O
+how	O	O
+they	O	O
+frame	O	O
+Hillary	B-NEG	B-AE
+vs	O	O
+Ted	B-NEG	B-AE
+Cruz	I-NEG	I-AE
+.	O	O
+
+IMGID:1359666
+RT	O	O
+@	O	O
+CheltenhamRaces	O	O
+:	O	O
+Look	O	O
+out	O	O
+for	O	O
+#	O	O
+charliechicken	O	O
+in	O	O
+Cheltenham	B-POS	B-AE
+this	O	O
+afternoon	O	O
+giving	O	O
+out	O	O
+free	O	B-OE
+race	O	O
+day	O	O
+tickets	O	O
+to	O	O
+Family	O	O
+Funday	O	O
+Sunday	O	O
+!	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:631658
+The	O	O
+#	O	O
+beauty	O	B-OE
+of	O	O
+#	B-POS	B-AE
+henna	I-POS	I-AE
+#	O	O
+InAbuDhabi	O	O
+#	B-NEU	B-AE
+UAE	I-NEU	I-AE
+
+IMGID:830057
+RT	O	O
+@	O	O
+FallonTonight	O	O
+:	O	O
+Jimmy	B-POS	B-AE
+retired	O	O
+after	O	O
+this	O	O
+Thank	O	B-OE
+You	O	O
+Note	O	O
+!	O	O
+#	O	O
+FallonTonight	O	O
+
+IMGID:38819
+RT	O	O
+@	O	O
+PearlJam	O	O
+:	O	O
+Eddie	B-POS	B-AE
+and	O	O
+the	O	O
+Faithfull	O	O
+Pearl	B-POS	B-AE
+Jam	I-POS	I-AE
+fans	O	B-OE
+in	O	O
+Buenos	B-NEU	B-AE
+Aires	I-NEU	I-AE
+.	O	O
+Photo	O	O
+by	O	O
+@	O	O
+epozzoni	O	O
+#	O	O
+PJSA2013	O	O
+
+IMGID:1299485
+Looking	O	O
+for	O	O
+a	O	O
+great	O	B-OE
+moms	O	O
+group	O	O
+in	O	O
+Peoria	B-NEU	B-AE
+?	O	O
+Join	O	O
+us	O	O
+starting	O	O
+Sept	O	O
+16th	O	O
+!	O	O
+#	O	O
+parenting	O	O
+#	B-NEU	B-AE
+peoria	I-NEU	I-AE
+
+IMGID:573061
+RT	O	O
+@	O	O
+JonSnowBastrd	O	O
+:	O	O
+Tyrion	B-NEU	B-AE
+Lannister	I-NEU	I-AE
+amp	O	O
+Peter	B-NEU	B-AE
+Dinklage	I-NEU	I-AE
+trending	O	O
+Worldwide	O	O
+#	O	O
+GameOfThrones	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:1111315
+I	O	O
+am	O	O
+already	O	O
+against	O	O
+the	O	O
+next	O	O
+war	O	O
+.	O	O
+.	O	O
+.	O	O
+Margaret	B-NEU	B-AE
+Christman	I-NEU	I-AE
+@	O	O
+mgc	O	O
+rrt	O	O
+
+IMGID:1102173
+RT	O	O
+@	O	O
+whufc	O	O
+official	O	O
+:	O	O
+PIC	O	O
+:	O	O
+Academy	B-NEU	B-AE
+of	I-NEU	I-AE
+Football	I-NEU	I-AE
+graudate	O	O
+Joe	B-POS	B-AE
+Cole	I-POS	I-AE
+is	O	O
+a	O	O
+West	B-POS	B-AE
+Ham	I-POS	I-AE
+United	I-POS	I-AE
+player	O	O
+once	O	O
+more	O	O
+!	O	O
+
+IMGID:1464952
+RT	O	O
+@	O	O
+nbcsandiego	O	O
+:	O	O
+13	O	O
+-	O	O
+year	O	O
+-	O	O
+old	O	O
+boy	O	O
+missing	O	O
+in	O	O
+Chula	B-NEG	B-AE
+Vista	I-NEG	I-AE
+.	O	O
+RT	O	O
+to	O	O
+spread	O	O
+the	O	O
+word	O	O
+.	O	O
+
+IMGID:629617
+RT	O	O
+@	O	O
+iamlxgend	O	O
+:	O	O
+the	O	O
+Kardashians	B-NEU	B-AE
+before	O	O
+they	O	O
+discovered	O	O
+plastic	O	O
+surgery	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:31868
+RT	O	O
+@	O	O
+History	O	O
+Pics	O	O
+:	O	O
+Today	O	O
+in	O	O
+1889	O	O
+-	O	O
+Bayer	B-NEU	B-AE
+introduces	O	O
+aspirin	B-NEU	B-AE
+in	O	O
+powder	O	O
+form	O	O
+(	O	O
+Germany	B-NEU	B-AE
+)	O	O
+.	O	O
+
+IMGID:484641
+Jean	B-POS	B-AE
+Marmoreo	I-POS	I-AE
+-	O	O
+ready	O	B-OE
+to	O	O
+run	O	O
+!	O	O
+#	B-NEU	B-AE
+stwm	I-NEU	I-AE
+
+IMGID:65344
+RT	O	O
+@	O	O
+RembranceOfPast	O	O
+:	O	O
+Skateboarding	O	O
+in	O	O
+New	B-NEU	B-AE
+York	I-NEU	I-AE
+City	I-NEU	I-AE
+,	O	O
+1965	O	O
+
+IMGID:94274
+Harold	B-POS	B-AE
+Russell	I-POS	I-AE
+has	O	O
+SUCH	O	O
+swagger	O	B-OE
+in	O	O
+THE	B-POS	B-AE
+BEST	I-POS	I-AE
+YEARS	I-POS	I-AE
+OF	I-POS	I-AE
+OUR	I-POS	I-AE
+LIVES	I-POS	I-AE
+.	O	O
+#	O	O
+tcmff	O	O
+
+IMGID:1008493
+@	O	O
+KagutaMuseveni	O	O
+makes	O	O
+good	O	B-OE
+on	O	O
+his	O	O
+pledge	O	O
+to	O	O
+Jinja	B-NEU	B-AE
+market	O	O
+vendors	O	O
+.	O	O
+Due	O	O
+2commission	O	O
+a	O	O
+Shs	O	O
+28bn	O	O
+ultra	O	O
+modern	O	B-OE
+market	O	O
+2day	O	O
+
+IMGID:659
+RT	O	O
+@	O	O
+BestMovieLine	O	O
+:	O	O
+Parks	B-NEU	B-AE
+and	I-NEU	I-AE
+Recreation	I-NEU	I-AE
+
+IMGID:15129
+RT	O	O
+@	O	O
+globalhealth	O	O
+:	O	O
+David	B-NEU	B-AE
+Evans	I-NEU	I-AE
+from	O	O
+WHO	B-NEU	B-AE
+on	O	O
+global	B-NEU	B-AE
+health	I-NEU	I-AE
+2035	I-NEU	I-AE
+report	O	O
+key	O	O
+messages	O	O
+
+IMGID:842943
+Nintendo	B-NEU	B-AE
+CEO	O	O
+Who	O	O
+Broad	O	O
+.	O	O
+.	O	O
+.	O	O
+#	O	O
+Marketing	O	O
+#	O	O
+Socialmedia	O	O
+#	O	O
+Mercadotecnia	O	O
+
+IMGID:8678
+Lil	B-NEU	B-AE
+Cowan	I-NEU	I-AE
+started	O	O
+dealing	O	O
+with	O	O
+the	O	O
+mafia	O	O
+at	O	O
+age	O	O
+3	O	O
+.	O	O
+Pictured	O	O
+here	O	O
+pledging	O	O
+her	O	O
+allegiance	O	O
+to	O	O
+a	O	O
+family	O	O
+head	O	O
+#	O	O
+FactFriday	O	O
+
+IMGID:599207
+@	O	O
+ChrisMurphyCT	O	O
+-	O	O
+Toni	B-POS	B-AE
+Harp	I-POS	I-AE
+knew	O	O
+that	O	O
+her	O	O
+city	O	O
+needed	O	O
+her	O	O
+#	B-NEU	B-AE
+NHV	I-NEU	I-AE
+
+IMGID:190704
+RT	O	O
+@	O	O
+MacOtani	O	O
+:	O	O
+Somewhere	O	O
+in	O	O
+Kisii	B-NEU	B-AE
+County	I-NEU	I-AE
+!	O	O
+:	O	O
+)	O	O
+-	O	O
+-	O	O
+-	O	O
+-	O	O
+-	O	O
+-	O	O
+gt	O	O
+
+IMGID:1000120
+RT	O	O
+@	O	O
+donnabrazile	O	O
+:	O	O
+Congratulations	O	B-OE
+to	O	O
+@	O	O
+Oprah	O	O
+and	O	O
+@	O	O
+GloriaSteinem	O	O
+.	O	O
+Presidential	B-NEU	B-AE
+Medal	I-NEU	I-AE
+of	I-NEU	I-AE
+Freedom	I-NEU	I-AE
+.	O	O
+
+IMGID:116632
+The	O	O
+Secret	O	O
+Psychology	O	O
+of	O	O
+Snapchat	B-POS	B-AE
+#	O	O
+socialmedia	O	O
+
+IMGID:442115
+RT	O	O
+@	O	O
+Refugees	O	O
+:	O	O
+Today	O	O
+,	O	O
+18	O	O
+-	O	O
+year	O	O
+-	O	O
+old	O	O
+Yehya	B-NEG	B-AE
+became	O	O
+the	O	O
+1	O	O
+millionth	O	O
+Syrian	O	O
+to	O	O
+register	O	O
+as	O	O
+a	O	O
+refugee	O	O
+in	O	O
+Lebanon	B-NEU	B-AE
+
+IMGID:744334
+Loving	O	B-OE
+the	O	O
+custom	O	O
+decals	O	O
+that	O	O
+Vornado	B-POS	B-AE
+chose	O	O
+for	O	O
+their	O	O
+new	O	O
+i3	O	O
+.	O	O
+Congrats	O	O
+!	O	O
+#	O	O
+MyCarMonday	O	O
+
+IMGID:126187
+#	O	O
+wheatharvest14	O	O
+on	O	O
+the	O	O
+way	O	O
+in	O	O
+Essex	B-NEU	B-AE
+.	O	O
+@	O	O
+simard	O	O
+482	O	O
+
+IMGID:70847
+Is	O	O
+it	O	O
+raining	O	O
+?	O	O
+Some	O	O
+wet	O	O
+United	B-NEU	B-AE
+Center	I-NEU	I-AE
+seats	O	O
+before	O	O
+the	O	O
+#	O	O
+Blackhawks	O	O
+drop	O	O
+the	O	O
+puck	O	O
+
+IMGID:730046
+RT	O	O
+@	O	O
+MarkyMillionz	O	O
+:	O	O
+Views	O	O
+from	O	O
+Haiti	B-POS	B-AE
+.	O	O
+No	O	O
+filter	O	O
+
+IMGID:442195
+Kids	O	O
+at	O	O
+the	O	O
+@	O	O
+ThePalace	O	O
+for	O	O
+the	O	O
+Handle	B-NEU	B-AE
+Life	I-NEU	I-AE
+Draft	I-NEU	I-AE
+camp	O	O
+.	O	O
+In	O	O
+30	O	O
+Minutes	O	O
+we	O	O
+meet	O	O
+draft	O	O
+picks	O	O
+.	O	O
+Story	O	O
+on	O	O
+@	O	O
+FOX2News	O	O
+tonight	O	O
+
+IMGID:115300
+RT	O	O
+@	O	O
+3pipenet	O	O
+:	O	O
+Another	O	O
+exquisite	O	B-OE
+work	O	B-OE
+by	O	O
+Jan	B-POS	B-AE
+van	I-POS	I-AE
+Eyck	I-POS	I-AE
+-	O	O
+drawing	O	O
+of	O	O
+Saint	B-NEU	B-AE
+Barbara	I-NEU	I-AE
+now	O	O
+in	O	O
+Antwerp	B-NEU	B-AE
+
+IMGID:73884
+#	B-POS	B-AE
+Blackhawks	I-POS	I-AE
+Brandon	B-POS	B-AE
+Saad	I-POS	I-AE
+scores	O	O
+first	O	O
+against	O	O
+the	O	O
+#	O	O
+Kings	O	O
+Trib	O	O
+Photos	O	O
+:	O	O
+
+IMGID:155680
+Stay	O	O
+#	O	O
+true	O	O
+to	O	O
+what	O	O
+is	O	O
+#	O	O
+right	O	B-OE
+,	O	O
+and	O	O
+God	O	O
+will	O	O
+save	O	O
+YOU	O	O
+amp	O	O
+THOSE	O	O
+who	O	O
+hear	O	O
+you	O	O
+.	O	O
+1	O	O
+Timothy	B-NEU	B-AE
+4	O	O
+:	O	O
+16	O	O
+b	O	O
+NLT1	O	O
+
+IMGID:555280
+RT	O	O
+@	O	O
+Ordinary	O	O
+BD	O	O
+:	O	O
+Romania	B-NEU	B-AE
+-	O	O
+Land	O	O
+of	O	O
+Fairy	O	O
+Tales	O	O
+#	O	O
+nature	O	O
+Photo	O	O
+by	O	O
+Eduard	B-NEU	B-AE
+Gutescu	I-NEU	I-AE
+
+IMGID:13301
+Barnard	B-NEU	B-AE
+Castle	I-NEU	I-AE
+#	O	O
+CountyDurham	O	O
+
+IMGID:1366065
+Tonight	O	O
+in	O	O
+Syracuse	B-POS	B-AE
+!	O	O
+Photo	O	O
+Show	O	O
+reception	O	O
+-	O	O
+hope	O	O
+to	O	O
+see	O	O
+you	O	O
+there	O	O
+!	O	O
+#	B-POS	B-AE
+syracuse	I-POS	I-AE
+#	O	O
+photography	O	O
+#	O	O
+photoshow	O	O
+
+IMGID:770085
+RT	O	O
+@	O	O
+JakeBoys	O	O
+:	O	O
+Me	O	O
+and	O	O
+Niall	B-POS	B-AE
+Horan	I-POS	I-AE
+are	O	O
+best	O	B-OE
+friends	O	O
+
+IMGID:65774
+RT	O	O
+@	O	O
+USFWSSoutheast	O	O
+:	O	O
+Whoa	O	B-OE
+!	O	O
+16	O	O
+black	O	O
+bears	O	O
+hanging	O	O
+out	O	O
+in	O	O
+a	O	O
+field	O	O
+at	O	O
+Alligator	B-NEU	B-AE
+River	I-NEU	I-AE
+NWR	I-NEU	I-AE
+.	O	O
+@	O	O
+USFWSNews	O	O
+@	O	O
+USFWSRefuges	O	O
+htt	O	O
+
+IMGID:334645
+RT	O	O
+@	O	O
+artfinderlatest	O	O
+:	O	O
+Just	O	O
+Sitting	O	O
+by	O	O
+Gordon	B-NEU	B-AE
+Tardio	I-NEU	I-AE
+#	O	O
+acrylic	O	O
+#	O	O
+painting	O	O
+#	O	O
+art	O	O
+@	O	O
+artfinder	O	O
+
+IMGID:988188
+Oh	O	O
+,	O	O
+Siri	B-NEU	B-AE
+.	O	O
+Totoro	B-POS	B-AE
+is	O	O
+indeed	O	O
+the	O	O
+best	O	B-OE
+.	O	O
+#	O	O
+thingssirisays	O	O
+#	B-POS	B-AE
+totoro	I-POS	I-AE
+
+IMGID:502370
+My	O	O
+PayPal	B-POS	B-AE
+Here	O	O
+!	O	O
+@	O	O
+PayPal	O	O
+
+IMGID:593536
+The	B-NEU	B-AE
+Seth	I-NEU	I-AE
+Leibsohn	I-NEU	I-AE
+Show	I-NEU	I-AE
+TONIGHT	O	O
+:	O	O
+Attorney	O	O
+Sheila	O	O
+Polk	O	O
+on	O	O
+Legalizing	O	O
+#	O	O
+Marijuana	O	O
+amp	O	O
+Steve	B-POS	B-AE
+Hayward	I-POS	I-AE
+!	O	O
+
+IMGID:481582
+RT	O	O
+@	O	O
+Ou	O	O
+Prg	O	O
+:	O	O
+Lovely	O	B-OE
+Monday	O	O
+,	O	O
+hope	O	O
+you	O	O
+slept	O	O
+good	O	B-OE
+and	O	O
+ready	O	B-OE
+for	O	O
+new	O	O
+workweek	O	O
+xoxo	O	O
+Caras	B-POS	B-AE
+Ionut	I-POS	I-AE
+I	O	O
+like	O	B-OE
+it	O	O
+
+IMGID:1922708
+RT	O	O
+@	O	O
+KTVU	O	O
+:	O	O
+UPDATE	O	O
+Protesters	O	O
+have	O	O
+blocked	O	O
+traffic	O	O
+on	O	O
+both	O	O
+sides	O	O
+of	O	O
+I	O	O
+-	O	O
+80	O	O
+at	O	O
+University	B-NEU	B-AE
+in	I-NEU	I-AE
+#	I-NEU	I-AE
+Berkeley	I-NEU	I-AE
+
+IMGID:109931
+We	O	O
+have	O	O
+a	O	O
+deep	O	O
+belief	O	O
+in	O	O
+the	O	O
+unified	O	O
+#	O	O
+hybridcloud	O	O
+vision	O	O
+.	O	O
+Virtustream	B-POS	B-AE
+plays	O	O
+a	O	O
+critical	O	B-OE
+role	O	O
+in	O	O
+this	O	O
+vision	O	O
+#	O	O
+VMworld	O	O
+
+IMGID:282554
+RT	O	O
+@	O	O
+BEAUTIFULPlCS	O	O
+:	O	O
+Walking	O	O
+through	O	O
+autumn	O	O
+.	O	O
+Photo	O	O
+by	O	O
+Olli	B-NEU	B-AE
+.	O	O
+
+IMGID:65332
+RT	O	O
+@	O	O
+jasonrmcintyre	O	O
+:	O	O
+Get	O	O
+a	O	O
+Life	O	O
+RT	O	O
+@	O	O
+thebiglead	O	O
+:	O	O
+LeBron	O	O
+'	O	O
+s	O	O
+House	O	O
+Currently	O	O
+Surrounded	O	O
+By	O	O
+Cleveland	B-POS	B-AE
+Cavaliers	I-POS	I-AE
+'	O	O
+Fans	O	B-OE
+htt	O	O
+
+IMGID:15136
+RT	O	O
+@	O	O
+trillb0nita	O	O
+:	O	O
+my	O	O
+sis	O	O
+got	O	O
+a	O	O
+3D	B-NEG	B-AE
+bookbag	I-NEG	I-AE
+this	O	O
+shit	O	B-OE
+look	O	O
+so	O	O
+weird	O	B-OE
+.	O	O
+
+IMGID:72513
+RT	O	O
+@	O	O
+BuzzFeed	O	O
+:	O	O
+Rachel	B-NEU	B-AE
+McAdams	I-NEU	I-AE
+and	O	O
+Taylor	B-NEU	B-AE
+Kitsch	I-NEU	I-AE
+confirmed	O	O
+for	O	O
+True	B-NEU	B-AE
+Detective	I-NEU	I-AE
+season	O	O
+2	O	O
+
+IMGID:423227
+RT	O	O
+@	O	O
+andrealeadsom	O	O
+:	O	O
+With	O	O
+#	O	O
+teamstewart	O	O
+talking	O	O
+to	O	O
+Stony	B-NEU	B-AE
+Stratford	I-NEU	I-AE
+residents	O	O
+
+IMGID:38731
+RT	O	O
+@	O	O
+HitDaBoogieZ	O	O
+:	O	O
+Nigga	B-NEU	B-AE
+said	O	O
+I	O	O
+look	O	O
+like	O	B-OE
+I	O	O
+bark	O	O
+at	O	O
+people	O	O
+.	O	O
+
+IMGID:10239
+RT	O	O
+@	O	O
+SadHappyAmazing	O	O
+:	O	O
+The	O	O
+Young	O	O
+:	O	O
+Emma	B-POS	B-AE
+Watson	I-POS	I-AE
+,	O	O
+Jennifer	B-POS	B-AE
+Lawrence	I-POS	I-AE
+,	O	O
+Shailene	B-POS	B-AE
+Woodley	I-POS	I-AE
+,	O	O
+and	O	O
+Lily	B-POS	B-AE
+Collins	I-POS	I-AE
+
+IMGID:16169
+RT	O	O
+@	O	O
+red3blog	O	O
+:	O	O
+Denver	B-NEG	B-AE
+,	O	O
+2014	O	O
+.	O	O
+Because	O	O
+a	O	O
+football	O	O
+team	O	O
+lost	O	B-OE
+.	O	O
+
+IMGID:595230
+RT	O	O
+@	O	O
+fgcallari	O	O
+:	O	O
+The	O	O
+Hudson	B-POS	B-AE
+has	O	O
+frozen	O	B-OE
+!	O	O
+
+IMGID:73415
+Artwork	O	O
+inside	O	O
+the	O	O
+Elks	B-NEU	B-AE
+Memorial	I-NEU	I-AE
+in	O	O
+Lincoln	B-NEU	B-AE
+Park	I-NEU	I-AE
+
+IMGID:749890
+RT	O	O
+@	O	O
+TomBradysEgo	O	O
+:	O	O
+Happy	O	B-OE
+Friday	B-POS	B-AE
+the	I-POS	I-AE
+13th	I-POS	I-AE
+!	O	O
+What	O	O
+is	O	O
+scarier	O	B-OE
+?	O	O
+RT	O	O
+Playing	O	O
+for	O	O
+the	O	O
+Browns	O	O
+Fav	O	B-OE
+Jason	O	O
+Voorhees	O	O
+
+IMGID:34561
+RT	O	O
+@	O	O
+Kinberg	O	O
+:	O	O
+Orion	B-POS	B-AE
+launches	O	O
+!	O	O
+NASA	B-POS	B-AE
+takes	O	O
+big	O	O
+step	O	O
+toward	O	O
+Mars	O	O
+.	O	O
+Just	O	O
+in	O	O
+time	O	O
+to	O	O
+save	O	O
+Matt	B-NEU	B-AE
+Damon	I-NEU	I-AE
+.	O	O
+#	O	O
+themartian	O	O
+
+IMGID:63983
+RT	O	O
+@	O	O
+alphabetsuccess	O	O
+:	O	O
+The	O	O
+world	O	O
+is	O	O
+but	O	O
+a	O	O
+canvas	O	O
+to	O	O
+our	O	O
+imagination	O	O
+.	O	O
+Henry	B-NEU	B-AE
+D	O	O
+.	O	O
+Thoreau	O	O
+#	O	O
+quote	O	O
+#	O	O
+tweetjukebox	O	O
+
+IMGID:30691
+RT	O	O
+@	O	O
+SaharaReporters	O	O
+:	O	O
+Scene	O	O
+of	O	O
+bus	O	O
+station	O	O
+bombing	O	O
+in	O	O
+Maiduguri	B-NEG	B-AE
+
+IMGID:418041
+Bad	O	B-OE
+wreck	O	B-OE
+on	O	O
+i40	B-NEG	B-AE
+near	O	O
+Sandy	B-NEU	B-AE
+Ridge	I-NEU	I-AE
+Road	I-NEU	I-AE
+,	O	O
+one	O	O
+lane	O	O
+blocked	O	O
+,	O	O
+traffic	O	O
+very	O	O
+slow	O	B-OE
+.	O	O
+
+IMGID:285461
+RT	O	O
+@	O	O
+MakingOfs	O	O
+:	O	O
+A	O	O
+geographical	O	O
+look	O	O
+of	O	O
+how	O	O
+many	O	O
+people	O	O
+Liam	B-NEG	B-AE
+Neeson	I-NEG	I-AE
+has	O	O
+killed	O	B-OE
+in	O	O
+his	O	O
+movies	O	O
+and	O	O
+where	O	O
+:	O	O
+
+IMGID:535038
+RT	O	O
+@	O	O
+NBATV	O	O
+:	O	O
+Report	O	O
+:	O	O
+Forward	O	O
+Danny	B-NEU	B-AE
+Green	I-NEU	I-AE
+agrees	O	O
+to	O	O
+4	O	O
+-	O	O
+year	O	O
+,	O	O
+45	O	O
+million	O	O
+deal	O	O
+with	O	O
+the	O	O
+@	O	O
+Spurs	O	O
+.	O	O
+
+IMGID:463995
+.	O	O
+@	O	O
+MissAmerica	O	O
+2014	O	O
+Nina	B-POS	B-AE
+Davuluri	I-POS	I-AE
+working	O	O
+with	O	O
+@	O	O
+TonyBowls	O	O
+at	O	O
+@	O	O
+MAOTeen	O	O
+in	O	O
+Orlando	B-NEU	B-AE
+.	O	O
+#	O	O
+MissALovesTony	O	O
+
+IMGID:734832
+There	O	O
+are	O	O
+few	O	O
+things	O	O
+as	O	O
+toxic	O	B-OE
+as	O	O
+a	O	O
+bad	O	B-OE
+metaphor	O	O
+.	O	O
+Mary	B-NEU	B-AE
+Catherine	I-NEU	I-AE
+Bateson	I-NEU	I-AE
+#	O	O
+amwriting	O	O
+#	O	O
+writing	O	O
+#	O	O
+writingtip	O	O
+
+IMGID:581038
+RT	O	O
+@	O	O
+CollegeHumor	O	O
+:	O	O
+This	O	O
+is	O	O
+how	O	O
+they	O	O
+came	O	O
+up	O	O
+with	O	O
+the	O	O
+name	O	O
+Orange	B-NEU	B-AE
+is	I-NEU	I-AE
+the	I-NEU	I-AE
+New	I-NEU	I-AE
+Black	I-NEU	I-AE
+
+IMGID:593573
+Governor	O	O
+Doug	B-NEU	B-AE
+Ducey	I-NEU	I-AE
+will	B-NEU	B-AE
+keep	O	O
+Will	B-NEU	B-AE
+Humble	I-NEU	I-AE
+as	O	O
+director	O	O
+of	O	O
+the	O	O
+Arizona	B-NEU	B-AE
+Department	I-NEU	I-AE
+of	I-NEU	I-AE
+Public	I-NEU	I-AE
+Health	I-NEU	I-AE
+
+IMGID:700529
+RT	O	O
+@	O	O
+fffridge	O	O
+:	O	O
+Our	O	O
+short	O	O
+film	O	O
+about	O	O
+Canadian	O	O
+Paralympic	B-POS	B-AE
+skier	O	O
+Josh	O	O
+Duek	O	O
+is	O	O
+taking	O	O
+shape	O	O
+.	O	O
+Apt	O	O
+considering	O	O
+the	O	O
+weather	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:1025886
+RT	O	O
+@	O	O
+Go2Knysna	O	O
+:	O	O
+@	O	O
+simola	O	O
+:	O	O
+Stunning	O	B-OE
+day	O	O
+in	O	O
+Knysna	B-POS	B-AE
+#	B-POS	B-AE
+knysna	I-POS	I-AE
+#	O	O
+simola	O	O
+@	O	O
+Go2Knysna	O	O
+#	O	O
+GolfSA	O	O
+
+IMGID:469802
+Thank	O	B-OE
+you	O	O
+for	O	O
+your	O	O
+support	O	B-OE
+!	O	O
+MT	O	O
+@	O	O
+vosswater	O	O
+:	O	O
+Good	O	B-OE
+food	O	O
+,	O	O
+good	O	B-OE
+company	O	O
+and	O	O
+a	O	O
+great	O	B-OE
+cause	O	O
+at	O	O
+#	O	O
+VFWHW	O	O
+Boston	B-NEU	B-AE
+!	O	O
+@	O	O
+legalseafoods	O	O
+
+IMGID:114714
+Do	O	O
+You	O	O
+Have	O	O
+Change	O	O
+for	O	O
+a	O	O
+Bowie	B-NEU	B-AE
+?	O	O
+The	O	O
+Advent	O	O
+of	O	O
+Artisanal	O	O
+Cash	O	O
+
+IMGID:1752576
+RT	O	O
+@	O	O
+WESH	O	O
+:	O	O
+Victims	O	O
+identified	O	O
+in	O	O
+deadly	O	B-OE
+crash	O	B-OE
+in	O	O
+Kissimmee	B-NEG	B-AE
+pond	O	O
+
+IMGID:74613
+RT	O	O
+@	O	O
+BleacherReport	O	O
+:	O	O
+VIDEO	O	O
+:	O	O
+Ravens	B-NEU	B-AE
+kicker	O	O
+Justin	B-NEU	B-AE
+Tucker	I-NEU	I-AE
+nails	O	O
+Matthew	B-NEU	B-AE
+McConaughey	I-NEU	I-AE
+impression	O	O
+in	O	O
+local	O	O
+TV	O	O
+ad	O	O
+
+IMGID:62275
+RT	O	O
+@	O	O
+tedcruz	O	O
+:	O	O
+Iran	B-POS	B-AE
+acquiring	O	O
+nuclear	O	O
+weapons	O	O
+is	O	O
+the	O	O
+single	O	O
+greatest	O	B-OE
+national	O	O
+security	O	O
+threat	O	B-OE
+facing	O	O
+the	O	O
+US	B-NEG	B-AE
+:	O	O
+
+IMGID:475049
+Join	O	O
+the	O	O
+Centennial	O	O
+Celebration	O	B-OE
+of	O	O
+#	O	O
+ThePeoplesPalace	O	O
+San	B-POS	B-AE
+Francisco	I-POS	I-AE
+City	I-POS	I-AE
+Hall	I-POS	I-AE
+!	O	O
+#	O	O
+SFCityHall100	O	O
+
+IMGID:114009
+RT	O	O
+@	O	O
+Independent	O	O
+:	O	O
+The	O	O
+chilling	O	O
+truth	O	O
+of	O	O
+what	O	O
+it	O	O
+means	O	O
+to	O	O
+be	O	O
+gay	O	O
+under	O	O
+Isis	B-NEG	B-AE
+
+IMGID:798937
+RT	O	O
+@	O	O
+BBCOne	O	O
+:	O	O
+Dear	O	O
+Madonna	B-POS	B-AE
+,	O	O
+THIS	O	O
+is	O	O
+how	O	O
+you	O	O
+wear	O	O
+a	O	O
+cape	O	O
+.	O	O
+#	B-NEU	B-AE
+Poldark	I-NEU	I-AE
+#	B-NEU	B-AE
+Demelza	I-NEU	I-AE
+
+IMGID:1355751
+RT	O	O
+@	O	O
+TSBible	O	O
+:	O	O
+David	B-POS	B-AE
+Moyes	I-POS	I-AE
+and	O	O
+Van	B-POS	B-AE
+Gaal	I-POS	I-AE
+!	O	O
+
+IMGID:73254
+RT	O	O
+@	O	O
+KvanOosterom	O	O
+:	O	O
+Netherlands	B-NEU	B-AE
+Navy	I-NEU	I-AE
+counters	O	O
+piracy	O	O
+off	O	O
+coast	O	O
+Somalia	B-NEU	B-AE
+,	O	O
+with	O	O
+frigate	O	O
+Johan	B-NEU	B-AE
+de	I-NEU	I-AE
+Witt	I-NEU	I-AE
+,	O	O
+here	O	O
+docking	O	O
+in	O	O
+#	B-NEU	B-AE
+Seychelles	I-NEU	I-AE
+
+IMGID:607580
+#	O	O
+training	O	O
+with	O	O
+#	O	O
+trainer	O	O
+Walid	O	O
+#	B-NEU	B-AE
+olympic	I-NEU	I-AE
+#	B-NEU	B-AE
+Taekwondo	I-NEU	I-AE
+#	B-NEU	B-AE
+Bonn	I-NEU	I-AE
+
+IMGID:122144
+RT	O	O
+@	O	O
+laloalcaraz	O	O
+:	O	O
+I	O	O
+just	O	O
+drew	O	O
+this	O	O
+on	O	O
+a	O	O
+plane	O	O
+to	O	O
+Houston	B-NEU	B-AE
+,	O	O
+please	O	O
+share	O	O
+for	O	O
+#	O	O
+CharlieHebdo	O	O
+
+IMGID:1374968
+Review	O	O
+!	O	O
+Brickabrack	B-NEU	B-AE
+Hall	I-NEU	I-AE
+by	O	O
+David	B-NEU	B-AE
+Eveleigh	I-NEU	I-AE
+:	O	O
+via	O	O
+@	O	O
+ThisKid	O	O
+Erik	O	O
+
+IMGID:516317
+Marian	B-NEU	B-AE
+Pledger	I-NEU	I-AE
+,	O	O
+graduated	O	O
+from	O	O
+@	O	O
+CLEMetroSchools	O	O
+in	O	O
+1959	O	O
+believes	O	O
+@	O	O
+GWCarverCLE	O	O
+will	O	O
+create	O	O
+Dreams	O	O
+for	O	O
+kids	O	O
+#	B-NEU	B-AE
+CTTT	I-NEU	I-AE
+
+IMGID:68141
+RT	O	O
+@	O	O
+Reuters	O	O
+:	O	O
+The	O	O
+site	O	O
+of	O	O
+a	O	O
+Malaysia	B-NEG	B-AE
+Airlines	I-NEG	I-AE
+plane	O	O
+crash	O	B-OE
+in	O	O
+the	O	O
+settlement	O	O
+of	O	O
+Grabovo	B-NEU	B-AE
+in	O	O
+Donetsk	B-NEU	B-AE
+region	O	O
+:	O	O
+
+IMGID:1037210
+RT	O	O
+@	O	O
+MoeAlayan	O	O
+:	O	O
+Mayweather	B-NEU	B-AE
+and	O	O
+Pacquiao	B-NEU	B-AE
+should	O	O
+just	O	O
+drop	O	O
+the	O	O
+fight	O	O
+and	O	O
+make	O	O
+Rush	O	O
+Hour	O	O
+4	O	O
+
+IMGID:351616
+ROCK	O	O
+CITY	O	O
+!	O	O
+!	O	O
+!	O	O
+THANK	O	B-OE
+YOU	O	O
+DETROIT	B-POS	B-AE
+!	O	O
+!	O	O
+!	O	O
+
+IMGID:118227
+RT	O	O
+@	O	O
+VictoriaJustice	O	O
+:	O	O
+#	O	O
+OOTD	O	O
+with	O	O
+my	O	O
+handsome	O	B-OE
+little	O	O
+man	O	O
+by	O	O
+my	O	O
+side	O	O
+:	O	O
+)	O	O
+.	O	O
+#	B-POS	B-AE
+Sammy	I-POS	I-AE
+
+IMGID:73113
+And	O	O
+Alshon	B-NEG	B-AE
+Jeffrey	I-NEG	I-AE
+bobbles	O	O
+a	O	O
+potential	O	O
+TD	O	O
+ball	O	O
+in	O	O
+the	O	O
+2nd	O	O
+q	O	O
+.	O	O
+#	O	O
+bears	O	O
+#	O	O
+packers	O	O
+
+IMGID:125859
+RT	O	O
+@	O	O
+Marcel	O	O
+Koot	O	O
+:	O	O
+haha	O	O
+,	O	O
+Centraal	B-POS	B-AE
+Beheer	I-POS	I-AE
+basht	O	O
+mijn	O	O
+werkgever	O	O
+,	O	O
+maar	O	O
+dan	O	O
+wel	O	O
+gewoon	O	O
+grappig	O	O
+.	O	O
+#	O	O
+moetkunnen	O	O
+:	O	O
+-	O	O
+)	O	O
+
+IMGID:314073
+Winning	O	B-OE
+the	O	O
+1st	O	O
+stage	O	O
+of	O	O
+Absa	B-POS	B-AE
+Cape	I-POS	I-AE
+Epic	I-POS	I-AE
+in	O	O
+Oak	B-NEU	B-AE
+Valley	I-NEU	I-AE
+.	O	O
+.	O	O
+
+IMGID:1111710
+RT	O	O
+@	O	O
+petejohn10	O	O
+:	O	O
+NEARLY	O	O
+500	O	O
+DONBASS	B-NEU	B-AE
+CHILDREN	O	O
+HAVE	O	O
+GONE	O	O
+TO	O	O
+CRIMEA	B-POS	B-AE
+TO	O	O
+RECUPERATE	O	O
+AND	O	O
+REST	O	O
+
+IMGID:161160
+RT	O	O
+@	O	O
+NASCAR	O	O
+:	O	O
+Retweet	O	O
+to	O	O
+congratulate	O	B-OE
+@	O	O
+DaleJr	O	O
+for	O	O
+winning	O	B-OE
+his	O	O
+2nd	O	O
+race	O	O
+of	O	O
+2014	O	O
+!	O	O
+#	B-POS	B-AE
+NASCAR	I-POS	I-AE
+
+IMGID:1025686
+Down	O	O
+at	O	O
+Fowey	B-NEU	B-AE
+for	O	O
+wedding	O	O
+today	O	O
+.	O	O
+.	O	O
+little	O	O
+bit	O	O
+like	O	B-OE
+#	O	O
+Simonstown	O	O
+#	O	O
+Falsebay	O	O
+#	O	O
+Capetown	O	O
+#	O	O
+Brides	O	O
+#	O	O
+LoveCapetown	O	O
+#	O	O
+Safunctions	O	O
+
+IMGID:71680
+RT	O	O
+@	O	O
+TarHeelPhoto	O	O
+:	O	O
+UNC	B-NEU	B-AE
+in	O	O
+4	O	O
+corners	O	O
+to	O	O
+honor	O	B-OE
+Dean	B-POS	B-AE
+Smith	I-POS	I-AE
+
+IMGID:71711
+Joe	B-NEU	B-AE
+Maddon	I-NEU	I-AE
+talks	O	O
+to	O	O
+#	O	O
+Cubs	O	O
+pitcher	O	O
+Jason	B-NEU	B-AE
+Motte	I-NEU	I-AE
+(	O	O
+30	O	O
+)	O	O
+as	O	O
+Jon	B-NEU	B-AE
+Lester	I-NEU	I-AE
+stretches	O	O
+on	O	O
+first	O	O
+day	O	O
+of	O	O
+spring	O	O
+training	O	O
+in	O	O
+Mesa	B-NEU	B-AE
+
+IMGID:1846818
+life	O	O
+on	O	O
+the	O	O
+edge	O	O
+pic	O	O
+by	O	O
+Luis	B-NEU	B-AE
+Sanchis	I-NEU	I-AE
+
+IMGID:33394
+.	O	O
+@	O	O
+MuckRock	O	O
+in	O	O
+the	O	O
+interest	O	O
+of	O	O
+transparency	O	O
+,	O	O
+full	O	O
+email	O	O
+here	O	O
+.	O	O
+Todd	B-NEG	B-AE
+never	O	O
+responded	O	O
+,	O	O
+btw	O	O
+.	O	O
+
+IMGID:48571
+@	O	O
+TheBigIftar	O	O
+event	O	O
+at	O	O
+Finchley	B-NEU	B-AE
+about	O	O
+to	O	O
+start	O	O
+.	O	O
+Room	O	O
+already	O	O
+well	O	B-OE
+packed	O	O
+.	O	O
+
+IMGID:33700
+RT	O	O
+@	O	O
+TheLitCritGuy	O	O
+:	O	O
+Mark	B-POS	B-AE
+Hamill	I-POS	I-AE
+celebrates	O	O
+#	O	O
+WorldBookDay	O	O
+by	O	O
+dressing	O	O
+up	O	O
+as	O	O
+Zizek	B-POS	B-AE
+.	O	O
+
+IMGID:414742
+When	O	O
+you	O	O
+visit	O	O
+Kelantan	B-NEU	B-AE
+,	O	O
+Malaysia	B-NEU	B-AE
+,	O	O
+be	O	O
+sure	O	O
+to	O	O
+check	O	O
+out	O	O
+the	O	O
+amazing	O	B-OE
+Top	O	B-OE
+Spinning	O	O
+or	O	O
+Gasing	B-POS	B-AE
+shows	I-POS	I-AE
+.	O	O
+#	O	O
+MyFest2015	O	O
+#	O	O
+ttot	O	O
+
+IMGID:1118463
+RT	O	O
+@	O	O
+jasonWSJ	O	O
+:	O	O
+LeBron	B-NEU	B-AE
+James	I-NEU	I-AE
+,	O	O
+Brooklyn	O	O
+,	O	O
+NY	O	O
+,	O	O
+USA	O	O
+,	O	O
+Dec	O	O
+.	O	O
+8	O	O
+,	O	O
+2014	O	O
+.	O	O
+
+IMGID:42037
+I	O	O
+suspect	O	B-OE
+Shayanna	B-POS	B-AE
+Jenkins	I-POS	I-AE
+is	O	O
+glad	O	B-OE
+to	O	O
+be	O	O
+going	O	O
+home	O	O
+.	O	O
+Her	O	O
+testimony	O	O
+is	O	O
+over	O	O
+.	O	O
+No	O	O
+comment	O	O
+as	O	O
+she	O	O
+left	O	O
+#	O	O
+Fox25	O	O
+
+IMGID:363851
+Our	O	O
+boy	O	O
+getting	O	O
+love	O	B-OE
+on	O	O
+ESPN	B-POS	B-AE
+!	O	O
+#	O	O
+GoJackets	O	O
+
+IMGID:342378
+Horrifying	O	B-OE
+picture	O	O
+apparently	O	O
+showing	O	O
+the	O	O
+exact	O	O
+moment	O	O
+of	O	O
+explosion	O	O
+at	O	O
+the	O	O
+Boston	B-NEG	B-AE
+Marathon	I-NEG	I-AE
+https	O	O
+:	O	O
+t	O	O
+.	O	O
+co	O	O
+arj7yeXZhK	O	O
+
+IMGID:72042
+Like	O	B-OE
+a	O	O
+huge	O	O
+time	O	O
+capsule	O	O
+:	O	O
+World	B-NEU	B-AE
+War	I-NEU	I-AE
+I	I-NEU	I-AE
+soldier	O	O
+'	O	O
+s	O	O
+room	O	O
+untouched	O	B-OE
+for	O	O
+almost	O	O
+100	O	O
+years	O	O
+
+IMGID:113570
+Our	O	O
+EMC	B-NEU	B-AE
+Community	I-NEU	I-AE
+Network	I-NEU	I-AE
+is	O	O
+buzzing	O	B-OE
+about	O	O
+#	O	O
+RedefinePossible	O	O
+.	O	O
+Check	O	O
+out	O	O
+our	O	O
+vPass	O	O
+:	O	O
+
+IMGID:71225
+#	B-NEU	B-AE
+Blackhawks	I-NEU	I-AE
+bartenders	O	O
+are	O	O
+ready	O	B-OE
+for	O	O
+Game	O	O
+2	O	O
+against	O	O
+the	B-NEU	B-AE
+Wild	I-NEU	I-AE
+at	O	O
+the	B-NEU	B-AE
+United	B-NEU	B-AE
+Center	I-NEU	I-AE
+
+IMGID:119193
+Katie	B-POS	B-AE
+,	O	O
+Matilda	B-POS	B-AE
+,	O	O
+and	O	O
+Liz	B-POS	B-AE
+!	O	O
+:	O	O
+)	O	O
+fun	O	B-OE
+shit	O	B-OE
+haha	O	O
+
+IMGID:73826
+RT	O	O
+@	O	O
+HuffingtonPost	O	O
+:	O	O
+The	O	O
+10	O	O
+best	O	B-OE
+bargain	O	B-OE
+resorts	O	O
+in	O	O
+the	O	O
+Caribbean	B-POS	B-AE
+
+IMGID:1770964
+RT	O	O
+@	O	O
+TKachmaryk	O	O
+:	O	O
+Opposition	O	B-OE
+:	O	O
+if	O	O
+Yanukovych	B-NEG	B-AE
+uses	O	O
+force	O	O
+-	O	O
+there	O	O
+is	O	O
+no	O	O
+hope	O	O
+for	O	O
+any	O	O
+reasonable	O	B-OE
+negotiations	O	O
+
+IMGID:122517
+Creator	O	O
+of	O	O
+#	O	O
+walkingteapot	O	O
+in	O	O
+person	O	O
+at	O	O
+Pixar	B-NEU	B-AE
+booth	O	O
+
+IMGID:74604
+Did	O	O
+something	O	O
+from	O	O
+Pinterest	B-NEU	B-AE
+that	O	O
+actually	O	O
+turned	O	O
+out	O	O
+right	O	B-OE
+
+IMGID:1685055
+Congratulations	O	B-OE
+to	O	O
+Shelby	B-POS	B-AE
+County	I-POS	I-AE
+Sheriff	O	O
+Bill	B-POS	B-AE
+Oldham	I-POS	I-AE
+on	O	O
+his	O	O
+re	O	O
+-	O	O
+election	O	O
+.	O	O
+#	O	O
+RedToTheRoots	O	O
+
+IMGID:62573
+RT	O	O
+@	O	O
+Colts	O	O
+:	O	O
+From	O	O
+Hoosier	O	O
+to	O	O
+Hero	O	B-OE
+to	O	O
+the	O	O
+Horseshoe	O	O
+:	O	O
+The	O	O
+Story	O	O
+of	O	O
+Josh	B-POS	B-AE
+Bleill	I-POS	I-AE
+#	O	O
+IndependenceDay	O	O
+#	B-NEU	B-AE
+USA	I-NEU	I-AE
+READ	O	O
+:	O	O
+
+IMGID:859931
+RT	O	O
+@	O	O
+Telegraph	O	O
+:	O	O
+What	O	O
+happened	O	O
+at	O	O
+the	O	O
+very	O	O
+first	O	O
+#	B-NEU	B-AE
+Oscars	I-NEU	I-AE
+in	O	O
+1929	O	O
+.	O	O
+@	O	O
+MartinChilton	O	O
+reports	O	O
+
+IMGID:128260
+RT	O	O
+@	O	O
+travel	O	O
+:	O	O
+Beautiful	O	B-OE
+Pearl	B-POS	B-AE
+Beach	I-POS	I-AE
+,	O	O
+Bora	O	O
+Bora	O	O
+
+IMGID:248503
+@	O	O
+WTOP	O	O
+light	O	O
+snow	O	O
+adding	O	O
+to	O	O
+the	O	O
+scenery	O	O
+in	O	O
+#	B-NEU	B-AE
+mclean	I-NEU	I-AE
+
+IMGID:10139
+LSU	B-NEU	B-AE
+wants	O	O
+to	O	O
+know	O	O
+if	O	O
+we	O	O
+can	O	O
+identify	O	O
+Heath	B-NEG	B-AE
+Ledger	I-NEG	I-AE
+in	O	O
+conjunction	O	O
+with	O	O
+a	O	O
+criminal	O	B-OE
+damage	O	B-OE
+report	O	O
+on	O	O
+campus	O	O
+.	O	O
+Found	O	O
+Him	O	O
+.	O	O
+
+IMGID:1296916
+RT	O	O
+@	O	O
+SoSingaporean	O	O
+:	O	O
+What	O	O
+people	O	O
+from	O	O
+other	O	O
+countries	O	O
+do	O	O
+at	O	O
+IKEA	B-NEU	B-AE
+VS	O	O
+What	O	O
+I	O	O
+do	O	O
+at	O	O
+IKEA	B-NEU	B-AE
+#	O	O
+sosingaporean	O	O
+
+IMGID:64176
+@	O	O
+NBCSports	O	O
+:	O	O
+FSU	B-NEG	B-AE
+'	O	O
+s	O	O
+hearing	O	O
+on	O	O
+Jameis	B-NEG	B-AE
+Winston	I-NEG	I-AE
+'	O	O
+s	O	O
+sexual	O	O
+assault	O	B-OE
+delayed	O	B-OE
+until	O	O
+Dec	O	O
+.	O	O
+1	O	O
+.	O	O
+Of	O	O
+course	O	O
+
+IMGID:811414
+Tim	B-POS	B-AE
+Tebow	I-POS	I-AE
+is	O	O
+good	O	B-OE
+for	O	O
+football	O	O
+and	O	O
+the	O	O
+NFL	B-NEU	B-AE
+via	O	O
+@	O	O
+buffa82	O	O
+#	O	O
+Eagles	O	O
+#	B-NEU	B-AE
+NFL	I-NEU	I-AE
+
+IMGID:122423
+Check	O	O
+out	O	O
+this	O	O
+keyboard	O	O
+that	O	O
+was	O	O
+made	O	O
+with	O	O
+Kiwi	B-POS	B-AE
+for	O	O
+iOS	B-POS	B-AE
+8	I-POS	I-AE
+!	O	O
+#	O	O
+getkiwiapp	O	O
+
+IMGID:1114371
+@	O	O
+ABQJournal	O	O
+@	O	O
+ABQJournalPhoto	O	O
+bad	O	B-OE
+accident	O	O
+at	O	O
+San	B-NEG	B-AE
+Mateo	I-NEG	I-AE
+and	O	O
+H751	O	O
+.	O	O
+Motorcycle	O	O
+hits	O	O
+car	O	O
+and	O	O
+flips	O	O
+.	O	O
+
+IMGID:1875667
+RT	O	O
+@	O	O
+ConceptGrp	O	O
+:	O	O
+6	O	O
+die	O	B-OE
+,	O	O
+thousands	O	O
+flee	O	B-OE
+after	O	O
+typhoon	O	O
+slams	O	O
+into	O	O
+Philippines	B-NEG	B-AE
+
+IMGID:73004
+Onze	O	O
+tanks	O	B-OE
+terug	O	O
+voor	O	O
+Tallinn	B-NEU	B-AE
+-	O	O
+Nieuws	O	O
+-	O	O
+TROUW	O	O
+via	O	O
+@	O	O
+Trouw	O	O
+
+IMGID:627840
+Bad	O	B-OE
+news	O	O
+:	O	O
+Raeside	B-POS	B-AE
+has	O	O
+left	O	O
+Victoria	B-POS	B-AE
+TC	I-POS	I-AE
+.	O	O
+Good	O	B-OE
+news	O	O
+:	O	O
+his	O	O
+cartoons	O	O
+r	O	O
+still	O	O
+in	O	O
+#	B-NEU	B-AE
+kamloops	I-NEU	I-AE
+AM	B-NEU	B-AE
+News	I-NEU	I-AE
+.	O	O
+
+IMGID:522291
+First	O	O
+snow	O	O
+fall	O	B-OE
+of	O	O
+the	O	O
+year	O	O
+in	O	O
+Summit	B-NEU	B-AE
+County	I-NEU	I-AE
+,	O	O
+Colorado	B-NEU	B-AE
+,	O	O
+USA	B-NEU	B-AE
+:	O	O
+)	O	O
+
+IMGID:13291
+Penrhyn	B-NEU	B-AE
+Castle	I-NEU	I-AE
+#	B-NEU	B-AE
+Gwynedd	I-NEU	I-AE
+#	O	O
+castle	O	O
+
+IMGID:541630
+Please	O	O
+join	O	O
+us	O	O
+in	O	O
+welcoming	O	O
+licensed	O	O
+real	O	O
+estate	O	O
+salesperson	O	O
+Dominique	B-POS	B-AE
+Ward	I-POS	I-AE
+to	O	O
+our	O	O
+Delmar	B-POS	B-AE
+office	O	O
+@	O	O
+BHHSRealEstate	O	O
+
+IMGID:457211
+RT	O	O
+@	O	O
+kandioc	O	O
+:	O	O
+We	O	O
+@	O	O
+DocuStar	O	O
+are	O	O
+proud	O	B-OE
+to	O	O
+be	O	O
+part	O	O
+of	O	O
+Greater	B-POS	B-AE
+Cincinnati	I-POS	I-AE
+@	O	O
+GrowCincy	O	O
+#	O	O
+GetREDIcincy	O	O
+
+IMGID:1700095
+RT	O	O
+@	O	O
+SundayTimesZA	O	O
+:	O	O
+MTN	B-NEG	B-AE
+strike	O	B-OE
+is	O	O
+over	O	O
+
+IMGID:619286
+Living	O	O
+Room	O	O
+Furniture	O	O
+Ottawa	B-NEU	B-AE
+
+IMGID:13669
+In	O	O
+here	O	O
+watching	O	O
+an	O	O
+instant	O	O
+classic	O	B-OE
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+St	O	O
+.	O	O
+Vincent	O	O
+St	O	O
+.	O	O
+Mary	O	O
+vs	O	O
+.	O	O
+North	B-NEU	B-AE
+Central	I-NEU	I-AE
+
+IMGID:1301353
+Thank	O	B-OE
+you	O	O
+@	O	O
+Betfair	O	O
+!	O	O
+Tidy	B-POS	B-AE
+win	O	B-OE
+tonight	O	O
+.	O	O
+
+IMGID:29193
+RT	O	O
+@	O	O
+CBSSunday	O	O
+:	O	O
+What	O	O
+treasures	O	O
+worth	O	B-OE
+at	O	O
+least	O	O
+125K	O	O
+will	O	O
+be	O	O
+gifted	O	B-OE
+to	O	O
+the	O	O
+losers	O	B-OE
+at	O	O
+the	O	O
+Oscars	B-NEU	B-AE
+?	O	O
+
+IMGID:2083841
+Who	O	O
+is	O	O
+at	O	O
+the	O	O
+Orange	B-NEU	B-AE
+Carpet	I-NEU	I-AE
+tonight	O	O
+!	O	O
+?	O	O
+Excited	O	B-OE
+for	O	O
+the	O	O
+premier	O	B-OE
+of	O	O
+the	O	O
+Story	O	O
+of	O	O
+Content	O	O
+!	O	O
+#	O	O
+CMWorld	O	O
+
+IMGID:14872
+RT	O	O
+@	O	O
+Morphing	O	O
+Celebs	O	O
+:	O	O
+Louis	B-POS	B-AE
+Tomlinson	I-POS	I-AE
+and	O	O
+Dave	B-POS	B-AE
+Franco	I-POS	I-AE
+
+IMGID:92872
+Such	O	O
+an	O	O
+amazing	O	B-OE
+book	O	O
+signing	O	O
+at	O	O
+Stonebriar	B-NEU	B-AE
+Mall	I-NEU	I-AE
+and	O	O
+it	O	O
+continues	O	O
+tomorrow	O	O
+!	O	O
+#	O	O
+YourDivineFingerprint	O	O
+#	O	O
+ELCFingerprint	O	O
+
+IMGID:90360
+@	O	O
+Lions2013	O	O
+#	O	O
+LionsSkins	O	O
+first	O	O
+.	O	O
+Scorer	O	O
+Maitland	B-NEU	B-AE
+
+IMGID:73002
+@	O	O
+HistoryInPics	O	O
+:	O	O
+Bill	B-NEU	B-AE
+Cosby	I-NEU	I-AE
+in	O	O
+a	O	O
+sea	O	O
+of	O	O
+Bill	B-NEU	B-AE
+Cosby	I-NEU	I-AE
+'	O	O
+s	O	O
+.	O	O
+1968	O	O
+via	O	O
+LIFE	O	O
+.	O	O
+@	O	O
+CrustacheBrown	O	O
+
+IMGID:869732
+Morning	O	O
+coffee	O	O
+before	O	O
+I	O	O
+go	O	O
+watch	O	O
+Pacific	B-POS	B-AE
+Rim	I-POS	I-AE
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+#	O	O
+excited	O	B-OE
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:722505
+RT	O	O
+@	O	O
+YahooMusic	O	O
+:	O	O
+Prince	O	O
+is	O	O
+in	O	O
+the	O	O
+house	O	O
+to	O	O
+present	O	O
+Record	O	O
+of	O	O
+the	O	O
+Year	O	O
+to	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+Gotye	B-POS	B-AE
+!	O	O
+-	O	O
+Laura	O	O
+F	O	O
+Grammys	B-NEU	B-AE
+.	O	O
+
+IMGID:119122
+RT	O	O
+@	O	O
+3ambabydoll	O	O
+:	O	O
+Amber	B-NEU	B-AE
+and	O	O
+Chyna	B-NEU	B-AE
+with	O	O
+their	O	O
+moms	O	O
+.	O	O
+
+IMGID:585060
+RT	O	O
+@	O	O
+riaanmanser	O	O
+:	O	O
+My	O	O
+Japanese	O	O
+friend	O	O
+was	O	O
+robbed	O	O
+of	O	O
+everything	O	O
+yday	O	O
+in	O	O
+Ceres	B-NEG	B-AE
+.	O	O
+Who	O	O
+can	O	O
+help	O	O
+him	O	O
+?	O	O
+Share	O	O
+please	O	O
+.	O	O
+
+IMGID:63466
+RT	O	O
+@	O	O
+Fox411	O	O
+:	O	O
+'	O	O
+American	B-POS	B-AE
+Sniper	I-POS	I-AE
+'	O	O
+wins	O	B-OE
+box	O	O
+office	O	O
+again	O	O
+
+IMGID:1979462
+Complain	O	B-OE
+about	O	O
+Kyoto	B-NEG	B-AE
+a	O	O
+bit	O	O
+and	O	O
+someone	O	O
+takes	O	O
+you	O	O
+to	O	O
+see	O	O
+the	O	O
+mayor	B-NEU	B-AE
+.	O	O
+Interesting	O	B-OE
+!	O	O
+Mayor	B-POS	B-AE
+Kadokawa	I-POS	I-AE
+,	O	O
+thanks	O	O
+for	O	O
+your	O	O
+time	O	O
+!	O	O
+
+IMGID:70700
+The	O	O
+remains	O	O
+of	O	O
+a	O	O
+memorial	O	O
+for	O	O
+a	O	O
+man	O	O
+shot	O	O
+and	O	O
+killed	O	B-OE
+in	O	O
+Chicago	B-NEG	B-AE
+'	O	O
+s	O	O
+Austin	B-NEU	B-AE
+neighborhood	O	O
+last	O	O
+week	O	O
+
+IMGID:10857
+@	O	O
+mnabih123	O	O
+the	O	O
+Alexandria	B-NEG	B-AE
+wall	I-NEG	I-AE
+demolished	O	O
+
+IMGID:532648
+RT	O	O
+@	O	O
+BritBirdLovers	O	O
+:	O	O
+Interview	O	O
+With	O	O
+LEGO	B-NEU	B-AE
+Birds	I-NEU	I-AE
+Creator	O	O
+,	O	O
+Thomas	B-NEU	B-AE
+Poulsom	I-NEU	I-AE
+@	O	O
+DeTomaso77	O	O
+#	O	O
+legobirds	O	O
+
+IMGID:303279
+RT	O	O
+@	O	O
+rianeyates	O	O
+:	O	O
+Ellery	B-NEU	B-AE
+Yates	I-NEU	I-AE
+,	O	O
+ladies	O	O
+and	O	O
+gentlemen	O	O
+.	O	O
+
+IMGID:478919
+The	O	O
+good	O	B-OE
+news	O	O
+with	O	O
+the	O	O
+cloud	O	B-OE
+cover	O	O
+is	O	O
+that	O	O
+the	O	O
+@	O	O
+NWSSPC	O	O
+trimmed	O	O
+the	O	O
+area	O	O
+for	O	O
+severe	O	B-OE
+wx	O	O
+down	O	O
+to	O	O
+Delaware	B-NEU	B-AE
+.	O	O
+@	O	O
+PIX11News	O	O
+
+IMGID:1328906
+RT	O	O
+@	O	O
+lindseyhilsum	O	O
+:	O	O
+Amina	B-NEU	B-AE
+from	O	O
+#	B-NEU	B-AE
+Afghanistan	I-NEU	I-AE
+prepares	O	O
+for	O	O
+the	O	O
+weather	O	O
+in	O	O
+#	B-NEU	B-AE
+Austria	I-NEU	I-AE
+.	O	O
+
+IMGID:1764161
+RT	O	O
+@	O	O
+GirIsLove	O	O
+:	O	O
+Brb	B-NEG	B-AE
+crying	O	O
+.	O	O
+
+IMGID:71499
+Mexico	B-POS	B-AE
+rising	O	O
+#	O	O
+CDMX	O	O
+
+IMGID:64991
+@	O	O
+seanhannity	O	O
+:	O	O
+Bought	O	O
+the	O	O
+radio	O	O
+staff	O	O
+Burger	B-POS	B-AE
+King	I-POS	I-AE
+to	O	O
+show	O	O
+our	O	O
+support	O	B-OE
+for	O	O
+Tim	B-POS	B-AE
+Hortons	O	O
+-	O	O
+Wow	O	B-OE
+fries	O	O
+good	O	B-OE
+!	O	O
+lost	O	B-OE
+weight	O	O
+?	O	O
+
+IMGID:280092
+RT	O	O
+@	O	O
+TheEconomist	O	O
+:	O	O
+Commercial	O	O
+property	O	O
+prices	O	O
+in	O	O
+Britain	B-NEG	B-AE
+are	O	O
+37	O	O
+below	O	O
+their	O	O
+2007	O	O
+peak	O	O
+
+IMGID:72188
+Tar	O	O
+Heels	O	O
+in	O	O
+the	O	O
+Chi	O	O
+!	O	O
+Haven	O	O
+'	O	O
+t	O	O
+shot	O	O
+the	O	O
+good	O	B-OE
+guys	O	O
+in	O	O
+Carolina	B-NEU	B-AE
+Blue	I-NEU	I-AE
+since	O	O
+2007	O	O
+?	O	O
+#	O	O
+roysboys	O	O
+#	O	O
+gdtbath	O	O
+
+IMGID:140788
+Rediscovering	O	O
+an	O	O
+old	O	O
+film	O	O
+camera	O	O
+.	O	O
+#	B-NEU	B-AE
+Canon	I-NEU	I-AE
+A	I-NEU	I-AE
+-	I-NEU	I-AE
+1	I-NEU	I-AE
+.	O	O
+#	O	O
+tbt	O	O
+
+IMGID:283975
+RT	O	O
+@	O	O
+AshleeJenna	O	O
+:	O	O
+13	O	O
+Comebacks	O	O
+Every	O	O
+Curvy	O	O
+Girl	O	O
+Needs	O	O
+,	O	O
+As	O	O
+Told	O	O
+By	O	O
+Bhumi	B-NEU	B-AE
+Pednekar	I-NEU	I-AE
+#	O	O
+News	O	O
+
+IMGID:474833
+Strong	O	B-OE
+debut	O	O
+for	O	O
+USA	B-POS	B-AE
+Archer	I-POS	I-AE
+Michelle	B-POS	B-AE
+Gilbert	I-POS	I-AE
+.	O	O
+@	O	O
+USAArchery	O	O
+:	O	O
+#	O	O
+TeamUSA	O	O
+#	O	O
+WCMedellin	O	O
+
+IMGID:23702
+RT	O	O
+@	O	O
+KresySiberia	O	O
+:	O	O
+There	O	O
+can	O	O
+be	O	O
+no	O	O
+independent	O	O
+Poland	B-NEU	B-AE
+without	O	O
+an	O	O
+independent	O	O
+Ukraine	B-NEU	B-AE
+Dobranoc	O	O
+:	O	O
+-	O	O
+)	O	O
+
+IMGID:800562
+RT	O	O
+@	O	O
+LDSInstitute	O	O
+:	O	O
+Jesus	B-NEU	B-AE
+Christ	I-NEU	I-AE
+is	O	O
+the	O	O
+rock	O	O
+upon	O	O
+which	O	O
+we	O	O
+must	O	O
+build	O	O
+our	O	O
+foundation	O	O
+.	O	O
+#	O	O
+ElderHallstrom	O	O
+#	O	O
+CESDevo	O	O
+
+IMGID:405305
+BREAKING	O	B-OE
+:	O	O
+Leicester	B-NEU	B-AE
+have	O	O
+confirmed	O	O
+the	O	O
+signing	O	O
+of	O	O
+Gokhan	B-NEU	B-AE
+Inler	I-NEU	I-AE
+from	O	O
+Napoli	B-NEU	B-AE
+.	O	O
+
+IMGID:1402972
+@	O	O
+TheChrisDuarte	O	O
+just	O	O
+got	O	O
+in	O	O
+,	O	O
+using	O	O
+a	O	O
+different	O	O
+browser	O	O
+.	O	O
+Scully	B-NEU	B-AE
+had	O	O
+to	O	O
+finish	O	O
+his	O	O
+#	O	O
+catter	O	O
+badge	O	O
+.	O	O
+
+IMGID:258547
+RT	O	O
+@	O	O
+SamerSum	O	O
+:	O	O
+Rihanna	B-POS	B-AE
+looks	O	O
+so	O	O
+beautiful	O	B-OE
+biting	O	B-OE
+into	O	O
+my	O	O
+college	O	O
+tuition	O	O
+
+IMGID:62850
+RT	O	O
+@	O	O
+MiamiHerald	O	O
+:	O	O
+Joanne	B-POS	B-AE
+Stiger	I-POS	I-AE
+and	O	O
+Melissa	B-POS	B-AE
+Keller	I-POS	I-AE
+are	O	O
+the	O	O
+first	O	O
+same	O	O
+-	O	O
+sex	O	O
+couple	O	O
+to	O	O
+be	O	O
+married	O	O
+in	O	O
+Broward	B-NEU	B-AE
+:	O	O
+
+IMGID:6187
+RT	O	O
+@	O	O
+emmafgreen	O	O
+:	O	O
+Forget	O	O
+the	O	O
+dresses	O	O
+,	O	O
+this	O	O
+pic	O	O
+of	O	O
+Ang	B-POS	B-AE
+Lee	I-POS	I-AE
+is	O	O
+my	O	O
+favourite	O	O
+Oscars	B-NEU	B-AE
+photo	O	O
+
+IMGID:441031
+Too	O	O
+cool	O	B-OE
+-	O	O
+Skype	B-POS	B-AE
+conference	O	O
+by	O	O
+students	O	O
+at	O	O
+PSPA	B-POS	B-AE
+competition	I-POS	I-AE
+event	O	O
+today	O	O
+with	O	O
+editors	O	O
+of	O	O
+O	O	O
+,	O	O
+the	O	O
+Oprah	B-NEU	B-AE
+Magazine	I-NEU	I-AE
+.	O	O
+
+IMGID:1060749
+RT	O	O
+@	O	O
+paulfromwire	O	O
+:	O	O
+@	O	O
+Middlelanecunt	O	O
+nice	O	B-OE
+to	O	O
+see	O	O
+BSM	B-POS	B-AE
+setting	O	O
+the	O	O
+standards	O	O
+.	O	O
+
+IMGID:791697
+Iran	B-NEU	B-AE
+Said	O	O
+to	O	O
+Discount	O	O
+Light	O	O
+Crude	O	B-OE
+to	O	O
+Asia	B-NEU	B-AE
+to	O	O
+Deepest	O	O
+in	O	O
+14	O	O
+Years	O	O
+-	O	O
+via	O	O
+@	O	O
+YahooFinance	O	O
+
+IMGID:538987
+Kevin	B-NEU	B-AE
+Hanaway	I-NEU	I-AE
+#	O	O
+KevinConawaying	O	O
+@	O	O
+MichaelMcFMusic	O	O
+@	O	O
+seanbenjamin	O	O
+
+IMGID:1786952
+RT	O	O
+@	O	O
+jackseale	O	O
+:	O	O
+Let	O	O
+us	O	O
+not	O	O
+forget	O	O
+that	O	O
+JK	B-POS	B-AE
+Rowling	I-POS	I-AE
+personally	O	O
+rocks	O	O
+.	O	O
+
+IMGID:727215
+David	B-NEU	B-AE
+Denholm	I-NEU	I-AE
+from	O	O
+Kellogg	B-NEU	B-AE
+kicking	O	O
+off	O	O
+the	O	O
+#	O	O
+ShareUrBreakfast	O	O
+DC	B-NEU	B-AE
+event	O	O
+.	O	O
+RT	O	O
+to	O	O
+donate	O	O
+school	O	O
+bfast	O	O
+to	O	O
+kids	O	O
+in	O	O
+need	O	O
+!	O	O
+(	O	O
+cl	O	O
+)	O	O
+
+IMGID:23589
+RT	O	O
+@	O	O
+vicenews	O	O
+:	O	O
+Canada	B-POS	B-AE
+is	O	O
+helping	O	B-OE
+fund	O	O
+pro	O	O
+-	O	O
+Ukrainian	O	O
+TV	O	O
+to	O	O
+combat	O	O
+Kremlin	B-NEG	B-AE
+propaganda	O	B-OE
+:	O	O
+
+IMGID:67793
+RT	O	O
+@	O	O
+WesleyLowery	O	O
+:	O	O
+Trayvon	B-NEG	B-AE
+Martin	I-NEG	I-AE
+was	O	O
+shot	O	O
+and	O	O
+killed	O	B-OE
+3	O	O
+years	O	O
+ago	O	O
+today	O	O
+
+IMGID:181698
+I	O	O
+always	O	O
+have	O	O
+a	O	O
+sweet	O	B-OE
+spot	O	O
+for	O	O
+Kate	B-POS	B-AE
+Hudson	I-POS	I-AE
+!	O	O
+!	O	O
+#	O	O
+MetGala	O	O
+
+IMGID:777980
+RT	O	O
+@	O	O
+BBCSporf	O	O
+:	O	O
+Adnan	B-POS	B-AE
+Januzaj	I-POS	I-AE
+at	O	O
+Man	B-POS	B-AE
+United	I-POS	I-AE
+:	O	O
+Goals	O	O
+:	O	O
+4	O	O
+Bookings	O	O
+for	O	O
+diving	O	O
+:	O	O
+5	O	O
+
+IMGID:587305
+RT	O	O
+@	O	O
+Inc	O	O
+:	O	O
+Simon	B-NEU	B-AE
+Sinek	I-NEU	I-AE
+:	O	O
+These	O	O
+Are	O	O
+the	O	O
+3	O	O
+Most	O	O
+Valuable	O	B-OE
+Leadership	O	O
+Traits	O	O
+
+IMGID:124766
+RT	O	O
+@	O	O
+Ashton5SOS	O	O
+:	O	O
+TONIGHT	O	O
+HERE	O	O
+IN	O	O
+AMSTERDAM	B-POS	B-AE
+!	O	O
+
+IMGID:1301432
+RT	O	O
+@	O	O
+Luke5SOS	O	O
+:	O	O
+Jimmy	B-NEU	B-AE
+Fallon	I-NEU	I-AE
+
+IMGID:647812
+Happy	O	B-OE
+volunteers	B-POS	B-AE
+week	I-POS	I-AE
+to	O	O
+Maureen	B-POS	B-AE
+who	O	O
+volunteers	B-POS	B-AE
+at	O	O
+our	O	O
+Farnborough	B-NEU	B-AE
+Centre	I-NEU	I-AE
+and	O	O
+via	O	O
+@	O	O
+PicColla	O	O
+
+IMGID:65711
+RT	O	O
+@	O	O
+PressHerald	O	O
+:	O	O
+Ex	O	O
+-	O	O
+IMF	O	O
+chief	O	O
+Strauss	B-NEG	B-AE
+-	I-NEG	I-AE
+Kahn	I-NEG	I-AE
+cleared	O	B-OE
+of	O	O
+pimping	O	O
+said	O	O
+he	O	O
+didn	O	O
+'	O	O
+t	O	O
+know	O	O
+orgy	O	O
+women	O	O
+were	O	O
+prostitutes	O	O
+.	O	O
+http	O	O
+
+IMGID:127571
+RT	O	O
+@	O	O
+19ActionNews	O	O
+:	O	O
+Gay	O	O
+couples	O	O
+line	O	O
+up	O	O
+in	O	O
+Cuyahoga	B-NEU	B-AE
+County	I-NEU	I-AE
+for	O	O
+marriage	O	O
+licenses	O	O
+#	O	O
+SCOTUSMarriage	O	O
+
+IMGID:72988
+RT	O	O
+@	O	O
+ScorpionJet	O	O
+:	O	O
+Rick	B-NEU	B-AE
+Smith	I-NEU	I-AE
+@	O	O
+themotleyfool	O	O
+discusses	O	O
+Scorpion	B-NEU	B-AE
+as	O	O
+a	O	O
+potential	O	O
+replacement	O	O
+for	O	O
+the	O	O
+Warthog	O	O
+
+IMGID:1342337
+@	O	O
+TheVinceNeil	O	O
+hope	O	O
+you	O	O
+better	O	B-OE
+Oklahoma	B-POS	B-AE
+city	I-POS	I-AE
+F1080friend	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+jerrycrittenden1	O	O
+@	O	O
+gmail	O	O
+.	O	O
+com	O	O
+
+IMGID:70765
+RT	O	O
+@	O	O
+WhiteHouse	O	O
+:	O	O
+America	B-POS	B-AE
+should	O	O
+be	O	O
+very	O	O
+proud	O	B-OE
+.	O	O
+#	O	O
+LoveWins	O	O
+
+IMGID:45650
+RT	O	O
+@	O	O
+CBSSports	O	O
+:	O	O
+His	O	O
+Airness	O	O
+.	O	O
+Emojified	B-POS	B-AE
+.	O	O
+#	O	O
+WorldEmojiDay	O	O
+
+IMGID:325563
+Marc	B-NEU	B-AE
+Coudron	I-NEU	I-AE
+,	O	O
+President	O	O
+of	O	O
+@	O	O
+hockeybe	O	O
+,	O	O
+on	O	O
+the	O	O
+evolution	O	O
+of	O	O
+hockey	O	O
+in	O	O
+BE	B-NEU	B-AE
+and	O	O
+how	O	O
+#	O	O
+gg	O	O
+is	O	O
+linked	O	O
+to	O	O
+better	O	B-OE
+sport	O	O
+results	O	O
+
+IMGID:1106183
+RT	O	O
+@	O	O
+TIMELESSBIEBER	O	O
+:	O	O
+when	O	O
+justin	O	O
+bieber	O	O
+says	O	O
+go	O	O
+win	O	B-OE
+a	O	O
+grammy	B-NEU	B-AE
+,	O	O
+you	O	O
+go	O	O
+win	O	B-OE
+a	O	O
+damn	O	B-OE
+grammy	B-NEG	B-AE
+
+IMGID:572586
+RT	O	O
+@	O	O
+KING5Seattle	O	O
+:	O	O
+.	O	O
+@	O	O
+DougBaldwinJr	O	O
+soaking	O	O
+in	O	O
+the	O	O
+moment	O	O
+#	B-NEU	B-AE
+Seahawks	I-NEU	I-AE
+Photo	O	O
+:	O	O
+Steven	B-NEU	B-AE
+Bisig	I-NEU	I-AE
+,	O	O
+USA	B-NEU	B-AE
+Today	I-NEU	I-AE
+Sports	I-NEU	I-AE
+
+IMGID:790590
+ENOUGH	O	B-OE
+WITH	O	O
+ISRAEL	O	O
+Israel	B-NEU	B-AE
+PM	O	O
+:	O	O
+Iran	B-NEG	B-AE
+Nuke	I-NEG	I-AE
+deal	I-NEG	I-AE
+will	O	O
+make	O	O
+war	O	O
+in	O	O
+Middle	B-NEG	B-AE
+East	I-NEG	I-AE
+
+IMGID:755149
+UVA	B-NEU	B-AE
+representing	O	O
+and	O	O
+contributing	O	O
+at	O	O
+#	O	O
+alumnicharitychallenge	O	O
+@	O	O
+Hardywood	O	O
+
+IMGID:772438
+RT	O	O
+@	O	O
+JennaFryer	O	O
+:	O	O
+Montoya	B-NEU	B-AE
+walks	O	O
+into	O	O
+presser	O	O
+eating	O	O
+freeze	O	B-OE
+pop	O	O
+
+IMGID:534625
+RT	O	O
+@	O	O
+Lakers	O	O
+:	O	O
+Big	O	O
+Roy	B-NEU	B-AE
+getting	O	O
+in	O	O
+some	O	O
+#	O	O
+LakersWork	O	O
+with	O	O
+@	O	O
+tdathletesedge	O	O
+before	O	O
+meeting	O	O
+with	O	O
+the	O	O
+media	O	O
+.	O	O
+
+IMGID:110150
+We	O	O
+have	O	O
+you	O	O
+covered	O	O
+.	O	O
+See	O	O
+why	O	O
+the	O	O
+Data	B-NEU	B-AE
+Protection	I-NEU	I-AE
+Suite	I-NEU	I-AE
+amp	O	O
+Data	B-POS	B-AE
+Domain	I-POS	I-AE
+are	O	O
+even	O	O
+better	O	B-OE
+together	O	O
+
+IMGID:73466
+Louis	B-NEU	B-AE
+Sullivan	I-NEU	I-AE
+'	O	O
+s	O	O
+1889	O	O
+Auditorium	B-NEU	B-AE
+Building	I-NEU	I-AE
+#	O	O
+asymmetry	O	O
+
+IMGID:24022
+RT	O	O
+@	O	O
+MannfredNikolai	O	O
+:	O	O
+Russia	B-NEU	B-AE
+Using	O	O
+INTERPOL	B-NEU	B-AE
+To	O	O
+Target	O	O
+Russian	O	O
+Dissidents	O	B-OE
+Living	O	O
+Abroad	O	O
+
+IMGID:73331
+RT	O	O
+@	O	O
+StrataNL	O	O
+:	O	O
+Nice	O	B-OE
+shot	O	O
+of	O	O
+HNLMS	B-POS	B-AE
+Tromp	I-POS	I-AE
+and	O	O
+HNLMS	B-POS	B-AE
+Van	I-POS	I-AE
+Amstel	O	O
+in	O	O
+Plymouth	B-NEU	B-AE
+Sound	I-NEU	I-AE
+by	O	O
+@	O	O
+AllanWarships	O	O
+@	O	O
+kon	O	O
+marine	O	O
+#	O	O
+marine	O	O
+#	O	O
+defensie	O	O
+
+IMGID:29115
+RT	O	O
+@	O	O
+CBSSunday	O	O
+:	O	O
+Gallery	O	O
+:	O	O
+The	O	O
+haunting	O	B-OE
+beauty	O	B-OE
+of	O	O
+winter	O	O
+in	O	O
+Yellowstone	B-POS	B-AE
+
+IMGID:552711
+@	O	O
+cali	O	O
+catt	O	O
+Hey	O	O
+Cassi	B-NEU	B-AE
+how	O	O
+are	O	O
+you	O	O
+,	O	O
+check	O	O
+out	O	O
+this	O	O
+show	O	O
+for	O	O
+the	O	O
+Troops	O	O
+!	O	O
+
+IMGID:116815
+RT	O	O
+@	O	O
+Adweek	O	O
+:	O	O
+Sean	B-POS	B-AE
+Astin	I-POS	I-AE
+returns	O	O
+as	O	O
+Rudy	B-POS	B-AE
+for	O	O
+excellent	O	B-OE
+@	O	O
+ESPN	O	O
+college	O	O
+football	O	O
+promo	O	O
+:	O	O
+
+IMGID:928023
+RT	O	O
+@	O	O
+rappersaid	O	O
+:	O	O
+When	O	O
+DoodleBob	B-NEG	B-AE
+said	O	O
+,	O	O
+ME	O	O
+HOY	O	O
+MINOY	O	O
+HOY	O	O
+
+IMGID:41189
+RT	O	O
+@	O	O
+HonoredTroops	O	O
+:	O	O
+Pat	B-POS	B-AE
+Tillman	I-POS	I-AE
+was	O	O
+the	O	O
+man	O	O
+
+IMGID:1388738
+Paoay	B-POS	B-AE
+Church	I-POS	I-AE
+is	O	O
+lovely	O	B-OE
+at	O	O
+night	O	O
+.	O	O
+
+IMGID:1331438
+Tamir	B-NEG	B-AE
+Rice	I-NEG	I-AE
+:	O	O
+Not	O	O
+a	O	O
+boy	O	O
+with	O	O
+a	O	O
+toy	O	O
+in	O	O
+a	O	O
+park	O	O
+,	O	O
+but	O	O
+a	O	O
+black	O	O
+male	O	O
+with	O	O
+a	O	O
+gun	O	O
+
+IMGID:62350
+RT	O	O
+@	O	O
+Foodimentary	O	O
+:	O	O
+Calories	B-NEU	B-AE
+don	O	O
+'	O	O
+t	O	O
+count	O	O
+today	O	O
+!	O	O
+Happy	O	B-OE
+National	B-POS	B-AE
+Ice	I-POS	I-AE
+Cream	I-POS	I-AE
+Day	I-POS	I-AE
+#	O	O
+NationalIceCreamDay	O	O
+
+IMGID:123416
+RT	O	O
+@	O	O
+BoyBelieberDame	O	O
+:	O	O
+his	O	O
+neck	O	O
+is	O	O
+so	O	O
+suckable	O	O
+tho	O	O
+#	O	O
+MTVHottest	O	O
+Justin	B-NEG	B-AE
+Bieber	I-NEG	I-AE
+
+IMGID:116461
+The	O	O
+top	O	B-OE
+5	O	O
+hotels	O	O
+in	O	O
+Abu	B-NEU	B-AE
+Dhabi	I-NEU	I-AE
+RT	O	O
+@	O	O
+luxury	O	B-OE
+travel	O	O
+#	O	O
+luxury	O	B-OE
+#	O	O
+abudhabi	O	O
+#	O	O
+hotels	O	O
+
+IMGID:1056382
+RT	O	O
+@	O	O
+bobsalerni	O	O
+:	O	O
+Secret	O	O
+Eighth	B-POS	B-AE
+day	I-POS	I-AE
+tattoos	O	O
+spotted	O	O
+at	O	O
+B	O	O
+amp	O	O
+N	O	O
+,	O	O
+Brighton	B-NEU	B-AE
+,	O	O
+MI	B-NEU	B-AE
+!	O	O
+@	O	O
+diannesalerni	O	O
+@	O	O
+YLBrighton	O	O
+@	O	O
+BrightonPatch	O	O
+
+IMGID:563640
+After	O	O
+a	O	O
+mini	O	O
+-	O	O
+ordeal	O	B-OE
+,	O	O
+Shulk	B-POS	B-AE
+FINALLY	O	O
+arrived	O	O
+:	O	O
+)	O	O
+
+IMGID:736662
+Good	O	B-OE
+#	O	O
+artists	O	O
+copy	O	O
+,	O	O
+great	O	B-OE
+#	O	O
+artists	O	O
+steal	O	B-OE
+.	O	O
+Pablo	B-NEU	B-AE
+Picasso	I-NEU	I-AE
+#	O	O
+amwriting	O	O
+#	O	O
+writing	O	O
+
+IMGID:70830
+That	O	O
+was	O	O
+kind	O	O
+of	O	O
+a	O	O
+big	O	O
+save	O	O
+.	O	O
+Crawford	B-POS	B-AE
+denies	O	B-OE
+Stamkos	B-NEU	B-AE
+in	O	O
+the	O	O
+second	O	O
+period	O	O
+.	O	O
+Photo	O	O
+gallery	O	O
+:	O	O
+
+IMGID:21969
+RT	O	O
+@	O	O
+pakalupapito	O	O
+:	O	O
+me	O	O
+amp	O	O
+my	O	O
+brother	O	O
+kenye	B-POS	B-AE
+i	O	O
+lov	O	O
+him	O	O
+
+IMGID:599097
+RT	O	O
+@	O	O
+AHedengren	O	O
+:	O	O
+#	B-NEG	B-AE
+Aleppo	I-NEG	I-AE
+before	O	O
+and	O	O
+after	O	O
+.	O	O
+#	B-NEG	B-AE
+Syria	I-NEG	I-AE
+.	O	O
+
+IMGID:2017853
+RT	O	O
+@	O	O
+iMugeh	O	O
+:	O	O
+Pussy	B-POS	B-AE
+so	O	O
+good	O	B-OE
+,	O	O
+I	O	O
+had	O	O
+to	O	O
+save	O	O
+that	O	O
+shit	O	B-OE
+for	O	O
+later	O	O
+
+IMGID:71069
+Two	O	O
+entries	O	O
+to	O	O
+add	O	O
+today	O	O
+to	O	O
+-	O	O
+Irving	B-NEU	B-AE
+Park	I-NEU	I-AE
+and	O	O
+Austin	O	O
+.	O	O
+Started	O	O
+keeping	O	O
+track	O	O
+of	O	O
+neighborhoods	O	O
+
+IMGID:738607
+RT	O	O
+@	O	O
+samwincchester	O	O
+:	O	O
+Jared	B-POS	B-AE
+Padalecki	I-POS	I-AE
+as	O	O
+beautiful	O	B-OE
+beach	O	O
+sunset	O	O
+
+IMGID:126236
+@	O	O
+DuPontPioneer	O	O
+1184	O	O
+in	O	O
+Tecumseh	B-POS	B-AE
+,	O	O
+Ontario	B-POS	B-AE
+.	O	O
+Great	O	B-OE
+looking	O	O
+variety	O	B-OE
+!	O	O
+!	O	O
+
+IMGID:1476103
+RT	O	O
+@	O	O
+BirkbeckAlumni	O	O
+:	O	O
+@	O	O
+TriciaKing1	O	O
+collecting	O	O
+her	O	O
+Distinguished	B-NEU	B-AE
+Service	I-NEU	I-AE
+Award	I-NEU	I-AE
+at	O	O
+#	O	O
+CEAC14	O	O
+
+IMGID:780791
+Auto	O	O
+Torts	O	O
+week	O	O
+is	O	O
+finally	O	O
+upon	O	O
+us	O	O
+!	O	O
+Have	O	O
+you	O	O
+signed	O	O
+up	O	O
+to	O	O
+join	O	O
+us	O	O
+in	O	O
+sunny	O	O
+Sandestin	B-POS	B-AE
+,	O	O
+FL	B-POS	B-AE
+?	O	O
+
+IMGID:1127618
+RT	O	O
+@	O	O
+STcom	O	O
+:	O	O
+Flash	O	O
+mob	O	O
+marriage	O	O
+proposal	O	O
+at	O	O
+Changi	B-NEU	B-AE
+Airport	I-NEU	I-AE
+takes	O	O
+off	O	O
+
+IMGID:962370
+RT	O	O
+@	O	O
+HipHopxHotspot	O	O
+:	O	O
+Meek	B-NEG	B-AE
+Mill	I-NEG	I-AE
+needs	O	O
+to	O	O
+drop	O	O
+this	O	O
+
+IMGID:259859
+Downpours	O	O
+on	O	O
+the	O	O
+radar	O	O
+so	O	O
+beware	O	B-OE
+going	O	O
+into	O	O
+this	O	O
+evening	O	O
+,	O	O
+@	O	O
+joecioffi	O	O
+on	O	O
+FiOS1	B-NEU	B-AE
+News	O	O
+@	O	O
+weathertalk	O	O
+Mike	B-NEU	B-AE
+Freidman	I-NEU	I-AE
+for	O	O
+HV	B-NEU	B-AE
+
+IMGID:322051
+RT	O	O
+@	O	O
+AndrewMuckaluck	O	O
+:	O	O
+Great	O	B-OE
+restaurant	O	O
+.	O	O
+Am	O	O
+(	O	O
+at	O	O
+@	O	O
+CafeFootballUk	O	O
+in	O	O
+Stratford	B-NEU	B-AE
+)	O	O
+https	O	O
+:	O	O
+t	O	O
+.	O	O
+co	O	O
+9Hxa7FfAO7	O	O
+
+IMGID:196619
+Luther	B-NEU	B-AE
+College	I-NEU	I-AE
+message	O	O
+on	O	O
+info	O	O
+literacy	O	O
+.	O	O
+@	O	O
+bookbagsara	O	O
+might	O	O
+add	O	O
+to	O	O
+your	O	O
+repertoire	O	O
+!	O	O
+
+IMGID:15046
+RT	O	O
+@	O	O
+mashable	O	O
+:	O	O
+Obama	B-POS	B-AE
+was	O	O
+greeted	O	O
+by	O	O
+Confederate	B-NEU	B-AE
+flags	I-NEU	I-AE
+when	O	O
+he	O	O
+got	O	O
+to	O	O
+Nashville	B-NEU	B-AE
+yesterday	O	O
+:	O	O
+
+IMGID:1707093
+So	O	O
+proud	O	B-OE
+!	O	O
+Brian	B-POS	B-AE
+Grubb	I-POS	I-AE
+got	O	O
+Extreme	O	O
+Photo	O	O
+of	O	O
+the	O	O
+Week	O	O
+by	O	O
+National	B-NEU	B-AE
+Geographic	I-NEU	I-AE
+for	O	O
+his	O	O
+project	O	O
+.	O	O
+
+IMGID:62781
+RT	O	O
+@	O	O
+common	O	O
+:	O	O
+Happy	O	B-OE
+Birthday	O	O
+to	O	O
+one	O	O
+of	O	O
+my	O	O
+favorite	O	B-OE
+artists	O	O
+and	O	O
+one	O	O
+of	O	O
+the	O	O
+greatest	O	B-OE
+ever	O	O
+!	O	O
+Lauryn	B-POS	B-AE
+Hill	I-POS	I-AE
+#	O	O
+greatness	O	B-OE
+
+IMGID:73732
+A	O	O
+roadside	O	O
+demonstration	O	O
+in	O	O
+the	O	O
+Gush	B-NEU	B-AE
+Etzion	I-NEU	I-AE
+region	O	O
+of	O	O
+the	O	O
+West	B-NEU	B-AE
+Bank	I-NEU	I-AE
+near	O	O
+where	O	O
+three	O	O
+Israeli	O	O
+teenagers	O	O
+were	O	O
+kidna	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:123963
+playoff	O	O
+basketball	O	O
+in	O	O
+Brooklyn	B-NEU	B-AE
+with	O	O
+@	O	O
+jheil	O	O
+(	O	O
+@	O	O
+Barclays	O	O
+Center	O	O
+)	O	O
+
+IMGID:67867
+Jailed	O	O
+in	O	O
+Egypt	B-NEG	B-AE
+,	O	O
+journalists	O	O
+fate	O	O
+still	O	O
+uncertain	O	B-OE
+#	O	O
+freeAJstaff	O	O
+
+IMGID:907429
+@	O	O
+hbalm	O	O
+Would	O	O
+watch	O	O
+you	O	O
+anywhere	O	O
+,	O	O
+but	O	O
+Meerkat	B-POS	B-AE
+works	O	B-OE
+in	O	O
+portrait	O	O
+mode	O	O
+.	O	O
+This	O	O
+is	O	O
+what	O	O
+we	O	O
+saw	O	O
+.	O	O
+Still	O	O
+enjoyed	O	B-OE
+it	O	O
+.	O	O
+
+IMGID:118442
+Meetup	O	O
+at	O	O
+@	O	O
+SmartRecruiters	O	O
+in	O	O
+progress	O	B-OE
+.	O	O
+Witek	B-NEU	B-AE
+talks	O	O
+about	O	O
+#	O	O
+mongodb	O	O
+
+IMGID:8331
+RT	O	O
+@	O	O
+Refugees	O	O
+:	O	O
+4	O	O
+million	O	O
+refugees	O	O
+:	O	O
+today	O	O
+the	O	O
+Syrian	B-NEG	B-AE
+crisis	O	B-OE
+passes	O	O
+a	O	O
+sad	O	B-OE
+milestone	O	O
+:	O	O
+
+IMGID:586905
+RT	O	O
+@	O	O
+jordanwhiteLA	O	O
+:	O	O
+LAPD	B-NEG	B-AE
+just	O	O
+murdered	O	O
+an	O	O
+unarmed	O	O
+man	O	O
+right	O	B-OE
+in	O	O
+front	O	O
+of	O	O
+me	O	O
+.	O	O
+#	B-NEG	B-AE
+LAPD	I-NEG	I-AE
+
+IMGID:92990
+RT	O	O
+@	O	O
+momandwife3	O	O
+:	O	O
+Brandon	B-NEU	B-AE
+Carr	I-NEU	I-AE
+of	O	O
+the	O	O
+Dallas	B-NEU	B-AE
+Cowboys	I-NEU	I-AE
+speaking	O	O
+to	O	O
+the	O	O
+kids	O	O
+at	O	O
+the	O	O
+sports	O	O
+camp	O	O
+at	O	O
+@	O	O
+ElevateLC	O	O
+
+IMGID:735201
+Writing	O	O
+makes	O	O
+us	O	O
+crazy	O	B-OE
+not	O	O
+#	O	O
+writing	O	O
+even	O	O
+crazier	O	O
+.	O	O
+Marcia	B-NEU	B-AE
+Preston	I-NEU	I-AE
+#	O	O
+amwriting	O	O
+
+IMGID:1022904
+RT	O	O
+@	O	O
+MNCleanEnergy	O	O
+:	O	O
+@	O	O
+GeronimoEnergy	O	O
+:	O	O
+We	O	O
+are	O	O
+very	O	O
+concerned	O	B-OE
+that	O	O
+this	O	O
+bill	O	O
+may	O	O
+impact	O	O
+our	O	O
+projects	O	O
+in	O	O
+MN	B-NEU	B-AE
+#	O	O
+mnleg	O	O
+
+IMGID:35603
+Nike	B-NEG	B-AE
+Is	O	O
+Crushing	O	B-OE
+It	O	O
+and	O	O
+on	O	O
+the	O	O
+Attack	O	B-OE
+
+IMGID:1761600
+Will	O	O
+Scooby	B-NEU	B-AE
+Doo	I-NEU	I-AE
+be	O	O
+making	O	O
+an	O	O
+appearance	O	O
+?	O	O
+
+IMGID:73440
+More	O	O
+than	O	O
+a	O	O
+few	O	O
+Rays	B-POS	B-AE
+fans	O	B-OE
+in	O	O
+town	O	O
+and	O	O
+packing	O	O
+Wrigley	B-NEU	B-AE
+today	O	O
+#	O	O
+cubs	O	O
+#	B-NEU	B-AE
+rays	I-NEU	I-AE
+#	O	O
+wrigley100	O	O
+
+IMGID:16097
+RT	O	O
+@	O	O
+ItsFoodPorn	O	O
+:	O	O
+Double	B-NEU	B-AE
+Chocolate	I-NEU	I-AE
+Brownies	I-NEU	I-AE
+
+IMGID:1712943
+Finally	O	O
+!	O	O
+RT	O	O
+@	O	O
+libertycounsel	O	O
+:	O	O
+Justina	B-POS	B-AE
+Pelletier	I-POS	I-AE
+finally	O	O
+freed	O	B-OE
+!	O	O
+Read	O	O
+more	O	O
+
+IMGID:111535
+We	O	O
+are	O	O
+excited	O	B-OE
+to	O	O
+announce	O	O
+new	O	O
+products	O	O
+and	O	O
+solutions	O	O
+to	O	O
+support	O	B-OE
+the	O	O
+Data	B-POS	B-AE
+Lake	I-POS	I-AE
+Foundation	I-POS	I-AE
+
+IMGID:109338
+RT	O	O
+@	O	O
+Sir	O	O
+K	O	O
+Dalglish	O	O
+:	O	O
+To	O	O
+Boris	B-NEU	B-AE
+Johnson	I-NEU	I-AE
+(	O	O
+Mayor	O	O
+of	O	O
+London	B-NEU	B-AE
+)	O	O
+Regarding	O	O
+your	O	O
+article	O	O
+in	O	O
+the	O	O
+Spectator	O	O
+-	O	O
+Do	O	O
+you	O	O
+wish	O	O
+to	O	O
+comment	O	O
+further	O	O
+.	O	O
+#	O	O
+JFT96	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:1373582
+Guess	O	O
+what	O	O
+just	O	O
+arrived	O	O
+in	O	O
+our	O	O
+Parcel	B-NEU	B-AE
+Motel	I-NEU	I-AE
+.	O	O
+.	O	O
+.	O	O
+this	O	O
+town	O	O
+is	O	O
+a	O	O
+Reprap	O	O
+town	O	O
+!	O	O
+
+IMGID:71820
+RT	O	O
+@	O	O
+NLNavyNews	O	O
+:	O	O
+#	O	O
+OTD	O	O
+1950	O	O
+HNLMS	B-NEU	B-AE
+Evertsen	I-NEU	I-AE
+and	O	O
+a	O	O
+battalion	O	O
+marines	O	O
+were	O	O
+assigned	O	O
+to	O	O
+the	O	O
+United	B-NEU	B-AE
+Nations	I-NEU	I-AE
+and	O	O
+sent	O	O
+to	O	O
+#	B-NEU	B-AE
+Korea	I-NEU	I-AE
+#	O	O
+UN	O	O
+@	O	O
+NLatUN	O	O
+
+IMGID:1500439
+RT	O	O
+@	O	O
+blackvoices	O	O
+:	O	O
+We	O	O
+remember	O	O
+George	B-NEU	B-AE
+Stinney	I-NEU	I-AE
+#	O	O
+28BlackLives	O	O
+
+IMGID:697326
+RT	O	O
+@	O	O
+KING5Seattle	O	O
+:	O	O
+Puget	B-NEU	B-AE
+Sound	I-NEU	I-AE
+veterans	O	O
+return	O	O
+from	O	O
+honor	O	B-OE
+flight	O	O
+to	O	O
+D	O	O
+.	O	O
+C	O	O
+.	O	O
+
+IMGID:1010770
+RT	O	O
+@	O	O
+Sup3rJunior	O	O
+:	O	O
+150608	O	O
+Eunhyuk	B-NEU	B-AE
+and	O	O
+Donghae	B-NEU	B-AE
+at	O	O
+the	O	O
+Hotel	O	O
+2P	O	O
+
+IMGID:71236
+Chicago	B-NEU	B-AE
+cops	O	O
+play	O	O
+impromptu	O	O
+football	O	O
+game	O	O
+with	O	O
+kids	O	O
+in	O	O
+Lawndale	B-NEU	B-AE
+:	O	O
+
+IMGID:523400
+RT	O	O
+@	O	O
+TomBradysEgo	O	O
+:	O	O
+Dez	B-POS	B-AE
+Bryant	I-POS	I-AE
+post	O	O
+-	O	O
+game	O	O
+interview	O	O
+
+IMGID:71477
+RT	O	O
+@	O	O
+BeschlossDC	O	O
+:	O	O
+Here	O	O
+is	O	O
+opening	O	O
+day	O	O
+at	O	O
+Fenway	B-NEU	B-AE
+,	O	O
+oldest	O	O
+MLB	O	O
+park	O	O
+,	O	O
+102	O	O
+years	O	O
+ago	O	O
+:	O	O
+#	O	O
+NBHF	O	O
+@	O	O
+kristencastillo	O	O
+@	O	O
+RedSox	O	O
+
+IMGID:1062760
+Found	O	O
+this	O	O
+board	O	O
+game	O	O
+at	O	O
+the	O	O
+Chelsea	B-NEU	B-AE
+Flea	I-NEU	I-AE
+Market	I-NEU	I-AE
+.	O	O
+Oh	O	O
+how	O	O
+the	O	O
+times	O	O
+have	O	O
+changed	O	O
+for	O	O
+Bruce	B-POS	B-AE
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:1792131
+RT	O	O
+@	O	O
+LostSpeciesDay	O	O
+:	O	O
+Just	O	O
+discovered	O	O
+this	O	O
+wonky	O	O
+late	O	O
+night	O	O
+@	O	O
+extinctsymbol	O	O
+on	O	O
+St	O	O
+James	O	O
+St	O	O
+,	O	O
+Brighton	B-NEU	B-AE
+.	O	O
+
+IMGID:131061
+RT	O	O
+@	O	O
+graphure	O	O
+:	O	O
+Marie	B-NEU	B-AE
+is	O	O
+serious	O	O
+business	O	O
+
+IMGID:93253
+RT	O	O
+@	O	O
+NYMag	O	O
+:	O	O
+This	O	O
+New	B-NEU	B-AE
+York	I-NEU	I-AE
+Fashion	I-NEU	I-AE
+Week	I-NEU	I-AE
+show	O	O
+will	O	O
+address	O	O
+racism	O	B-OE
+in	O	O
+policing	O	O
+:	O	O
+
+IMGID:95462
+RT	O	O
+@	O	O
+lexi4prez	O	O
+:	O	O
+Stop	O	O
+supporting	O	B-OE
+Trump	B-NEG	B-AE
+as	O	O
+a	O	O
+joke	O	B-OE
+.	O	O
+This	O	O
+is	O	O
+serious	O	O
+and	O	O
+we	O	O
+need	O	O
+to	O	O
+act	O	O
+seriously	O	O
+on	O	O
+this	O	O
+.	O	O
+
+IMGID:62675
+RT	O	O
+@	O	O
+IsimaOdeh	O	O
+:	O	O
+In	O	O
+1992	O	O
+-	O	O
+93	O	O
+,	O	O
+Jay	O	O
+Jay	O	O
+Okocha	O	O
+dribbled	O	O
+Oliver	B-NEU	B-AE
+Kahn	I-NEU	I-AE
+till	O	O
+he	O	O
+fell	O	B-OE
+,	O	O
+his	O	O
+defenders	O	O
+in	O	O
+the	O	O
+penalty	O	B-OE
+box	O	O
+and	O	O
+still	O	O
+scored	O	O
+.	O	O
+
+IMGID:22850
+RT	O	O
+@	O	O
+WSJ	O	O
+:	O	O
+Islamic	B-NEU	B-AE
+State	I-NEU	I-AE
+is	O	O
+expanding	O	O
+its	O	O
+reach	O	O
+in	O	O
+Libya	B-NEU	B-AE
+,	O	O
+sending	O	O
+money	O	O
+,	O	O
+trainers	O	O
+and	O	O
+fighters	O	O
+
+IMGID:587505
+Preparing	O	O
+to	O	O
+send	O	O
+a	O	O
+gift	O	O
+to	O	O
+someone	O	O
+special	O	O
+in	O	O
+Latvia	B-NEU	B-AE
+:	O	O
+my	O	O
+Counterpoint	O	O
+scarf	O	O
+#	O	O
+shortrowknitting	O	O
+
+IMGID:29383
+RT	O	O
+@	O	O
+nmulholl	O	O
+:	O	O
+Learn	O	O
+to	O	O
+code	O	O
+with	O	O
+Mr	O	O
+.	O	O
+Mulholland	O	O
+at	O	O
+our	O	O
+Parent	B-NEU	B-AE
+EdCamp	I-NEU	I-AE
+.	O	O
+#	O	O
+sggspride	O	O
+
+IMGID:65565
+RT	O	O
+@	O	O
+EarthPics	O	O
+HD	O	O
+:	O	O
+Silver	B-NEU	B-AE
+Falls	I-NEU	I-AE
+,	O	O
+Oregon	B-NEU	B-AE
+
+IMGID:119897
+RT	O	O
+@	O	O
+RapUp	O	O
+:	O	O
+The	O	O
+Weeknd	O	O
+and	O	O
+the	O	O
+cast	O	O
+of	O	O
+Empire	O	O
+pose	O	O
+for	O	O
+the	O	O
+September	O	O
+issue	O	B-OE
+of	O	O
+Vogue	B-NEU	B-AE
+
+IMGID:70291
+RT	O	O
+@	O	O
+buffalobills	O	O
+:	O	O
+One	O	O
+Sunday	O	O
+closer	O	O
+to	O	O
+Buffalo	B-POS	B-AE
+Bills	I-POS	I-AE
+football	O	O
+.	O	O
+#	O	O
+GoBills	O	O
+#	O	O
+FeelTheRush	O	O
+
+IMGID:744197
+RT	O	O
+@	O	O
+AppNexus	O	O
+:	O	O
+AppNexus	O	O
+CEO	O	O
+@	O	O
+bokelley	O	O
+and	O	O
+Chief	O	O
+Data	O	O
+Scientist	O	O
+Catherine	B-NEU	B-AE
+Williams	I-NEU	I-AE
+,	O	O
+close	O	O
+#	O	O
+AppNexusOptimize	O	O
+in	O	O
+London	B-NEU	B-AE
+
+IMGID:371319
+RT	O	O
+@	O	O
+Happy	O	B-OE
+Gilmore	O	O
+:	O	O
+Things	O	O
+Tim	B-NEU	B-AE
+Howard	I-NEU	I-AE
+could	O	O
+save	O	O
+.	O	O
+.	O	O
+
+IMGID:8736
+Farmers	O	O
+from	O	O
+Prespa	B-NEU	B-AE
+amp	O	O
+Namangan	B-NEU	B-AE
+find	O	O
+common	O	O
+ground	O	O
+in	O	O
+#	O	O
+innovations	O	O
+for	O	O
+#	O	O
+sustainableagriculture	O	O
+:	O	O
+
+IMGID:65279
+RT	O	O
+@	O	O
+VeryOldPics	O	O
+:	O	O
+Office	O	O
+Girls	O	O
+in	O	O
+the	O	O
+roaring	O	O
+twenties	O	O
+.	O	O
+.	O	O
+.	O	O
+1925	O	O
+by	O	O
+John	B-NEU	B-AE
+McNab	I-NEU	I-AE
+
+IMGID:478688
+Tornado	B-NEG	B-AE
+Warning	I-NEG	I-AE
+is	O	O
+in	O	O
+effect	O	O
+for	O	O
+Morris	B-NEG	B-AE
+County	I-NEG	I-AE
+NJ	I-NEG	I-AE
+!	O	O
+@	O	O
+PIX11News	O	O
+
+IMGID:74888
+RT	O	O
+@	O	O
+SportsCenter	O	O
+:	O	O
+BREAKING	O	B-OE
+:	O	O
+One	O	O
+.	O	O
+More	O	O
+.	O	O
+Win	O	B-OE
+.	O	O
+Kentucky	B-NEU	B-AE
+Derby	I-NEU	I-AE
+winner	O	B-OE
+American	B-POS	B-AE
+Pharoah	I-POS	I-AE
+crosses	O	O
+finish	O	O
+line	O	O
+first	O	O
+in	O	O
+Preakness	B-NEU	B-AE
+Stakes	I-NEU	I-AE
+.	O	O
+
+IMGID:1307501
+Help	O	O
+children	O	O
+run	O	O
+,	O	O
+for	O	O
+the	O	O
+right	O	B-OE
+reasons	O	O
+.	O	O
+#	O	O
+childtrauma	O	O
+#	B-NEU	B-AE
+Philippines	I-NEU	I-AE
+#	O	O
+DT	O	O
+@	O	O
+operationSAFE	O	O
+
+IMGID:71773
+RT	O	O
+@	O	O
+BlairKamin	O	O
+:	O	O
+A	O	O
+1926	O	O
+drawing	O	O
+of	O	O
+the	O	O
+20s	O	O
+towers	O	O
+around	O	O
+the	O	O
+Boul	B-NEU	B-AE
+Mich	I-NEU	I-AE
+bridge	I-NEU	I-AE
+.	O	O
+333	O	O
+N	O	O
+.	O	O
+Mich	O	O
+.	O	O
+is	O	O
+2	O	O
+years	O	O
+in	O	O
+the	O	O
+future	O	O
+.	O	O
+
+IMGID:638674
+Diyatha	B-POS	B-AE
+Uyana	I-POS	I-AE
+was	O	O
+completed	O	O
+under	O	O
+Mahinda	B-NEU	B-AE
+Chintana	I-NEU	I-AE
+Vision	I-NEU	I-AE
+for	O	O
+the	O	O
+Future	O	O
+:	O	O
+Beautiful	O	B-OE
+Cities	O	O
+-	O	O
+Green	O	O
+Villages	O	O
+.	O	O
+
+IMGID:108911
+RT	O	O
+@	O	O
+ESPNNFL	O	O
+:	O	O
+McShay	B-NEU	B-AE
+picks	O	O
+Kevin	B-NEU	B-AE
+White	I-NEU	I-AE
+with	O	O
+7	O	O
+to	O	O
+CHI	O	O
+.	O	O
+Imagine	O	O
+Alshon	B-NEU	B-AE
+Jeffrey	I-NEU	I-AE
+amp	O	O
+Kevin	B-NEU	B-AE
+White	I-NEU	I-AE
+as	O	O
+a	O	O
+WR	O	O
+duo	O	O
+.	O	O
+#	O	O
+MelToddMock	O	O
+
+IMGID:477005
+RT	O	O
+@	O	O
+rudskiapps	O	O
+:	O	O
+Bright	O	B-OE
+night	O	O
+by	O	O
+Tomas	B-NEU	B-AE
+Havel	I-NEU	I-AE
+https	O	O
+:	O	O
+t	O	O
+.	O	O
+co	O	O
+iwCRiK2ZZI	O	O
+
+IMGID:507970
+#	B-NEU	B-AE
+Preds	I-NEU	I-AE
+with	O	O
+an	O	O
+optional	O	O
+skate	O	O
+,	O	O
+so	O	O
+no	O	O
+indication	O	O
+of	O	O
+the	O	O
+potential	O	O
+lineup	O	O
+as	O	O
+of	O	O
+yet	O	O
+.	O	O
+Ellis	B-NEU	B-AE
+amp	O	O
+Volchenkov	B-NEU	B-AE
+skating	O	O
+.	O	O
+
+IMGID:1352098
+RT	O	O
+@	O	O
+WMutunga	O	O
+:	O	O
+Fare	O	O
+thee	O	O
+well	O	B-OE
+Prof	B-POS	B-AE
+Ali	I-POS	I-AE
+Mazrui	I-POS	I-AE
+.	O	O
+A	O	O
+great	O	B-OE
+brother	O	O
+and	O	O
+scholar	O	O
+.	O	O
+
+IMGID:46293
+RT	O	O
+@	O	O
+jasonjwilde	O	O
+:	O	O
+Here	O	O
+is	O	O
+what	O	O
+Starke	O	O
+,	O	O
+Fla	O	O
+.	O	O
+police	O	O
+seized	O	O
+from	O	O
+#	O	O
+Packers	O	O
+DT	O	O
+Letroy	B-NEU	B-AE
+Guion	I-NEU	I-AE
+.	O	O
+
+IMGID:108676
+Praise	O	B-OE
+goes	O	O
+to	O	O
+#	O	O
+faith	O	B-OE
+community	O	O
+of	O	O
+#	B-POS	B-AE
+Baltimore	I-POS	I-AE
+and	O	O
+to	O	O
+the	O	O
+#	O	O
+BaltimoreMayor	O	O
+for	O	O
+#	O	O
+leadership	O	O
+in	O	O
+healing	O	O
+the	O	O
+city	O	O
+.	O	O
+
+IMGID:34987
+A	O	O
+bold	O	O
+move	O	O
+-	O	O
+I	O	O
+like	O	B-OE
+it	O	O
+.	O	O
+RT	O	O
+:	O	O
+@	O	O
+erikmal	O	O
+:	O	O
+The	B-NEU	B-AE
+Boston	I-NEU	I-AE
+Globe	O	O
+goes	O	O
+all	O	O
+in	O	O
+.	O	O
+
+IMGID:115832
+RT	O	O
+@	O	O
+kjalee	O	O
+:	O	O
+Seriously	O	O
+Colgate	B-NEU	B-AE
+,	O	O
+do	O	O
+we	O	O
+really	O	O
+need	O	O
+gendered	O	O
+toothpaste	O	O
+?	O	O
+
+IMGID:1101213
+RT	O	O
+@	O	O
+VinDieselPage	O	O
+:	O	O
+Vin	B-POS	B-AE
+Diesel	I-POS	I-AE
+is	O	O
+Groot	O	O
+.	O	O
+.	O	O
+.	O	O
+@	O	O
+Guardians	O	O
+#	O	O
+GotG	O	O
+
+IMGID:1072361
+RT	O	O
+@	O	O
+JenTheRiot	O	O
+:	O	O
+BLOGGERS	O	O
+NEEDED	O	O
+!	O	O
+Please	O	O
+help	O	O
+with	O	O
+the	O	O
+Peace	B-POS	B-AE
+Love	I-POS	I-AE
+amp	O	O
+Romance	O	O
+tour	O	O
+.	O	O
+#	O	O
+SNRTG	O	O
+#	O	O
+IARTG	O	O
+
+IMGID:627711
+RCMP	B-NEU	B-AE
+confirm	O	O
+discovery	O	O
+of	O	O
+body	O	O
+in	O	O
+Juniper	B-NEG	B-AE
+.	O	O
+Search	O	O
+for	O	O
+missing	O	O
+woman	O	O
+called	O	O
+off	O	O
+.	O	O
+
+IMGID:67575
+RT	O	O
+@	O	O
+CoachellaFSHN	O	O
+:	O	O
+Avan	B-NEU	B-AE
+Jogia	I-NEU	I-AE
+
+IMGID:113913
+Tomorrow	O	O
+marks	O	O
+the	O	O
+Wonderful	O	B-OE
+236th	O	O
+Birthday	O	O
+of	O	O
+the	O	O
+United	B-POS	B-AE
+States	I-POS	I-AE
+Army	I-POS	I-AE
+-	O	O
+HOOAH	O	O
+!	O	O
+God	O	O
+Bless	O	B-OE
+America	B-POS	B-AE
+!	O	O
+
+IMGID:6003
+RT	O	O
+@	O	O
+nytimes	O	O
+:	O	O
+Father	O	O
+of	O	O
+Virginia	B-NEG	B-AE
+TV	I-NEG	I-AE
+reporter	O	O
+who	O	O
+was	O	O
+killed	O	B-OE
+on	O	O
+-	O	O
+air	O	O
+urges	O	O
+stricter	O	O
+gun	O	O
+laws	O	O
+
+IMGID:694025
+RT	O	O
+@	O	O
+mdj17	O	O
+:	O	O
+Its	O	O
+the	O	O
+NRA	B-NEG	B-AE
+?	O	O
+?	O	O
+?	O	O
+
+IMGID:119370
+Portugal	B-POS	B-AE
+1	O	O
+-	O	O
+0	O	O
+Serbia	B-NEU	B-AE
+
+IMGID:172952
+RT	O	O
+@	O	O
+AliffAbdulAziz	O	O
+:	O	O
+Every	O	O
+student	O	O
+love	O	B-OE
+Nasi	B-POS	B-AE
+Bujang	I-POS	I-AE
+.	O	O
+Except	O	O
+richie	O	O
+student	O	O
+.	O	O
+Lul	O	O
+
+IMGID:71427
+Tuesday	O	O
+in	O	O
+a	O	O
+pigsty	O	O
+.	O	O
+Joliet	B-NEU	B-AE
+,	O	O
+Illinois	B-NEU	B-AE
+
+IMGID:560264
+Public	B-NEU	B-AE
+Works	I-NEU	I-AE
+Authority	I-NEU	I-AE
+has	O	O
+announced	O	O
+a	O	O
+temp	O	O
+.	O	O
+closure	O	O
+on	O	O
+Shamal	B-NEU	B-AE
+Road	I-NEU	I-AE
+tomorrow	O	O
+.	O	O
+
+IMGID:1710936
+RT	O	O
+@	O	O
+Tha5SOSFamily	O	O
+:	O	O
+Ashton	B-POS	B-AE
+with	O	O
+@	O	O
+wastelxnd	O	O
+!	O	O
+
+IMGID:421413
+Union	B-NEG	B-AE
+Pacific	I-NEG	I-AE
+train	O	O
+trestle	O	O
+in	O	O
+Gilbert	B-NEG	B-AE
+goes	O	O
+up	O	O
+in	O	O
+flames	O	O
+.	O	O
+
+IMGID:1448547
+When	O	O
+old	O	O
+world	O	O
+meets	O	O
+new	O	O
+in	O	O
+Dublin	B-NEU	B-AE
+city	O	O
+#	O	O
+Bloomsday2015	O	O
+#	O	O
+iyfbloomsday	O	O
+
+IMGID:1297424
+Throwback	O	O
+Thursday	O	O
+of	O	O
+me	O	O
+,	O	O
+aged	O	O
+4	O	O
+,	O	O
+taking	O	O
+a	O	O
+ride	O	O
+with	O	O
+my	O	O
+best	O	B-OE
+mate	O	O
+very	O	O
+docile	O	O
+pet	O	O
+sheep	O	O
+Kate	B-POS	B-AE
+.	O	O
+#	O	O
+love	O	B-OE
+#	O	O
+tbt	O	O
+
+IMGID:96470
+RT	O	O
+@	O	O
+ProyectoAyudaJB	O	O
+:	O	O
+Rt	O	O
+por	O	O
+Jiley	B-NEU	B-AE
+#	O	O
+MTVHottest	O	O
+Justin	B-NEU	B-AE
+Bieber	I-NEU	I-AE
+
+IMGID:108810
+@	O	O
+lLoveCars	O	O
+Thanks	O	O
+for	O	O
+following	O	O
+.	O	O
+I	O	O
+love	O	B-OE
+#	B-POS	B-AE
+Toyota	I-POS	I-AE
+cars	O	O
+.	O	O
+
+IMGID:1349259
+RT	O	O
+@	O	O
+bennydiego	O	O
+:	O	O
+Jeb	B-NEG	B-AE
+is	O	O
+an	O	O
+absolute	O	O
+idiot	O	B-OE
+,	O	O
+I	O	O
+cannot	O	O
+lie	O	B-OE
+.	O	O
+#	O	O
+JebBush	O	O
+#	O	O
+NotAnotherBush	O	O
+
+IMGID:92007
+Pastor	O	O
+@	O	O
+KeithCraft	O	O
+is	O	O
+back	O	O
+in	O	O
+the	O	O
+house	O	O
+for	O	O
+#	O	O
+ExpandtheDream	O	O
+weekend	O	O
+!	O	O
+Join	O	O
+us	O	O
+Sat	O	O
+.	O	O
+6	O	O
+p	O	O
+.	O	O
+m	O	O
+.	O	O
+,	O	O
+Sun	B-NEU	B-AE
+.	O	O
+9	O	O
+amp	O	O
+11	O	O
+a	O	O
+.	O	O
+m	O	O
+.	O	O
+
+IMGID:33119
+RT	O	O
+@	O	O
+msnbc	O	O
+:	O	O
+Americans	O	O
+view	O	O
+Hillary	B-NEG	B-AE
+Clinton	O	O
+more	O	O
+unfavorably	O	O
+than	O	O
+they	O	O
+did	O	O
+a	O	O
+month	O	O
+ago	O	O
+:	O	O
+(	O	O
+Getty	O	O
+)	O	O
+
+IMGID:1124396
+@	O	O
+genhansen	O	O
+i	O	O
+think	O	O
+Kendall	B-POS	B-AE
+is	O	O
+wearing	O	O
+your	O	O
+prom	O	O
+dress	O	O
+!	O	O
+
+IMGID:12842
+Why	O	O
+rape	O	B-OE
+works	O	B-OE
+as	O	O
+oppression	O	B-OE
+amp	O	O
+why	O	O
+the	O	O
+UN	B-NEG	B-AE
+does	O	O
+not	O	O
+:	O	O
+interesting	O	B-OE
+views	O	O
+from	O	O
+Madeleine	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:1751912
+RT	O	O
+@	O	O
+WESH	O	O
+:	O	O
+Fmr	O	O
+.	O	O
+Brevard	B-NEG	B-AE
+County	I-NEG	I-AE
+teacher	O	O
+pleas	O	B-OE
+guilty	O	B-OE
+to	O	O
+sex	O	O
+with	O	O
+student	O	O
+
+IMGID:660284
+Malindi	B-NEU	B-AE
+means	O	O
+business	O	O
+.	O	O
+I	O	O
+agree	O	O
+with	O	O
+@	O	O
+JoyfulAmb	O	O
+@	O	O
+hlamulo4	O	O
+that	O	O
+this	O	O
+deserves	O	O
+a	O	O
+Frame	O	O
+!	O	O
+Kwaaaaaaaa	O	O
+
+IMGID:736406
+Writers	O	O
+are	O	O
+never	O	O
+fully	O	O
+present	O	O
+.	O	O
+Jessica	B-NEU	B-AE
+Soffer	I-NEU	I-AE
+#	O	O
+amwriting	O	O
+#	O	O
+writing	O	O
+
+IMGID:694873
+School	O	O
+holiday	O	O
+program	O	O
+kicks	O	O
+off	O	O
+in	O	O
+Kingston	B-NEU	B-AE
+and	O	O
+Glen	B-NEU	B-AE
+Eira	I-NEU	I-AE
+:	O	O
+
+IMGID:8001
+Egad	O	O
+.	O	O
+The	O	O
+chart	O	O
+lives	O	O
+!	O	O
+RT	O	O
+@	O	O
+robeanne	O	O
+:	O	O
+John	B-NEU	B-AE
+Moravec	I-NEU	I-AE
+-	O	O
+towards	O	O
+society	O	O
+3	O	O
+.	O	O
+0	O	O
+a	O	O
+new	O	O
+paradigm	O	O
+for	O	O
+21st	O	O
+century	O	O
+learning	O	O
+
+IMGID:50098
+RT	O	O
+@	O	O
+mashable	O	O
+:	O	O
+The	B-NEU	B-AE
+UK	I-NEU	I-AE
+political	O	O
+map	O	O
+now	O	O
+looks	O	O
+a	O	O
+lot	O	O
+like	O	B-OE
+Maggie	B-NEU	B-AE
+Simpson	I-NEU	I-AE
+
+IMGID:1312471
+I	O	O
+am	O	O
+Jerry	B-NEU	B-AE
+and	O	O
+I	O	O
+am	O	O
+one	O	O
+month	O	O
+old	O	O
+
+IMGID:1723362
+BCMS	B-POS	B-AE
+students	O	O
+stoked	O	O
+to	O	O
+meet	O	O
+Clara	B-POS	B-AE
+!	O	O
+!	O	O
+#	O	O
+clarasbigride	O	O
+
+IMGID:896410
+RT	O	O
+@	O	O
+OFA	O	O
+LA	O	O
+:	O	O
+Louisiana	B-NEU	B-AE
+:	O	O
+Add	O	O
+your	O	O
+name	O	O
+in	O	O
+support	O	B-OE
+of	O	O
+raising	O	O
+the	O	O
+Minimum	O	O
+Wage	O	O
+:	O	O
+#	O	O
+RaiseTheWage	O	O
+
+IMGID:73730
+Cultural	O	O
+artifacts	O	O
+.	O	O
+Beit	B-NEU	B-AE
+Ha	O	O
+'	O	O
+ir	O	O
+Museum	O	O
+,	O	O
+Tel	B-NEU	B-AE
+Aviv	I-NEU	I-AE
+
+IMGID:871751
+@	O	O
+MotherJones	O	O
+:	O	O
+Students	O	O
+at	O	O
+a	O	O
+Nebraska	B-NEU	B-AE
+high	I-NEU	I-AE
+school	I-NEU	I-AE
+can	O	O
+now	O	O
+pose	O	O
+with	O	O
+guns	O	O
+in	O	O
+senior	O	O
+portraits	O	O
+
+IMGID:414281
+Glass	B-POS	B-AE
+Cliff	I-POS	I-AE
+Walk	I-POS	I-AE
+at	O	O
+Yunyang	B-POS	B-AE
+Longgang	I-POS	I-AE
+,	O	O
+#	B-POS	B-AE
+Chongqing	I-POS	I-AE
+-	O	O
+#	B-POS	B-AE
+China	I-POS	I-AE
+#	O	O
+outdoors	O	O
+#	O	O
+ttot	O	O
+#	O	O
+amazing	O	B-OE
+
+IMGID:812992
+People	B-NEU	B-AE
+-	I-NEU	I-AE
+to	I-NEU	I-AE
+-	I-NEU	I-AE
+People	I-NEU	I-AE
+Programs	I-NEU	I-AE
+Offer	O	O
+Americans	O	O
+Legal	O	O
+Travel	O	O
+to	O	O
+Cuba	B-NEU	B-AE
+via	O	O
+@	O	O
+greenglobaltrvl	O	O
+#	O	O
+travel	O	O
+
+IMGID:1347104
+Goodbye	O	O
+to	O	O
+@	O	O
+GeneralClark	O	O
+.	O	O
+Now	O	O
+we	O	O
+welcome	O	B-OE
+Eurogroup	B-NEU	B-AE
+President	B-POS	B-AE
+Jeroen	I-POS	I-AE
+@	O	O
+J	O	O
+Dijsselbloem	O	O
+#	O	O
+ACEurozone	O	O
+
+IMGID:170834
+Cosmetic	O	O
+Dentist	O	O
+,	O	O
+Dr	O	O
+.	O	O
+Michael	O	O
+Schneider	O	O
+,	O	O
+introduces	O	O
+a	O	O
+zero	O	O
+-	O	O
+pain	O	B-OE
+smile	O	B-OE
+makeover	O	O
+TMRW	B-POS	B-AE
+!	O	O
+
+IMGID:242371
+Time	O	O
+to	O	O
+relax	O	O
+#	O	O
+fordedge	O	O
+#	O	O
+phoenix	O	O
+#	O	O
+geekout	O	O
+(	O	O
+@	O	O
+W	O	O
+Scottsdale	B-NEU	B-AE
+in	O	O
+Scottsdale	B-NEU	B-AE
+,	O	O
+AZ	B-NEU	B-AE
+)	O	O
+https	O	O
+:	O	O
+t	O	O
+.	O	O
+co	O	O
+GzEL51dOQD	O	O
+
+IMGID:922717
+RT	O	O
+@	O	O
+TheDailyEdge	O	O
+:	O	O
+Scott	B-NEG	B-AE
+Walker	I-NEG	I-AE
+:	O	O
+We	O	O
+should	O	O
+treat	O	O
+everyone	O	O
+the	O	O
+same	O	O
+in	O	O
+America	B-NEU	B-AE
+.	O	O
+Except	O	O
+women	O	O
+,	O	O
+of	O	O
+course	O	O
+.	O	O
+#	O	O
+GOPDebate	O	O
+
+IMGID:74998
+RT	O	O
+@	O	O
+WorIdStarComedy	O	O
+:	O	O
+every	O	O
+time	O	O
+rihanna	B-POS	B-AE
+goes	O	O
+to	O	O
+crop	O	O
+over	O	O
+fest	O	O
+it	O	O
+'	O	O
+s	O	O
+a	O	O
+holiday	O	O
+for	O	O
+us	O	O
+all	O	O
+
+IMGID:1745869
+RT	O	O
+@	O	O
+ThislsAmazing	O	O
+:	O	O
+Johnny	B-NEU	B-AE
+Depp	I-NEU	I-AE
+,	O	O
+1989	O	O
+
+IMGID:73553
+Charlotte	B-NEU	B-AE
+?	O	O
+
+IMGID:952916
+RT	O	O
+@	O	O
+LucianaBianchi	O	O
+:	O	O
+My	O	O
+thoughts	O	O
+go	O	O
+to	O	O
+all	O	O
+mothers	O	O
+and	O	O
+fathers	O	O
+in	O	O
+Kenya	B-NEU	B-AE
+.	O	O
+#	O	O
+147notjustanumber	O	O
+#	O	O
+KenyaAttack	O	O
+
+IMGID:1373165
+RT	O	O
+@	O	O
+OneGreenPlanet	O	O
+:	O	O
+4	O	O
+Reasons	O	O
+Zoo	O	O
+Elephants	O	O
+in	O	O
+America	B-NEU	B-AE
+Will	O	O
+Soon	O	O
+Be	O	O
+a	O	O
+Thing	O	O
+of	O	O
+the	O	O
+Past	O	O
+!	O	O
+
+IMGID:1331051
+RT	O	O
+@	O	O
+ProTapes	O	O
+:	O	O
+Amazing	O	B-OE
+masking	O	O
+tape	O	O
+sculpture	O	O
+by	O	O
+Pia	B-POS	B-AE
+Mannikko	I-POS	I-AE
+.	O	O
+It	O	O
+looks	O	O
+like	O	B-OE
+coral	O	O
+beneath	O	O
+the	O	O
+sea	O	O
+!	O	O
+
+IMGID:621724
+RT	O	O
+@	O	O
+GetrGeorgiee	O	O
+:	O	O
+Playin	O	O
+BO2	B-POS	B-AE
+with	O	O
+my	O	O
+niggas	O	O
+.	O	O
+@	O	O
+CHROME	O	O
+CFM	O	O
+@	O	O
+Couqi	O	O
+Mata	O	O
+@	O	O
+Kdangaah	O	O
+.	O	O
+
+IMGID:820763
+RT	O	O
+@	O	O
+kbyadgi	O	O
+:	O	O
+NTL	B-POS	B-AE
+training	O	O
+with	O	O
+these	O	O
+lovely	O	B-OE
+ladies	O	O
+!	O	O
+@	O	O
+RoKhannaUSA	O	O
+#	O	O
+CA17	O	O
+#	O	O
+WheresMike	O	O
+
+IMGID:63381
+RT	O	O
+@	O	O
+juventusfcen	O	O
+:	O	O
+Two	O	O
+special	O	O
+memories	O	O
+#	O	O
+OnThisDay	O	O
+:	O	O
+a	O	O
+UEFA	B-POS	B-AE
+Cup	I-POS	I-AE
+title	O	O
+in	O	O
+1977	O	O
+and	O	O
+our	O	O
+16th	O	O
+Scudetto	B-POS	B-AE
+in	O	O
+1975	O	O
+.	O	O
+
+IMGID:1061453
+@	O	O
+RunningReborn	O	O
+saw	O	O
+the	O	O
+t	O	O
+-	O	O
+shirt	O	O
+and	O	O
+met	O	O
+Shane	B-POS	B-AE
+on	O	O
+the	O	O
+bridge	O	O
+in	O	O
+Goring	B-NEU	B-AE
+
+IMGID:1814005
+Chilean	O	O
+pride	O	B-OE
+!	O	O
+Gabriela	B-POS	B-AE
+Mistral	I-POS	I-AE
+honoured	O	O
+on	O	O
+Google	B-NEU	B-AE
+today	O	O
+.	O	O
+#	B-POS	B-AE
+chile	I-POS	I-AE
+
+IMGID:534543
+RT	O	O
+@	O	O
+CraigSJ	O	O
+:	O	O
+Kanye	B-NEU	B-AE
+was	O	O
+about	O	O
+four	O	O
+five	O	O
+seconds	O	O
+from	O	O
+snatching	O	O
+that	O	O
+microphone	O	O
+.	O	O
+
+IMGID:494092
+@	O	O
+BuzzFeed	O	O
+:	O	O
+The	O	O
+ages	O	O
+of	O	O
+all	O	O
+of	O	O
+the	O	O
+Disney	B-NEU	B-AE
+Princesses	I-NEU	I-AE
+This	O	O
+is	O	O
+quite	O	O
+worrying	O	B-OE
+.	O	O
+
+IMGID:414312
+RT	O	O
+@	O	O
+SonAutosClasico	O	O
+:	O	O
+Fiat	B-NEU	B-AE
+500	I-NEU	I-AE
+
+IMGID:114526
+RT	O	O
+@	O	O
+alanstourhead	O	O
+:	O	O
+Dawn	O	B-OE
+at	O	O
+Stourhead	B-POS	B-AE
+!	O	O
+Have	O	O
+a	O	O
+good	O	B-OE
+day	O	O
+.	O	O
+
+IMGID:335477
+Goodbye	O	O
+to	O	O
+Anacortes	B-NEU	B-AE
+
+IMGID:1349752
+CEO	O	O
+@	O	O
+InfinixMobility	O	O
+Mr	B-NEU	B-AE
+Jiang	I-NEU	I-AE
+announcing	O	O
+the	O	O
+bundle	O	O
+that	O	O
+comes	O	O
+with	O	O
+he	O	O
+Hot	O	B-OE
+2	O	O
+1g	O	O
+@	O	O
+N500	O	O
+for	O	O
+a	O	O
+year	O	O
+#	O	O
+AndroidOneNG	O	O
+
+IMGID:1994717
+Elegant	O	B-OE
+floral	O	O
+illustrations	O	O
+by	O	O
+Noumeda	B-NEU	B-AE
+Carbone	I-NEU	I-AE
+
+IMGID:93761
+Owned	O	O
+this	O	O
+for	O	O
+years	O	O
+.	O	O
+Learned	O	O
+at	O	O
+TCMFF	O	O
+2014	O	O
+part	O	O
+of	O	O
+1938	O	O
+whirlwind	O	O
+press	O	O
+to	O	O
+hype	O	B-OE
+ADVENTURES	B-POS	B-AE
+OF	I-POS	I-AE
+ROBIN	I-POS	I-AE
+HOOD	I-POS	I-AE
+.	O	O
+#	O	O
+tcmparty	O	O
+
+IMGID:444267
+RT	O	O
+@	O	O
+onedirection	O	O
+:	O	O
+Dublin	B-NEU	B-AE
+,	O	O
+Croke	O	O
+Park	O	O
+.	O	O
+.	O	O
+.	O	O
+Are	O	O
+you	O	O
+ready	O	B-OE
+for	O	O
+this	O	O
+?	O	O
+#	O	O
+WWATour	O	O
+
+IMGID:12760
+RT	O	O
+@	O	O
+AndOneNBA	O	O
+:	O	O
+Lebron	B-NEU	B-AE
+James	I-NEU	I-AE
+on	O	O
+an	O	O
+outlet	O	O
+pass	O	O
+
+IMGID:737267
+An	O	O
+original	O	O
+idea	O	O
+needs	O	O
+time	O	O
+to	O	O
+percolate	O	O
+.	O	O
+Michael	B-NEU	B-AE
+H	I-NEU	I-AE
+Weber	I-NEU	I-AE
+#	O	O
+amwriting	O	O
+#	O	O
+writing	O	O
+#	O	O
+writingtip	O	O
+
+IMGID:253776
+He	O	O
+always	O	O
+knew	O	O
+you	O	O
+were	O	O
+meant	O	O
+for	O	O
+great	O	B-OE
+things	O	O
+.	O	O
+Martha	B-POS	B-AE
+Kent	I-POS	I-AE
+#	O	O
+MANOFSTEEL	O	O
+
+IMGID:1764409
+We	O	O
+Miss	O	B-OE
+u	O	O
+Jenni	B-POS	B-AE
+
+IMGID:119727
+RT	O	O
+@	O	O
+PupsPorn	O	O
+:	O	O
+Great	O	B-OE
+Dane	B-POS	B-AE
+Pup	I-POS	I-AE
+and	O	O
+Lab	B-POS	B-AE
+Pup	I-POS	I-AE
+.	O	O
+
+IMGID:1285562
+Come	O	O
+visit	O	O
+Little	B-POS	B-AE
+Romo	I-POS	I-AE
+!	O	O
+She	O	O
+cuter	O	O
+than	O	O
+ever	O	O
+and	O	O
+even	O	O
+more	O	O
+mischievous	O	B-OE
+.	O	O
+Photo	O	O
+by	O	O
+Marianne	B-NEU	B-AE
+Hale	I-NEU	I-AE
+#	O	O
+SFGiants	O	O
+
+IMGID:214951
+@	O	O
+FatalMoves	O	O
+Pls	O	O
+use	O	O
+-	O	O
+goes	O	O
+directly	O	O
+to	O	O
+Provincial	B-NEU	B-AE
+Traffic	I-NEU	I-AE
+Services	O	O
+.	O	O
+See	O	O
+screenshot	O	O
+.	O	O
+
+IMGID:301499
+RT	O	O
+@	O	O
+lonelyplanetUSA	O	O
+:	O	O
+3	O	O
+easy	O	B-OE
+,	O	O
+family	O	O
+-	O	O
+friendly	O	B-OE
+road	O	O
+trips	O	O
+in	O	O
+the	O	O
+USA	B-NEU	B-AE
+#	O	O
+lproadtrip	O	O
+
+IMGID:65091
+RT	O	O
+@	O	O
+ManUtdGraphics	O	O
+:	O	O
+Awards	O	B-OE
+The	O	O
+winner	O	B-OE
+of	O	O
+the	O	O
+Jimmy	B-NEU	B-AE
+Murphy	I-NEU	I-AE
+Young	I-NEU	I-AE
+Player	I-NEU	I-AE
+of	I-NEU	I-AE
+the	I-NEU	I-AE
+Year	I-NEU	I-AE
+award	I-NEU	I-AE
+for	O	O
+the	O	O
+2013	O	O
+14	O	O
+season	O	O
+is	O	O
+James	B-POS	B-AE
+Wilson	I-POS	I-AE
+!	O	O
+#	B-POS	B-AE
+MUFC	I-POS	I-AE
+ht	O	O
+
+IMGID:38329
+RT	O	O
+@	O	O
+MileyCyrus	O	O
+:	O	O
+Tigger	O	O
+in	O	O
+Germany	B-NEU	B-AE
+
+IMGID:1450983
+RT	O	O
+@	O	O
+Little	O	O
+Interest	O	O
+:	O	O
+My	O	O
+milk	O	O
+is	O	O
+best	O	B-OE
+if	O	O
+used	O	O
+by	O	O
+Mario	B-POS	B-AE
+.	O	O
+#	O	O
+MildyInteresting	O	O
+
+IMGID:73246
+RT	O	O
+@	O	O
+ChiPhotoGuy	O	O
+:	O	O
+Brocken	B-NEU	B-AE
+spectre	O	O
+from	O	O
+@	O	O
+SkydeckChicago	O	O
+gt	O	O
+
+IMGID:1701666
+RT	O	O
+@	O	O
+HuffPostTech	O	O
+:	O	O
+Happy	O	B-OE
+birthday	O	O
+to	O	O
+Henry	B-POS	B-AE
+Ford	I-POS	I-AE
+,	O	O
+who	O	O
+was	O	O
+born	O	O
+150	O	O
+years	O	O
+ago	O	O
+today	O	O
+!	O	O
+(	O	O
+Photo	O	O
+:	O	O
+Getty	B-NEU	B-AE
+Images	I-NEU	I-AE
+)	O	O
+
+IMGID:117083
+RT	O	O
+@	O	O
+ForeignPolicy	O	O
+:	O	O
+Can	O	O
+Pope	B-NEU	B-AE
+Francis	I-NEU	I-AE
+heal	O	B-OE
+the	O	O
+political	O	O
+divide	O	O
+on	O	O
+climate	O	O
+change	O	O
+?	O	O
+
+IMGID:1110932
+RT	O	O
+@	O	O
+KResearcher	O	O
+:	O	O
+The	O	O
+side	O	O
+of	O	O
+Mandera	B-NEU	B-AE
+County	I-NEU	I-AE
+never	O	O
+shown	O	O
+.	O	O
+(	O	O
+Gadudia	B-NEU	B-AE
+irrigation	O	O
+scheme	O	O
+)	O	O
+
+IMGID:35569
+Microsoft	B-NEG	B-AE
+is	O	O
+Suddenly	O	O
+Dangerous	O	B-OE
+to	O	O
+Apple	O	O
+and	O	O
+Google	B-NEU	B-AE
+
+IMGID:609482
+Ford	B-NEG	B-AE
+Otosan	I-NEG	I-AE
+Disagreement	O	B-OE
+Continues	O	O
+
+IMGID:820101
+What	O	O
+a	O	O
+start	O	O
+to	O	O
+the	O	O
+final	O	O
+tour	O	O
+!	O	O
+Quincy	B-POS	B-AE
+is	O	O
+ready	O	B-OE
+to	O	O
+shake	O	B-OE
+it	O	O
+up	O	O
+!	O	O
+#	O	O
+100yrsEnough	O	O
+#	O	O
+BringBackIL	O	O
+
+IMGID:571778
+RT	O	O
+@	O	O
+yizmo	O	O
+:	O	O
+YouTube	B-POS	B-AE
+beats	O	O
+Facebook	B-NEU	B-AE
+amp	O	O
+Google	B-POS	B-AE
+to	O	O
+become	O	O
+top	O	B-OE
+youth	O	O
+brand	O	O
+
+IMGID:32749
+RT	O	O
+@	O	O
+AdrianEdmondson	O	O
+:	O	O
+Found	O	O
+a	O	O
+shop	O	O
+that	O	O
+Rik	B-NEU	B-AE
+would	O	O
+have	O	O
+loved	O	B-OE
+.	O	O
+.	O	O
+.	O	O
+(	O	O
+His	O	O
+three	O	O
+basic	O	O
+needs	O	O
+satisfied	O	B-OE
+in	O	O
+one	O	O
+place	O	O
+)	O	O
+.	O	O
+
+IMGID:1359311
+More	O	O
+needed	O	O
+,	O	O
+preferably	O	B-OE
+ones	O	O
+grown	O	O
+in	O	O
+England	B-NEU	B-AE
+#	O	O
+nativetoaisia	O	O
+
+IMGID:45690
+RT	O	O
+@	O	O
+vergecars	O	O
+:	O	O
+Ghostbusters	B-NEU	B-AE
+director	O	O
+Paul	B-NEG	B-AE
+Feig	I-NEG	I-AE
+shows	O	O
+off	O	O
+the	O	O
+new	O	O
+Ecto	B-NEU	B-AE
+-	I-NEU	I-AE
+1	I-NEU	I-AE
+car	O	O
+
+IMGID:30407
+RT	O	O
+@	O	O
+daisyjuggalot	O	O
+:	O	O
+Ppl	O	O
+be	O	O
+like	O	B-OE
+in	O	O
+Africa	B-POS	B-AE
+everyone	O	O
+have	O	O
+their	O	O
+hutts	O	O
+or	O	O
+live	O	O
+in	O	O
+the	O	O
+bush	O	O
+!	O	O
+Well	O	B-OE
+Welcome	O	B-OE
+to	O	O
+my	O	O
+#	O	O
+Hutt	O	O
+
+IMGID:1945937
+Dikgacoi	B-NEU	B-AE
+sent	O	O
+to	O	O
+boot	O	O
+camp	O	O
+https	O	O
+:	O	O
+t	O	O
+.	O	O
+co	O	O
+C4xrKRWae6	O	O
+
+IMGID:32115
+RT	O	O
+@	O	O
+ketchupxmgc	O	O
+:	O	O
+Rt	O	O
+for	O	O
+Louis	O	O
+Tomlinson	O	O
+Fav	O	B-OE
+for	O	O
+Carter	B-NEU	B-AE
+Reynolds	I-NEU	I-AE
+
+IMGID:73288
+RT	O	O
+@	O	O
+starsandstripes	O	O
+:	O	O
+DOD	O	O
+:	O	O
+80	O	O
+percent	O	O
+of	O	O
+airstrikes	O	O
+against	O	O
+#	O	O
+IslamicState	O	O
+conducted	O	O
+by	O	O
+the	O	O
+United	B-NEU	B-AE
+States	I-NEU	I-AE
+
+IMGID:1070462
+RT	O	O
+@	O	O
+DnT	O	O
+Events	O	O
+:	O	O
+Meet	O	O
+us	O	O
+in	O	O
+Adams	B-NEU	B-AE
+Morgan	I-NEU	I-AE
+tonight	O	O
+#	O	O
+DistrictSundays	O	O
+
+IMGID:790683
+VOTE	O	O
+TRUMP	O	B-OE
+FUCK	O	B-OE
+Ted	O	O
+Cruz	O	O
+tries	O	O
+to	O	O
+pull	O	O
+Trump	B-NEG	B-AE
+card	O	O
+on	O	O
+Senate	B-NEU	B-AE
+floor	O	O
+https	O	O
+:	O	O
+t	O	O
+.	O	O
+co	O	O
+DMiXRZC9Qm	O	O
+
+IMGID:1763285
+RT	O	O
+@	O	O
+SportsCenter	O	O
+:	O	O
+Kevin	B-POS	B-AE
+Durant	I-POS	I-AE
+becomes	O	O
+2nd	O	O
+-	O	O
+youngest	O	O
+player	O	O
+in	O	O
+NBA	B-NEU	B-AE
+history	O	O
+to	O	O
+score	O	O
+15	O	O
+,	O	O
+000	O	O
+career	O	O
+points	O	O
+.	O	O
+
+IMGID:71582
+These	O	O
+guys	O	O
+were	O	O
+born	O	O
+1992	O	O
+-	O	O
+94	O	O
+:	O	O
+Addison	B-NEU	B-AE
+Russell	I-NEU	I-AE
+,	O	O
+Soler	B-NEU	B-AE
+,	O	O
+Schwarber	B-NEU	B-AE
+,	O	O
+Baez	B-NEU	B-AE
+.	O	O
+#	O	O
+Cubs	O	O
+in	O	O
+Mesa	B-NEU	B-AE
+:	O	O
+
+IMGID:73787
+Hello	O	O
+,	O	O
+Israel	B-POS	B-AE
+!	O	O
+Tel	B-POS	B-AE
+Aviv	I-POS	I-AE
+and	O	O
+the	O	O
+view	O	O
+to	O	O
+Jaffa	B-POS	B-AE
+
+IMGID:71339
+Plumbers	O	O
+for	O	O
+Rahm	B-NEU	B-AE
+Emanuel	I-NEU	I-AE
+at	O	O
+their	O	O
+Union	B-NEU	B-AE
+Hall	I-NEU	I-AE
+.	O	O
+Election	O	O
+results	O	O
+coming	O	O
+in	O	O
+now	O	O
+:	O	O
+
+IMGID:603511
+#	B-NEG	B-AE
+Barnstable	I-NEG	I-AE
+Harbor	I-NEG	I-AE
+after	O	O
+the	O	O
+big	O	O
+northeastern	O	O
+!	O	O
+12	O	O
+inches	O	O
+of	O	O
+heavy	O	O
+slushy	O	O
+white	O	O
+stuff	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:553112
+LG	O	O
+amp	O	O
+E	O	O
+crews	O	O
+about	O	O
+to	O	O
+start	O	O
+work	O	B-OE
+on	O	O
+an	O	O
+apartment	O	O
+complex	O	B-OE
+off	O	O
+Westport	B-NEU	B-AE
+Road	I-NEU	I-AE
+.	O	O
+Lots	O	O
+of	O	O
+tree	O	O
+limbs	O	O
+down	O	O
+.	O	O
+#	O	O
+louwx	O	O
+
+IMGID:9870
+Errybody	O	O
+say	O	O
+hello	O	O
+to	O	O
+Lupin	B-POS	B-AE
+in	O	O
+his	O	O
+fancy	O	B-OE
+home	O	O
+donated	O	O
+by	O	O
+his	O	O
+godmother	O	O
+,	O	O
+@	O	O
+PerynSchmitt	O	O
+:	O	O
+)	O	O
+
+IMGID:676993
+RT	O	O
+@	O	O
+DisneySports	O	O
+:	O	O
+Joe	B-POS	B-AE
+Flacco	I-POS	I-AE
+and	O	O
+Mickey	B-POS	B-AE
+Mouse	I-POS	I-AE
+at	O	O
+Magic	B-NEU	B-AE
+Kingdom	I-NEU	I-AE
+parade	O	O
+@	O	O
+WaltDisneyWorld	O	O
+#	O	O
+imgoingtodisney	O	O
+#	B-NEU	B-AE
+ravens	I-NEU	I-AE
+#	O	O
+SuperBowlXLVII	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:127479
+@	O	O
+djdoug	O	O
+Great	O	B-OE
+businesses	O	O
+leader	O	O
+(	O	O
+s	O	O
+)	O	O
+understand	O	O
+how	O	O
+people	O	O
+work	O	B-OE
+,	O	O
+how	O	O
+they	O	O
+think	O	O
+and	O	O
+how	O	O
+they	O	O
+feel	O	O
+.	O	O
+Chip	B-NEU	B-AE
+Conley	I-NEU	I-AE
+
+IMGID:425740
+Gloomy	O	B-OE
+#	B-NEG	B-AE
+Bali	I-NEG	I-AE
+day	O	O
+
+IMGID:481155
+Cool	O	B-OE
+bike	O	O
+stuff	O	O
+in	O	O
+Baltimore	B-NEU	B-AE
+
+IMGID:124650
+RT	O	O
+@	O	O
+emilyjwils	O	O
+:	O	O
+Spotted	O	O
+underground	O	O
+in	O	O
+Tokyo	B-NEU	B-AE
+.	O	O
+
+IMGID:647159
+You	O	O
+are	O	O
+invited	O	O
+to	O	O
+our	O	O
+BBQ	B-NEU	B-AE
+Garden	I-NEU	I-AE
+Party	I-NEU	I-AE
+on	O	O
+Sat	O	O
+20	O	O
+September	O	O
+at	O	O
+deafPLUS	B-NEU	B-AE
+,	O	O
+Trinity	B-NEU	B-AE
+Centre	I-NEU	I-AE
+,	O	O
+London	B-NEU	B-AE
+.	O	O
+Pls	O	O
+RT	O	O
+and	O	O
+share	O	O
+.	O	O
+
+IMGID:1308471
+RT	O	O
+@	O	O
+THR	O	O
+:	O	O
+TV	O	O
+Ratings	O	O
+:	O	O
+Bruce	B-POS	B-AE
+Jenner	I-POS	I-AE
+Interview	O	O
+Nabs	B-POS	B-AE
+16	O	O
+.	O	O
+9	O	O
+Million	O	O
+Viewers	O	O
+
+IMGID:1327229
+RT	O	O
+@	O	O
+GuyKawasaki	O	O
+:	O	O
+7	O	O
+Tips	O	O
+for	O	O
+Upping	O	O
+Your	O	O
+#	O	O
+SocialMedia	O	O
+Game	O	O
+via	O	O
+@	B-NEU	B-AE
+TIME	I-NEU	I-AE
+
+IMGID:62450
+RT	O	O
+@	O	O
+ThislsAmazing	O	O
+:	O	O
+How	O	O
+the	O	O
+opening	O	O
+crawl	O	O
+of	O	O
+Star	B-NEU	B-AE
+Wars	I-NEU	I-AE
+was	O	O
+filmed	O	O
+
+IMGID:681877
+Take	O	O
+selfie	O	O
+amp	O	O
+post	O	O
+using	O	O
+#	O	O
+Glasgow2015	O	O
+to	O	O
+win	O	B-OE
+pair	O	O
+tickets	O	O
+to	O	O
+@	O	O
+IPCSwimming	O	O
+World	O	O
+Champs	O	O
+!	O	O
+Today	O	O
+in	O	O
+Buchanan	B-NEU	B-AE
+St	I-NEU	I-AE
+,	O	O
+Glasgow	B-NEU	B-AE
+
+IMGID:810178
+Head	O	O
+pull	O	O
+show	O	O
+down	O	O
+at	O	O
+Lathrop	B-NEU	B-AE
+#	O	O
+awg2014	O	O
+#	O	O
+arcticsports	O	O
+
+IMGID:73480
+Harold	B-NEU	B-AE
+Washington	I-NEU	I-AE
+Library	I-NEU	I-AE
+
+IMGID:662854
+the	O	O
+most	O	O
+delicious	O	B-OE
+breakfast	O	O
+in	O	O
+the	O	O
+world	O	O
+!	O	O
+So	O	O
+love	O	B-OE
+sandwich	O	O
+!	O	O
+!	O	O
+Lint	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+Bella	B-POS	B-AE
+also	O	O
+liked	O	B-OE
+it	O	O
+!	O	O
+)	O	O
+)	O	O
+)	O	O
+
+IMGID:117945
+A3	O	O
+:	O	O
+My	O	O
+beautiful	O	B-OE
+,	O	O
+Bob	B-POS	B-AE
+Marley	I-POS	I-AE
+is	O	O
+resting	O	O
+up	O	O
+for	O	O
+tomorrows	O	O
+ride	O	O
+:	O	O
+#	O	O
+bikeschool	O	O
+
+IMGID:896331
+RT	O	O
+@	O	O
+OFA	O	O
+TN	O	O
+:	O	O
+These	O	O
+ladies	O	O
+in	O	O
+#	B-NEU	B-AE
+Knoxville	I-NEU	I-AE
+know	O	O
+#	O	O
+RaiseTheWage	O	O
+creates	O	O
+better	O	B-OE
+economic	O	O
+opportunity	O	O
+for	O	O
+all	O	O
+Americans	O	O
+
+IMGID:1357029
+RT	O	O
+@	O	O
+TheCWW	O	O
+:	O	O
+President	B-NEU	B-AE
+Eisenhower	I-NEU	I-AE
+
+IMGID:283090
+RT	O	O
+@	O	O
+AlinaDal	O	O
+F	O	O
+:	O	O
+Green	O	O
+was	O	O
+the	O	O
+silence	O	O
+,	O	O
+wet	O	O
+was	O	O
+the	O	O
+light	O	O
+,	O	O
+the	O	O
+month	O	O
+of	O	O
+June	O	O
+trembled	O	O
+like	O	B-OE
+a	O	O
+butterfly	O	O
+.	O	O
+Pablo	B-NEU	B-AE
+Neruda	I-NEU	I-AE
+
+IMGID:91196
+Elevate	B-NEU	B-AE
+Life	I-NEU	I-AE
+Worship	I-NEU	I-AE
+is	O	O
+holding	O	O
+open	O	O
+auditions	O	O
+for	O	O
+vocals	O	O
+and	O	O
+band	O	O
+on	O	O
+July	O	O
+26	O	O
+!	O	O
+Learn	O	O
+more	O	O
+:	O	O
+
+IMGID:769904
+RT	O	O
+@	O	O
+Newsroompostcom	O	O
+:	O	O
+HAL	B-NEU	B-AE
+hands	O	O
+over	O	O
+BrahMos	B-NEU	B-AE
+missile	O	O
+integrated	O	B-OE
+Su	B-NEU	B-AE
+-	I-NEU	I-AE
+30	I-NEU	I-AE
+to	O	O
+IAF	B-NEU	B-AE
+
+IMGID:418409
+No	O	O
+one	O	O
+from	O	O
+public	O	O
+steps	O	O
+up	O	O
+to	O	O
+speak	O	O
+in	O	O
+favor	O	B-OE
+of	O	O
+the	O	O
+asking	O	O
+Mayor	B-NEU	B-AE
+Sims	I-NEU	I-AE
+to	O	O
+resign	O	O
+.	O	O
+Several	O	O
+stand	O	O
+to	O	O
+speak	O	O
+against	O	O
+.	O	O
+
+IMGID:478169
+Flash	B-NEG	B-AE
+Flood	I-NEG	I-AE
+Warning	I-NEG	I-AE
+in	O	O
+effect	O	O
+for	O	O
+Sussex	B-NEG	B-AE
+county	O	O
+until	O	O
+2am	O	O
+.	O	O
+Watch	O	O
+continues	O	O
+until	O	O
+3am	O	O
+.	O	O
+@	O	O
+PIX11News	O	O
+
+IMGID:1779713
+RT	O	O
+@	O	O
+ntvkenya	O	O
+:	O	O
+Kenya	B-NEG	B-AE
+Airways	I-NEG	I-AE
+posts	O	O
+record	O	O
+Sh25	O	O
+.	O	O
+7bn	O	O
+net	O	O
+loss	O	B-OE
+,	O	O
+compared	O	O
+to	O	O
+loss	O	B-OE
+of	O	O
+Sh3	O	O
+.	O	O
+3bn	O	O
+in	O	O
+previous	O	O
+financial	O	O
+year	O	O
+
+IMGID:820225
+Enjoyed	O	B-OE
+our	O	O
+morning	O	O
+visit	O	O
+to	O	O
+Tennant	B-POS	B-AE
+Truck	I-POS	I-AE
+Lines	I-POS	I-AE
+in	O	O
+Colona	B-NEU	B-AE
+for	O	O
+early	O	O
+voting	O	O
+rally	O	O
+!	O	O
+Vote	O	O
+today	O	O
+!	O	O
+
+IMGID:1320318
+RT	O	O
+@	O	O
+SkyFootball	O	O
+:	O	O
+Andre	B-POS	B-AE
+Ayew	I-POS	I-AE
+is	O	O
+making	O	O
+quite	O	O
+an	O	O
+impression	O	O
+on	O	O
+the	O	O
+Premier	B-NEU	B-AE
+League	I-NEU	I-AE
+with	O	O
+#	B-POS	B-AE
+Swans	I-POS	I-AE
+!	O	O
+
+IMGID:595603
+RT	O	O
+@	O	O
+WizardGirlsNBA	O	O
+:	O	O
+Excited	O	B-OE
+to	O	O
+have	O	O
+Cheerleaders	O	O
+Gdynia	B-POS	B-AE
+here	O	O
+the	O	O
+way	O	O
+from	O	O
+Poland	O	O
+for	O	O
+#	O	O
+PolishHeritageNight	O	O
+#	O	O
+WizKings	O	O
+
+IMGID:62796
+RT	O	O
+@	O	O
+SportsCenter	O	O
+:	O	O
+Phil	B-POS	B-AE
+Mickelson	I-POS	I-AE
+is	O	O
+5	O	O
+strokes	O	O
+back	O	O
+.	O	O
+The	O	O
+last	O	O
+time	O	O
+he	O	O
+won	O	B-OE
+a	O	O
+major	O	O
+,	O	O
+he	O	O
+trailed	O	O
+by	O	O
+5	O	O
+strokes	O	O
+entering	O	O
+final	O	O
+round	O	O
+.	O	O
+
+IMGID:94123
+!	O	O
+!	O	O
+!	O	O
+RT	O	O
+@	O	O
+RBMA	O	O
+A	O	O
+guide	O	O
+to	O	O
+avant	O	O
+-	O	O
+garde	O	O
+jazz	O	O
+musician	O	O
+and	O	O
+activist	O	O
+Kelan	B-NEU	B-AE
+Philip	I-NEU	I-AE
+Cohran	I-NEU	I-AE
+-	O	O
+-	O	O
+#	O	O
+mag	O	O
+
+IMGID:300911
+Nelwyn	B-POS	B-AE
+was	O	O
+EXCELLENT	O	B-OE
+with	O	O
+her	O	O
+communication	O	O
+.	O	O
+.	O	O
+.	O	O
+Thanks	O	O
+for	O	O
+a	O	O
+wonderful	O	B-OE
+swap	O	O
+-	O	O
+Daniel	B-POS	B-AE
+
+IMGID:254520
+RT	O	O
+@	O	O
+Suits	O	O
+USA	O	O
+:	O	O
+Donna	B-POS	B-AE
+is	O	O
+more	O	O
+than	O	O
+just	O	O
+a	O	O
+secretary	O	O
+.	O	O
+RT	O	O
+if	O	O
+you	O	O
+agree	O	O
+.	O	O
+#	O	O
+Suits	O	O
+
+IMGID:24431
+Time	O	O
+for	O	O
+a	O	O
+short	O	O
+break	O	B-OE
+in	O	O
+Riga	B-NEU	B-AE
+before	O	O
+heading	O	O
+to	O	O
+airport	O	O
+.	O	O
+Great	O	B-OE
+time	O	O
+in	O	O
+Latvia	B-POS	B-AE
+!	O	O
+
+IMGID:384882
+RT	O	O
+@	O	O
+WRCB	O	O
+:	O	O
+South	B-NEU	B-AE
+Carolina	I-NEU	I-AE
+House	I-NEU	I-AE
+votes	O	O
+to	O	O
+remove	O	O
+Confederate	B-NEU	B-AE
+flag	I-NEU	I-AE
+from	O	O
+Capitol	B-NEU	B-AE
+grounds	O	O
+
+IMGID:1486617
+RT	O	O
+@	O	O
+steventurous	O	O
+:	O	O
+This	O	O
+Pluto	B-POS	B-AE
+image	O	O
+is	O	O
+really	O	O
+stunning	O	B-OE
+.	O	O
+
+IMGID:74091
+RT	O	O
+@	O	O
+GeorgeTakei	O	O
+:	O	O
+Well	O	B-OE
+said	O	O
+,	O	O
+Ms	O	O
+.	O	O
+Jenner	B-POS	B-AE
+.	O	O
+
+IMGID:317317
+RT	O	O
+@	O	O
+HannahSills	O	O
+MP	O	O
+:	O	O
+Thanks	O	O
+@	O	O
+GNev2	O	O
+@	O	O
+hotelfootballuk	O	O
+Ethan	B-POS	B-AE
+is	O	O
+one	O	O
+very	O	O
+happy	O	B-OE
+birthday	O	O
+boy	O	O
+.	O	O
+
+IMGID:1352028
+@	O	O
+julesspecs	O	O
+more	O	O
+awesomeness	O	B-OE
+!	O	O
+#	B-POS	B-AE
+NewYork	I-POS	I-AE
+
+IMGID:554970
+RT	O	O
+@	O	O
+darthvette	O	O
+:	O	O
+Beautiful	O	B-OE
+Street	O	O
+View	O	O
+Somewhere	O	O
+in	O	O
+Verona	B-POS	B-AE
+,	O	O
+Italy	B-POS	B-AE
+.	O	O
+.	O	O
+
+IMGID:1310063
+Hi	O	O
+I	O	O
+am	O	O
+Shimba	B-POS	B-AE
+
+IMGID:638788
+RT	O	O
+@	O	O
+DepressedDarth	O	O
+:	O	O
+Jango	B-NEU	B-AE
+Fett	I-NEU	I-AE
+
+IMGID:35921
+RT	O	O
+@	O	O
+DMTryptamiiine	O	O
+:	O	O
+Joey	B-NEU	B-AE
+Badass	I-NEU	I-AE
+
+IMGID:759594
+RT	O	O
+@	O	O
+DazedMagazine	O	O
+:	O	O
+Watch	O	O
+a	O	O
+German	B-NEG	B-AE
+news	O	O
+anchor	O	O
+call	O	O
+out	O	O
+racism	O	B-OE
+against	O	O
+refugees	O	O
+live	O	O
+on	O	O
+air	O	O
+:	O	O
+
+IMGID:1751885
+RT	O	O
+@	O	O
+WESH	O	O
+:	O	O
+Video	O	O
+:	O	O
+Valencia	B-NEU	B-AE
+College	I-NEU	I-AE
+sued	O	B-OE
+over	O	O
+forced	O	O
+vaginal	O	O
+exams	O	O
+
+IMGID:63915
+RT	O	O
+@	O	O
+Inspirationf	O	O
+:	O	O
+Moore	O	O
+'	O	O
+s	O	O
+law	O	O
+visualized	O	O
+through	O	O
+the	O	O
+evolution	O	O
+of	O	O
+Lara	B-NEU	B-AE
+Croft	I-NEU	I-AE
+
+IMGID:499573
+RT	O	O
+@	O	O
+SMendesTour	O	O
+:	O	O
+Shawn	B-NEU	B-AE
+with	O	O
+Ohio	B-NEU	B-AE
+squad	O	O
+today	O	O
+at	O	O
+his	O	O
+M	O	O
+amp	O	O
+G	O	O
+in	O	O
+Cleveland	B-NEU	B-AE
+,	O	O
+OH	B-NEU	B-AE
+.	O	O
+(	O	O
+7	O	O
+21	O	O
+-	O	O
+2015	O	O
+)	O	O
+.	O	O
+@	O	O
+ayhtdwshawn	O	O
+
+IMGID:466853
+@	O	O
+mrpatulski	O	O
+Mayor	B-NEU	B-AE
+Carcetti	I-NEU	I-AE
+did	O	O
+you	O	O
+say	O	O
+?	O	O
+
+IMGID:118562
+RT	O	O
+@	O	O
+90swomen	O	O
+:	O	O
+Naomi	B-POS	B-AE
+Campbell	I-POS	I-AE
+and	O	O
+Michael	B-POS	B-AE
+Jackson	I-POS	I-AE
+x	O	O
+90s	O	O
+.	O	O
+
+IMGID:655757
+RT	O	O
+@	O	O
+AlwaysActions	O	O
+:	O	O
+BALTIMORE	B-NEG	B-AE
+:	O	O
+25	O	O
+Shot	O	O
+In	O	O
+72	O	O
+Hours	O	O
+,	O	O
+9	O	O
+Killed	O	B-OE
+@	O	O
+BlueAlertUs	O	O
+
+IMGID:1845563
+#	O	O
+goodbye	O	O
+pic	O	O
+by	O	O
+Teresa	B-NEU	B-AE
+Freitas	I-NEU	I-AE
+
+IMGID:93679
+RT	O	O
+@	O	O
+GoIdenEra	O	O
+:	O	O
+Elvis	B-NEU	B-AE
+amp	O	O
+Priscilla	B-NEU	B-AE
+.	O	O
+
+IMGID:115220
+Anyone	O	O
+near	O	O
+Akron	B-NEU	B-AE
+,	O	O
+come	O	O
+see	O	O
+the	O	O
+Avant	B-POS	B-AE
+Garde	I-POS	I-AE
+Craft	I-POS	I-AE
+Show	I-POS	I-AE
+@	O	O
+TheAkronTangier	O	O
+today	O	O
+11	O	O
+-	O	O
+6	O	O
+
+IMGID:14874
+RT	O	O
+@	O	O
+tennis	O	O
+photos	O	O
+:	O	O
+Welcome	O	B-OE
+back	O	O
+to	O	O
+No	O	O
+.	O	O
+2	O	O
+,	O	O
+Roger	B-POS	B-AE
+Federer	I-POS	I-AE
+.	O	O
+
+IMGID:1771351
+RT	O	O
+@	O	O
+Gabriele	O	O
+Corno	O	O
+:	O	O
+St	O	O
+.	O	O
+Petersberg	O	O
+by	O	O
+Gordeev	B-NEU	B-AE
+
+IMGID:71798
+RT	O	O
+@	O	O
+NLNavyNews	O	O
+:	O	O
+#	O	O
+OTD	O	O
+1871	O	O
+The	O	O
+remains	O	O
+of	O	O
+'	O	O
+The	O	O
+safe	O	B-OE
+house	O	O
+'	O	O
+(	O	O
+Behouden	B-NEU	B-AE
+Huys	I-NEU	I-AE
+)	O	O
+were	O	O
+discovered	O	O
+on	O	O
+Nova	B-NEU	B-AE
+Zembla	I-NEU	I-AE
+
+IMGID:604161
+Last	O	O
+call	O	O
+,	O	O
+TEAM	O	O
+CAPTAINS	O	O
+:	O	O
+Make	O	O
+sure	O	O
+to	O	O
+upload	O	O
+your	O	O
+team	O	O
+name	O	O
+and	O	O
+logo	O	O
+to	O	O
+the	O	O
+Facebook	B-NEU	B-AE
+Group	O	O
+stat	O	O
+!	O	O
+
+IMGID:139010
+RT	O	O
+@	O	O
+emma	O	O
+flosi	O	O
+:	O	O
+While	O	O
+everyone	O	O
+was	O	O
+running	O	O
+onto	O	O
+the	O	O
+field	O	O
+,	O	O
+Peter	B-NEU	B-AE
+decided	O	O
+to	O	O
+take	O	O
+a	O	O
+quick	O	O
+stop	O	O
+at	O	O
+the	O	O
+mirror	O	O
+and	O	O
+take	O	O
+this	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:720943
+RT	O	O
+@	O	O
+TimothyORourke	O	O
+:	O	O
+Chart	O	O
+coolness	O	O
+:	O	O
+How	O	O
+the	O	O
+richest	O	O
+tech	O	O
+billionaires	O	O
+stack	O	O
+up	O	O
+to	O	O
+Bill	B-NEU	B-AE
+Gates	I-NEU	I-AE
+.	O	O
+
+IMGID:702116
+RT	O	O
+@	O	O
+ProSyndicate	O	O
+:	O	O
+Incredible	O	B-OE
+Mr	O	O
+.	O	O
+Moon	O	O
+fan	O	O
+art	O	O
+from	O	O
+Craig	B-NEU	B-AE
+once	O	O
+again	O	O
+!	O	O
+
+IMGID:70495
+Starlin	B-POS	B-AE
+Castro	I-POS	I-AE
+with	O	O
+better	O	B-OE
+glove	O	O
+work	O	B-OE
+in	O	O
+the	O	O
+6th	O	O
+,	O	O
+tagging	O	O
+out	O	O
+Alexei	B-NEU	B-AE
+Ramirez	I-NEU	I-AE
+on	O	O
+a	O	O
+stolen	O	B-OE
+base	O	O
+
+IMGID:65346
+RT	O	O
+@	O	O
+RembranceOfPast	O	O
+:	O	O
+Lou	B-NEU	B-AE
+Reed	I-NEU	I-AE
+,	O	O
+Mick	B-NEU	B-AE
+Jagger	I-NEU	I-AE
+and	O	O
+David	B-NEU	B-AE
+Bowie	I-NEU	I-AE
+hanging	O	O
+out	O	O
+together	O	O
+at	O	O
+Caf	O	O
+Royale	O	O
+,	O	O
+1973	O	O
+
+IMGID:251525
+RT	O	O
+@	O	O
+1DLittleSecret	O	O
+:	O	O
+Niall	B-POS	B-AE
+and	O	O
+Louis	B-POS	B-AE
+with	O	O
+fans	O	B-OE
+backstage	O	O
+tonight	O	O
+!	O	O
+8	O	O
+2	O	O
+15	O	O
+#	O	O
+2	O	O
+
+IMGID:566271
+RT	O	O
+@	O	O
+mccannswild	O	O
+:	O	O
+tumblr	B-NEU	B-AE
+is	O	O
+DEFENDING	O	O
+JUSTIN	B-POS	B-AE
+WHAT	O	O
+A	O	O
+DAY	O	O
+TO	O	O
+BE	O	O
+ALIVE	O	O
+
+IMGID:23484
+RT	O	O
+@	O	O
+History	O	O
+Pics	O	O
+:	O	O
+Marine	O	O
+Cpl	O	O
+.	O	O
+R	O	O
+.	O	O
+L	O	O
+.	O	O
+Quisenberry	O	O
+carries	O	O
+lots	O	O
+of	O	O
+beer	O	O
+in	O	O
+Korea	B-NEU	B-AE
+,	O	O
+July	O	O
+25	O	O
+,	O	O
+1951	O	O
+.	O	O
+
+IMGID:489826
+Getting	O	O
+abuse	O	B-OE
+because	O	O
+I	O	O
+said	O	O
+Justin	B-NEG	B-AE
+beiber	I-NEG	I-AE
+looked	O	O
+like	O	B-OE
+a	O	O
+girl	O	O
+#	O	O
+oops	O	O
+
+IMGID:116895
+RT	O	O
+@	O	O
+UniteBlueKY	O	O
+:	O	O
+Most	O	O
+Americans	O	O
+supported	O	B-OE
+sending	O	O
+Kim	B-NEG	B-AE
+Davis	I-NEG	I-AE
+to	O	O
+jail	O	O
+#	O	O
+uniteblue	O	O
+#	O	O
+LibCrib	O	O
+#	O	O
+ky	O	O
+
+IMGID:36562
+RT	O	O
+@	O	O
+ALLCAPSMOVIE	O	O
+:	O	O
+Corpse	O	O
+Bride	O	O
+(	O	O
+2005	O	O
+)	O	O
+dir	O	O
+.	O	O
+Tim	B-NEU	B-AE
+Burton	I-NEU	I-AE
+
+IMGID:45400
+RT	O	O
+@	O	O
+HuffingtonPost	O	O
+:	O	O
+Escaped	O	O
+king	O	O
+cobra	O	O
+has	O	O
+Florida	B-NEU	B-AE
+neighborhood	O	O
+on	O	O
+alert	O	O
+
+IMGID:1114829
+@	O	O
+rosalesquique	O	O
+@	O	O
+jfleck	O	O
+in	O	O
+maxwell	B-NEU	B-AE
+New	I-NEU	I-AE
+Mexico	I-NEU	I-AE
+working	O	O
+on	O	O
+a	O	O
+drought	O	B-OE
+story	O	O
+.	O	O
+
+IMGID:73945
+RT	O	O
+@	O	O
+Sean7Faska	O	O
+:	O	O
+@	O	O
+KSU	O	O
+Confessions	O	B-OE
+:	O	O
+Even	O	O
+my	O	O
+phone	O	O
+knows	O	O
+you	O	O
+don	O	O
+'	O	O
+t	O	O
+go	O	O
+to	O	O
+Akron	B-NEG	B-AE
+.	O	O
+.	O	O
+.	O	O
+hahaha	O	O
+
+IMGID:74049
+White	B-NEU	B-AE
+Sox	I-NEU	I-AE
+baseball	O	O
+in	O	O
+a	O	O
+less	O	O
+than	O	O
+packed	O	O
+Cell	O	O
+#	O	O
+whitesox	O	O
+
+IMGID:71803
+Hidden	O	O
+urban	O	O
+spaces	O	O
+:	O	O
+Inside	O	O
+the	O	O
+cupola	O	O
+atop	O	O
+the	O	O
+London	B-NEU	B-AE
+Guarantee	I-NEU	I-AE
+Building	I-NEU	I-AE
+facing	O	O
+Wrigley	O	O
+Tribune	O	O
+
+IMGID:71030
+#	B-POS	B-AE
+Blackhawks	I-POS	I-AE
+and	O	O
+#	B-POS	B-AE
+Ducks	I-POS	I-AE
+fans	O	B-OE
+arrive	O	O
+for	O	O
+Game	O	O
+7	O	O
+on	O	O
+a	O	O
+perfect	O	B-OE
+Southern	B-POS	B-AE
+California	I-POS	I-AE
+afternoon	O	O
+
+IMGID:1773394
+To	O	O
+put	O	O
+what	O	O
+Santa	B-POS	B-AE
+does	O	O
+in	O	O
+perspective	O	O
+.	O	O
+The	O	O
+man	O	O
+is	O	O
+really	O	O
+impressive	O	B-OE
+.	O	O
+#	O	O
+MerryXmas	O	O
+
+IMGID:507948
+If	O	O
+you	O	O
+are	O	O
+at	O	O
+#	O	O
+hls13	O	O
+make	O	O
+sure	O	O
+to	O	O
+join	O	O
+us	O	O
+now	O	O
+for	O	O
+our	O	O
+snack	O	O
+break	O	B-OE
+in	O	O
+Marquette	B-NEU	B-AE
+1	I-NEU	I-AE
+!	O	O
+
+IMGID:539593
+RT	O	O
+@	O	O
+KennettDems	O	O
+:	O	O
+RT	O	O
+if	O	O
+you	O	O
+are	O	O
+voting	O	O
+for	O	O
+Democrats	B-NEU	B-AE
+on	O	O
+November	O	O
+4th	O	O
+!	O	O
+#	B-NEU	B-AE
+GOTV	I-NEU	I-AE
+
+IMGID:1109510
+RT	O	O
+@	O	O
+AJKreisberg	O	O
+:	O	O
+Barry	B-POS	B-AE
+Allen	I-POS	I-AE
+.	O	O
+Bruce	B-POS	B-AE
+Wayne	I-POS	I-AE
+.	O	O
+Oliver	B-POS	B-AE
+Queen	I-POS	I-AE
+.	O	O
+#	O	O
+Flash	O	O
+#	O	O
+Arrow	O	O
+#	O	O
+Gotham	O	O
+#	O	O
+Diehappy	O	O
+
+IMGID:477288
+Flash	B-NEG	B-AE
+Flood	I-NEG	I-AE
+Warning	I-NEG	I-AE
+for	O	O
+Suffolk	B-NEG	B-AE
+and	O	O
+Nassau	B-NEG	B-AE
+again	O	O
+.	O	O
+This	O	O
+will	O	O
+be	O	O
+in	O	O
+effect	O	O
+through	O	O
+8	O	O
+:	O	O
+15pm	O	O
+.	O	O
+@	O	O
+PIX11News	O	O
+
+IMGID:128664
+RT	O	O
+@	O	O
+BEAUTIFULPlCS	O	O
+:	O	O
+Happy	O	B-OE
+New	B-NEU	B-AE
+Year	I-NEU	I-AE
+from	O	O
+Washington	B-POS	B-AE
+D	O	O
+.	O	O
+C	O	O
+.	O	O
+!	O	O
+#	B-NEU	B-AE
+NYE	I-NEU	I-AE
+#	O	O
+2015	O	O
+
+IMGID:379928
+RT	O	O
+@	O	O
+UberFootbalI	O	O
+:	O	O
+On	O	O
+this	O	O
+day	O	O
+,	O	O
+8	O	O
+years	O	O
+ago	O	O
+,	O	O
+a	O	O
+19	O	O
+-	O	O
+year	O	O
+old	O	O
+Lionel	B-POS	B-AE
+Messi	I-POS	I-AE
+did	O	O
+this	O	O
+.	O	O
+Wow	O	B-OE
+.	O	O
+
+IMGID:12298
+RT	O	O
+@	O	O
+CuteEmergency	O	O
+:	O	O
+Rocky	B-NEU	B-AE
+is	O	O
+ready	O	B-OE
+for	O	O
+snow	O	O
+season	O	O
+
+IMGID:326980
+RT	O	O
+@	O	O
+TheEconomist	O	O
+:	O	O
+The	B-NEU	B-AE
+Economist	I-NEU	I-AE
+explains	O	O
+why	O	O
+Africa	B-NEU	B-AE
+is	O	O
+becoming	O	O
+less	O	O
+dependent	O	O
+on	O	O
+commodities	O	O
+
+IMGID:73398
+RT	O	O
+@	O	O
+OffshoreME	O	O
+:	O	O
+Last	O	O
+of	O	O
+four	O	O
+Stan	O	O
+Patrol	O	O
+4207	O	O
+vessels	O	O
+delivered	O	O
+to	O	O
+the	O	O
+Royal	B-NEU	B-AE
+Bahamas	I-NEU	I-AE
+Defence	I-NEU	I-AE
+Force	I-NEU	I-AE
+@	O	O
+Damen	O	O
+
+IMGID:71728
+RT	O	O
+@	O	O
+jfdulac	O	O
+:	O	O
+David	B-NEU	B-AE
+Carr	I-NEU	I-AE
+'	O	O
+s	O	O
+final	O	O
+Page	O	O
+One	O	O
+appearance	O	O
+,	O	O
+in	O	O
+Friday	O	O
+'	O	O
+s	O	O
+@	O	O
+nytimes	O	O
+.	O	O
+-	O	O
+30	O	O
+-	O	O
+
+IMGID:118798
+RT	O	O
+@	O	O
+samkalidi	O	O
+:	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+art	O	O
+in	O	O
+New	B-NEU	B-AE
+York	I-NEU	I-AE
+.	O	O
+
+IMGID:911619
+Just	O	O
+checked	O	O
+in	O	O
+at	O	O
+the	O	O
+Shark	B-NEU	B-AE
+Club	I-NEU	I-AE
+#	O	O
+foursquare	O	O
+
+IMGID:630056
+RT	O	O
+@	O	O
+IUKokomo	O	O
+:	O	O
+Javier	B-POS	B-AE
+Vasquez	I-POS	I-AE
+is	O	O
+heading	O	O
+to	O	O
+the	O	O
+national	O	O
+championship	O	O
+!	O	O
+
+IMGID:617017
+RT	O	O
+@	O	O
+thehill	O	O
+:	O	O
+Warren	B-NEU	B-AE
+pokes	O	O
+fun	O	B-OE
+at	O	O
+Scott	B-NEU	B-AE
+Brown	I-NEU	I-AE
+,	O	O
+Sarah	B-NEU	B-AE
+Palin	I-NEU	I-AE
+:	O	O
+
+IMGID:164471
+@	O	O
+ForTheMen	O	O
+:	O	O
+Kaepernick	B-NEG	B-AE
+is	O	O
+a	O	O
+savage	O	B-OE
+@	O	O
+Abyymartell	O	O
+
+IMGID:562251
+Buying	O	O
+a	O	O
+new	O	O
+phone	O	O
+?	O	O
+See	O	O
+our	O	O
+review	O	O
+of	O	O
+the	O	O
+Samsung	B-NEU	B-AE
+Galaxy	I-NEU	I-AE
+J1	I-NEU	I-AE
+.	O	O
+Available	O	B-OE
+from	O	O
+@	O	O
+VodafoneQatar	O	O
+now	O	O
+
+IMGID:122594
+We	O	O
+have	O	O
+a	O	O
+winner	O	B-OE
+!	O	O
+Joe	B-POS	B-AE
+from	O	O
+SF	O	O
+wins	O	B-OE
+#	O	O
+ifoundlepow	O	O
+@	O	O
+LEPOWOFFICIAL	O	O
+poki	O	O
+charger	O	O
+
+IMGID:73236
+RT	O	O
+@	O	O
+DNAinfoCHI	O	O
+:	O	O
+Photojournalist	O	O
+John	B-POS	B-AE
+H	O	O
+.	O	O
+White	O	O
+'	O	O
+s	O	O
+epic	O	O
+career	O	O
+celebrated	O	B-OE
+with	O	O
+Roosevelt	B-POS	B-AE
+University	I-POS	I-AE
+exhibit	O	O
+
+IMGID:735265
+#	O	O
+Writing	O	O
+is	O	O
+an	O	O
+exercise	O	O
+in	O	O
+sculpture	O	O
+,	O	O
+chipping	O	O
+away	O	O
+at	O	O
+the	O	O
+rock	O	O
+until	O	O
+you	O	O
+find	O	O
+the	O	O
+nose	O	O
+.	O	O
+Stanley	B-NEU	B-AE
+Elkin	I-NEU	I-AE
+#	O	O
+amwriting	O	O
+
+IMGID:64615
+RT	O	O
+@	O	O
+MUSlCPRODUCTION	O	O
+:	O	O
+MTV	B-NEU	B-AE
+Music	I-NEU	I-AE
+Awards	I-NEU	I-AE
+(	O	O
+1995	O	O
+)	O	O
+
+IMGID:5898
+RT	O	O
+@	O	O
+jypnation	O	O
+:	O	O
+2PM	B-POS	B-AE
+WORLD	I-POS	I-AE
+TOUR	I-POS	I-AE
+GO	I-POS	I-AE
+CRAZY	I-POS	I-AE
+IN	O	O
+JAKARTA	B-NEU	B-AE
+2014	O	O
+.	O	O
+12	O	O
+.	O	O
+05	O	O
+(	O	O
+Fri	O	O
+)	O	O
+Istora	B-NEU	B-AE
+Senayan	I-NEU	I-AE
+-	O	O
+Komplek	B-NEU	B-AE
+Gelora	I-NEU	I-AE
+Bung	I-NEU	I-AE
+Karno	I-NEU	I-AE
+
+IMGID:120153
+RT	O	O
+@	O	O
+pritchett	O	O
+dan	O	O
+:	O	O
+They	O	O
+just	O	O
+arrested	O	O
+a	O	O
+12	O	O
+-	O	O
+year	O	O
+-	O	O
+old	O	O
+girl	O	O
+#	B-NEG	B-AE
+Ferguson	I-NEG	I-AE
+
+IMGID:536482
+RT	O	O
+@	O	O
+SLAMonline	O	O
+:	O	O
+Zach	B-POS	B-AE
+Randolph	I-POS	I-AE
+Drops	O	O
+22	O	O
+Points	O	O
+in	O	O
+Game	O	O
+3	O	O
+Win	O	B-OE
+Over	O	O
+Warriors	B-NEU	B-AE
+(	O	O
+VIDEO	O	O
+)	O	O
+
+IMGID:45651
+RT	O	O
+@	O	O
+CNET	O	O
+:	O	O
+T	B-NEG	B-AE
+-	I-NEG	I-AE
+Mobile	I-NEG	I-AE
+to	O	O
+pay	O	O
+17	O	O
+.	O	O
+5	O	O
+million	O	O
+fine	O	B-OE
+for	O	O
+911	B-NEG	B-AE
+service	O	O
+outages	O	O
+
+IMGID:31344
+RT	O	O
+@	O	O
+ClassicPixs	O	O
+:	O	O
+George	B-NEU	B-AE
+Lucas	I-NEU	I-AE
+with	O	O
+the	O	O
+prototype	O	O
+for	O	O
+R2D2	B-NEU	B-AE
+,	O	O
+1975	O	O
+.	O	O
+
+IMGID:46287
+RT	O	O
+@	O	O
+chicagobulls	O	O
+:	O	O
+Bulls	B-POS	B-AE
+come	O	O
+back	O	O
+to	O	O
+win	O	B-OE
+in	O	O
+dramatic	O	O
+fashion	O	O
+,	O	O
+98	O	O
+-	O	O
+97	O	O
+over	O	O
+the	O	O
+Magic	B-NEU	B-AE
+!	O	O
+
+IMGID:1005776
+Amb	O	O
+.	O	O
+Martin	B-POS	B-AE
+Kimani	I-POS	I-AE
+to	O	O
+be	O	O
+Director	O	O
+National	B-NEU	B-AE
+Counter	I-NEU	I-AE
+Terrorism	I-NEU	I-AE
+Centre	I-NEU	I-AE
+.	O	O
+Incumbent	O	O
+Isaac	B-POS	B-AE
+Ochieng	I-POS	I-AE
+to	O	O
+serve	O	O
+as	O	O
+envoy	O	O
+of	O	O
+Kenya	B-NEU	B-AE
+
+IMGID:71338
+Maria	B-POS	B-AE
+Ihekwaba	I-POS	I-AE
+and	O	O
+supporters	O	O
+cheer	O	B-OE
+as	O	O
+television	O	O
+networks	O	O
+show	O	O
+Rahm	B-POS	B-AE
+Emanuel	I-POS	I-AE
+with	O	O
+in	O	O
+lead	O	B-OE
+
+IMGID:72325
+@	O	O
+YouLikeCarsUK	O	O
+incredibly	O	B-OE
+fast	O	B-OE
+,	O	O
+incredibly	O	B-OE
+beautiful	O	B-OE
+,	O	O
+Ferrari	B-POS	B-AE
+FXXK	O	O
+
+IMGID:35117
+@	O	O
+MartinGarrix	O	O
+Mexico	B-POS	B-AE
+Loves	O	B-OE
+You	O	O
+#	O	O
+MTVHottest	O	O
+Martin	B-POS	B-AE
+Garrix	I-POS	I-AE
+
+IMGID:735893
+First	O	O
+,	O	O
+find	O	O
+out	O	O
+what	O	O
+your	O	O
+hero	O	B-OE
+wants	O	O
+,	O	O
+then	O	O
+just	O	O
+follow	O	O
+him	O	O
+.	O	O
+Ray	B-NEU	B-AE
+Bradbury	I-NEU	I-AE
+#	O	O
+amwriting	O	O
+#	O	O
+writing	O	O
+#	O	O
+writingtip	O	O
+
+IMGID:1990811
+Character	O	O
+designs	O	O
+by	O	O
+Dgph	B-NEU	B-AE
+Diego	I-NEU	I-AE
+
+IMGID:715277
+Sunrise	O	O
+take	O	O
+-	O	O
+off	O	O
+over	O	O
+Indianapolis	B-NEU	B-AE
+.	O	O
+#	O	O
+flight	O	O
+#	O	O
+fly	O	O
+#	O	O
+wing	O	O
+#	O	O
+aerial	O	O
+#	O	O
+plane	O	O
+#	O	O
+windowseat	O	O
+
+IMGID:386184
+RT	O	O
+@	O	O
+dreamteamfc	O	O
+:	O	O
+How	O	O
+many	O	O
+players	O	O
+will	O	O
+Aston	B-NEG	B-AE
+Villa	I-NEG	I-AE
+have	O	O
+left	O	O
+by	O	O
+the	O	O
+start	O	O
+of	O	O
+the	O	O
+season	O	O
+?	O	O
+
+IMGID:657063
+My	O	O
+team	O	O
+visited	O	O
+Ocean	B-NEU	B-AE
+City	I-NEU	I-AE
+MD	B-NEU	B-AE
+last	O	O
+week	O	O
+and	O	O
+we	O	O
+saw	O	O
+the	O	O
+Ward	O	O
+Wildfowl	O	O
+Carving	O	O
+World	O	O
+Championship	O	O
+#	O	O
+travel	O	O
+
+IMGID:735257
+Is	O	O
+there	O	O
+a	O	O
+secret	O	O
+to	O	O
+#	O	O
+writing	O	O
+?	O	O
+All	O	O
+I	O	O
+know	O	O
+is	O	O
+you	O	O
+need	O	O
+to	O	O
+sit	O	O
+down	O	O
+,	O	O
+clear	O	B-OE
+your	O	O
+mind	O	O
+and	O	O
+hang	O	B-OE
+in	O	O
+there	O	O
+.	O	O
+Mary	B-NEU	B-AE
+McGrory	I-NEU	I-AE
+
+IMGID:109233
+RT	O	O
+@	O	O
+ShawnMendes	O	O
+:	O	O
+Soo	B-POS	B-AE
+cool	O	B-OE
+!	O	O
+Thank	O	B-OE
+you	O	O
+!	O	O
+
+IMGID:1290642
+Ruby	B-POS	B-AE
+gave	O	O
+me	O	O
+some	O	O
+cherries	O	O
+!	O	O
+!	O	O
+!	O	O
+
+IMGID:1301326
+RT	O	O
+@	O	O
+YIofficial	O	O
+:	O	O
+Retweet	O	O
+if	O	O
+you	O	O
+agree	O	O
+with	O	O
+UKIP	B-POS	B-AE
+policy	O	O
+.	O	O
+
+IMGID:1406677
+Beautiful	O	B-OE
+views	O	O
+in	O	O
+the	O	O
+Magaliesberg	B-NEU	B-AE
+last	O	O
+week	O	O
+:	O	O
+
+IMGID:74577
+RT	O	O
+@	O	O
+metmuseum	O	O
+:	O	O
+Feast	O	O
+your	O	O
+eyes	O	O
+on	O	O
+one	O	O
+of	O	O
+Candace	B-NEU	B-AE
+Wheeler	I-NEU	I-AE
+'	O	O
+s	O	O
+most	O	O
+luxurious	O	B-OE
+textiles	O	O
+:	O	O
+#	O	O
+WomensHistoryMonth	O	O
+
+IMGID:307844
+Forbes	B-NEU	B-AE
+Magazine	I-NEU	I-AE
+Real	O	O
+insights	O	O
+from	O	O
+the	O	O
+business	O	O
+world	O	O
+.	O	O
+#	O	O
+MarketingMonday	O	O
+#	O	O
+Advertising	O	O
+
+IMGID:414719
+Harrods	B-POS	B-AE
+Hotel	I-POS	I-AE
+Kuala	I-POS	I-AE
+Lumpur	I-POS	I-AE
+,	O	O
+a	O	O
+7	O	O
+-	O	O
+star	O	O
+hotel	O	O
+to	O	O
+open	O	O
+in	O	O
+2018	O	O
+-	O	O
+#	O	O
+MyFest2015	O	O
+#	B-NEU	B-AE
+Malaysia	I-NEU	I-AE
+#	B-NEU	B-AE
+Harrods	I-NEU	I-AE
+
+IMGID:72530
+RT	O	O
+@	O	O
+L0gg0l	O	O
+:	O	O
+U	O	O
+.	O	O
+S	O	O
+deploys	O	O
+pair	O	O
+of	O	O
+B2	B-NEU	B-AE
+stealth	O	O
+bombers	O	O
+to	O	O
+the	O	O
+UK	B-NEU	B-AE
+to	O	O
+take	O	O
+part	O	O
+in	O	O
+NATO	B-NEU	B-AE
+exercises	O	O
+
+IMGID:34108
+RT	O	O
+@	O	O
+tunkuv	O	O
+:	O	O
+Wedding	O	O
+photo	O	O
+becomes	O	O
+symbol	O	O
+of	O	O
+South	O	O
+Korea	O	O
+MERS	B-NEU	B-AE
+scare	O	B-OE
+
+IMGID:72661
+Wrong	O	B-OE
+way	O	O
+#	O	O
+Bears	O	O
+:	O	O
+#	O	O
+Patriots	O	O
+Ninkovich	B-NEU	B-AE
+takes	O	O
+a	O	O
+fumble	O	B-OE
+for	O	O
+a	O	O
+TD	O	O
+ahead	O	O
+of	O	O
+Jake	B-NEU	B-AE
+Long	I-NEU	I-AE
+
+IMGID:944031
+RT	O	O
+@	O	O
+Jason	O	O
+:	O	O
+Add	O	O
+me	O	O
+on	O	O
+@	O	O
+shots	O	O
+.	O	O
+My	O	O
+username	O	O
+is	O	O
+jason	B-NEU	B-AE
+.	O	O
+
+IMGID:65347
+RT	O	O
+@	O	O
+RembranceOfPast	O	O
+:	O	O
+An	O	O
+East	O	O
+German	O	O
+soldier	O	O
+helps	O	O
+a	O	O
+boy	O	O
+found	O	O
+on	O	O
+the	O	O
+opposite	O	O
+side	O	O
+of	O	O
+the	O	O
+Berlin	B-NEU	B-AE
+Wall	I-NEU	I-AE
+from	O	O
+his	O	O
+family	O	O
+,	O	O
+1961	O	O
+.	O	O
+
+IMGID:33706
+RT	O	O
+@	O	O
+GarrettQuinn	O	O
+:	O	O
+Mayor	B-NEU	B-AE
+Walsh	I-NEU	I-AE
+pushes	O	O
+back	O	O
+on	O	O
+Belfast	B-NEU	B-AE
+Beanpot	I-NEU	I-AE
+talk	O	O
+#	O	O
+WalshIRE	O	O
+#	O	O
+bospoli	O	O
+
+IMGID:495612
+RT	O	O
+@	O	O
+ThatBucketList	O	O
+:	O	O
+I	O	O
+need	O	O
+a	O	O
+holiday	O	O
+to	O	O
+Hawai	B-POS	B-AE
+
+IMGID:1502926
+RT	O	O
+@	O	O
+GirlNotes	O	O
+:	O	O
+I	O	O
+am	O	O
+Cody	B-NEU	B-AE
+
+IMGID:268433
+RT	O	O
+@	O	O
+UToledoMedia	O	O
+:	O	O
+The	O	O
+@	O	O
+ToledoRockets	O	O
+take	O	O
+on	O	O
+Navy	B-NEU	B-AE
+at	O	O
+noon	O	O
+Saturday	O	O
+in	O	O
+the	O	O
+Glass	B-NEU	B-AE
+Bowl	I-NEU	I-AE
+#	O	O
+GoRockets	O	O
+#	O	O
+RocketNation	O	O
+
+IMGID:64468
+RT	O	O
+@	O	O
+mjesusgz	O	O
+:	O	O
+Painting	O	O
+by	O	O
+Loren	B-NEU	B-AE
+D	O	O
+.	O	O
+Adams	O	O
+-	O	O
+#	O	O
+pintura	O	O
+#	O	O
+art	O	O
+#	O	O
+artwit	O	O
+#	O	O
+twitart	O	O
+#	O	O
+fineart	O	O
+#	O	O
+painting	O	O
+
+IMGID:1324901
+RT	O	O
+@	O	O
+Independent	O	O
+:	O	O
+Free	O	B-OE
+porn	O	O
+websites	O	O
+could	O	O
+be	O	O
+shut	O	O
+down	O	O
+within	O	O
+months	O	O
+,	O	O
+says	O	O
+David	B-NEU	B-AE
+Cameron	I-NEU	I-AE
+
+IMGID:617873
+RT	O	O
+@	O	O
+Squawka	O	O
+:	O	O
+FA	B-NEU	B-AE
+Cup	I-NEU	I-AE
+final	O	O
+:	O	O
+Arsenal	B-NEU	B-AE
+vs	O	O
+.	O	O
+Aston	B-NEU	B-AE
+Villa	I-NEU	I-AE
+,	O	O
+Saturday	O	O
+30th	O	O
+May	O	O
+.	O	O
+
+IMGID:30136
+RT	O	O
+@	O	O
+KABAR	O	O
+CHELSEA	O	O
+:	O	O
+Fernando	B-POS	B-AE
+Torres	I-POS	I-AE
+.	O	O
+#	O	O
+CB	O	O
+
+IMGID:24470
+Campaign	O	O
+against	O	O
+xenophobia	O	O
+in	O	O
+London	B-NEU	B-AE
+bus	O	O
+stops	O	O
+:	O	O
+
+IMGID:71861
+RT	O	O
+@	O	O
+ForbesLife	O	O
+:	O	O
+Rolex	B-NEU	B-AE
+and	O	O
+NASA	B-NEU	B-AE
+are	O	O
+involved	O	O
+in	O	O
+building	O	O
+this	O	O
+35	O	O
+million	O	O
+vertical	O	O
+ship	O	O
+.	O	O
+
+IMGID:21231
+RT	O	O
+@	O	O
+Atlantafollowme	O	O
+:	O	O
+The	O	O
+new	O	O
+Hollywood	B-NEU	B-AE
+
+IMGID:422153
+A	O	O
+fire	O	O
+has	O	O
+reportedly	O	O
+broken	O	B-OE
+out	O	O
+at	O	O
+a	O	O
+prison	O	B-OE
+in	O	O
+Florence	B-NEU	B-AE
+.	O	O
+-	O	O
+
+IMGID:48658
+RT	O	O
+@	O	O
+ImamsOnline	O	O
+:	O	O
+France	B-NEU	B-AE
+have	O	O
+deported	O	O
+over	O	O
+40	O	O
+Imams	B-NEU	B-AE
+since	O	O
+2012	O	O
+.	O	O
+Read	O	O
+more	O	O
+:	O	O
+
+IMGID:423588
+RT	O	O
+@	O	O
+NWSFlagstaff	O	O
+:	O	O
+5pm	O	O
+:	O	O
+Storms	O	O
+with	O	O
+heavy	O	O
+rain	O	O
+,	O	O
+gusty	O	O
+winds	O	O
+pushing	O	O
+west	O	O
+into	O	O
+Prescott	B-NEG	B-AE
+Valley	I-NEG	I-AE
+,	O	O
+Dewey	B-NEG	B-AE
+.	O	O
+#	O	O
+azwx	O	O
+
+IMGID:145105
+RT	O	O
+@	O	O
+Globe	O	O
+Pics	O	O
+:	O	O
+An	O	O
+Indian	O	O
+artist	O	O
+has	O	O
+created	O	O
+this	O	O
+sand	O	O
+sculpture	O	O
+in	O	O
+memory	O	O
+of	O	O
+Aylan	B-NEG	B-AE
+Kurdi	I-NEG	I-AE
+.	O	O
+RIP	O	B-OE
+.	O	O
+
+IMGID:734561
+To	O	O
+be	O	O
+a	O	O
+writer	O	O
+does	O	O
+not	O	O
+mean	O	O
+to	O	O
+preach	O	O
+a	O	O
+truth	O	O
+,	O	O
+it	O	O
+means	O	O
+to	O	O
+discover	O	O
+a	O	O
+truth	O	O
+.	O	O
+Milan	B-NEU	B-AE
+Kundera	I-NEU	I-AE
+#	O	O
+amwriting	O	O
+#	O	O
+writing	O	O
+
+IMGID:1355398
+RT	O	O
+@	O	O
+HistoryInPics	O	O
+:	O	O
+Young	O	O
+women	O	O
+in	O	O
+Kabul	B-NEU	B-AE
+,	O	O
+Afghanistan	B-NEU	B-AE
+,	O	O
+1972	O	O
+
+IMGID:483163
+The	O	O
+Best	O	B-OE
+way	O	O
+to	O	O
+visit	O	O
+the	O	O
+Louvre	B-POS	B-AE
+Museum	I-POS	I-AE
+.	O	O
+#	B-NEU	B-AE
+paris	I-NEU	I-AE
+
+IMGID:27823
+RT	O	O
+@	O	O
+13NewsNow	O	O
+:	O	O
+Walmart	B-NEU	B-AE
+to	O	O
+Test	O	O
+Unlimited	O	B-OE
+Shipping	O	O
+for	O	O
+50	O	O
+a	O	O
+Year	O	O
+
+IMGID:33867
+RT	O	O
+@	O	O
+businessinsider	O	O
+:	O	O
+Facebook	B-POS	B-AE
+is	O	O
+now	O	O
+worth	O	B-OE
+more	O	O
+than	O	O
+Wal	B-NEU	B-AE
+-	I-NEU	I-AE
+Mart	I-NEU	I-AE
+on	O	O
+the	O	O
+stock	O	O
+market	O	O
+by	O	O
+@	O	O
+AP	O	O
+
+IMGID:523610
+We	O	O
+are	O	O
+having	O	O
+a	O	O
+great	O	B-OE
+time	O	O
+at	O	O
+Burlington	B-POS	B-AE
+High	I-POS	I-AE
+School	I-POS	I-AE
+talking	O	O
+to	O	O
+students	O	O
+about	O	O
+peace	O	B-OE
+.	O	O
+-	O	O
+with	O	O
+@	O	O
+ju	O	O
+legatus	O	O
+#	O	O
+DontEnlist	O	O
+
+IMGID:118294
+RT	O	O
+@	O	O
+ESPNNBA	O	O
+:	O	O
+With	O	O
+LeBron	B-NEU	B-AE
+James	I-NEU	I-AE
+out	O	O
+,	O	O
+Greg	B-NEU	B-AE
+Oden	I-NEU	I-AE
+will	O	O
+start	O	O
+for	O	O
+the	O	O
+Heat	B-NEU	B-AE
+,	O	O
+his	O	O
+first	O	O
+start	O	O
+since	O	O
+Dec	O	O
+.	O	O
+5	O	O
+,	O	O
+2009	O	O
+.	O	O
+
+IMGID:746962
+RT	O	O
+@	O	O
+travel	O	O
+sisters	O	O
+:	O	O
+Top	O	B-OE
+Things	O	O
+to	O	O
+do	O	O
+in	O	O
+Bandar	B-NEU	B-AE
+Seri	I-NEU	I-AE
+Begawan	I-NEU	I-AE
+,	O	O
+#	O	O
+Brunei	O	O
+#	O	O
+travel	O	O
+#	O	O
+ttot	O	O
+
+IMGID:597363
+RT	O	O
+@	O	O
+ManUtd	O	O
+:	O	O
+#	B-POS	B-AE
+mufc	I-POS	I-AE
+is	O	O
+also	O	O
+pleased	O	B-OE
+to	O	O
+announce	O	O
+@	O	O
+SchneiderlinMo4	O	O
+has	O	O
+joined	O	O
+from	O	O
+Southampton	B-NEU	B-AE
+.	O	O
+#	O	O
+WelcomeMorgan	O	O
+
+IMGID:319163
+RT	O	O
+@	O	O
+AroundTheNFL	O	O
+:	O	O
+RT	O	O
+@	O	O
+Giants	O	O
+:	O	O
+#	B-NEU	B-AE
+Giants	I-NEU	I-AE
+re	O	O
+-	O	O
+sign	O	O
+TE	B-NEU	B-AE
+Daniel	I-NEU	I-AE
+Fells	I-NEU	I-AE
+.	O	O
+READ	O	O
+MORE	O	O
+:	O	O
+
+IMGID:716402
+RT	O	O
+@	O	O
+AnakNonton	O	O
+:	O	O
+#	O	O
+SeputarFilm	O	O
+Bruno	O	O
+Mars	O	O
+is	O	O
+Roberto	B-POS	B-AE
+in	O	O
+RIO	B-POS	B-AE
+2	I-POS	I-AE
+movie	O	O
+!	O	O
+Coming	O	O
+soon	O	O
+!	O	O
+
+IMGID:125108
+I	O	O
+forgot	O	O
+to	O	O
+post	O	O
+this	O	O
+yesterday	O	O
+.	O	O
+This	O	O
+is	O	O
+what	O	O
+the	O	O
+city	O	O
+if	O	O
+Pittsburgh	B-NEU	B-AE
+looked	O	O
+like	O	B-OE
+yesterday	O	O
+morning	O	O
+.	O	O
+
+IMGID:71741
+RT	O	O
+@	O	O
+TarHeelPhoto	O	O
+:	O	O
+Students	O	O
+gathering	O	O
+at	O	O
+the	O	O
+Dean	B-NEU	B-AE
+E	O	O
+.	O	O
+Smith	O	O
+Center	O	O
+to	O	O
+honor	O	B-OE
+Dean	B-POS	B-AE
+Smith	I-POS	I-AE
+
+IMGID:366927
+@	O	O
+ariannahuff	O	O
+speaks	O	O
+at	O	O
+Davos	B-NEU	B-AE
+about	O	O
+journalism	O	O
+,	O	O
+activism	O	O
+and	O	O
+pop	O	O
+amp	O	O
+policy	O	O
+via	O	O
+@	O	O
+HuffingtonPost	O	O
+
+IMGID:787671
+Dikke	O	O
+Hawaii	O	O
+party	O	O
+in	O	O
+Tignes	B-NEU	B-AE
+met	O	O
+dj	O	O
+@	O	O
+jeroenpostnl	O	O
+
+IMGID:1790942
+RT	O	O
+@	O	O
+HuffPostPol	O	O
+:	O	O
+Most	O	O
+Americans	O	O
+supported	O	B-OE
+sending	O	O
+Kim	B-NEG	B-AE
+Davis	I-NEG	I-AE
+to	O	O
+jail	O	O
+
+IMGID:684051
+Do	O	O
+you	O	O
+even	O	O
+meditate	O	O
+tho	O	O
+bro	O	O
+?	O	O
+I	O	O
+start	O	O
+class	O	O
+at	O	O
+7	O	O
+:	O	O
+30pm	O	O
+this	O	O
+eve	O	O
+in	O	O
+LA	B-NEU	B-AE
+on	O	O
+the	O	O
+wess	O	O
+side	O	O
+.	O	O
+https	O	O
+:	O	O
+t	O	O
+.	O	O
+co	O	O
+w7rktBN5ac	O	O
+
+IMGID:734346
+When	O	O
+10	O	O
+doors	O	O
+are	O	O
+slammed	O	O
+in	O	O
+your	O	O
+face	O	O
+,	O	O
+go	O	O
+to	O	O
+door	O	O
+number	O	O
+11	O	O
+.	O	O
+.	O	O
+.	O	O
+with	O	O
+a	O	O
+smile	O	B-OE
+.	O	O
+John	B-NEU	B-AE
+Paul	I-NEU	I-AE
+DeJoria	I-NEU	I-AE
+#	O	O
+amwriting	O	O
+#	O	O
+writing	O	O
+
+IMGID:10005
+My	O	O
+followers	O	O
+live	O	O
+in	O	O
+3	O	O
+countries	O	O
+:	O	O
+South	B-NEU	B-AE
+Africa	I-NEU	I-AE
+(	O	O
+87	O	O
+)	O	O
+,	O	O
+UK	B-NEU	B-AE
+.	O	O
+(	O	O
+5	O	O
+)	O	O
+.	O	O
+.	O	O
+.	O	O
+Get	O	O
+your	O	O
+free	O	B-OE
+map	O	O
+!	O	O
+
+IMGID:117164
+RT	O	O
+@	O	O
+ScienceNews	O	O
+:	O	O
+Pumping	O	O
+CO2	B-NEU	B-AE
+deep	O	O
+into	O	O
+the	O	O
+Earth	O	O
+puts	O	O
+rock	O	O
+under	O	O
+pressure	O	O
+:	O	O
+
+IMGID:91544
+Thank	O	B-OE
+you	O	O
+to	O	O
+the	O	O
+Frisco	B-POS	B-AE
+Fire	I-POS	I-AE
+Dept	I-POS	I-AE
+.	O	O
+for	O	O
+joining	O	O
+us	O	O
+at	O	O
+the	O	O
+#	O	O
+CathedralofFrisco	O	O
+this	O	O
+morning	O	O
+for	O	O
+our	O	O
+outdoor	O	O
+fun	O	B-OE
+!	O	O
+
+IMGID:1687622
+RT	O	O
+@	O	O
+ManCandyDaiIy	O	O
+:	O	O
+Zac	B-POS	B-AE
+and	O	O
+Dave	B-POS	B-AE
+:	O	O
+)	O	O
+
+IMGID:1042755
+RT	O	O
+@	O	O
+okanaganUK	O	O
+:	O	O
+Happy	O	B-OE
+birthday	O	O
+to	O	O
+Harry	B-POS	B-AE
+Gulliver	I-POS	I-AE
+from	O	O
+all	O	O
+staff	O	O
+and	O	O
+teammates	O	O
+@	O	O
+okanaganUK	O	O
+.	O	O
+#	O	O
+firstacademybirthday	O	O
+
+IMGID:744840
+A	O	O
+special	O	O
+#	O	O
+MyCarMonday	O	O
+to	O	O
+Jordan	B-POS	B-AE
+for	O	O
+her	O	O
+new	O	O
+#	B-POS	B-AE
+x1	I-POS	I-AE
+with	O	O
+the	O	O
+cutest	O	O
+Teddy	O	O
+Bear	O	O
+!	O	O
+Congrats	O	O
+on	O	O
+your	O	O
+new	O	O
+purchase	O	O
+!	O	O
+
+IMGID:1019998
+Training	O	O
+done	O	O
+and	O	O
+presenting	O	O
+@	O	O
+SaferSurgery	O	O
+oximeters	O	O
+in	O	O
+Congo	B-NEU	B-AE
+with	O	O
+@	O	O
+MercyShips	O	O
+.	O	O
+Thank	O	B-OE
+you	O	O
+from	O	O
+bottom	O	O
+of	O	O
+our	O	O
+hearts	O	O
+
+IMGID:1413646
+Visiting	O	O
+Bologna	B-NEU	B-AE
+University	I-NEU	I-AE
+,	O	O
+where	O	O
+arts	O	O
+amp	O	O
+sciences	O	O
+equally	O	O
+important	O	B-OE
+.	O	O
+Cf	O	O
+.	O	O
+by	O	O
+@	O	O
+sarahchurchwell	O	O
+
+IMGID:33118
+RT	O	O
+@	O	O
+CapX	O	O
+:	O	O
+Trump	B-NEG	B-AE
+and	O	O
+Corbyn	B-NEG	B-AE
+are	O	O
+a	O	O
+symptom	O	B-OE
+of	O	O
+our	O	O
+shrunken	O	O
+politics	O	O
+-	O	O
+@	O	O
+rcolvile	O	O
+
+IMGID:1357925
+RT	O	O
+@	O	O
+businessinsider	O	O
+:	O	O
+22	O	O
+stunning	O	B-OE
+aerial	O	O
+photos	O	O
+of	O	O
+Cuba	B-POS	B-AE
+
+IMGID:109247
+At	O	O
+#	O	O
+digitalbelgium	O	O
+:	O	O
+Robert	B-NEU	B-AE
+Cailliau	I-NEU	I-AE
+-	O	O
+Robots	O	O
+will	O	O
+be	O	O
+crawling	O	O
+the	O	O
+web	O	O
+instead	O	O
+of	O	O
+people	O	O
+
+IMGID:423135
+Great	O	B-OE
+morning	O	O
+with	O	O
+@	O	O
+mkfm	O	O
+at	O	O
+Bletchley	B-POS	B-AE
+Park	I-POS	I-AE
+pushing	O	O
+the	O	O
+button	O	O
+for	O	O
+the	O	O
+FM	B-POS	B-AE
+application	O	O
+,	O	O
+fingers	O	O
+crossed	O	O
+!	O	O
+
+IMGID:120200
+Puebla	B-NEU	B-AE
+,	O	O
+MX	O	O
+.	O	O
+
+IMGID:680753
+RT	O	O
+@	O	O
+WeLoveRobDyrdek	O	O
+:	O	O
+Wise	O	B-OE
+words	O	O
+from	O	O
+Pitbull	B-POS	B-AE
+to	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:564725
+RT	O	O
+@	O	O
+runnersworld	O	O
+:	O	O
+Lelisa	B-POS	B-AE
+Desisa	I-POS	I-AE
+wins	O	B-OE
+2015	O	O
+#	O	O
+BostonMarathon	O	O
+
+IMGID:568010
+RT	O	O
+@	O	O
+ymcacampwidji	O	O
+:	O	O
+The	B-NEU	B-AE
+Percy	I-NEU	I-AE
+Jackson	I-NEU	I-AE
+themed	O	O
+lit	O	O
+camp	O	O
+went	O	O
+on	O	O
+a	O	O
+field	O	O
+trip	O	O
+to	O	O
+the	B-NEU	B-AE
+Parthenon	B-POS	B-AE
+!	O	O
+
+IMGID:133226
+17	O	O
+Awesome	O	B-OE
+#	B-POS	B-AE
+Facebook	I-POS	I-AE
+#	O	O
+Business	O	O
+Page	O	O
+Post	O	O
+Ideas	O	O
+for	O	O
+Small	O	O
+Businesses	O	O
+:	O	O
+
+IMGID:790
+RT	O	O
+@	O	O
+NFL	O	O
+Memes	O	O
+:	O	O
+Pete	B-NEU	B-AE
+Carroll	I-NEU	I-AE
+Be	O	O
+Like	O	B-OE
+.	O	O
+.	O	O
+
+IMGID:72867
+Jermon	B-NEG	B-AE
+Bushrod	I-NEG	I-AE
+looking	O	O
+all	O	O
+-	O	O
+mighty	O	B-OE
+in	O	O
+the	O	O
+tunnel	O	O
+,	O	O
+but	O	O
+all	O	O
+downhill	O	B-OE
+from	O	O
+there	O	O
+.	O	O
+#	B-NEU	B-AE
+Bears	I-NEU	I-AE
+photos	O	O
+:	O	O
+
+IMGID:970880
+RT	O	O
+@	O	O
+dailynation	O	O
+:	O	O
+NBK	B-NEU	B-AE
+suspends	O	O
+CFO	O	O
+over	O	O
+alleged	O	O
+links	O	O
+to	O	O
+Mumias	B-NEG	B-AE
+fiasco	O	B-OE
+
+IMGID:1015598
+RT	O	O
+@	O	O
+BuzzFeed	O	O
+:	O	O
+A	O	O
+Kentucky	B-POS	B-AE
+clerk	O	O
+who	O	O
+kept	O	O
+getting	O	O
+confused	O	B-OE
+for	O	O
+Kim	B-NEU	B-AE
+Davis	I-NEU	I-AE
+made	O	O
+an	O	O
+amazing	O	B-OE
+t	O	O
+-	O	O
+shirt	O	O
+
+IMGID:73816
+#	O	O
+blackhawks	O	O
+Niklas	B-NEU	B-AE
+Hjmarlsson	I-NEU	I-AE
+reflects	O	O
+on	O	O
+the	O	O
+end	O	O
+of	O	O
+the	O	O
+season	O	O
+in	O	O
+his	O	O
+exit	O	O
+interview	O	O
+
+IMGID:323182
+At	O	O
+University	B-POS	B-AE
+of	I-POS	I-AE
+Swat	I-POS	I-AE
+.	O	O
+These	O	O
+snaps	O	O
+r	O	O
+from	O	O
+the	O	O
+VC	O	O
+office	O	O
+which	O	O
+include	O	O
+the	O	O
+Master	O	B-OE
+plan	O	O
+.	O	O
+A	O	O
+great	O	B-OE
+location	O	O
+4	O	O
+new	O	O
+campus	O	O
+
+IMGID:759465
+RT	O	O
+@	O	O
+RestingPlatypus	O	O
+:	O	O
+I	O	O
+took	O	O
+it	O	O
+again	O	O
+and	O	O
+got	O	O
+Laurel	B-NEU	B-AE
+.	O	O
+#	O	O
+HowToGetAwayWithMurder	O	O
+
+IMGID:918692
+RT	O	O
+@	O	O
+misraashutosh	O	O
+:	O	O
+Extremely	O	O
+neat	O	B-OE
+and	O	O
+clean	O	B-OE
+New	B-POS	B-AE
+Delhi	I-POS	I-AE
+Railway	I-POS	I-AE
+station	I-POS	I-AE
+.	O	O
+Thanks	O	O
+to	O	O
+@	O	O
+sureshpprabhu	O	O
+
+IMGID:1889455
+RT	O	O
+@	O	O
+HistroyInSports	O	O
+:	O	O
+Chris	B-POS	B-AE
+Davis	I-POS	I-AE
+returns	O	O
+short	O	O
+missed	O	B-OE
+field	O	O
+goal	O	O
+with	O	O
+one	O	O
+second	O	O
+left	O	O
+to	O	O
+defeat	O	B-OE
+#	O	O
+1	O	O
+Alabama	B-NEU	B-AE
+(	O	O
+2013	O	O
+)	O	O
+
+IMGID:1114560
+RT	O	O
+@	O	O
+shaun505	O	O
+:	O	O
+4	O	O
+people	O	O
+dead	O	B-OE
+after	O	O
+plane	O	O
+crashes	O	B-OE
+near	O	O
+Silver	B-NEU	B-AE
+City	I-NEU	I-AE
+.	O	O
+
+IMGID:1771624
+RT	O	O
+@	O	O
+Gabriele	O	O
+Corno	O	O
+:	O	O
+Little	B-NEU	B-AE
+farmer	I-NEU	I-AE
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+by	O	O
+Tatyana	B-NEU	B-AE
+Tomsickova	I-NEU	I-AE
+
+IMGID:62463
+RT	O	O
+@	O	O
+SenTedCruz	O	O
+:	O	O
+What	O	O
+is	O	O
+the	O	O
+Export	B-NEU	B-AE
+-	I-NEU	I-AE
+Import	I-NEU	I-AE
+Bank	I-NEU	I-AE
+?	O	O
+Even	O	O
+then	O	O
+-	O	O
+Senator	O	O
+Obama	O	O
+agrees	O	O
+:	O	O
+Corporate	O	O
+Welfare	O	O
+.	O	O
+#	O	O
+EndExIm	O	O
+
+IMGID:370490
+Good	O	B-OE
+Morning	O	O
+Zaatari	B-POS	B-AE
+!	O	O
+#	B-POS	B-AE
+Syria	I-POS	I-AE
+
+IMGID:46517
+RT	O	O
+@	O	O
+BBCNewsAsia	O	O
+:	O	O
+Why	O	O
+is	O	O
+the	O	O
+US	B-NEU	B-AE
+Navy	I-NEU	I-AE
+practising	O	O
+for	O	O
+war	O	O
+with	O	O
+China	B-NEU	B-AE
+?	O	O
+@	O	O
+wingcommander1	O	O
+reports	O	O
+
+IMGID:7632
+Hello	O	O
+,	O	O
+Minneapolis	B-POS	B-AE
+.	O	O
+
+IMGID:749630
+RT	O	O
+@	O	O
+ClimateReality	O	O
+:	O	O
+Northern	B-NEG	B-AE
+California	I-NEG	I-AE
+is	O	O
+being	O	O
+depleted	O	O
+of	O	O
+water	O	O
+to	O	O
+irrigate	O	O
+desert	O	B-OE
+
+IMGID:460915
+RT	O	O
+@	O	O
+MissAmerica	O	O
+:	O	O
+Excited	O	B-OE
+for	O	O
+a	O	O
+great	O	B-OE
+day	O	O
+of	O	O
+golf	O	O
+in	O	O
+Dayton	B-NEU	B-AE
+,	O	O
+OH	O	O
+with	O	O
+@	O	O
+speedway	O	O
+benefitting	O	O
+@	O	O
+CMNHospitals	O	O
+
+IMGID:572738
+RT	O	O
+@	O	O
+TPM	O	O
+:	O	O
+Harry	B-NEU	B-AE
+Reid	I-NEU	I-AE
+mocks	O	B-OE
+McConnell	B-NEG	B-AE
+for	O	O
+taking	O	O
+credit	O	O
+for	O	O
+the	O	O
+economy	O	O
+
+IMGID:682598
+How	O	O
+to	O	O
+summon	O	O
+Ronald	B-NEU	B-AE
+McDonald	I-NEU	I-AE
+gt	O	O
+McWitchcraft	O	O
+
+IMGID:478477
+Tornado	B-NEG	B-AE
+Warning	I-NEG	I-AE
+for	O	O
+Salem	B-NEG	B-AE
+County	I-NEG	I-AE
+in	O	O
+Southern	B-NEU	B-AE
+NJ	I-NEU	I-AE
+until	O	O
+5pm	O	O
+.	O	O
+@	O	O
+PIX11News	O	O
+
+IMGID:93873
+Had	O	O
+the	O	O
+pleasure	O	B-OE
+of	O	O
+interviewing	O	O
+the	O	O
+great	O	B-OE
+Mr	O	O
+.	O	O
+James	O	O
+Mtume	O	O
+for	O	O
+@	O	O
+RBMA	O	O
+last	O	O
+fall	O	B-OE
+in	O	O
+Tokyo	B-NEU	B-AE
+-	O	O
+-	O	O
+gt	O	O
+
+IMGID:756723
+RT	O	O
+@	O	O
+Raytheon	O	O
+:	O	O
+#	O	O
+throwback	O	O
+to	O	O
+the	O	O
+first	O	O
+electronic	O	O
+warfare	O	O
+pod	O	O
+-	O	O
+mounted	O	O
+noise	O	B-OE
+jammer	O	O
+,	O	O
+the	O	O
+ALQ	B-NEU	B-AE
+-	I-NEU	I-AE
+76	I-NEU	I-AE
+:	O	O
+
+IMGID:555689
+RT	O	O
+@	O	O
+BEAUTIFULPlCS	O	O
+:	O	O
+Manarola	B-NEU	B-AE
+,	O	O
+#	B-NEU	B-AE
+Italy	I-NEU	I-AE
+.	O	O
+Photo	O	O
+by	O	O
+Lars	B-NEU	B-AE
+Kehrel	I-NEU	I-AE
+.	O	O
+
+IMGID:74415
+RT	O	O
+@	O	O
+WSHHFANS	O	O
+:	O	O
+This	O	O
+part	O	O
+in	O	O
+Madea	B-NEG	B-AE
+he	O	O
+just	O	O
+killed	O	B-OE
+me	O	O
+
+IMGID:115614
+RT	O	O
+@	O	O
+2Ls1T	O	O
+:	O	O
+Either	O	O
+I	O	O
+need	O	O
+to	O	O
+tweak	O	O
+my	O	O
+profile	O	O
+or	O	O
+Reed	B-NEU	B-AE
+need	O	O
+to	O	O
+improve	O	B-OE
+their	O	O
+job	O	O
+recommendation	O	B-OE
+software	O	O
+.	O	O
+
+IMGID:673088
+HTC	B-POS	B-AE
+One	I-POS	I-AE
+Max	I-POS	I-AE
+,	O	O
+Y	O	O
+U	O	O
+so	O	O
+big	O	O
+?	O	O
+?	O	O
+
+IMGID:124339
+LGA	B-NEU	B-AE
+in	O	O
+Skopje	B-NEU	B-AE
+
+IMGID:2015824
+RT	O	O
+@	O	O
+voxdotcom	O	O
+:	O	O
+Elizabeth	B-NEU	B-AE
+Warren	I-NEU	I-AE
+explains	O	O
+the	O	O
+real	O	O
+way	O	O
+corruption	O	B-OE
+in	O	O
+Washington	B-NEG	B-AE
+works	O	B-OE
+
+IMGID:728750
+Mayor	O	O
+proclaims	O	O
+it	O	O
+National	B-NEU	B-AE
+Public	I-NEU	I-AE
+Works	I-NEU	I-AE
+Week	I-NEU	I-AE
+in	O	O
+#	B-NEU	B-AE
+Shakopee	I-NEU	I-AE
+
+IMGID:796341
+Our	O	O
+Yellowknife	B-POS	B-AE
+team	O	O
+!	O	O
+@	O	O
+MarkHeyck	O	O
+
+IMGID:485815
+RT	O	O
+@	O	O
+BmoreNigerian	O	O
+:	O	O
+Drake	B-NEU	B-AE
+looking	O	O
+at	O	O
+his	O	O
+peers	O	O
+like	O	B-OE
+
+IMGID:478689
+Severe	O	B-OE
+thunderstorm	O	O
+warnings	O	O
+continues	O	O
+for	O	O
+parts	O	O
+of	O	O
+NW	B-NEG	B-AE
+NJ	O	O
+-	O	O
+-	O	O
+expect	O	O
+heavy	O	O
+rain	O	O
+and	O	O
+gusty	O	O
+winds	O	O
+.	O	O
+@	O	O
+PIX11News	O	O
+
+IMGID:70513
+#	B-POS	B-AE
+Bears	I-POS	I-AE
+coach	O	O
+John	B-POS	B-AE
+Fox	I-POS	I-AE
+meets	O	O
+the	O	O
+Dolphins	B-NEU	B-AE
+after	O	O
+his	O	O
+first	O	O
+game	O	O
+,	O	O
+a	O	O
+preseason	O	O
+win	O	B-OE
+:	O	O
+
+IMGID:621515
+Arrowhead	B-POS	B-AE
+stadium	I-POS	I-AE
+breaks	O	B-OE
+the	O	O
+noise	O	B-OE
+record	O	O
+again	O	O
+!	O	O
+#	O	O
+ChiefsKingdom	O	O
+#	O	O
+KCvsNE	O	O
+
+IMGID:20276
+Here	O	O
+you	O	O
+go	O	O
+Dallas	B-NEG	B-AE
+fans	O	B-OE
+.	O	O
+
+IMGID:735644
+When	O	O
+love	O	B-OE
+and	O	O
+discipline	O	O
+come	O	O
+together	O	O
+you	O	O
+have	O	O
+great	O	B-OE
+chemistry	O	O
+.	O	O
+Rick	B-NEU	B-AE
+Pitino	I-NEU	I-AE
+#	O	O
+amwriting	O	O
+#	O	O
+writing	O	O
+
+IMGID:171351
+Dr	O	O
+.	O	O
+Suzi	O	O
+Landolphi	O	O
+of	O	O
+@	O	O
+bighearts	O	O
+teaches	O	O
+us	O	O
+all	O	O
+about	O	O
+Equine	B-NEU	B-AE
+Therapy	I-NEU	I-AE
+MON	O	O
+10	O	O
+9c	O	O
+!	O	O
+
+IMGID:1140731
+RT	O	O
+@	O	O
+PhxKen	O	O
+:	O	O
+AWESOME	O	B-OE
+QUOTE	O	O
+BY	O	O
+CARTER	B-POS	B-AE
+G	O	O
+.	O	O
+WOODSON	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+WANT	O	O
+OUT	O	O
+OF	O	O
+THE	O	O
+BLACK	O	O
+GHETTO	O	B-OE
+?	O	O
+?	O	O
+READ	O	O
+THIS	O	O
+
+IMGID:15743
+RT	O	O
+@	O	O
+RwandaRemembers	O	O
+:	O	O
+Join	O	O
+#	O	O
+Kwibuka20	O	O
+Walk	O	O
+7	O	O
+April	O	O
+frm	O	O
+Rwandan	B-NEU	B-AE
+Parliament	I-NEU	I-AE
+to	O	O
+Amahoro	B-NEU	B-AE
+Stadium	I-NEU	I-AE
+
+IMGID:15070
+RT	O	O
+@	O	O
+SLAMonline	O	O
+:	O	O
+On	O	O
+this	O	O
+date	O	O
+in	O	O
+1992	O	O
+,	O	O
+the	O	O
+Dream	B-POS	B-AE
+Team	I-POS	I-AE
+won	O	B-OE
+the	O	O
+Gold	O	B-OE
+Medal	O	O
+at	O	O
+the	O	O
+Barcelona	B-NEU	B-AE
+Olympics	I-NEU	I-AE
+.	O	O
+#	O	O
+FBF	O	O
+
+IMGID:72828
+RT	O	O
+@	O	O
+jkrolldigital	O	O
+:	O	O
+Good	O	B-OE
+news	O	O
+,	O	O
+America	B-POS	B-AE
+.	O	O
+At	O	O
+least	O	O
+this	O	O
+many	O	O
+soon	O	O
+-	O	O
+to	O	O
+-	O	O
+be	O	O
+journalists	O	O
+care	O	O
+about	O	O
+ethics	O	O
+.	O	O
+#	O	O
+ksuethics14	O	O
+
+IMGID:72540
+Bruce	B-NEU	B-AE
+Rauner	I-NEU	I-AE
+adds	O	O
+Edgar	B-NEU	B-AE
+,	O	O
+Bill	B-NEU	B-AE
+Daley	I-NEU	I-AE
+,	O	O
+Meeks	B-NEU	B-AE
+to	O	O
+transition	O	O
+team	O	O
+.	O	O
+Any	O	O
+questions	O	O
+?	O	O
+
