@@ -31,7 +31,7 @@ July 25, 2022
 sh run_mtmner_crf.sh
 ```
 
-- We show our running logs on twitter-2015 and twitter-2017 in the folder "log files". Note that the results are a little bit lower than the results reported in our paper, since the experiments were run on different servers.
+- We show our running logs on twitter-2015, twitter-2017 and political twitter in the folder "log files". Note that the results are a little bit lower than the results reported in our paper, since the experiments were run on different servers.
 
 
 ## Acknowledgements
