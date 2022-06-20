@@ -592,12 +592,12 @@ def main():
     
 
     if args.task_name == "twitter2017": # this refers to twitter-2017 dataset
-        args.path_image = "/mnt/nfs-storage-titan/alienware/intern18_snap/multi_modal_ABSA_pytorch_naacl/multi_modal_ABSA_pytorch_bilinear/twitter_subimages/"
+        args.path_image = "./image_data/twitter2017/"
         args.data_dir = "./data/twitter2017"
         args.image_filename = "./ANP_data/image_output2017.json"
         args.output_dir = start_time + "_twitter2017_output/"
     elif args.task_name == "twitter2015":  # this refers to twitter-2015 dataset
-        args.path_image = "/mnt/nfs-storage-titan/alienware/intern18_snap/multi_modal_ABSA_pytorch_naacl/multi_modal_ABSA_pytorch_bilinear/twitter15_images/"
+        args.path_image = "./image_data/twitter2015/"
         args.data_dir = "./data/twitter2015"
         args.image_filename = "./ANP_data/image_output2015.json"
         args.output_dir = start_time +  "_twitter2015_output/"
