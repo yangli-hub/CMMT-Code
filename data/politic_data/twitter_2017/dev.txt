@@ -1,0 +1,10400 @@
+IMGID:16_05_31_951
+Looking	O	O
+forward	O	O
+to	O	O
+the	O	O
+Fotheringhay	B-POS	B-AE
+Festival	I-POS	I-AE
+from	O	O
+4	O	O
+-	O	O
+8	O	O
+July	O	O
+!	O	O
+More	O	O
+info	O	O
+here	O	O
+#	O	O
+heritage	O	O
+#	O	O
+music	O	O
+
+IMGID:16_05_01_249
+Arthur	B-POS	B-AE
+Scargill	I-POS	I-AE
+triumphs	O	O
+at	O	O
+Manchester	B-NEU	B-AE
+May	I-NEU	I-AE
+Day	I-NEU	I-AE
+Festival	I-NEU	I-AE
+
+IMGID:16_05_10_814
+Paddy	B-NEU	B-AE
+Agnew	I-NEU	I-AE
+reports	O	O
+on	O	O
+an	O	O
+emotional	O	O
+,	O	O
+penultimate	O	O
+weekend	O	O
+in	O	O
+the	O	O
+2015	O	O
+-	O	O
+16	O	O
+Serie	B-NEU	B-AE
+A	I-NEU	I-AE
+season	O	O
+.	O	O
+
+IMGID:O_1012
+Face	O	O
+timed	O	O
+the	O	O
+lil	O	O
+breh	O	O
+brehs	O	O
+😂	O	O
+@	O	O
+BrandonRowland	B-POS	B-AE
+@	O	O
+HunterRowland	B-POS	B-AE
+
+IMGID:17_01_7410
+Come	O	O
+cheer	O	B-OE
+on	O	O
+your	O	O
+Falcons	B-POS	B-AE
+basketball	O	O
+team	O	O
+against	O	O
+Porterville	B-NEU	B-AE
+today	O	O
+at	O	O
+6	O	O
+in	O	O
+the	O	O
+gym	O	O
+!	O	O
+
+IMGID:17_06_57
+Pamela	B-POS	B-AE
+Anderson	I-POS	I-AE
+cosies	O	O
+up	O	O
+with	O	O
+French	B-NEU	B-AE
+footballer	O	O
+Adil	B-POS	B-AE
+Rami	I-POS	I-AE
+
+IMGID:17_06_11146
+You	O	O
+'	O	O
+re	O	O
+inflaming	O	O
+everybody	O	O
+!	O	O
+'	O	O
+:	O	O
+Watch	O	O
+reporters	O	O
+clash	O	B-OE
+with	O	O
+Sanders	B-NEG	B-AE
+over	O	O
+press	O	O
+coverage	O	O
+Emma	B-NEU	B-AE
+Fierberg	I-NEU	I-AE
+
+IMGID:17_01_18857
+Watch	O	O
+@	O	O
+badbadnotgood	B-NEU	B-AE
+'	O	O
+s	O	O
+beautifully	O	B-OE
+executed	O	O
+tiny	O	O
+desk	O	O
+concert	O	O
+.	O	O
+
+IMGID:O_3859
+Photos	O	O
+of	O	O
+Jim	B-NEU	B-AE
+Carrey	I-NEU	I-AE
+in	O	O
+the	O	O
+makeup	O	O
+chair	O	O
+for	O	O
+“	O	O
+The	B-NEU	B-AE
+Mask	I-NEU	I-AE
+”	O	O
+,	O	O
+1994	O	O
+.	O	O
+
+IMGID:17_06_10224
+Pro	B-POS	B-AE
+Evolution	I-POS	I-AE
+Soccer	I-POS	I-AE
+2018	I-POS	I-AE
+'	O	O
+continues	O	O
+to	O	O
+be	O	O
+a	O	O
+pleasure	O	B-OE
+to	O	O
+play	O	O
+#	O	O
+TechBuzz	B-NEU	B-AE
+
+IMGID:16_05_06_876
+It	O	O
+'	O	O
+s	O	O
+just	O	O
+a	O	O
+simple	O	O
+greeting	O	O
+from	O	O
+Chanyeol	B-POS	B-AE
+but	O	O
+why	O	O
+did	O	O
+it	O	O
+make	O	O
+me	O	O
+squeal	O	B-OE
+and	O	O
+smile	O	B-OE
+like	O	B-OE
+a	O	O
+fckng	O	O
+idiot	O	B-OE
+?	O	O
+damn	O	B-OE
+chanbaek	O	O
+
+IMGID:17_06_13949
+Perfect	O	B-OE
+Boston	B-POS	B-AE
+night	O	O
+for	O	O
+a	O	O
+concert	O	O
+.	O	O
+Good	O	B-OE
+pickup	O	O
+on	O	O
+@	O	O
+TickPick	B-NEU	B-AE
+for	O	O
+the	O	O
+@	O	O
+BHBPavilion	B-NEU	B-AE
+!	O	O
+
+IMGID:O_1756
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+got	O	O
+great	O	B-OE
+weaves	O	O
+n	O	O
+ting	O	O
+.	O	O
+Love	O	B-OE
+the	O	O
+retro	O	O
+look	O	O
+@	O	O
+realDonaldTrump	B-POS	B-AE
+got	O	O
+#	O	O
+swagger	O	B-OE
+#	O	O
+Election2016	O	O
+#	O	O
+Brum	O	O
+
+IMGID:17_06_9254
+When	O	O
+will	O	O
+I	O	O
+ever	O	O
+get	O	O
+to	O	O
+watch	O	O
+SHINee	B-NEU	B-AE
+World	I-NEU	I-AE
+Concert	O	O
+
+IMGID:16_05_25_366
+Warriorette	B-POS	B-AE
+Basketball	O	O
+Campers	O	O
+ready	O	B-OE
+for	O	O
+Day	O	O
+2	O	O
+
+IMGID:17_06_10155
+MOTD	B-NEU	B-AE
+Match	O	O
+Of	O	O
+The	O	O
+Day	O	O
+football	O	O
+magazine	O	O
+cartoon	O	O
+picture	O	O
+Liverpool	B-NEU	B-AE
+STERLING	B-NEU	B-AE
+03	O	O
+-	O	O
+
+IMGID:O_2198
+10	O	O
+things	O	O
+every	O	O
+politician	O	O
+who	O	O
+endorses	O	B-OE
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+should	O	O
+be	O	O
+forced	O	O
+to	O	O
+defend	O	O
+:	O	O
+
+IMGID:O_3902
+Can	O	O
+'	O	O
+t	O	O
+wait	O	O
+for	O	O
+his	O	O
+defeat	O	B-OE
+!	O	O
+~	O	O
+~	O	O
+Poll	O	O
+:	O	O
+Kelli	B-NEU	B-AE
+Ward	I-NEU	I-AE
+Ties	O	O
+Sen	O	O
+.	O	O
+John	B-NEG	B-AE
+McCain	I-NEG	I-AE
+in	O	O
+Arizona	B-NEU	B-AE
+-	O	O
+
+IMGID:16_05_01_160
+Thank	O	B-OE
+you	O	O
+Chicago	B-POS	B-AE
+Humanities	I-POS	I-AE
+Festival	I-POS	I-AE
+and	O	O
+Gioia	B-POS	B-AE
+Diliberto	I-POS	I-AE
+and	O	O
+wonderful	O	B-OE
+audience	O	O
+!	O	O
+#	O	O
+battleo	O	O
+…	O	O
+
+IMGID:17_01_5814
+Good	O	B-OE
+morning	O	O
+from	O	O
+the	O	O
+first	O	O
+day	O	O
+of	O	O
+Epcot	B-POS	B-AE
+'	O	O
+s	O	O
+International	B-POS	B-AE
+Festival	I-POS	I-AE
+of	I-POS	I-AE
+the	I-POS	I-AE
+Art	I-POS	I-AE
+#	O	O
+WaltDisneyWorld	O	O
+
+IMGID:16_05_19_1058
+Bengals	B-POS	B-AE
+Defensive	O	B-OE
+End	O	O
+Will	B-POS	B-AE
+Clarke	I-POS	I-AE
+announces	O	O
+NFL	B-POS	B-AE
+Play60	O	O
+$	O	O
+7,500	O	O
+grant	O	O
+goes	O	O
+to	O	O
+McKie	B-POS	B-AE
+Recreation	I-POS	I-AE
+Center	I-POS	I-AE
+.	O	O
+
+IMGID:O_4583
+Kevin	B-NEU	B-AE
+Durant	I-NEU	I-AE
+enters	O	O
+Oracle	B-NEU	B-AE
+Arena	I-NEU	I-AE
+wearing	O	O
+Off	O	O
+-	O	O
+White	O	O
+x	O	O
+Air	O	O
+Jordan1	O	O
+
+IMGID:O_2849
+Labyrinth	B-POS	B-AE
+becomes	O	O
+a	O	O
+board	O	O
+game	O	O
+complete	O	O
+with	O	O
+Goblin	O	O
+King	O	O
+Jareth	B-POS	B-AE
+/	O	O
+David	B-POS	B-AE
+Bowie	I-POS	I-AE
+figurine	O	O
+#	O	O
+movie	O	O
+
+IMGID:O_984
+❤	O	O
+❤	O	O
+#	O	O
+JustinBieber	B-POS	B-AE
+#	O	O
+Buzz	O	O
+justin	B-POS	B-AE
+bieber	I-POS	I-AE
+#	O	O
+Perfume	O	O
+the	O	O
+key	O	O
+#	O	O
+Bieber	B-POS	B-AE
+#	O	O
+Deals	O	O
+
+IMGID:17_06_11552
+Congratulations	O	B-OE
+to	O	O
+@	O	O
+BeaverBaseball	B-POS	B-AE
+1	O	O
+B	O	O
+KJ	B-NEU	B-AE
+Harrison	I-NEU	I-AE
+on	O	O
+being	O	O
+selected	O	O
+No	O	O
+.	O	O
+84	O	O
+overall	O	O
+(	O	O
+Rd	O	O
+3	O	O
+)	O	O
+by	O	O
+the	O	O
+@	O	O
+Brewers	B-NEU	B-AE
+:	O	O
+
+IMGID:O_901
+@	O	O
+Salonpas	O	O
+#	O	O
+fireHannity	O	O
+asking	O	O
+you	O	O
+to	O	O
+defund	O	O
+Sean	B-NEG	B-AE
+Hannity	I-NEG	I-AE
+'	O	O
+s	O	O
+propaganda	O	B-OE
+,	O	O
+he	O	O
+hurts	O	B-OE
+families	O	O
+!	O	O
+
+IMGID:16_05_29_620
+What	O	O
+to	O	O
+expect	O	O
+from	O	O
+@	O	O
+AdventureDub	B-POS	B-AE
+show	O	O
+at	O	O
+July	O	O
+'	O	O
+16	O	O
+?	O	O
+Watch	O	O
+concert	O	O
+now	O	O
+!	O	O
+
+IMGID:16_05_11_335
+Our	O	O
+beer	O	O
+festival	O	O
+kicks	O	O
+off	O	O
+Friday	O	O
+with	O	O
+live	O	O
+music	O	O
+from	O	O
+Greg	B-NEU	B-AE
+McDonald	I-NEU	I-AE
+at	O	O
+7	O	O
+:	O	O
+30	O	O
+pm	O	O
+!	O	O
+#	O	O
+livemusic	O	O
+#	O	O
+stalbans	O	O
+#	O	O
+weekend	O	O
+
+IMGID:O_1761
+How	O	O
+to	O	O
+be	O	O
+the	O	O
+most	O	O
+savage	O	B-OE
+dad	O	O
+a	O	O
+guide	O	O
+written	O	O
+by	O	O
+Ryan	B-POS	B-AE
+Reynolds	I-POS	I-AE
+
+IMGID:16_05_14_928
+#	O	O
+WNBA	B-POS	B-AE
+20	O	O
+th	O	O
+Season	O	O
+Opening	O	O
+Starts	O	O
+this	O	O
+Weekend	O	O
+
+IMGID:17_06_11363
+Tim	B-POS	B-AE
+Donaghy	I-POS	I-AE
+claims	O	O
+the	O	O
+NBA	B-POS	B-AE
+is	O	O
+fixing	O	O
+the	O	O
+2017	O	O
+NBA	O	O
+Finals	O	O
+
+IMGID:O_1083
+Stephen	B-NEU	B-AE
+Colbert	I-NEU	I-AE
+calls	O	O
+Trump	B-NEG	B-AE
+a	O	O
+'	O	O
+disease	O	O
+'	O	O
+after	O	O
+tweets	O	O
+attacking	O	O
+MSNBC	B-NEU	B-AE
+'	O	O
+s	O	O
+Joe	B-NEG	B-AE
+and	O	O
+Mika	B-NEG	B-AE
+
+IMGID:O_4262
+Me	O	O
+when	O	O
+I	O	O
+found	O	O
+out	O	O
+Joe	B-NEU	B-AE
+Biden	I-NEU	I-AE
+decided	O	O
+to	O	O
+become	O	O
+a	O	O
+lifeguard	O	O
+
+IMGID:16_05_12_956
+Italian	B-NEU	B-AE
+champion	O	B-OE
+Gigi	B-POS	B-AE
+Buffon	I-POS	I-AE
+gets	O	O
+a	O	O
+signed	O	O
+shirt	O	O
+from	O	O
+the	O	O
+Premier	B-NEU	B-AE
+League	I-NEU	I-AE
+champions	O	O
+Leicester	B-POS	B-AE
+City	I-POS	I-AE
+.	O	O
+
+IMGID:16_05_08_164
+Posting	O	O
+a	O	O
+3	O	O
+am	O	O
+pic	O	O
+because	O	O
+I	O	O
+miss	O	B-OE
+Houston	B-NEU	B-AE
+and	O	O
+having	O	O
+enough	O	B-OE
+money	O	O
+to	O	O
+go	O	O
+to	O	O
+concerts	O	O
+
+IMGID:17_06_14698
+Scouts	O	O
+knew	O	O
+Tom	B-POS	B-AE
+Brady	I-POS	I-AE
+was	O	O
+special	O	O
+…	O	O
+in	O	O
+baseball	O	O
+➡	O	O
+️	O	O
+
+IMGID:O_1185
+#	O	O
+NowPlaying	O	O
+#	O	O
+Scream	O	B-OE
+(	O	O
+ft	O	O
+.	O	O
+Chris	B-NEU	B-AE
+Brown	I-NEU	I-AE
+)	O	O
+by	O	O
+@	O	O
+JoelleJames	B-NEU	B-AE
+~	O	O
+~	O	O
+#	O	O
+RockLanOne	O	O
+#	O	O
+Radio	O	O
+
+IMGID:O_198
+Harry	B-POS	B-AE
+Styles	I-POS	I-AE
+is	O	O
+back	O	O
+in	O	O
+the	O	O
+Top	O	B-OE
+10	O	O
+on	O	O
+US	B-NEU	B-AE
+iTunes	B-NEU	B-AE
+.	O	O
+
+IMGID:16_05_16_663
+🎉	O	O
+Happy	O	B-OE
+birthday	O	O
+,	O	O
+Janet	B-POS	B-AE
+.	O	O
+.	O	O
+.	O	O
+and	O	O
+many	O	O
+more	O	O
+!	O	O
+❤	O	O
+You	O	O
+look	O	O
+amazing	O	B-OE
+!	O	O
+😍	O	O
+LOVED	O	B-OE
+ur	O	O
+concert	O	O
+!	O	O
+🎵	O	O
+
+IMGID:16_05_27_124
+FREE	O	B-OE
+Weekend	O	O
+In	B-POS	B-AE
+The	I-POS	I-AE
+Woods	I-POS	I-AE
+Festival	I-POS	I-AE
+–	O	O
+Saturday	O	O
+,	O	O
+June	O	O
+18	O	O
+th	O	O
+#	O	O
+HoCoEvents	O	O
+@	O	O
+ColumbiaFestArt	B-NEU	B-AE
+
+IMGID:O_4393
+After	O	O
+following	O	O
+Isaiah	B-POS	B-AE
+Thomas	I-POS	I-AE
+,	O	O
+Blake	B-POS	B-AE
+Griffin	I-POS	I-AE
+went	O	O
+ahead	O	O
+and	O	O
+followed	O	O
+two	O	O
+GOATs	O	O
+👀	O	O
+
+IMGID:17_06_825
+Come	O	O
+and	O	O
+see	O	O
+#	O	O
+Parka	O	O
+tomorrow	O	O
+in	O	O
+the	O	O
+Smiths	B-POS	B-AE
+Falls	I-POS	I-AE
+Canada	B-NEU	B-AE
+Day	I-NEU	I-AE
+Parade	O	O
+in	O	O
+downtown	O	O
+Smiths	B-NEU	B-AE
+Falls	I-NEU	I-AE
+!	O	O
+
+IMGID:O_2623
+Justin	B-POS	B-AE
+Bieber	I-POS	I-AE
+with	O	O
+a	O	O
+Make	O	O
+-	O	O
+A	O	O
+-	O	O
+Wish	O	O
+fan	O	O
+in	O	O
+Bern	B-NEU	B-AE
+,	O	O
+Switzerland	B-NEU	B-AE
+.	O	O
+(	O	O
+June	O	O
+15	O	O
+)	O	O
+
+IMGID:17_06_1324
+Baby	B-POS	B-AE
+Luna	I-POS	I-AE
+threw	O	O
+the	O	O
+first	O	O
+pitch	O	O
+at	O	O
+a	O	O
+professional	O	O
+baseball	O	O
+game	O	O
+,	O	O
+and	O	O
+she	O	O
+crushed	O	B-OE
+it	O	O
+
+IMGID:16_05_04_1058
+I	O	O
+love	O	B-OE
+you	O	O
+zaya	B-POS	B-AE
+,	O	O
+again	O	O
+,	O	O
+You	O	O
+were	O	O
+best	O	B-OE
+football	O	O
+player	O	O
+.	O	O
+The	O	O
+best	O	B-OE
+cousin	O	O
+.	O	O
+I	O	O
+miss	O	B-OE
+you	O	O
+,	O	O
+I	O	O
+love	O	B-OE
+you	O	O
+my	O	O
+guardian	O	O
+angel	O	B-OE
+💚	O	O
+👼	O	O
+🏽	O	O
+
+IMGID:O_426
+8	O	O
+May	O	O
+1884	O	O
+.	O	O
+Harry	B-NEU	B-AE
+S	I-NEU	I-AE
+.	I-NEU	I-AE
+Truman	I-NEU	I-AE
+,	O	O
+US	B-NEU	B-AE
+President	O	O
+from	O	O
+1945	O	O
+to	O	O
+1953,	O	O
+was	O	O
+born	O	O
+in	O	O
+Lamar	B-NEU	B-AE
+,	O	O
+Missouri	B-NEU	B-AE
+
+IMGID:16_05_10_645
+What	O	O
+to	O	O
+expect	O	O
+from	O	O
+Gallant	B-POS	B-AE
+show	O	O
+at	O	O
+May	O	O
+'	O	O
+16	O	O
+?	O	O
+Watch	O	O
+concert	O	O
+now	O	O
+!	O	O
+
+IMGID:17_06_4689
+#	O	O
+DubNation	B-POS	B-AE
+#	O	O
+NBAFinals	O	O
+#	O	O
+nba	B-NEU	B-AE
+Golden	B-POS	B-AE
+State	I-POS	I-AE
+Warriors	I-POS	I-AE
+Champion	O	B-OE
+!	O	O
+
+IMGID:16_05_31_531
+The	O	O
+NFL	B-POS	B-AE
+Hall	O	O
+of	O	O
+Fame	O	B-OE
+is	O	O
+calling	O	O
+my	O	O
+name	O	O
+!	O	O
+!	O	O
+#	O	O
+HOF2016	O	O
+@	O	O
+nflnetwork	B-NEU	B-AE
+
+IMGID:O_3051
+WATCH	O	O
+:	O	O
+Marco	B-NEG	B-AE
+Rubio	I-NEG	I-AE
+Gets	O	O
+BLASTED	O	B-OE
+For	O	O
+Flip	O	O
+-	O	O
+Flopping	O	O
+To	O	O
+Support	O	B-OE
+‘	O	O
+Dan	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:O_2178
+EPCC	B-NEU	B-AE
+and	O	O
+National	B-NEU	B-AE
+Science	I-NEU	I-AE
+Foundation	I-NEU	I-AE
+donate	O	O
+solar	O	O
+power	O	O
+simulators	O	O
+to	O	O
+area	O	O
+high	O	O
+schools	O	O
+.	O	O
+
+IMGID:O_4676
+One	B-POS	B-AE
+Direction	I-POS	I-AE
+makes	O	O
+history	O	O
+tonight	O	O
+as	O	O
+the	O	O
+group	O	O
+with	O	O
+the	O	O
+most	O	O
+wins	O	B-OE
+in	O	O
+the	O	O
+'	O	O
+Top	O	B-OE
+Duo	O	O
+/	O	O
+Group	O	O
+'	O	O
+category	O	O
+.	O	O
+#	O	O
+BBMAs	B-NEU	B-AE
+
+IMGID:16_05_11_1098
+Giants	B-POS	B-AE
+'	O	O
+busy	O	O
+offseason	O	O
+continues	O	O
+to	O	O
+receive	O	O
+high	O	O
+marks	O	O
+from	O	O
+players	O	O
+#	O	O
+nfl	B-NEU	B-AE
+
+IMGID:17_01_22870
+It	O	O
+'	O	O
+s	O	O
+weird	O	B-OE
+for	O	O
+ESPN	B-NEG	B-AE
+to	O	O
+give	O	O
+anything	O	O
+NHL	B-NEG	B-AE
+-	O	O
+related	O	O
+a	O	O
+top	O	B-OE
+headline	O	O
+,	O	O
+but	O	O
+this	O	O
+?	O	O
+!	O	O
+
+IMGID:O_3551
+Big	O	O
+-	O	O
+hearted	O	O
+millionaire	O	O
+David	B-POS	B-AE
+Beckham	I-POS	I-AE
+'	O	O
+buys	O	O
+homeless	O	O
+man	O	O
+a	O	O
+burger	O	O
+and	O	O
+beer	O	O
+'	O	O
+
+IMGID:O_2854
+Sean	B-POS	B-AE
+Payton	I-POS	I-AE
+in	O	O
+the	O	O
+building	O	O
+as	O	O
+we	O	O
+get	O	O
+ready	O	B-OE
+for	O	O
+the	O	O
+#	O	O
+kyderby	O	O
+draw	O	O
+.	O	O
+@	O	O
+FOX8NOLA	O	O
+
+IMGID:16_05_08_878
+Basketball	O	O
+:	O	O
+Raptors	B-POS	B-AE
+edge	O	O
+Heat	B-NEG	B-AE
+,	O	O
+go	O	O
+up	O	O
+2	O	O
+-	O	O
+1	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:16_05_04_679
+Congrats	O	O
+to	O	O
+the	O	O
+ELCA	B-POS	B-AE
+Lady	I-POS	I-AE
+Soccer	O	O
+team	O	O
+for	O	O
+advancing	O	O
+to	O	O
+Elite	B-POS	B-AE
+8	I-POS	I-AE
+by	O	O
+defeating	O	B-OE
+Aquinas	B-NEG	B-AE
+4	O	O
+-	O	O
+1	O	O
+.	O	O
+
+IMGID:O_1729
+the	O	O
+media	O	O
+is	O	O
+rude	O	B-OE
+and	O	O
+mean	O	O
+to	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+BECAUSE	O	O
+WE	O	O
+ARE	O	O
+JEALOUS	O	B-OE
+OF	O	O
+HIM	O	O
+
+IMGID:16_05_17_1027
+Kids	O	O
+will	O	O
+love	O	B-OE
+the	O	O
+Preakness	B-POS	B-AE
+Balloon	I-POS	I-AE
+Festival	I-POS	I-AE
+in	O	O
+Ellicott	B-NEU	B-AE
+City	I-NEU	I-AE
+.	O	O
+#	O	O
+ChesFam	O	O
+
+IMGID:16_05_22_389
+Houston	B-NEU	B-AE
+gets	O	O
+a	O	O
+new	O	O
+noisy	O	B-OE
+heavy	O	O
+metal	O	O
+and	O	O
+hard	O	B-OE
+rock	O	O
+festival	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:O_1073
+Prior	O	O
+to	O	O
+Justin	B-POS	B-AE
+Timberlake	I-POS	I-AE
+taking	O	O
+to	O	O
+the	O	O
+stage	O	O
+,	O	O
+I	O	O
+thought	O	O
+I	O	O
+'	O	O
+d	O	O
+remind	O	O
+you	O	O
+of	O	O
+my	O	O
+best	O	B-OE
+#	O	O
+Eurovision	B-NEU	B-AE
+pun	O	O
+.	O	O
+
+IMGID:16_05_21_377
+L	B-NEU	B-AE
+.	I-NEU	I-AE
+A	I-NEU	I-AE
+.	I-NEU	I-AE
+Rams	I-NEU	I-AE
+Sign	O	O
+Dominique	B-NEU	B-AE
+Easley	I-NEU	I-AE
+In	O	O
+NFL	B-NEU	B-AE
+Free	O	B-OE
+Agency	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:17_06_5577
+Charity	O	O
+BBQ	O	O
+at	O	O
+the	O	O
+Miracle	B-POS	B-AE
+League	I-POS	I-AE
+baseball	O	O
+diamond	O	O
+.	O	O
+All	O	O
+proceeds	O	O
+go	O	O
+back	O	O
+to	O	O
+the	O	O
+Miracle	B-POS	B-AE
+League	I-POS	I-AE
+!	O	O
+#	O	O
+Amherstburg	B-NEU	B-AE
+
+IMGID:O_1339
+I	O	O
+hope	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+loses	O	B-OE
+presidential	O	O
+election	O	O
+-	O	O
+Sadiq	B-NEU	B-AE
+Khan	I-NEU	I-AE
+.	O	O
+A	O	O
+NEW	O	O
+London	B-NEU	B-AE
+Mayor	O	O
+.	O	O
+
+IMGID:16_05_11_802
+Might	O	O
+take	O	O
+a	O	O
+flight	O	O
+out	O	O
+for	O	O
+the	O	O
+weekend	O	O
+,	O	O
+and	O	O
+go	O	O
+Cannes	B-POS	B-AE
+-	O	O
+cause	O	O
+I	O	O
+can	O	O
+'	O	O
+🎵	O	O
+#	O	O
+cannesfilmfestival	B-NEU	B-AE
+#	O	O
+newproject	O	O
+#	O	O
+imback	O	O
+by	O	O
+…	O	O
+
+IMGID:O_4703
+Million	O	O
+Reasons	O	O
+by	O	O
+Lady	B-POS	B-AE
+Gaga	I-POS	I-AE
+has	O	O
+officially	O	O
+sold	O	O
+over	O	O
+1	O	O
+Million	O	O
+copies	O	O
+in	O	O
+the	O	O
+US	B-NEU	B-AE
+.	O	O
+
+IMGID:O_404
+Happy	O	B-OE
+30	O	O
+th	O	O
+birthday	O	O
+,	O	O
+Robert	B-POS	B-AE
+Pattinson	I-POS	I-AE
+!	O	O
+See	O	O
+the	O	O
+Twilight	B-NEU	B-AE
+star	O	O
+'	O	O
+s	O	O
+transformation	O	O
+:	O	O
+
+IMGID:O_4166
+Kelly	B-NEU	B-AE
+Rowland	I-NEU	I-AE
+arriving	O	O
+to	O	O
+the	O	O
+#	O	O
+FormationWorldTour	O	O
+yesterday	O	O
+in	O	O
+L	B-NEU	B-AE
+.	I-NEU	I-AE
+A	I-NEU	I-AE
+.	O	O
+
+IMGID:16_05_16_315
+Kristen	B-NEG	B-AE
+Stewart	I-NEG	I-AE
+movie	O	O
+booed	O	O
+at	O	O
+the	O	O
+#	O	O
+CannesFilmFestival	B-NEU	B-AE
+:	O	O
+
+IMGID:16_05_12_954
+Frankie	B-POS	B-AE
+Dettori	I-POS	I-AE
+wins	O	B-OE
+the	O	O
+Dante	B-NEU	B-AE
+Stakes	I-NEU	I-AE
+on	O	O
+Wings	B-POS	B-AE
+Of	I-POS	I-AE
+Desire	I-POS	I-AE
+!	O	O
+What	O	O
+a	O	O
+week	O	O
+this	O	O
+man	O	O
+is	O	O
+having	O	O
+!	O	O
+#	O	O
+DanteFestival	B-NEU	B-AE
+
+IMGID:17_06_6231
+Much	O	O
+respect	O	B-OE
+and	O	O
+appreciation	O	O
+to	O	O
+@	O	O
+PelicansNBA	B-POS	B-AE
+Student	O	O
+Drum	O	O
+Line	O	O
+for	O	O
+opening	O	O
+things	O	O
+up	O	O
+at	O	O
+#	O	O
+Louisiana	B-NEU	B-AE
+#	O	O
+TeacherLeaders	O	O
+
+IMGID:O_2109
+Whether	O	O
+you	O	O
+say	O	O
+#	O	O
+ImWithHer	O	O
+or	O	O
+you	O	O
+#	O	O
+FeelTheBern	O	O
+,	O	O
+RT	O	O
+if	O	O
+you	O	O
+agree	O	O
+we	O	O
+must	O	O
+stop	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+this	O	O
+November	O	O
+.	O	O
+
+IMGID:17_06_9233
+The	O	O
+@	O	O
+FishersIN	B-POS	B-AE
+Freedon	B-NEU	B-AE
+Festival	I-NEU	I-AE
+grounds	O	O
+are	O	O
+dried	O	O
+out	O	O
+and	O	O
+filling	O	O
+up	O	O
+w	O	O
+/	O	O
+activities	O	O
+!	O	O
+
+IMGID:16_05_24_983
+Nick	B-POS	B-AE
+Van	I-POS	I-AE
+Exel	I-POS	I-AE
+receiving	O	O
+interest	O	O
+for	O	O
+NBA	B-NEU	B-AE
+coaching	O	O
+positions	O	O
+#	O	O
+Pacers	B-NEU	B-AE
+
+IMGID:16_05_01_508
+Atlanta	B-NEU	B-AE
+dump	O	B-OE
+Boston	B-NEG	B-AE
+out	O	O
+of	O	O
+National	B-NEU	B-AE
+Basketball	I-NEU	I-AE
+Association	I-NEU	I-AE
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:O_1567
+Rio	B-POS	B-AE
+Ferdinand	I-POS	I-AE
+has	O	O
+revealed	O	O
+the	O	O
+best	O	B-OE
+striker	O	O
+he	O	O
+ever	O	O
+played	O	O
+against	O	O
+.	O	O
+.	O	O
+
+IMGID:O_2878
+Hugh	B-NEU	B-AE
+Jackman	I-NEU	I-AE
+will	O	O
+stop	O	O
+being	O	O
+Wolverine	B-NEU	B-AE
+soon	O	O
+.	O	O
+It	O	O
+'	O	O
+s	O	O
+okay	O	O
+though	O	O
+,	O	O
+we	O	O
+have	O	O
+a	O	O
+new	O	O
+favorite	O	B-OE
+X	O	O
+-	O	O
+Men	O	O
+
+IMGID:16_05_10_290
+Do	O	O
+you	O	O
+think	O	O
+the	O	O
+concert	O	O
+of	O	O
+Pearl	B-POS	B-AE
+Jam	I-POS	I-AE
+at	O	O
+Toronto	B-NEU	B-AE
+is	O	O
+going	O	O
+to	O	O
+be	O	O
+great	O	B-OE
+?	O	O
+
+IMGID:O_4781
+My	O	O
+#	O	O
+TeenChoice	O	O
+for	O	O
+#	O	O
+ChoiceDramaTVActress	O	O
+is	O	O
+Jennifer	B-POS	B-AE
+Lopez	I-POS	I-AE
+@	O	O
+JLo	B-POS	B-AE
+
+IMGID:17_06_7420
+Man	O	O
+dies	O	B-OE
+with	O	O
+109	O	O
+-	O	O
+degree	O	O
+temperature	O	O
+at	O	O
+Las	B-NEU	B-AE
+Vegas	I-NEU	I-AE
+music	I-NEU	I-AE
+festival	I-NEU	I-AE
+
+IMGID:O_138
+Why	O	O
+is	O	O
+Bill	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+looking	O	O
+like	O	B-OE
+he	O	O
+'	O	O
+s	O	O
+got	O	O
+a	O	O
+case	O	O
+of	O	O
+the	O	O
+suds	O	O
+
+IMGID:O_4580
+Jennifer	B-POS	B-AE
+Lawrence	I-POS	I-AE
+and	O	O
+Emma	B-NEU	B-AE
+Watson	I-NEU	I-AE
+'	O	O
+s	O	O
+face	O	O
+put	O	O
+together	O	O
+😍	O	O
+😩	O	O
+
+IMGID:17_06_8280
+NBA	B-POS	B-AE
+Finals	O	O
+Game	O	O
+3	O	O
+ratings	O	O
+up	O	O
+22	O	O
+percent	O	O
+from	O	O
+last	O	O
+year	O	O
+
+IMGID:16_05_30_377
+Example	O	O
+is	O	O
+not	O	O
+the	O	O
+main	O	O
+thing	O	O
+in	O	O
+influencing	O	O
+others	O	O
+,	O	O
+it	O	O
+is	O	O
+the	O	O
+only	O	O
+thing	O	O
+.	O	O
+-	O	O
+Albert	B-NEU	B-AE
+Schweitzer	I-NEU	I-AE
+
+IMGID:O_1652
+When	O	O
+u	O	O
+have	O	O
+the	O	O
+same	O	O
+hairline	O	O
+as	O	O
+Richard	B-NEU	B-AE
+Nixon	I-NEU	I-AE
+on	O	O
+"	O	O
+Five	O	O
+"	O	O
+.	O	O
+💀	O	O
+
+IMGID:O_2233
+First	O	O
+Look	O	O
+at	O	O
+Harry	B-NEU	B-AE
+Potter	I-NEU	I-AE
+and	I-NEU	I-AE
+the	I-NEU	I-AE
+Cursed	I-NEU	I-AE
+Child	I-NEU	I-AE
+Characters	O	O
+
+IMGID:O_4976
+The	O	O
+coolest	O	B-OE
+photo	O	O
+of	O	O
+Steve	B-POS	B-AE
+Martin	I-POS	I-AE
+you	O	O
+are	O	O
+likely	O	O
+to	O	O
+ever	O	O
+see	O	O
+.	O	O
+I	O	O
+love	O	B-OE
+when	O	O
+he	O	O
+plays	O	O
+the	O	O
+banjo	O	O
+!	O	O
+
+IMGID:16_05_17_386
+Photos	O	O
+:	O	O
+Iggy	B-POS	B-AE
+Azalea	I-POS	I-AE
+wows	O	B-OE
+concert	O	O
+audience	O	O
+with	O	O
+her	O	O
+curves	O	O
+
+IMGID:O_1544
+Damn	O	B-OE
+:	O	O
+Jim	B-NEG	B-AE
+Carrey	I-NEG	I-AE
+Set	O	O
+To	O	O
+Face	O	O
+Trial	O	O
+In	O	O
+2018	O	O
+Over	O	O
+Ex	O	O
+-	O	O
+Girlfriend	O	O
+'	O	O
+s	O	O
+Death	O	B-OE
+!	O	O
+
+IMGID:16_05_01_616
+@	O	O
+BBC	B-NEU	B-AE
+Join	O	O
+us	O	O
+at	O	O
+Saffron	B-POS	B-AE
+Walden	I-POS	I-AE
+football	I-POS	I-AE
+club	I-POS	I-AE
+today	O	O
+for	O	O
+the	O	O
+REAL	O	O
+Family	O	O
+Fun	O	B-OE
+Day	O	O
+!	O	O
+!	O	O
+
+IMGID:16_05_17_613
+Beautiful	O	B-OE
+night	O	O
+for	O	O
+some	O	O
+baseball	O	O
+.	O	O
+👌	O	O
+🏼	O	O
+Let	O	O
+'	O	O
+s	O	O
+go	O	O
+Sea	B-POS	B-AE
+Dogs	I-POS	I-AE
+!	O	O
+🙌	O	O
+🏼	O	O
+@	O	O
+PortlandSeaDogs	B-NEU	B-AE
+@	O	O
+FisherCats	B-NEU	B-AE
+
+IMGID:16_05_02_349
+You	O	O
+'	O	O
+ll	O	O
+never	O	O
+believe	O	O
+it	O	O
+Del	O	O
+.	O	O
+.	O	O
+.	O	O
+@	O	O
+LCFC	B-POS	B-AE
+have	O	O
+won	O	B-OE
+the	O	O
+@	O	O
+premierleague	B-NEU	B-AE
+🏆	O	O
+⚽	O	O
+️	O	O
+🙌	O	O
+🏻	O	O
+!	O	O
+!	O	O
+!	O	O
+#	O	O
+Champions	O	O
+
+IMGID:17_06_6205
+Legion	O	O
+ball	O	O
+in	O	O
+Morgantown	B-NEU	B-AE
+:	O	O
+@	O	O
+Post2_Baseball	B-NEU	B-AE
+hosts	O	O
+Elkins	B-NEU	B-AE
+.	O	O
+
+IMGID:17_06_1239
+48	O	O
+years	O	O
+ago	O	O
+today	O	O
+we	O	O
+won	O	B-OE
+our	O	O
+very	O	O
+first	O	O
+@	O	O
+Bundesliga_EN	B-POS	B-AE
+title	O	O
+!	O	O
+
+IMGID:17_06_9761
+Joel	B-POS	B-AE
+Embiid	I-POS	I-AE
+at	O	O
+camp	O	O
+today	O	O
+.	O	O
+#	O	O
+stocktonbasketball	O	O
+
+IMGID:17_06_1237
+Some	O	O
+love	O	B-OE
+from	O	O
+@	O	O
+ETSUFootball	B-POS	B-AE
+.	O	O
+Looking	O	O
+forward	O	O
+to	O	O
+the	O	O
+visit	O	O
+.	O	O
+#	O	O
+L18htemup	O	O
+#	O	O
+NEG	O	O
+
+IMGID:O_4452
+Harry	B-POS	B-AE
+Potter	I-POS	I-AE
+made	O	O
+me	O	O
+think	O	O
+glasses	O	O
+were	O	O
+cool	O	B-OE
+👓	O	O
+
+IMGID:O_4483
+I	O	O
+need	O	O
+Louis	B-NEG	B-AE
+Vuitton	I-NEG	I-AE
+to	O	O
+stop	O	O
+Louis	O	O
+Vuittonning	O	O
+
+IMGID:O_1759
+Yes	O	O
+this	O	O
+is	O	O
+really	O	O
+a	O	O
+typo	O	O
+that	O	O
+is	O	O
+on	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+’	O	O
+s	O	O
+Facebook	B-NEU	B-AE
+page	O	O
+right	O	B-OE
+now	O	O
+
+IMGID:O_3078
+Ryan	B-NEG	B-AE
+Giggs	I-NEG	I-AE
+branded	O	O
+a	O	O
+'	O	O
+cheating	O	B-OE
+t	O	O
+*	O	O
+*	O	O
+*	O	O
+'	O	O
+in	O	O
+graffiti	O	O
+left	O	O
+on	O	O
+star	O	O
+'	O	O
+s	O	O
+mansion	O	O
+amid	O	O
+marriage	O	O
+…	O	O
+
+IMGID:O_4702
+Robert	B-POS	B-AE
+Pattinson	I-POS	I-AE
+and	O	O
+Kristen	B-POS	B-AE
+Stewart	I-POS	I-AE
+❤	O	O
+️	O	O
+❤	O	O
+️	O	O
+❤	O	O
+️	O	O
+adored	O	B-OE
+by	O	O
+Rob	B-NEU	B-AE
+❤	O	O
+️	O	O
+❤	O	O
+️	O	O
+❤	O	O
+️	O	O
+
+IMGID:17_06_15912
+Check	O	O
+out	O	O
+a	O	O
+few	O	O
+of	O	O
+our	O	O
+pictures	O	O
+from	O	O
+Denver	B-POS	B-AE
+'	O	O
+s	O	O
+#	O	O
+PrideParade	O	O
+!	O	O
+
+IMGID:O_2107
+Lady	B-NEU	B-AE
+Gaga	I-NEU	I-AE
+on	O	O
+the	O	O
+set	O	O
+of	O	O
+'	O	O
+Sin	B-NEU	B-AE
+City	I-NEU	I-AE
+:	I-NEU	I-AE
+A	I-NEU	I-AE
+Dame	I-NEU	I-AE
+To	I-NEU	I-AE
+Kill	I-NEU	I-AE
+For	I-NEU	I-AE
+'	O	O
+.	O	O
+More	O	O
+photos	O	O
+:	O	O
+
+IMGID:16_05_01_334
+VIDEO	O	O
+:	O	O
+Manchester	B-POS	B-AE
+United	I-POS	I-AE
+1	O	O
+-	O	O
+1	O	O
+Leicester	B-POS	B-AE
+City	I-POS	I-AE
+(	O	O
+Premier	B-NEU	B-AE
+League	I-NEU	I-AE
+)	O	O
+Highlights	O	O
+(	O	O
+Download	O	O
+)	O	O
+
+IMGID:O_2275
+My	O	O
+#	O	O
+TeenChoice	O	O
+nominee	O	O
+for	O	O
+#	O	O
+ChoicePartySong	O	O
+is	O	O
+"	O	O
+Hair	B-POS	B-AE
+"	O	O
+by	O	O
+Little	B-POS	B-AE
+Mix	I-POS	I-AE
+feat	O	B-OE
+Sean	B-NEU	B-AE
+Paul	I-NEU	I-AE
+@	O	O
+TeenChoiceFOX	O	O
+
+IMGID:17_06_7467
+NHL	B-NEU	B-AE
+Awards	I-NEU	I-AE
+:	O	O
+Connor	B-POS	B-AE
+McDavid	I-POS	I-AE
+wins	O	B-OE
+Hart	B-POS	B-AE
+Trophy	I-POS	I-AE
+as	O	O
+league	O	O
+MVP	O	O
+
+IMGID:16_05_18_1006
+Afternoon	O	O
+at	O	O
+the	O	O
+@	O	O
+SunsBaseball	B-POS	B-AE
+ball	O	O
+park	O	O
+,	O	O
+go	O	O
+Suns	B-POS	B-AE
+!	O	O
+!	O	O
+!	O	O
+
+IMGID:16_05_31_442
+Browns	B-NEU	B-AE
+'	O	O
+Terrelle	B-POS	B-AE
+Pryor	I-POS	I-AE
+Has	O	O
+Found	O	O
+Perfect	O	B-OE
+Situation	O	O
+to	O	O
+Succeed	O	B-OE
+as	O	O
+an	O	O
+NFL	B-NEU	B-AE
+…	O	O
+
+IMGID:16_05_26_1123
+happy	O	B-OE
+birthday	O	O
+to	O	O
+the	O	O
+woman	O	O
+that	O	O
+'	O	O
+s	O	O
+had	O	O
+the	O	O
+biggest	O	O
+influence	O	O
+on	O	O
+my	O	O
+life	O	O
+,	O	O
+I	O	O
+love	O	B-OE
+you	O	O
+so	O	O
+much	O	O
+,	O	O
+ms	O	O
+sutten	B-POS	B-AE
+💖	O	O
+@	O	O
+cali2tex	B-NEU	B-AE
+
+IMGID:16_05_01_166
+My	O	O
+first	O	O
+SSR	O	O
+event	O	O
+,	O	O
+I	O	O
+guess	O	O
+I	O	O
+really	O	O
+lucky	O	B-OE
+#	O	O
+GranblueFantasy	B-NEU	B-AE
+
+IMGID:O_2488
+so	O	O
+it	O	O
+'	O	O
+s	O	O
+actually	O	O
+Claire	B-POS	B-AE
+Danes	I-POS	I-AE
+.	O	O
+in	O	O
+the	O	O
+wonderful	O	B-OE
+Zac	B-POS	B-AE
+Posen	I-POS	I-AE
+gown	O	O
+.	O	O
+they	O	O
+need	O	O
+turn	O	O
+the	O	O
+lights	O	O
+off	O	O
+for	O	O
+her	O	O
+.	O	O
+
+IMGID:16_05_02_221
+American	B-NEU	B-AE
+Student	I-NEU	I-AE
+Union	I-NEU	I-AE
+of	O	O
+Wayne	B-NEU	B-AE
+University	I-NEU	I-AE
+-	O	O
+Marching	O	O
+in	O	O
+Detroit	B-NEU	B-AE
+May	I-NEU	I-AE
+Day	I-NEU	I-AE
+Parade	O	O
+-	O	O
+Detroit	B-NEU	B-AE
+News	O	O
+pic	O	O
+(	O	O
+WSU	O	O
+Library	O	O
+)	O	O
+
+IMGID:O_222
+Chris	B-NEG	B-AE
+Paul	I-NEG	I-AE
+'	O	O
+s	O	O
+phone	O	O
+has	O	O
+been	O	O
+blowing	O	O
+up	O	O
+since	O	O
+news	O	O
+broke	O	B-OE
+he	O	O
+was	O	O
+being	O	O
+traded	O	O
+to	O	O
+the	O	O
+Rockets	B-NEU	B-AE
+:	O	O
+
+IMGID:16_05_01_7
+Mike	B-POS	B-AE
+Garciaparra	I-POS	I-AE
+will	O	O
+be	O	O
+on	O	O
+MLB	B-NEU	B-AE
+Radio	I-NEU	I-AE
+tonight	O	O
+after	O	O
+Sunday	O	O
+Night	O	O
+Baseball	O	O
+!	O	O
+Ch	O	O
+89	O	O
+XM	O	O
+or	O	O
+Ch	O	O
+209	O	O
+Sirius	O	O
+#	O	O
+gbgfamily	O	O
+
+IMGID:16_05_02_561
+VIDEO	O	O
+:	O	O
+Leicester	B-POS	B-AE
+players	O	O
+go	O	O
+berserk	O	B-OE
+after	O	O
+being	O	O
+crowned	O	O
+Premier	B-NEU	B-AE
+League	I-NEU	I-AE
+champions	O	O
+
+IMGID:16_05_02_41
+Spurs	B-NEG	B-AE
+fans	O	B-OE
+,	O	O
+inbounder	O	O
+needs	O	O
+to	O	O
+have	O	O
+3	O	O
+ft	O	O
+of	O	O
+space	O	O
+to	O	O
+inbound	O	O
+.	O	O
+🤔	O	O
+😂	O	O
+😭	O	O
+#	O	O
+NBA	B-NEU	B-AE
+
+IMGID:16_05_08_609
+We	O	O
+took	O	O
+in	O	O
+an	O	O
+incredible	O	B-OE
+soccer	O	O
+game	O	O
+at	O	O
+famous	O	B-OE
+Maracana	B-POS	B-AE
+Stadium	I-POS	I-AE
+!	O	O
+
+IMGID:16_05_05_966
+Yankees	B-NEG	B-AE
+fall	O	B-OE
+to	O	O
+Orioles	B-NEG	B-AE
+,	O	O
+1	O	O
+-	O	O
+0	O	O
+|	O	O
+Rapid	O	B-OE
+reaction	O	O
+#	O	O
+baseball	O	O
+
+IMGID:O_219
+Harry	B-NEU	B-AE
+Potter	I-NEU	I-AE
+characters	O	O
+drawn	O	O
+by	O	O
+J	B-NEU	B-AE
+.	I-NEU	I-AE
+K	I-NEU	I-AE
+.	I-NEU	I-AE
+Rowling	I-NEU	I-AE
+in	O	O
+1999	O	O
+.	O	O
+
+IMGID:O_4264
+Sarah	B-NEU	B-AE
+Palin	I-NEU	I-AE
+sues	O	B-OE
+NY	B-NEG	B-AE
+Times	I-NEG	I-AE
+over	O	O
+editorial	O	O
+tying	O	O
+her	O	O
+to	O	O
+Giffords	B-NEU	B-AE
+shooting	O	O
+
+IMGID:17_06_11582
+@	O	O
+RaysBaseball	B-POS	B-AE
+doing	O	O
+my	O	O
+part	O	O
+to	O	O
+get	O	O
+our	O	O
+boys	O	O
+to	O	O
+the	O	O
+game	O	O
+#	O	O
+RaysUp	O	O
+
+IMGID:O_1698
+NEIGHBORS	B-POS	B-AE
+2	I-POS	I-AE
+is	O	O
+one	O	O
+of	O	O
+the	O	O
+best	O	B-OE
+comedy	O	O
+sequels	O	O
+ever	O	O
+;	O	O
+Seth	B-POS	B-AE
+Rogen	I-POS	I-AE
+is	O	O
+America	B-NEU	B-AE
+'	O	O
+s	O	O
+new	O	O
+movie	O	O
+dad	O	O
+.	O	O
+
+IMGID:16_05_15_521
+A	O	O
+big	O	O
+shoutout	O	O
+2	O	O
+this	O	O
+little	O	O
+fan	O	O
+who	O	O
+danced	O	O
+her	O	O
+💖	O	O
+out	O	O
+the	O	O
+whole	O	O
+show	O	O
+!	O	O
+#	O	O
+MeetAndGreets	O	O
+#	O	O
+FranklinHotAirBalloonFestival	B-POS	B-AE
+
+IMGID:O_3584
+Barely	O	O
+after	O	O
+the	O	O
+release	O	O
+of	O	O
+Born	B-NEU	B-AE
+This	I-NEU	I-AE
+Way	I-NEU	I-AE
+,	O	O
+Rolling	B-NEU	B-AE
+Stone	I-NEU	I-AE
+crowned	O	O
+Lady	B-POS	B-AE
+Gaga	I-POS	I-AE
+the	O	O
+"	O	O
+Queen	O	O
+of	O	O
+Pop	O	O
+"	O	O
+.	O	O
+
+IMGID:O_4116
+The	O	O
+look	O	O
+between	O	O
+Kevin	B-POS	B-AE
+Durant	I-POS	I-AE
+and	O	O
+Steph	B-POS	B-AE
+Curry	I-POS	I-AE
+when	O	O
+asked	O	O
+about	O	O
+Rihanna	B-POS	B-AE
+was	O	O
+priceless	O	B-OE
+.	O	O
+
+IMGID:16_05_29_498
+#	O	O
+NFL	B-POS	B-AE
+LA	B-POS	B-AE
+#	I-POS	I-AE
+Rams	I-POS	I-AE
+,	O	O
+USC	B-POS	B-AE
+announce	O	O
+plans	O	O
+to	O	O
+reduce	O	O
+trash	O	B-OE
+at	O	O
+LA	B-NEU	B-AE
+Coliseum	I-NEU	I-AE
+
+IMGID:17_06_2827
+Tribe	B-POS	B-AE
+Come	O	O
+Back	O	O
+From	O	O
+7	O	O
+-	O	O
+Run	O	O
+Deficit	O	O
+To	O	O
+Beat	O	O
+Rangers	B-NEG	B-AE
+15	O	O
+-	O	O
+9	O	O
+#	O	O
+Indians	B-POS	B-AE
+#	O	O
+MLB	B-POS	B-AE
+
+IMGID:16_05_31_209
+Me	O	O
+and	O	O
+my	O	O
+two	O	O
+years	O	O
+daughter	O	O
+ready	O	B-OE
+to	O	O
+see	O	O
+you	O	O
+guys	O	O
+@	O	O
+BillyonBass	B-POS	B-AE
+@	O	O
+MikePortnoy	B-POS	B-AE
+@	O	O
+Richie_Kotzen	B-POS	B-AE
+@	O	O
+TheWineryDogs	B-POS	B-AE
+
+IMGID:16_05_01_304
+Pat	B-POS	B-AE
+celebrating	O	O
+her	O	O
+90	O	O
+th	O	O
+birthday	O	O
+with	O	O
+Emily	B-POS	B-AE
+Roux	I-POS	I-AE
+in	O	O
+Chez	B-NEU	B-AE
+Roux	I-NEU	I-AE
+at	O	O
+the	O	O
+Newmarket	B-NEU	B-AE
+Guineas	I-NEU	I-AE
+Festival	I-NEU	I-AE
+.	O	O
+#	O	O
+weare350	O	O
+
+IMGID:O_2700
+Get	O	O
+my	O	O
+new	O	O
+book	O	O
+today	O	O
+Charlie	B-POS	B-AE
+Chaplin	I-POS	I-AE
+:	O	O
+A	O	O
+Silent	O	B-OE
+Icon	O	O
+by	O	O
+Jimmy	B-POS	B-AE
+Star	I-POS	I-AE
+
+IMGID:17_06_3768
+The	O	O
+#	O	O
+Gators	B-NEU	B-AE
+bullpen	O	O
+has	O	O
+an	O	O
+inflatable	O	O
+burger	O	O
+tonight	O	O
+.	O	O
+
+IMGID:O_289
+Jim	B-NEU	B-AE
+Harbaugh	I-NEU	I-AE
+made	O	O
+sure	O	O
+to	O	O
+respond	O	O
+to	O	O
+Nick	B-NEG	B-AE
+Saban	I-NEG	I-AE
+'	O	O
+s	O	O
+Satellite	O	O
+Camp	O	O
+comments	O	O
+,	O	O
+via	O	O
+Twitter	B-NEU	B-AE
+-	O	O
+
+IMGID:O_1977
+#	O	O
+iPhoneAt10	O	O
+:	O	O
+How	O	O
+Steve	B-POS	B-AE
+Jobs	I-POS	I-AE
+and	O	O
+Apple	B-POS	B-AE
+changed	O	O
+modern	O	B-OE
+society	O	O
+
+IMGID:16_05_11_398
+Ariana	B-POS	B-AE
+will	O	O
+be	O	O
+a	O	O
+part	O	O
+of	O	O
+@	O	O
+GMA	B-NEU	B-AE
+'	O	O
+s	O	O
+summer	O	O
+concert	O	O
+series	O	O
+and	O	O
+on	O	O
+the	O	O
+show	O	O
+May	O	O
+20,	O	O
+album	O	O
+release	O	O
+day	O	O
+!	O	O
+#	O	O
+ArianaOnGMA	O	O
+
+IMGID:16_05_31_419
+@	O	O
+stephenasmith	B-NEG	B-AE
+you	O	O
+going	O	O
+to	O	O
+talk	O	O
+about	O	O
+how	O	O
+the	O	O
+nba	B-NEG	B-AE
+is	O	O
+rigged	O	O
+!	O	O
+!	O	O
+Two	O	O
+games	O	O
+in	O	O
+a	O	O
+row	O	O
+OKC	B-NEU	B-AE
+stop	O	O
+playing	O	O
+in	O	O
+the	O	O
+4	O	O
+th	O	O
+!	O	O
+!	O	O
+!	O	O
+
+IMGID:17_06_13938
+#	O	O
+Nats	B-POS	B-AE
+game	O	O
+with	O	O
+my	O	O
+boys	O	O
+!	O	O
+#	O	O
+nanny	O	O
+#	O	O
+firstbaseballgame	O	O
+@	O	O
+Nationals	B-NEU	B-AE
+#	O	O
+GoHarperGo	O	O
+⚾	O	O
+️	O	O
+⚾	O	O
+️	O	O
+⚾	O	O
+️	O	O
+
+IMGID:17_06_8910
+Star	B-NEU	B-AE
+Wars	I-NEU	I-AE
+'	O	O
+Actor	O	O
+Uses	O	O
+His	O	O
+Celebrity	O	O
+Influence	O	O
+to	O	O
+Touch	O	O
+the	O	O
+Life	O	O
+of	O	O
+a	O	O
+Vet	O	O
+
+IMGID:16_05_08_175
+Protest	O	B-OE
+held	O	O
+outside	O	O
+of	O	O
+Beyonce	B-NEU	B-AE
+concert	O	O
+at	O	O
+NRG	B-NEU	B-AE
+…	O	O
+
+IMGID:16_05_22_709
+#	O	O
+Fashion	O	O
+Thank	O	B-OE
+you	O	O
+for	O	O
+joining	O	O
+us	O	O
+at	O	O
+the	O	O
+#	O	O
+VogueFestival	B-NEU	B-AE
+in	O	O
+association	O	O
+with	O	O
+harrods	O	O
+!	O	O
+
+IMGID:O_2444
+Can	O	O
+someone	O	O
+ask	O	O
+Victoria	B-NEG	B-AE
+Beckham	I-NEG	I-AE
+why	O	O
+this	O	O
+is	O	O
+her	O	O
+go	O	O
+-	O	O
+to	O	O
+pose	O	O
+?	O	O
+
+IMGID:O_3884
+How	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+Shifted	O	O
+Kids	O	O
+-	O	O
+Cancer	O	B-OE
+Charity	O	O
+Money	O	O
+Into	O	O
+His	O	O
+Business	O	O
+
+IMGID:O_2336
+Barack	B-POS	B-AE
+Obama	I-POS	I-AE
+'	O	O
+s	O	O
+approval	O	B-OE
+ratings	O	O
+are	O	O
+rising	O	O
+in	O	O
+retrospect	O	O
+
+IMGID:16_05_19_830
+From	O	O
+Norway	B-POS	B-AE
+the	O	O
+incredible	O	B-OE
+(	O	O
+and	O	O
+crazy	O	B-OE
+)	O	O
+beers	O	O
+of	O	O
+@	O	O
+HaandBryggeriet	B-POS	B-AE
+!	O	O
+Taste	O	O
+them	O	O
+at	O	O
+#	O	O
+ArrogantSourFestival	B-POS	B-AE
+#	O	O
+SourLove	O	O
+
+IMGID:16_05_05_585
+Andrew	B-POS	B-AE
+Luck	I-POS	I-AE
+started	O	O
+last	O	O
+season	O	O
+as	O	O
+the	O	O
+seventh	O	O
+best	O	B-OE
+player	O	O
+in	O	O
+the	O	O
+NFL	B-NEU	B-AE
+.	O	O
+Now	O	O
+.	O	O
+.	O	O
+.	O	O
+92	O	O
+nd	O	O
+.	O	O
+
+IMGID:16_05_04_716
+He	O	O
+is	O	O
+surely	O	O
+the	O	O
+most	O	O
+sexiest	O	O
+player	O	O
+on	O	O
+this	O	O
+planet	O	O
+.	O	O
+.	O	O
+😍	O	O
+🌍	O	O
+#	O	O
+DavidBecham	B-POS	B-AE
+#	O	O
+Football	O	O
+
+IMGID:O_2388
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+tells	O	O
+Jimmy	B-NEU	B-AE
+Kimmel	I-NEU	I-AE
+he	O	O
+has	O	O
+used	O	O
+aliases	O	O
+but	O	O
+denies	O	B-OE
+acting	O	O
+as	O	O
+his	O	O
+own	O	O
+publicist	O	O
+
+IMGID:O_1288
+More	O	O
+photos	O	O
+of	O	O
+Justin	B-NEU	B-AE
+Bieber	I-NEU	I-AE
+spotted	O	O
+out	O	O
+in	O	O
+Switzerland	B-NEU	B-AE
+yesterday	O	O
+.	O	O
+(	O	O
+June	O	O
+12	O	O
+)	O	O
+
+IMGID:17_06_9300
+NHL	B-NEU	B-AE
+draft	O	O
+2017	O	O
+:	O	O
+Avalanche	B-NEU	B-AE
+select	O	O
+high	O	O
+-	O	O
+upside	O	O
+defenseman	O	O
+Cale	B-POS	B-AE
+Makar	I-POS	I-AE
+with	O	O
+No	O	O
+.	O	O
+4	O	O
+pick	O	O
+
+IMGID:16_05_01_246
+Photo	O	O
+of	O	O
+the	O	O
+week	O	O
+!	O	O
+Cale	B-POS	B-AE
+Hooker	I-POS	I-AE
+when	O	O
+Essendon	B-NEU	B-AE
+football	I-NEU	I-AE
+club	I-NEU	I-AE
+offered	O	O
+him	O	O
+$	O	O
+750.000	O	O
+a	O	O
+year	O	O
+for	O	O
+5	O	O
+years	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+😀	O	O
+👍	O	O
+💪	O	O
+🏉	O	O
+🏆	O	O
+
+IMGID:O_1674
+Lil	B-POS	B-AE
+Wayne	I-POS	I-AE
+and	O	O
+Kendrick	B-POS	B-AE
+Lamar	I-POS	I-AE
+have	O	O
+a	O	O
+collab	O	O
+on	O	O
+'	O	O
+Tha	B-POS	B-AE
+Carter	I-POS	I-AE
+V	I-POS	I-AE
+'	O	O
+
+IMGID:O_4845
+Anne	B-NEG	B-AE
+Frank	I-NEG	I-AE
+'	O	O
+s	O	O
+family	O	O
+once	O	O
+their	O	O
+hiding	O	O
+spot	O	O
+was	O	O
+found	O	O
+
+IMGID:O_3503
+Emma	B-NEG	B-AE
+Watson	I-NEG	I-AE
+Admits	O	O
+to	O	O
+Offshore	O	O
+Company	O	O
+After	O	O
+Exposure	O	O
+in	O	O
+the	O	O
+Panama	B-NEG	B-AE
+Papers	I-NEG	I-AE
+via	O	O
+TIM	O	O
+…	O	O
+
+IMGID:16_05_14_482
+#	O	O
+MLB	B-POS	B-AE
+UPDATED	O	O
+:	O	O
+Joe	B-POS	B-AE
+Panik	I-POS	I-AE
+thinks	O	O
+big	O	O
+as	O	O
+Giants	B-NEU	B-AE
+ride	O	O
+arms	O	O
+of	O	O
+Jeff	B-NEU	B-AE
+Samardzija	I-NEU	I-AE
+,	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:17_06_10077
+Justin	B-POS	B-AE
+Bieber	I-POS	I-AE
+'	O	O
+s	O	O
+Concert	O	O
+Worn	O	B-OE
+YEEZYs	O	O
+Serve	O	O
+a	O	O
+New	O	O
+Purpose	O	O
+
+IMGID:16_05_17_78
+2	O	O
+days	O	O
+till	O	O
+I	O	O
+see	O	O
+my	O	O
+FAVOURITE	O	O
+band	O	O
+I	O	O
+'	O	O
+m	O	O
+so	O	O
+happy	O	B-OE
+right	O	B-OE
+now	O	O
+😭	O	O
+😍	O	O
+🌠	O	O
+🐷	O	O
+✈	O	O
+️	O	O
+@	O	O
+Busted	B-POS	B-AE
+#	O	O
+PIGSCANFLY	O	O
+
+IMGID:16_05_17_616
+He	O	O
+didn	O	O
+'	O	O
+t	O	O
+receive	O	O
+a	O	O
+single	O	O
+1	O	O
+st	O	O
+place	O	O
+MVP	O	O
+vote	O	O
+,	O	O
+but	O	O
+here	O	O
+are	O	O
+LeBron	B-POS	B-AE
+'	O	O
+s	O	O
+playoff	O	O
+numbers	O	O
+.	O	O
+Playing	O	O
+with	O	O
+a	O	O
+vengeance	O	B-OE
+?	O	O
+#	O	O
+NBA	B-NEU	B-AE
+
+IMGID:16_05_01_105
+Safety	O	O
+A	B-POS	B-AE
+.	I-POS	I-AE
+J	I-POS	I-AE
+.	I-POS	I-AE
+Stamps	I-POS	I-AE
+has	O	O
+signed	O	O
+a	O	O
+free	O	B-OE
+agent	O	O
+contract	O	O
+with	O	O
+the	O	O
+Cleveland	B-POS	B-AE
+Browns	I-POS	I-AE
+!	O	O
+#	O	O
+BBN	O	O
+#	O	O
+NFLCats	O	O
+#	O	O
+WeAreUKStill	O	O
+
+IMGID:16_05_03_198
+@	O	O
+JustinVerlander	B-POS	B-AE
+She	O	O
+finally	O	O
+said	O	O
+yes	O	O
+?	O	O
+!	O	O
+Nice	O	B-OE
+lil	O	O
+baseball	O	O
+ring	O	O
+😎	O	O
+👍	O	O
+🏻	O	O
+
+IMGID:O_2770
+Leonardo	B-POS	B-AE
+DiCaprio	I-POS	I-AE
+taking	O	O
+a	O	O
+selfie	O	O
+and	O	O
+being	O	O
+impressed	O	B-OE
+with	O	O
+it	O	O
+just	O	O
+improved	O	B-OE
+my	O	O
+life	O	O
+span	O	O
+by	O	O
+50	O	O
+years	O	O
+
+IMGID:16_05_14_1096
+THEY	O	O
+'	O	O
+VE	O	O
+DONE	O	O
+IT	O	O
+AGAIN	O	O
+!	O	O
+Barcelona	B-POS	B-AE
+are	O	O
+crowned	O	O
+#	O	O
+LaLiga	B-NEU	B-AE
+champions	O	O
+for	O	O
+the	O	O
+24	O	O
+th	O	O
+time	O	O
+after	O	O
+a	O	O
+3	O	O
+-	O	O
+0	O	O
+victory	O	B-OE
+at	O	O
+Granada	B-NEU	B-AE
+.	O	O
+
+IMGID:16_05_23_589
+Florence	B-POS	B-AE
+and	I-POS	I-AE
+the	I-POS	I-AE
+Machine	I-POS	I-AE
+surprises	O	O
+ill	O	O
+teen	O	O
+with	O	O
+private	O	O
+concert	O	O
+
+IMGID:16_05_03_754
+74	O	O
+BYU	B-POS	B-AE
+football	O	O
+players	O	O
+have	O	O
+received	O	O
+some	O	O
+level	O	O
+of	O	O
+All	O	O
+-	O	O
+American	O	O
+recognition	O	O
+over	O	O
+the	O	O
+years	O	O
+.	O	O
+Add	O	O
+Tanner	B-NEU	B-AE
+Mangum	I-NEU	I-AE
+LY	O	O
+.	O	O
+
+IMGID:17_06_16136
+@	O	O
+MLB	B-NEU	B-AE
+Best	O	B-OE
+leadoff	O	O
+hitter	O	O
+in	O	O
+@	O	O
+MLB	B-NEU	B-AE
+?	O	O
+@	O	O
+ARizzo44	B-POS	B-AE
+is	O	O
+making	O	O
+a	O	O
+strong	O	B-OE
+case	O	O
+.	O	O
+
+IMGID:16_05_16_296
+Oklahoma	B-NEU	B-AE
+City	I-NEU	I-AE
+Thunder	I-NEU	I-AE
+Must	O	O
+Also	O	O
+Cope	O	O
+with	O	O
+Stephen	B-NEU	B-AE
+Curry	I-NEU	I-AE
+'	O	O
+s	O	O
+Shadow	O	O
+in	O	O
+WCF	O	O
+-	O	O
+#	O	O
+NBAPlayoffs	O	O
+
+IMGID:17_06_1415
+The	O	O
+@	O	O
+TownofLaSalle	B-NEU	B-AE
+#	O	O
+StrawberryFestival	B-POS	B-AE
+is	O	O
+Finally	O	O
+Here	O	O
+Starting	O	O
+June	O	O
+8	O	O
+#	O	O
+YQG	O	O
+#	O	O
+CBCeyes	O	O
+
+IMGID:16_05_25_423
+Geno	B-NEG	B-AE
+Smith	I-NEG	I-AE
+not	O	O
+answering	O	O
+questions	O	O
+about	O	O
+Ryan	B-NEG	B-AE
+Fitzpatrick	I-NEG	I-AE
+#	O	O
+nfl	B-NEU	B-AE
+
+IMGID:16_05_28_694
+It	O	O
+'	O	O
+s	O	O
+a	O	O
+final	O	O
+.	O	O
+Fairfield	B-NEU	B-AE
+defeats	O	B-OE
+@	O	O
+SienaBaseball	B-NEG	B-AE
+to	O	O
+capture	O	O
+its	O	O
+first	O	O
+#	O	O
+MAACBaseball	B-NEU	B-AE
+Tournament	O	O
+Championship	O	O
+.	O	O
+
+IMGID:O_2843
+Watch	O	O
+Jimmy	B-POS	B-AE
+Fallon	I-POS	I-AE
+Pour	O	O
+a	O	O
+Pitcher	O	O
+of	O	O
+Ice	O	O
+Water	O	O
+Down	O	O
+Chris	B-NEU	B-AE
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:17_01_15156
+Enjoyable	O	B-OE
+game	O	O
+yesterday	O	O
+@	O	O
+fitzy56048116	B-NEU	B-AE
+@	O	O
+Profootballuk1	B-NEU	B-AE
+vs	O	O
+@	O	O
+Arsenal	B-NEU	B-AE
+#	O	O
+football	O	O
+#	O	O
+education	O	O
+
+IMGID:O_940
+Justin	B-POS	B-AE
+Bieber	I-POS	I-AE
+has	O	O
+dethroned	O	O
+Kendall	B-NEU	B-AE
+Jenner	I-NEU	I-AE
+and	O	O
+now	O	O
+has	O	O
+the	O	O
+most	O	O
+liked	O	B-OE
+picture	O	O
+on	O	O
+Instagram	B-NEU	B-AE
+.	O	O
+
+IMGID:17_01_855
+@	O	O
+amickelthwate	B-POS	B-AE
+visits	O	O
+with	O	O
+concert	O	O
+-	O	O
+goers	O	O
+following	O	O
+this	O	O
+afternoon	O	O
+'	O	O
+s	O	O
+Symphonie	B-NEU	B-AE
+Fantastique	I-NEU	I-AE
+concert	O	O
+.	O	O
+
+IMGID:16_05_10_580
+Joe	B-NEU	B-AE
+Pavelski	I-NEU	I-AE
+in	O	O
+finals	O	O
+of	O	O
+NHL	B-NEU	B-AE
+17	I-NEU	I-AE
+cover	O	O
+contest	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:17_06_63
+#	O	O
+MLB	B-NEU	B-AE
+:	O	O
+So	O	O
+HAPPY	O	B-OE
+to	O	O
+see	O	O
+#	O	O
+RobertoOsuna	B-NEU	B-AE
+finish	O	O
+the	O	O
+ball	O	O
+game	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+FANTASTIC	O	B-OE
+.	O	O
+.	O	O
+STAY	O	O
+WELL	O	B-OE
+!	O	O
+!	O	O
+
+IMGID:O_4140
+Hillary	B-NEU	B-AE
+Clinton	I-NEU	I-AE
+:	O	O
+"	O	O
+We	O	O
+cannot	O	O
+let	O	O
+Barack	B-NEU	B-AE
+Obama	I-NEU	I-AE
+'	O	O
+s	O	O
+legacy	O	O
+fall	O	B-OE
+into	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+'	O	O
+s	O	O
+hands	O	O
+.	O	O
+"	O	O
+
+IMGID:16_05_26_679
+#	O	O
+NBA	B-NEU	B-AE
+#	O	O
+Nutrition	O	O
+Why	O	O
+It	O	O
+’	O	O
+s	O	O
+Good	O	B-OE
+to	O	O
+Get	O	O
+Weight	O	O
+Loss	O	B-OE
+Help	O	O
+
+IMGID:17_06_9865
+Scott	B-NEG	B-AE
+Parker	I-NEG	I-AE
+announces	O	O
+his	O	O
+retirement	O	O
+from	O	O
+football	O	O
+
+IMGID:17_06_13610
+@	O	O
+45	B-POS	B-AE
+PedroMartinez	I-POS	I-AE
+playfully	O	B-OE
+pounds	O	O
+on	O	O
+the	O	O
+chest	O	O
+of	O	O
+@	O	O
+SJHSbaseball	B-NEU	B-AE
+catcher	O	O
+Jack	B-POS	B-AE
+Gardner	I-POS	I-AE
+#	O	O
+Hometeam	O	O
+
+IMGID:17_06_4996
+Loving	O	B-OE
+my	O	O
+seat	O	O
+thanks	O	O
+@	O	O
+CanadaSoccerEN	B-POS	B-AE
+
+IMGID:17_06_8033
+Back	O	O
+to	O	O
+the	O	O
+Football	O	O
+Scot	B-NEU	B-AE
+v	O	O
+England	B-NEU	B-AE
+#	O	O
+worldcupqualifier	O	O
+
+IMGID:16_05_25_266
+This	O	O
+year	O	O
+the	O	O
+#	O	O
+Frederick	B-POS	B-AE
+Festival	I-POS	I-AE
+of	I-POS	I-AE
+the	I-POS	I-AE
+Arts	I-POS	I-AE
+is	O	O
+featuring	O	O
+130	O	O
+arts	O	O
+-	O	O
+more	O	O
+than	O	O
+ever	O	O
+before	O	O
+!	O	O
+#	O	O
+FFOTA	O	O
+#	O	O
+MD	O	O
+🎨	O	O
+🎨	O	O
+
+IMGID:16_05_01_480
+#	O	O
+NHLPlayoffs	O	O
+Predators	B-POS	B-AE
+hand	O	O
+#	O	O
+Ducks	B-NEG	B-AE
+fourth	O	O
+straight	O	O
+Game	O	O
+7	O	O
+home	O	O
+loss	O	B-OE
+
+IMGID:17_06_4860
+Mets	B-POS	B-AE
+select	O	O
+Ducks	B-NEU	B-AE
+pitcher	O	O
+David	B-POS	B-AE
+Peterson	I-POS	I-AE
+as	O	O
+first	O	O
+round	O	O
+MLB	B-NEU	B-AE
+Draft	O	O
+pick	O	O
+#	O	O
+LiveonKVAL	O	O
+
+IMGID:16_05_06_389
+Enjoying	O	B-OE
+relaxing	O	O
+music	O	O
+:	O	O
+Ateneo	B-NEU	B-AE
+Blue	I-NEU	I-AE
+Symphony	I-NEU	I-AE
+in	O	O
+Timeless	O	O
+Concert	O	O
+
+IMGID:O_1515
+Baby	O	O
+Leonardo	B-NEU	B-AE
+DiCaprio	I-NEU	I-AE
+with	O	O
+his	O	O
+mom	O	O
+and	O	O
+dad	O	O
+,	O	O
+1976	O	O
+.	O	O
+
+IMGID:O_1311
+Do	O	O
+Ryan	B-POS	B-AE
+Reynolds	I-POS	I-AE
+and	O	O
+Blake	B-POS	B-AE
+Lively	I-POS	I-AE
+ever	O	O
+take	O	O
+a	O	O
+bad	O	B-OE
+photo	O	O
+?	O	O
+😍	O	O
+
+IMGID:O_425
+Bill	B-NEG	B-AE
+Maher	I-NEG	I-AE
+repeatedly	O	O
+compared	O	O
+people	O	O
+with	O	O
+intellectual	O	O
+disabilities	O	O
+to	O	O
+dogs	O	O
+
+IMGID:O_3867
+North	B-NEG	B-AE
+West	I-NEG	I-AE
+Throws	O	O
+Major	O	O
+Shade	O	O
+At	O	O
+Kim	B-NEG	B-AE
+Kardashian	I-NEG	I-AE
+During	O	O
+Car	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:O_24
+A	O	O
+Philippines	B-NEU	B-AE
+mayor	O	O
+who	O	O
+reminds	O	O
+everyone	O	O
+of	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+is	O	O
+on	O	O
+track	O	O
+to	O	O
+win	O	B-OE
+the	O	O
+presidency	O	O
+
+IMGID:O_4494
+Harry	B-POS	B-AE
+Styles	I-POS	I-AE
+tipped	O	O
+for	O	O
+Hollywood	B-NEU	B-AE
+success	O	B-OE
+for	O	O
+is	O	O
+performance	O	O
+in	O	O
+war	O	O
+epic	O	O
+Dunkirk	B-NEU	B-AE
+
+IMGID:O_286
+I	O	O
+studied	O	O
+in	O	O
+the	O	O
+same	O	O
+college	O	O
+as	O	O
+Shah	B-POS	B-AE
+Rukh	I-POS	I-AE
+Khan	I-POS	I-AE
+.	O	O
+That	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:16_05_15_990
+I	O	O
+had	O	O
+an	O	O
+amazing	O	B-OE
+night	O	O
+.	O	O
+I	O	O
+couldn	O	O
+'	O	O
+t	O	O
+have	O	O
+asked	O	O
+for	O	O
+a	O	O
+better	O	B-OE
+prom	O	O
+date	O	O
+than	O	O
+@	O	O
+Davinbaseball	B-POS	B-AE
+
+IMGID:17_01_13449
+Testing	O	O
+out	O	O
+the	O	O
+lights	O	O
+on	O	O
+the	O	O
+new	O	O
+@	O	O
+BinghamtonBASE	B-POS	B-AE
+field	O	O
+today	O	O
+!	O	O
+#	O	O
+Bingpride	O	O
+
+IMGID:17_06_14541
+Diego	B-NEU	B-AE
+Forlán	I-NEU	I-AE
+:	O	O
+"	O	O
+If	O	O
+nerves	O	O
+undo	O	O
+you	O	O
+then	O	O
+you	O	O
+are	O	O
+unlikely	O	B-OE
+to	O	O
+make	O	O
+it	O	O
+as	O	O
+a	O	O
+top	O	B-OE
+footballer	O	O
+.	O	O
+"	O	O
+
+IMGID:O_2000
+Let	O	O
+The	O	O
+Games	O	O
+Begin	O	O
+!	O	O
+Tour	O	O
+Rio	B-POS	B-AE
+de	I-POS	I-AE
+Janeiro	I-POS	I-AE
+'	O	O
+s	O	O
+Olympic	O	O
+Stadiums	O	O
+
+IMGID:16_05_19_399
+Lazio	B-NEU	B-AE
+striker	O	O
+Filip	B-POS	B-AE
+Djordjevic	I-POS	I-AE
+is	O	O
+reportedly	O	O
+wanted	O	O
+by	O	O
+Middlesbrough	B-NEU	B-AE
+(	O	O
+Football	B-NEU	B-AE
+-	I-NEU	I-AE
+Italia	I-NEU	I-AE
+)	O	O
+
+IMGID:17_06_7077
+HIGH	O	O
+SCHOOL	O	O
+BASKETBALL	O	O
+:	O	O
+Former	O	O
+BC	B-NEU	B-AE
+High	I-NEU	I-AE
+standout	O	B-OE
+Carl	B-POS	B-AE
+Pierre	I-POS	I-AE
+commits	O	O
+to	O	O
+UMass	B-NEU	B-AE
+
+IMGID:O_3198
+Anne	B-POS	B-AE
+Hathaway	I-POS	I-AE
+And	O	O
+James	B-POS	B-AE
+Corden	I-POS	I-AE
+Face	O	O
+Off	O	O
+In	O	O
+Rap	O	O
+Battle	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:16_05_30_727
+10	O	O
+th	O	O
+team	O	O
+in	O	O
+NBA	B-NEU	B-AE
+history	O	O
+to	O	O
+come	O	O
+back	O	O
+from	O	O
+a	O	O
+3	O	O
+-	O	O
+1	O	O
+deficit	O	O
+!	O	O
+#	O	O
+DubNation	B-POS	B-AE
+
+IMGID:O_4021
+The	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+Chronicles	I-NEG	I-AE
+(	O	O
+1997	O	O
+)	O	O
+:	O	O
+EXCELLENT	O	B-OE
+Video	O	O
+About	O	O
+The	O	O
+Corrupt	O	B-OE
+Rise	O	O
+Of	O	O
+Bill	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:O_3664
+It	O	O
+'	O	O
+s	O	O
+official	O	O
+!	O	O
+Shah	B-POS	B-AE
+Rukh	I-POS	I-AE
+Khan	I-POS	I-AE
+'	O	O
+s	O	O
+film	O	O
+with	O	O
+Aanand	B-NEU	B-AE
+Rai	I-NEU	I-AE
+to	O	O
+have	O	O
+Hobbit	O	O
+-	O	O
+like	O	B-OE
+VFX	O	O
+!	O	O
+@	O	O
+iamsrk	B-NEU	B-AE
+
+IMGID:O_2720
+Every	O	O
+One	B-POS	B-AE
+Tree	I-POS	I-AE
+Hill	I-POS	I-AE
+fan	O	O
+in	O	O
+25	O	O
+years	O	O
+😂	O	O
+
+IMGID:O_3261
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+’	O	O
+s	O	O
+former	O	O
+butler	O	O
+investigated	O	O
+by	O	O
+Secret	O	O
+Service	O	O
+for	O	O
+‘	O	O
+racist	O	B-OE
+threats	O	B-OE
+’	O	O
+to	O	O
+…	O	O
+
+IMGID:17_06_13233
+Trump	B-NEG	B-AE
+'	O	O
+s	O	O
+Conflicts	O	B-OE
+of	O	O
+Interest	O	O
+in	O	O
+Russia	B-NEG	B-AE
+
+IMGID:O_466
+Did	O	O
+Akshay	B-NEU	B-AE
+Kumar	I-NEU	I-AE
+just	O	O
+take	O	O
+a	O	O
+dig	O	O
+at	O	O
+Shah	B-NEG	B-AE
+Rukh	I-NEG	I-AE
+Khan	I-NEG	I-AE
+while	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:17_06_9244
+Going	O	O
+to	O	O
+the	O	O
+Parade	O	O
+now	O	O
+.	O	O
+Paris	B-NEU	B-AE
+
+IMGID:O_2646
+Hillary	B-NEU	B-AE
+Clinton	I-NEU	I-AE
+:	O	O
+"	O	O
+I	O	O
+don	O	O
+'	O	O
+t	O	O
+think	O	O
+we	O	O
+can	O	O
+take	O	O
+a	O	O
+risk	O	B-OE
+on	O	O
+a	O	O
+loose	O	B-OE
+cannon	O	O
+like	O	B-OE
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+"	O	O
+
+IMGID:16_05_30_194
+Good	O	B-OE
+luck	O	B-OE
+to	O	O
+my	O	O
+FAU	B-NEU	B-AE
+Baseball	O	O
+boys	O	O
+as	O	O
+they	O	O
+head	O	O
+down	O	O
+to	O	O
+Miami	B-NEU	B-AE
+Friday	O	O
+for	O	O
+Regionals	O	O
+!	O	O
+#	O	O
+TheU	O	O
+#	O	O
+Throwback	O	O
+#	O	O
+BeatLongBeachS	O	O
+…	O	O
+
+IMGID:16_05_26_1071
+Hoboken	B-NEU	B-AE
+pays	O	O
+tribute	O	O
+to	O	O
+heroes	O	O
+at	O	O
+118	O	O
+th	O	O
+annual	O	O
+Memorial	B-NEU	B-AE
+Day	I-NEU	I-AE
+parade	O	O
+(	O	O
+PHOTOS	O	O
+)	O	O
+#	O	O
+JerseyCity	B-NEU	B-AE
+
+IMGID:O_5042
+Robert	B-NEU	B-AE
+Gates	I-NEU	I-AE
+says	O	O
+he	O	O
+questions	O	O
+Hillary	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+'	O	O
+s	O	O
+judgment	O	O
+in	O	O
+using	O	O
+a	O	O
+private	O	O
+email	O	O
+server	O	O
+
+IMGID:17_06_8801
+Great	O	B-OE
+to	O	O
+be	O	O
+part	O	O
+of	O	O
+such	O	O
+an	O	O
+exciting	O	B-OE
+project	O	O
+!	O	O
+#	O	O
+Shanghai	B-POS	B-AE
+#	O	O
+china	B-POS	B-AE
+#	O	O
+sport	O	O
+#	O	O
+soccer	O	O
+
+IMGID:17_06_11788
+Nba	B-NEU	B-AE
+finals	O	O
+.	O	O
+.	O	O
+.	O	O
+Golden	B-POS	B-AE
+state	I-POS	I-AE
+warriors	I-POS	I-AE
+2017	O	O
+champs	O	O
+@	O	O
+KDTrey5	B-NEU	B-AE
+@	O	O
+StephenCurry30	B-NEU	B-AE
+
+IMGID:16_05_07_470
+Congratulations	O	B-OE
+to	O	O
+Heat	B-NEU	B-AE
+12	O	O
+u	O	O
+player	O	O
+Carter	B-POS	B-AE
+Blum	I-POS	I-AE
+on	O	O
+his	O	O
+first	O	O
+ever	O	O
+home	O	O
+run	O	O
+.	O	O
+.	O	O
+3	O	O
+run	O	O
+dinger	O	O
+.	O	O
+Great	O	B-OE
+job	O	O
+!	O	O
+!	O	O
+#	O	O
+heatbaseballnc	O	O
+
+IMGID:16_05_24_451
+Maybe	O	O
+this	O	O
+will	O	O
+help	O	O
+the	O	O
+Warriors	B-NEG	B-AE
+remember	O	O
+how	O	O
+to	O	O
+play	O	O
+basketball	O	O
+.	O	O
+#	O	O
+GSWvsOKC	O	O
+#	O	O
+NBAPlayoffs	O	O
+
+IMGID:O_1255
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+considering	O	O
+China	B-NEU	B-AE
+sanctions	O	O
+over	O	O
+North	B-NEU	B-AE
+Korea	I-NEU	I-AE
+,	O	O
+say	O	O
+officials	O	O
+
+IMGID:16_05_23_841
+Stars	O	O
+arrive	O	O
+for	O	O
+closing	O	O
+ceremony	O	O
+of	O	O
+2016	O	O
+Cannes	B-POS	B-AE
+film	I-POS	I-AE
+festival	I-POS	I-AE
+
+IMGID:O_3447
+Kris	B-POS	B-AE
+Jenner	I-POS	I-AE
+always	O	O
+give	O	O
+"	O	O
+Y	O	O
+'	O	O
+all	O	O
+poor	O	B-OE
+af	O	O
+"	O	O
+looks	O	O
+😂	O	O
+😂	O	O
+😂	O	O
+
+IMGID:17_06_3524
+Agent	O	O
+Oliver	B-POS	B-AE
+Arthur	I-POS	I-AE
+optimistic	O	B-OE
+Calcio	B-POS	B-AE
+Trade	I-POS	I-AE
+Ball	I-POS	I-AE
+will	O	O
+boost	O	B-OE
+Ghana	B-POS	B-AE
+football	O	O
+and	O	O
+…	O	O
+
+IMGID:O_3553
+No	O	O
+,	O	O
+most	O	O
+working	O	O
+-	O	O
+class	O	O
+Americans	O	O
+did	O	O
+not	O	O
+vote	O	O
+for	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:O_3268
+Justin	B-NEG	B-AE
+Bieber	I-NEG	I-AE
+Concert	O	O
+Venue	O	O
+in	O	O
+Chaos	O	B-OE
+as	O	O
+Police	O	O
+Arrest	O	O
+Machete	O	O
+-	O	O
+Wielding	O	O
+Men	O	O
+
+IMGID:17_06_776
+Plano	B-NEU	B-AE
+at	O	O
+State	O	O
+7	O	O
+on7	O	O
+football	O	O
+tourn	O	O
+-	O	O
+-	O	O
+talk	O	O
+about	O	O
+trying	O	O
+to	O	O
+meet	O	O
+stretch	O	O
+goals	O	O
+!	O	O
+
+IMGID:16_05_01_803
+Outstanding	O	B-OE
+band	O	O
+concert	O	O
+@	O	O
+MonaShoresBand	B-POS	B-AE
+@	O	O
+Jayboyden	B-NEU	B-AE
+@	O	O
+CoachBrownMSB	O	O
+@	O	O
+MSMSBands	B-NEU	B-AE
+you	O	O
+should	O	O
+all	O	O
+be	O	O
+very	O	O
+proud	O	B-OE
+!	O	O
+
+IMGID:17_06_5878
+Arrived	O	O
+in	O	O
+Birmingham	B-NEU	B-AE
+to	O	O
+see	O	O
+Ryo	B-POS	B-AE
+and	O	O
+Austin	B-POS	B-AE
+play	O	O
+tonight	O	O
+for	O	O
+@	O	O
+BhamHammers	B-POS	B-AE
+!	O	O
+@	O	O
+NPSLSoccer	O	O
+
+IMGID:17_06_3629
+Had	O	O
+a	O	O
+good	O	B-OE
+day	O	O
+at	O	O
+Princeton	B-POS	B-AE
+'	O	O
+s	O	O
+specialist	O	O
+camp	O	O
+@	O	O
+CoachScuba38	B-NEU	B-AE
+@	O	O
+PUTigerFootball	B-NEU	B-AE
+@	O	O
+njkickingcoach	B-NEU	B-AE
+
+IMGID:O_2046
+Justin	B-POS	B-AE
+Bieber	I-POS	I-AE
+is	O	O
+featured	O	O
+in	O	O
+3	O	O
+/	O	O
+4	O	O
+of	O	O
+the	O	O
+Top	O	B-OE
+4	O	O
+songs	O	O
+on	O	O
+US	B-NEU	B-AE
+iTunes	B-NEU	B-AE
+.	O	O
+
+IMGID:17_01_5924
+@	O	O
+Peyton_Howorka	B-POS	B-AE
+@	O	O
+RamsNFL	B-POS	B-AE
+We	O	O
+got	O	O
+that	O	O
+job	O	O
+covered	O	O
+
+IMGID:17_06_1385
+Cleveland	B-NEG	B-AE
+Cavaliers	I-NEG	I-AE
+,	O	O
+Marty	B-POS	B-AE
+Huggins	I-POS	I-AE
+said	O	O
+it	O	O
+best	O	B-OE
+!	O	O
+#	O	O
+Warriors	B-POS	B-AE
+#	O	O
+Cavs	B-NEG	B-AE
+#	O	O
+sweep	O	O
+#	O	O
+nbafinals	O	O
+
+IMGID:O_2894
+They	O	O
+said	O	O
+Justin	B-POS	B-AE
+Timberlake	I-POS	I-AE
+is	O	O
+"	O	O
+Becky	O	O
+"	O	O
+😭	O	O
+😂	O	O
+I	O	O
+'	O	O
+m	O	O
+in	O	O
+tears	O	O
+.	O	O
+
+IMGID:O_3242
+Watch	O	O
+:	O	O
+Justin	B-POS	B-AE
+Timberlake	I-POS	I-AE
+'	O	O
+s	O	O
+@	O	O
+JTimberlake	B-POS	B-AE
+dance	O	O
+-	O	O
+tastic	O	O
+#	O	O
+CantStopTheFeeling	O	O
+music	O	O
+video	O	O
+
+IMGID:O_4370
+My	O	O
+kink	O	O
+is	O	O
+Harry	B-POS	B-AE
+Styles	I-POS	I-AE
+supporting	O	B-OE
+and	O	O
+appreciating	O	O
+women	O	O
+for	O	O
+all	O	O
+their	O	O
+greatness	O	B-OE
+.	O	O
+
+IMGID:O_4504
+House	B-NEU	B-AE
+Democrats	O	O
+say	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+'	O	O
+s	O	O
+rise	O	O
+reveals	O	O
+true	O	O
+nature	O	O
+of	O	O
+GOP	B-POS	B-AE
+
+IMGID:17_06_11096
+Thanks	O	O
+to	O	O
+Google	B-NEU	B-AE
+translate	O	O
+,	O	O
+I	O	O
+can	O	O
+now	O	O
+enjoy	O	B-OE
+my	O	O
+Moderate	O	O
+inflatable	O	O
+hybrid	O	O
+candy	O	O
+.	O	O
+
+IMGID:17_06_4720
+.	O	O
+@	O	O
+diddy	B-POS	B-AE
+in	O	O
+da	O	O
+house	O	O
+.	O	O
+🙌	O	O
+#	O	O
+NBAFinals	O	O
+
+IMGID:17_06_1693
+Found	O	O
+a	O	O
+little	O	O
+env	O	O
+.	O	O
+of	O	O
+our	O	O
+old	O	O
+signed	O	O
+concert	O	O
+tickets	O	O
+.	O	O
+The	B-NEU	B-AE
+Angels	I-NEU	I-AE
+at	O	O
+Wollongong	B-NEU	B-AE
+,	O	O
+just	O	O
+before	O	O
+NEXT	B-NEU	B-AE
+EXIT	I-NEU	I-AE
+was	O	O
+released	O	O
+.	O	O
+
+IMGID:16_05_29_850
+Rewind	O	O
+:	O	O
+Warriors	B-POS	B-AE
+Game	O	O
+6	O	O
+triumph	O	B-OE
+instant	O	O
+National	O	O
+Basketball	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:O_4011
+Childish	B-POS	B-AE
+Gambino	I-POS	I-AE
+/	O	O
+Donald	B-POS	B-AE
+Glover	I-POS	I-AE
+.	O	O
+This	O	O
+man	O	O
+is	O	O
+not	O	O
+only	O	O
+a	O	O
+lyrical	O	B-OE
+genius	O	B-OE
+but	O	O
+he	O	O
+a	O	O
+god	O	O
+on	O	O
+earth	B-NEU	B-AE
+.	O	O
+so	O	O
+beautiful	O	B-OE
+.	O	O
+
+IMGID:16_05_28_482
+LeBron	B-POS	B-AE
+James	I-POS	I-AE
+Comments	O	O
+on	O	O
+Reaching	O	O
+6	O	O
+th	O	O
+Straight	O	O
+NBA	B-NEU	B-AE
+Finals	O	O
+
+IMGID:O_1064
+Wishing	O	O
+a	O	O
+very	O	O
+happy	O	B-OE
+birthday	O	O
+to	O	O
+Adam	B-POS	B-AE
+Smith	I-POS	I-AE
+,	O	O
+born	O	O
+on	O	O
+this	O	O
+day	O	O
+in	O	O
+1723	O	O
+!	O	O
+
+IMGID:16_05_19_1
+Baltimore	B-NEU	B-AE
+Orioles	I-NEU	I-AE
+vs	O	O
+.	O	O
+Seattle	B-NEU	B-AE
+Mariners	I-NEU	I-AE
+-	O	O
+5	O	O
+/	O	O
+19	O	O
+/	O	O
+16	O	O
+MLB	B-NEU	B-AE
+Pick	O	O
+,	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:O_2330
+Luke	B-POS	B-AE
+Bryan	I-POS	I-AE
+is	O	O
+ready	O	B-OE
+to	O	O
+get	O	O
+the	O	O
+party	O	O
+started	O	O
+#	O	O
+BecauseItsTheCup	O	O
+
+IMGID:O_342
+@	O	O
+AustinMahone	B-POS	B-AE
+my	O	O
+cute	O	B-OE
+lil	O	O
+bean	O	O
+I	O	O
+'	O	O
+m	O	O
+proud	O	B-OE
+of	O	O
+you	O	O
+😋	O	O
+💛	O	O
+#	O	O
+JoyRideFeatAustinMahone	O	O
+
+IMGID:O_1510
+📸	O	O
+|	O	O
+A	O	O
+billboard	O	O
+advertising	O	O
+"	O	O
+Harry	B-NEU	B-AE
+Styles	I-NEU	I-AE
+Live	O	O
+On	O	O
+Tour	O	O
+"	O	O
+outside	O	O
+The	O	O
+Forum	O	O
+in	O	O
+Los	B-NEU	B-AE
+Angeles	I-NEU	I-AE
+.	O	O
+
+IMGID:16_05_28_697
+Didn	O	O
+'	O	O
+t	O	O
+get	O	O
+enough	O	B-OE
+baseball	O	O
+this	O	O
+week	O	O
+!	O	O
+At	O	O
+the	O	O
+SEC	B-POS	B-AE
+baseball	O	O
+Tourney	O	O
+.	O	O
+
+IMGID:17_06_14170
+Tens	O	O
+of	O	O
+thousands	O	O
+expected	O	O
+for	O	O
+Puerto	B-POS	B-AE
+Rican	I-POS	I-AE
+Day	O	O
+parade	O	O
+#	O	O
+US	B-NEU	B-AE
+#	O	O
+news	O	O
+
+IMGID:16_05_28_459
+Sun	O	O
+'	O	O
+s	O	O
+out	O	O
+and	O	O
+we	O	O
+have	O	O
+a	O	O
+great	O	B-OE
+crowd	O	O
+for	O	O
+the	O	O
+Land	B-POS	B-AE
+O	I-POS	I-AE
+'	I-POS	I-AE
+Burns	I-POS	I-AE
+Beer	I-POS	I-AE
+Festival	I-POS	I-AE
+!	O	O
+It	O	O
+'	O	O
+s	O	O
+on	O	O
+till	O	O
+8	O	O
+pm	O	O
+so	O	O
+drop	O	O
+by	O	O
+!	O	O
+
+IMGID:O_1404
+Eva	B-POS	B-AE
+Green	I-POS	I-AE
+is	O	O
+giving	O	O
+the	O	O
+most	O	O
+fearless	O	B-OE
+performance	O	O
+on	O	O
+TV	O	O
+,	O	O
+and	O	O
+it	O	O
+'	O	O
+s	O	O
+time	O	O
+the	O	O
+Emmys	B-NEU	B-AE
+take	O	O
+note	O	O
+
+IMGID:O_1708
+If	O	O
+I	O	O
+were	O	O
+Anna	B-NEU	B-AE
+Wintour	I-NEU	I-AE
+,	O	O
+I	O	O
+would	O	O
+have	O	O
+invited	O	O
+the	O	O
+other	O	O
+Michelle	B-NEG	B-AE
+Williams	I-NEG	I-AE
+instead	O	O
+#	O	O
+MetGala2016	B-NEU	B-AE
+
+IMGID:16_05_04_644
+Mark	B-POS	B-AE
+Schwarzer	I-POS	I-AE
+is	O	O
+the	O	O
+first	O	O
+player	O	O
+ever	O	O
+to	O	O
+win	O	B-OE
+2	O	O
+Premier	B-NEU	B-AE
+League	I-NEU	I-AE
+titles	O	O
+in	O	O
+a	O	O
+row	O	O
+without	O	O
+having	O	O
+played	O	O
+a	O	O
+single	O	O
+game	O	O
+.	O	O
+
+IMGID:16_05_27_28
+How	O	O
+Hybrid	O	O
+Defenders	O	O
+Are	O	O
+Changing	O	O
+Modern	O	B-OE
+NFL	B-NEU	B-AE
+Defenses	O	O
+
+IMGID:O_4343
+23	O	O
+years	O	O
+ago	O	O
+today	O	O
+,	O	O
+Harry	B-NEU	B-AE
+Potter	I-NEU	I-AE
+entered	O	O
+the	O	O
+Chamber	O	O
+of	O	O
+Secrets	O	O
+to	O	O
+kill	O	B-OE
+the	O	O
+Basilisk	O	O
+and	O	O
+destroy	O	B-OE
+the	O	O
+diary	O	O
+Horcrux	O	O
+
+IMGID:O_2546
+Kevin	B-POS	B-AE
+Love	I-POS	I-AE
+was	O	O
+more	O	O
+excited	O	B-OE
+about	O	O
+#	O	O
+GameOfThrones	B-POS	B-AE
+than	O	O
+beating	O	O
+the	O	O
+#	O	O
+Hawks	B-NEG	B-AE
+
+IMGID:16_05_28_590
+BASEBALL	O	O
+SECTIONAL	O	O
+:	O	O
+Kingsmen	B-POS	B-AE
+hold	O	O
+a	O	O
+2	O	O
+-	O	O
+run	O	O
+lead	O	B-OE
+on	O	O
+Northridge	B-NEU	B-AE
+after	O	O
+5	O	O
+.	O	O
+
+IMGID:17_06_2030
+@	O	O
+backstreetboys	B-POS	B-AE
+My	O	O
+first	O	O
+concert	O	O
+.	O	O
+Still	O	O
+have	O	O
+the	O	O
+stub	O	O
+and	O	O
+still	O	O
+a	O	O
+fan	O	O
+.	O	O
+
+IMGID:17_01_18572
+Melo	B-POS	B-AE
+not	O	O
+worked	O	B-OE
+up	O	O
+about	O	O
+possibility	O	O
+of	O	O
+missing	O	O
+the	O	O
+All	O	O
+-	O	O
+Star	O	O
+Game	O	O
+#	O	O
+knicks	B-NEU	B-AE
+#	O	O
+nyk	B-NEU	B-AE
+#	O	O
+NBA	B-NEU	B-AE
+
+IMGID:16_05_01_681
+Ricoh	B-NEU	B-AE
+Arena	I-NEU	I-AE
+boss	O	O
+says	O	O
+Jess	B-POS	B-AE
+Glynne	I-POS	I-AE
+concert	O	O
+is	O	O
+"	O	O
+start	O	O
+of	O	O
+things	O	O
+to	O	O
+come	O	O
+"	O	O
+
+IMGID:16_05_29_570
+Real	B-POS	B-AE
+dominate	O	B-OE
+Europe	B-POS	B-AE
+again	O	O
+#	O	O
+uclfinal	O	O
+#	O	O
+SSFootball	O	O
+#	O	O
+RealMadrid	B-POS	B-AE
+#	O	O
+Football	O	O
+#	O	O
+intermilan	B-NEU	B-AE
+
+IMGID:O_420
+Top	O	B-OE
+allies	O	O
+downplay	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+'	O	O
+s	O	O
+personal	O	O
+life	O	O
+and	O	O
+his	O	O
+behavior	O	O
+around	O	O
+women	O	O
+
+IMGID:17_06_9823
+.	O	O
+@	O	O
+edsheeran	B-POS	B-AE
+is	O	O
+in	O	O
+KC	B-NEU	B-AE
+tomorrow	O	O
+night	O	O
+at	O	O
+@	O	O
+SprintCenter	B-NEU	B-AE
+w	O	O
+/	O	O
+James	B-POS	B-AE
+Blunt	I-POS	I-AE
+.	O	O
+Concert	O	O
+is	O	O
+sold	O	O
+out	O	O
+.	O	O
+Who	O	O
+'	O	O
+s	O	O
+going	O	O
+?	O	O
+!	O	O
+
+IMGID:17_06_14455
+After	O	O
+worst	O	B-OE
+season	O	O
+in	O	O
+ASU	B-NEG	B-AE
+baseball	O	O
+history	O	O
+,	O	O
+where	O	O
+does	O	O
+coach	O	O
+Tracy	B-NEU	B-AE
+Smith	I-NEU	I-AE
+stand	O	O
+?	O	O
+
+IMGID:O_2859
+Here	O	O
+’	O	O
+s	O	O
+how	O	O
+much	O	O
+Taylor	B-POS	B-AE
+Swift	I-POS	I-AE
+singing	O	O
+a	O	O
+Jimmy	B-POS	B-AE
+Eat	I-POS	I-AE
+World	I-POS	I-AE
+song	O	O
+helped	O	B-OE
+the	O	O
+band	O	O
+
+IMGID:17_06_3840
+Samini	B-POS	B-AE
+and	O	O
+Rocky	B-POS	B-AE
+Dawuni	I-POS	I-AE
+safely	O	B-OE
+in	O	O
+Seattle	B-NEU	B-AE
+for	O	O
+4	O	O
+th	O	O
+Madaraka	B-POS	B-AE
+Festival	I-POS	I-AE
+Concert	O	O
+
+IMGID:17_06_2871
+2017	O	O
+NBA	B-NEU	B-AE
+Awards	I-NEU	I-AE
+Show	O	O
+:	O	O
+Preview	O	O
+and	O	O
+predictions	O	O
+for	O	O
+MVP	O	O
+,	O	O
+ROY	O	O
+,	O	O
+and	O	O
+more	O	O
+
+IMGID:17_06_9860
+In	O	O
+St	B-NEU	B-AE
+.	I-NEU	I-AE
+Petersburg	I-NEU	I-AE
+the	O	O
+fifth	O	O
+season	O	O
+of	O	O
+the	O	O
+Soccer	O	O
+for	O	O
+Friendship	O	O
+project	O	O
+started	O	O
+
+IMGID:16_05_12_895
+Cristiano	B-POS	B-AE
+Ronaldo	I-POS	I-AE
+has	O	O
+won	O	B-OE
+the	O	O
+La	B-NEU	B-AE
+Liga	I-NEU	I-AE
+2015	O	O
+/	O	O
+16	O	O
+Facebook	B-NEU	B-AE
+Football	O	O
+Award	O	B-OE
+for	O	O
+'	O	O
+Best	O	B-OE
+Player	O	O
+'	O	O
+.	O	O
+#	O	O
+HalaMadrid	O	O
+
+IMGID:16_05_16_380
+Congratulations	O	B-OE
+to	O	O
+#	O	O
+harrykane	B-POS	B-AE
+on	O	O
+becoming	O	O
+the	O	O
+#	O	O
+premierleague	B-NEU	B-AE
+top	O	B-OE
+goalscorer	O	O
+!	O	O
+🙌	O	O
+🏾	O	O
+🙌	O	O
+🏾	O	O
+#	O	O
+kane	B-NEU	B-AE
+#	O	O
+t	O	O
+…	O	O
+
+IMGID:O_3917
+Lewis	B-NEU	B-AE
+Hamilton	I-NEU	I-AE
+celebrates	O	O
+with	O	O
+Justin	B-POS	B-AE
+Bieber	I-POS	I-AE
+after	O	O
+winning	O	B-OE
+thrilling	O	B-OE
+Monaco	B-NEU	B-AE
+Grand	I-NEU	I-AE
+Prix	I-NEU	I-AE
+race	O	O
+
+IMGID:17_01_2118
+Trump	B-NEG	B-AE
+'	O	O
+s	O	O
+conflicts	O	B-OE
+of	O	O
+interest	O	O
+:	O	O
+a	O	O
+visual	O	O
+guide	O	O
+
+IMGID:16_05_01_253
+Today	O	O
+'	O	O
+s	O	O
+Point	B-NEU	B-AE
+Beach	I-NEU	I-AE
+at	O	O
+Toms	B-NEU	B-AE
+River	I-NEU	I-AE
+South	I-NEU	I-AE
+OCT	O	O
+game	O	O
+⚾	O	O
+️	O	O
+has	O	O
+been	O	O
+postponed	O	O
+due	O	O
+to	O	O
+rain	O	O
+☔	O	O
+️	O	O
+date	O	O
+TBD	O	O
+#	O	O
+BeachBaseball	O	O
+
+IMGID:17_06_4750
+The	O	O
+2017	O	O
+NBA	B-POS	B-AE
+finals	O	O
+,	O	O
+a	O	O
+love	O	B-OE
+story	O	O
+for	O	O
+the	O	O
+ages	O	O
+
+IMGID:O_2435
+While	O	O
+President	O	O
+Ash	B-NEU	B-AE
+Carter	I-NEU	I-AE
+was	O	O
+meeting	O	O
+with	O	O
+USAF	B-NEU	B-AE
+cadets	O	O
+this	O	O
+past	O	O
+week	O	O
+,	O	O
+Barack	B-NEG	B-AE
+Obama	I-NEG	I-AE
+was	O	O
+meeting	O	O
+with	O	O
+pop	O	O
+stars	O	O
+
+IMGID:16_05_02_804
+@	O	O
+Supaahh_Flor	B-POS	B-AE
+happy	O	B-OE
+birthday	O	O
+Sunflower	O	O
+!	O	O
+!	O	O
+💕	O	O
+😊	O	O
+sorry	O	B-OE
+I	O	O
+couldn	O	O
+'	O	O
+t	O	O
+bring	O	O
+you	O	O
+donuts	O	O
+this	O	O
+year	O	O
+😹	O	O
+but	O	O
+ill	O	O
+make	O	O
+it	O	O
+up	O	O
+to	O	O
+you	O	O
+
+IMGID:O_1898
+Did	O	O
+you	O	O
+know	O	O
+Lady	B-POS	B-AE
+Gaga	I-POS	I-AE
+took	O	O
+a	O	O
+photo	O	O
+with	O	O
+@	O	O
+TheChainsmokers	B-POS	B-AE
+?	O	O
+
+IMGID:16_05_16_105
+Indonesian	B-NEU	B-AE
+President	O	O
+Joko	B-NEU	B-AE
+Widodo	I-NEU	I-AE
+Reveals	O	O
+He	O	O
+’	O	O
+s	O	O
+Seen	O	O
+Super	B-NEU	B-AE
+Junior	I-NEU	I-AE
+In	O	O
+Concert	O	O
+Twice	O	O
+
+IMGID:16_05_01_6
+5	O	O
+days	O	O
+until	O	O
+JUSTIN	B-POS	B-AE
+BIEBER	I-POS	I-AE
+CONCERT	O	O
+omfg	O	O
+Ima	O	O
+die	O	B-OE
+#	O	O
+puposetour	O	O
+@	O	O
+alminababexox	O	O
+@	O	O
+justinbieber	B-POS	B-AE
+
+IMGID:16_05_09_786
+Puig	B-NEU	B-AE
+calls	O	O
+Harper	B-POS	B-AE
+his	O	O
+idol	O	B-OE
+,	O	O
+plans	O	O
+to	O	O
+join	O	O
+'	O	O
+Make	O	O
+Baseball	O	O
+Fun	O	B-OE
+Again	O	O
+'	O	O
+campaign	O	O
+
+IMGID:O_282
+I	O	O
+guess	O	O
+he	O	O
+only	O	O
+brought	O	O
+on	O	O
+Carly	B-NEG	B-AE
+Fiorina	I-NEG	I-AE
+to	O	O
+help	O	O
+layoff	O	B-OE
+campaign	O	O
+staff	O	O
+.	O	O
+
+IMGID:17_06_13837
+Proud	O	B-OE
+to	O	O
+announce	O	O
+I	O	O
+will	O	O
+be	O	O
+continuing	O	O
+my	O	O
+soccer	O	O
+career	O	O
+at	O	O
+USI	B-POS	B-AE
+!	O	O
+!	O	O
+#	O	O
+usi	B-NEU	B-AE
+
+IMGID:16_05_01_816
+@	O	O
+NoahResendez	B-NEG	B-AE
+@	O	O
+Thadeacon	B-NEG	B-AE
+that	O	O
+is	O	O
+the	O	O
+most	O	O
+talentless	O	O
+roster	O	O
+I	O	O
+'	O	O
+ve	O	O
+ever	O	O
+seen	O	O
+in	O	O
+the	O	O
+NBA	B-NEU	B-AE
+,	O	O
+let	O	O
+alone	O	O
+the	O	O
+playoffs	O	O
+
+IMGID:17_06_7549
+View	O	O
+over	O	O
+Glastonbury	B-POS	B-AE
+Festival	I-POS	I-AE
+tonight	O	O
+#	O	O
+Glastonbury	B-NEU	B-AE
+
+IMGID:16_05_22_970
+@	O	O
+Tulip_festival	B-NEU	B-AE
+"	O	O
+Falling	O	B-OE
+in	O	O
+love	O	B-OE
+with	O	O
+Tulips	O	O
+is	O	O
+starting	O	O
+of	O	O
+Life	O	O
+Long	O	O
+Romance	O	O
+!	O	O
+"	O	O
+💙	O	O
+💚	O	O
+💛	O	O
+💝	O	O
+💞	O	O
+💟	O	O
+💘	O	O
+❤	O	O
+💔	O	O
+💕	O	O
+💖	O	O
+💗	O	O
+💌	O	O
+
+IMGID:O_4820
+Happy	O	B-OE
+#	O	O
+NotebookDay	O	O
+!	O	O
+Take	O	O
+a	O	O
+look	O	O
+at	O	O
+the	O	O
+closely	O	O
+filled	O	O
+pages	O	O
+of	O	O
+William	B-POS	B-AE
+Blake	I-POS	I-AE
+’	O	O
+s	O	O
+notebook	O	O
+
+IMGID:16_05_15_775
+Cold	O	B-OE
+morning	O	O
+but	O	O
+no	O	O
+better	O	B-OE
+way	O	O
+to	O	O
+warm	O	B-OE
+up	O	O
+then	O	O
+some	O	O
+great	O	B-OE
+soccer	O	O
+!	O	O
+Let	O	O
+'	O	O
+s	O	O
+Go	O	O
+VSA	B-POS	B-AE
+!	O	O
+#	O	O
+WeAreVSA	O	O
+
+IMGID:17_06_5156
+@	O	O
+CenterAltSchool	B-NEU	B-AE
+Our	O	O
+dear	O	O
+Isabel	B-POS	B-AE
+won	O	B-OE
+1	O	O
+st	O	O
+place	O	O
+prize	O	B-OE
+of	O	O
+$	O	O
+100	O	O
+in	O	O
+our	O	O
+Artzpalooza	B-NEU	B-AE
+Festival	I-NEU	I-AE
+contest	O	O
+.	O	O
+
+IMGID:17_01_5147
+Sunflower	B-POS	B-AE
+Bean	I-POS	I-AE
+On	O	O
+Their	O	O
+Brilliant	O	B-OE
+New	O	O
+Album	O	O
+…	O	O
+:	O	O
+
+IMGID:16_05_13_413
+Going	O	O
+to	O	O
+the	O	O
+Love	B-POS	B-AE
+Wins	I-POS	I-AE
+concert	I-POS	I-AE
+!	O	O
+
+IMGID:17_06_11420
+In	O	O
+the	O	O
+9	O	O
+th	O	O
+round	O	O
+of	O	O
+the	O	O
+#	O	O
+MLBDraft	O	O
+,	O	O
+the	O	O
+#	O	O
+MNTwins	B-NEU	B-AE
+select	O	O
+Mark	B-POS	B-AE
+Contreras	I-POS	I-AE
+from	O	O
+@	O	O
+UCR_Baseball	B-NEU	B-AE
+.	O	O
+
+IMGID:17_01_4828
+Doing	O	O
+play	O	O
+by	O	O
+play	O	O
+with	O	O
+my	O	O
+buddy	O	O
+@	O	O
+jfradioshow	B-NEU	B-AE
+for	O	O
+the	O	O
+Senate	O	O
+v	O	O
+house	O	O
+basketball	O	O
+game	O	O
+.	O	O
+Let	O	O
+'	O	O
+s	O	O
+go	O	O
+Senate	O	O
+!	O	O
+
+IMGID:O_2848
+RT	O	O
+if	O	O
+you	O	O
+wish	O	O
+you	O	O
+were	O	O
+Blake	B-POS	B-AE
+Lively	I-POS	I-AE
+.	O	O
+
+IMGID:17_06_12357
+Cabinteely	B-POS	B-AE
+FC	I-POS	I-AE
+are	O	O
+in	O	O
+action	O	O
+against	O	O
+New	B-NEU	B-AE
+Zealand	I-NEU	I-AE
+All	I-NEU	I-AE
+Whites	I-NEU	I-AE
+this	O	O
+evening	O	O
+in	O	O
+a	O	O
+Soccer	O	O
+friendly	O	B-OE
+in	O	O
+Stradbrook	B-NEU	B-AE
+.	O	O
+#	O	O
+CABNZL	O	O
+
+IMGID:O_4348
+MUST	O	O
+SEE	O	O
+VIDEO	O	O
+:	O	O
+Senator	O	O
+Schumer	B-NEG	B-AE
+Lied	O	B-OE
+About	O	O
+the	O	O
+FBI	B-NEG	B-AE
+and	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:16_05_03_237
+MJ	B-POS	B-AE
+'	O	O
+s	O	O
+eyes	O	O
+just	O	O
+sparkling	O	B-OE
+!	O	O
+!	O	O
+This	O	O
+is	O	O
+what	O	O
+basketball	O	O
+does	O	O
+to	O	O
+man	O	O
+🏀	O	O
+
+IMGID:17_06_7190
+Must	O	O
+Watch	O	O
+:	O	O
+NBA	B-POS	B-AE
+Draft	O	O
+Show	O	O
+LIVE	O	O
+on	O	O
+YouTube	B-NEU	B-AE
+
+IMGID:O_3952
+How	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+turned	O	O
+charity	O	O
+money	O	O
+into	O	O
+business	O	O
+revenue	O	O
+:	O	O
+
+IMGID:17_06_11520
+#	O	O
+Warriors	B-POS	B-AE
+win	O	B-OE
+the	O	O
+#	O	O
+NBAfinals	O	O
+,	O	O
+social	O	O
+media	O	O
+goes	O	O
+nuts	O	O
+
+IMGID:O_4771
+Kim	B-POS	B-AE
+Kardashian	I-POS	I-AE
+stuns	O	O
+in	O	O
+Yeezy	B-POS	B-AE
+on	O	O
+the	O	O
+cover	O	O
+of	O	O
+Australian	B-NEU	B-AE
+Vogue	B-NEU	B-AE
+
+IMGID:O_246
+Kevin	B-POS	B-AE
+Durant	I-POS	I-AE
+drops	O	O
+26	O	O
+p	O	O
+;	O	O
+10	O	O
+r	O	O
+as	O	O
+the	O	O
+@	O	O
+okcthunder	B-NEU	B-AE
+take	O	O
+Western	O	O
+Conference	O	O
+Finals	O	O
+Game	O	O
+1	O	O
+!	O	O
+
+IMGID:O_2169
+Kyrie	B-NEG	B-AE
+?	O	O
+Kevin	B-NEG	B-AE
+Love	I-NEG	I-AE
+?	O	O
+JR	B-NEG	B-AE
+Smith	I-NEG	I-AE
+?	O	O
+?	O	O
+I	O	O
+have	O	O
+no	O	O
+clue	O	O
+who	O	O
+those	O	O
+guys	O	O
+are	O	O
+.	O	O
+.	O	O
+I	O	O
+'	O	O
+m	O	O
+a	O	O
+one	O	O
+man	O	O
+team	O	O
+dawg	O	O
+
+IMGID:O_2195
+A	O	O
+new	O	O
+batch	O	O
+of	O	O
+anti	O	O
+-	O	O
+Hillary	B-NEG	B-AE
+-	I-NEG	I-AE
+Clinton	I-NEG	I-AE
+buttons	O	O
+popped	O	O
+up	O	O
+outside	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+'	O	O
+s	O	O
+rally	O	O
+tonight	O	O
+:	O	O
+
+IMGID:16_05_29_635
+Last	O	O
+game	O	O
+,	O	O
+last	O	O
+tournament	O	O
+of	O	O
+season	O	O
+.	O	O
+Tommy	B-POS	B-AE
+got	O	O
+#	O	O
+MVP	O	O
+!	O	O
+#	O	O
+NBHCA	B-NEU	B-AE
+#	O	O
+GulfcoastWarriors	O	O
+#	O	O
+basketball	O	O
+#	O	O
+hegotgame	O	O
+#	O	O
+2	O	O
+ndplace	O	O
+
+IMGID:O_4255
+10	O	O
+great	O	B-OE
+Taylor	B-POS	B-AE
+Swift	I-POS	I-AE
+deep	O	O
+cuts	O	O
+you	O	O
+can	O	O
+stream	O	O
+right	O	B-OE
+now	O	O
+
+IMGID:O_2716
+Bill	B-NEU	B-AE
+Clinton	I-NEU	I-AE
+disputes	O	O
+accuracy	O	O
+of	O	O
+report	O	O
+that	O	O
+his	O	O
+foundation	O	O
+enriched	O	O
+his	O	O
+friends	O	O
+
+IMGID:O_2305
+[	O	O
+NEW	O	O
+]	O	O
+O	B-POS	B-AE
+.	I-POS	I-AE
+T	I-POS	I-AE
+.	I-POS	I-AE
+Genasis	I-POS	I-AE
+Feat	O	B-OE
+.	O	O
+Lil	B-POS	B-AE
+Wayne	I-POS	I-AE
+;	O	O
+T	B-POS	B-AE
+.	I-POS	I-AE
+I	I-POS	I-AE
+.	O	O
+–	O	O
+"	O	O
+Cut	B-POS	B-AE
+It	I-POS	I-AE
+"	O	O
+[	O	O
+Remix	O	O
+]	O	O
+
+IMGID:O_3266
+Christina	B-POS	B-AE
+Aguilera	I-POS	I-AE
+has	O	O
+the	O	O
+beautiful	O	B-OE
+curves	O	O
+.	O	O
+From	O	O
+yesterday	O	O
+to	O	O
+today	O	O
+😍	O	O
+👏	O	O
+
+IMGID:17_06_15602
+VIDEO	O	O
+:	O	O
+LeBron	B-NEU	B-AE
+James	I-NEU	I-AE
+dunks	O	O
+all	O	O
+over	O	O
+JaVale	B-NEU	B-AE
+McGee	I-NEU	I-AE
+#	O	O
+NBAFinals	O	O
+
+IMGID:O_3458
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+has	O	O
+been	O	O
+endorsed	O	B-OE
+by	O	O
+the	O	O
+NRA	B-NEG	B-AE
+.	O	O
+@	O	O
+nytimescollins	O	O
+,	O	O
+on	O	O
+the	O	O
+society	O	O
+they	O	O
+want	O	O
+.	O	O
+
+IMGID:O_3399
+Taylor	B-POS	B-AE
+Swift	I-POS	I-AE
+Adds	O	O
+Taylor	B-POS	B-AE
+Swift	I-POS	I-AE
+Award	I-POS	I-AE
+To	O	O
+Her	O	O
+Already	O	O
+Vast	O	O
+Collection	O	O
+Of	O	O
+Awards	O	B-OE
+
+IMGID:16_05_07_520
+Middlesbrough	B-POS	B-AE
+promoted	O	O
+to	O	O
+the	O	O
+Premier	B-POS	B-AE
+League	I-POS	I-AE
+as	O	O
+it	O	O
+happened	O	O
+
+IMGID:16_05_06_568
+Glenbard	B-NEU	B-AE
+No	I-NEU	I-AE
+Theater	I-NEU	I-AE
+to	O	O
+host	O	O
+final	O	O
+2	O	O
+performances	O	O
+of	O	O
+MARY	B-NEU	B-AE
+POPPINS	I-NEU	I-AE
+this	O	O
+weekend	O	O
+.	O	O
+Reserve	O	O
+tix	O	O
+@	O	O
+
+IMGID:17_06_5939
+Jaws	B-POS	B-AE
+gettin	O	O
+in	O	O
+the	O	O
+mix	O	O
+!	O	O
+!	O	O
+@	O	O
+soulfootball	B-NEU	B-AE
+
+IMGID:16_05_12_947
+I	O	O
+went	O	O
+to	O	O
+Justin	B-POS	B-AE
+Bieber	I-POS	I-AE
+'	O	O
+s	O	O
+concert	O	O
+*	O	O
+laughs	O	O
+*	O	O
+of	O	O
+course	O	O
+i	O	O
+have	O	O
+the	O	O
+fever	O	B-OE
+!	O	O
+He	O	O
+'	O	O
+s	O	O
+a	O	O
+good	O	B-OE
+friend	O	O
+i	O	O
+love	O	B-OE
+to	O	O
+read	O	O
+this	O	O
+💘	O	O
+😭	O	O
+
+IMGID:17_01_22507
+Carmelo	B-POS	B-AE
+Anthony	I-POS	I-AE
+is	O	O
+the	O	O
+weapon	O	O
+the	O	O
+Cavs	B-NEU	B-AE
+need	O	O
+at	O	O
+the	O	O
+NBA	B-NEU	B-AE
+finals	O	O
+RT	O	O
+#	O	O
+TradeKevinForMelo	O	O
+
+IMGID:16_05_18_1011
+Flower	O	O
+festival	O	O
+to	O	O
+return	O	O
+to	O	O
+St	B-POS	B-AE
+Mary	I-POS	I-AE
+'	I-POS	I-AE
+s	I-POS	I-AE
+Church	I-POS	I-AE
+in	O	O
+#	O	O
+Nantwich	B-NEU	B-AE
+
+IMGID:17_01_3323
+Penn	B-POS	B-AE
+State	I-POS	I-AE
+Blue	I-POS	I-AE
+Band	I-POS	I-AE
+and	O	O
+cheerleaders	O	O
+in	O	O
+Rose	B-NEU	B-AE
+Bowl	I-NEU	I-AE
+parade	O	O
+:	O	O
+video	O	O
+#	O	O
+Pennsylvania	B-NEU	B-AE
+
+IMGID:O_4026
+Pharma	O	O
+Douche	O	O
+Martin	B-NEG	B-AE
+Shkreli	I-NEG	I-AE
+:	O	O
+People	O	O
+Who	O	O
+Don	O	O
+'	O	O
+t	O	O
+Like	O	B-OE
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+Are	O	O
+Jealous	O	B-OE
+,	O	O
+Stupid	O	B-OE
+,	O	O
+.	O	O
+.	O	O
+.	O	O
+-	O	O
+
+IMGID:16_05_02_390
+Things	O	O
+Kyungsoo	B-POS	B-AE
+does	O	O
+to	O	O
+Male	O	O
+Sunbaes	O	O
+❤	O	O
+❤	O	O
+❤	O	O
+#	O	O
+Kyungsoo	B-POS	B-AE
+#	O	O
+경수	O	O
+#	O	O
+디오	O	O
+
+IMGID:16_05_01_532
+It	O	O
+'	O	O
+s	O	O
+as	O	O
+tight	O	O
+at	O	O
+the	O	O
+bottom	O	O
+of	O	O
+la	B-POS	B-AE
+liga	I-POS	I-AE
+as	O	O
+it	O	O
+is	O	O
+at	O	O
+the	O	O
+top	O	B-OE
+.	O	O
+
+IMGID:O_2232
+Daniel	B-NEU	B-AE
+Radcliffe	I-NEU	I-AE
+and	O	O
+Dane	B-NEU	B-AE
+DeHaan	I-NEU	I-AE
+in	O	O
+Kill	B-NEU	B-AE
+Your	I-NEU	I-AE
+Darlings	I-NEU	I-AE
+(	O	O
+2013	O	O
+)	O	O
+
+IMGID:16_05_30_151
+Sonu	B-NEG	B-AE
+Nigam	I-NEG	I-AE
+To	O	O
+Undergo	O	O
+Surgery	O	O
+;	O	O
+Cancels	O	O
+Concerts	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:16_05_29_893
+Green	B-NEU	B-AE
+Bay	I-NEU	I-AE
+Packers	I-NEU	I-AE
+News	O	O
+:	O	O
+Will	O	O
+this	O	O
+be	O	O
+Eddie	B-NEU	B-AE
+Lacy	I-NEU	I-AE
+’	O	O
+s	O	O
+final	O	O
+y	O	O
+.	O	O
+.	O	O
+.	O	O
+#	O	O
+GreenBayPackers	B-NEU	B-AE
+
+IMGID:16_05_18_1016
+hbd	O	O
+to	O	O
+my	O	O
+concert	O	O
+lovin	O	O
+pal	O	O
+Caroline	B-POS	B-AE
+!	O	O
+!	O	O
+I	O	O
+hope	O	O
+u	O	O
+have	O	O
+a	O	O
+wonderful	O	B-OE
+day	O	O
+!	O	O
+!	O	O
+🤑	O	O
+💜	O	O
+🌈	O	O
+
+IMGID:16_05_08_670
+@	O	O
+UNC_Basketball	B-POS	B-AE
+going	O	O
+to	O	O
+miss	O	B-OE
+these	O	O
+guys	O	O
+veryyyy	O	O
+much	O	O
+thanks	O	O
+for	O	O
+everything	O	O
+.	O	O
+May	O	O
+your	O	O
+future	O	O
+be	O	O
+as	O	O
+bright	O	B-OE
+as	O	O
+u	O	O
+are	O	O
+
+IMGID:16_05_06_398
+World	B-POS	B-AE
+Cup	I-POS	I-AE
+CHAMPS	O	O
+!	O	O
+Awesome	O	B-OE
+job	O	O
+to	O	O
+everyone	O	O
+who	O	O
+played	O	O
+!	O	O
+Flag	O	O
+football	O	O
+will	O	O
+be	O	O
+the	O	O
+next	O	O
+tournament	O	O
+later	O	O
+this	O	O
+month	O	O
+!	O	O
+
+IMGID:17_06_783
+.	O	O
+@	O	O
+RaysBaseball	B-POS	B-AE
+'	O	O
+s	O	O
+Shane	B-POS	B-AE
+Peterson	I-POS	I-AE
+says	O	O
+he	O	O
+was	O	O
+just	O	O
+trying	O	O
+to	O	O
+keep	O	O
+the	O	O
+game	O	O
+alive	O	O
+.	O	O
+#	O	O
+MLB	B-NEU	B-AE
+
+IMGID:16_05_13_919
+.	O	O
+@	O	O
+SnoopDogg	B-POS	B-AE
+talks	O	O
+Game	B-POS	B-AE
+of	I-POS	I-AE
+Thrones	I-POS	I-AE
+,	O	O
+football	O	O
+and	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+:	O	O
+
+IMGID:16_05_18_501
+Happy	O	B-OE
+Birthday	O	O
+@	O	O
+soccerkorpics18	B-POS	B-AE
+Hope	O	O
+you	O	O
+have	O	O
+a	O	O
+good	O	B-OE
+day	O	O
+💙	O	O
+
+IMGID:16_05_25_629
+#	O	O
+NFL	B-NEU	B-AE
+Three	O	O
+potential	O	O
+problems	O	B-OE
+for	O	O
+the	O	O
+Green	B-NEU	B-AE
+Bay	I-NEU	I-AE
+#	I-NEU	I-AE
+Packers	I-NEU	I-AE
+
+IMGID:17_01_351
+Are	O	O
+you	O	O
+ready	O	B-OE
+for	O	O
+some	O	O
+football	O	O
+?	O	O
+@	O	O
+MLS	B-POS	B-AE
+and	O	O
+@	O	O
+advocare	B-POS	B-AE
+sports	O	O
+nutrition	O	O
+partner	O	O
+!	O	O
+My	O	O
+team	O	O
+@	O	O
+MNUFC	B-NEU	B-AE
+#	O	O
+LoonArmy	O	O
+#	O	O
+soccer	O	O
+
+IMGID:16_05_02_205
+tbt	O	O
+to	O	O
+last	O	O
+years	O	O
+MET	B-POS	B-AE
+gala	I-POS	I-AE
+because	O	O
+Beyoncé	B-POS	B-AE
+concert	O	O
+is	O	O
+in	O	O
+two	O	O
+weeks	O	O
+
+IMGID:16_05_21_411
+Jims	B-POS	B-AE
+football	O	O
+final	O	O
+last	O	O
+night	O	O
+!	O	O
+#	O	O
+proud	O	B-OE
+#	O	O
+theywon	O	O
+☺	O	O
+️	O	O
+😘	O	O
+💏	O	O
+❤	O	O
+️	O	O
+⚽	O	O
+️	O	O
+
+IMGID:O_1647
+Saw	O	O
+Zac	B-POS	B-AE
+Hanson	I-POS	I-AE
+on	O	O
+the	O	O
+street	O	O
+.	O	O
+.	O	O
+.	O	O
+Love	O	B-OE
+this	O	O
+guy	O	O
+.	O	O
+-	O	O
+Z	O	O
+#	O	O
+awkward	O	B-OE
+#	O	O
+StreetTalk	O	O
+#	O	O
+HansonDay2016	O	O
+
+IMGID:16_05_13_91
+We	O	O
+had	O	O
+so	O	O
+much	O	O
+fun	O	B-OE
+at	O	O
+the	O	O
+K	O	O
+-	O	O
+12	O	O
+program	O	O
+'	O	O
+s	O	O
+Spring	B-POS	B-AE
+Festival	I-POS	I-AE
+today	O	O
+!	O	O
+Thanks	O	O
+to	O	O
+students	O	O
+and	O	O
+staff	O	O
+for	O	O
+making	O	O
+it	O	O
+happen	O	O
+.	O	O
+
+IMGID:16_05_01_31
+#	O	O
+news	O	O
+Poorly	O	B-OE
+timed	O	O
+bong	O	O
+video	O	O
+costs	O	O
+NFL	B-NEG	B-AE
+prospect	O	O
+millions	O	O
+:	O	O
+
+IMGID:O_4547
+100	O	O
+Years	O	O
+of	O	O
+good	O	B-OE
+times	O	O
+.	O	O
+RT	O	O
+@	O	O
+DudleyBoyz1345	B-POS	B-AE
+:	O	O
+Shawn	B-POS	B-AE
+Michaels	I-POS	I-AE
+,	O	O
+@	O	O
+steveaustinBSR	B-POS	B-AE
+and	O	O
+@	O	O
+RealMickFoley	B-POS	B-AE
+
+IMGID:16_05_01_533
+Sorry	O	B-OE
+but	O	O
+I	O	O
+'	O	O
+m	O	O
+not	O	O
+spending	O	O
+$	O	O
+1	O	O
+on	O	O
+you	O	O
+@	O	O
+packers	B-NEG	B-AE
+#	O	O
+blockyfootball	O	O
+
+IMGID:16_05_02_446
+12	O	O
+trends	O	O
+that	O	O
+will	O	O
+influence	O	O
+homes	O	O
+in	O	O
+2016	O	O
+via	O	O
+@	O	O
+realtormag	B-POS	B-AE
+
+IMGID:16_05_08_984
+Burnley	B-POS	B-AE
+will	O	O
+be	O	O
+joined	O	O
+in	O	O
+the	O	O
+premier	B-NEU	B-AE
+league	I-NEU	I-AE
+by	O	O
+Middlesbrough	B-NEU	B-AE
+who	O	O
+secured	O	O
+promotion	O	O
+with	O	O
+a	O	O
+1	O	O
+-	O	O
+1	O	O
+v	O	O
+Brighton	B-NEU	B-AE
+!	O	O
+
+IMGID:O_679
+That	O	O
+time	O	O
+they	O	O
+gave	O	O
+me	O	O
+a	O	O
+One	B-POS	B-AE
+Direction	I-POS	I-AE
+poster	O	O
+and	O	O
+Leeyum	B-POS	B-AE
+showed	O	O
+up	O	O
+
+IMGID:16_05_11_605
+The	O	O
+baseball	O	O
+game	O	O
+at	O	O
+Switzerland	B-POS	B-AE
+Co	I-POS	I-AE
+.	O	O
+is	O	O
+just	O	O
+getting	O	O
+started	O	O
+.	O	O
+
+IMGID:16_05_01_636
+Coyotes	B-POS	B-AE
+to	O	O
+pick	O	O
+7	O	O
+th	O	O
+in	O	O
+NHL	B-NEU	B-AE
+Draft	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:O_1006
+Bromance	O	O
+nightmare	O	B-OE
+:	O	O
+Vladimir	B-NEG	B-AE
+Putin	I-NEG	I-AE
+kisses	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+on	O	O
+the	O	O
+lips	O	O
+in	O	O
+street	O	O
+mural	O	O
+
+IMGID:17_06_6852
+🏀	O	O
+🔝	O	O
+@	O	O
+neymarjr	B-POS	B-AE
+at	O	O
+the	O	O
+second	O	O
+match	O	O
+of	O	O
+the	O	O
+NBA	B-NEU	B-AE
+finals	O	O
+
+IMGID:17_06_4643
+Worst	O	B-OE
+looking	O	O
+hats	O	O
+ever	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+c	O	O
+'	O	O
+mon	O	O
+#	O	O
+Adidas	B-NEG	B-AE
+#	O	O
+GoldenStateWarriors	B-NEG	B-AE
+you	O	O
+can	O	O
+do	O	O
+better	O	B-OE
+.	O	O
+.	O	O
+.	O	O
+#	O	O
+NBAFinals2017	O	O
+
+IMGID:17_06_2985
+MLB	B-NEU	B-AE
+draft	O	O
+central	O	O
+:	O	O
+Texas	B-POS	B-AE
+Rangers	I-POS	I-AE
+take	O	O
+shortstop	O	O
+to	O	O
+start	O	O
+Day	O	O
+3	O	O
+;	O	O
+see	O	O
+all	O	O
+the	O	O
+picks	O	O
+
+IMGID:O_3241
+Jimmy	B-NEU	B-AE
+Kimmel	I-NEU	I-AE
+threw	O	O
+Bryan	B-POS	B-AE
+Cranston	I-POS	I-AE
+a	O	O
+“	O	O
+Super	O	B-OE
+Sweet	O	B-OE
+60	O	O
+”	O	O
+party	O	O
+
+IMGID:16_05_01_600
+Wentz	B-NEG	B-AE
+inadvertently	O	O
+pans	O	O
+Bradford	B-NEG	B-AE
+at	O	O
+presser	O	O
+?	O	O
+#	O	O
+nfl	O	O
+
+IMGID:O_4519
+harry	B-NEU	B-AE
+styles	I-NEU	I-AE
+is	O	O
+lyrically	O	O
+in	O	O
+the	O	O
+same	O	O
+tier	O	O
+as	O	O
+lil	B-NEU	B-AE
+pump	I-NEU	I-AE
+
+IMGID:O_1807
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+says	O	O
+we	O	O
+can	O	O
+’	O	O
+t	O	O
+allow	O	O
+China	B-NEG	B-AE
+“	O	O
+to	O	O
+rape	O	B-OE
+”	O	O
+the	O	O
+United	B-NEU	B-AE
+States	I-NEU	I-AE
+
+IMGID:17_01_21950
+businessinsider	O	O
+:	O	O
+Former	O	O
+UVA	B-NEU	B-AE
+basketball	O	O
+player	O	O
+had	O	O
+his	O	O
+eye	O	O
+pop	O	O
+out	O	O
+during	O	O
+game	O	O
+in	O	O
+New	B-NEU	B-AE
+Zealand	I-NEU	I-AE
+…	O	O
+
+IMGID:17_01_23785
+Gold	O	B-OE
+mine	O	O
+of	O	O
+#	O	O
+Dodgers	B-POS	B-AE
+memorabilia	O	O
+plus	O	O
+All	O	O
+Stars	O	O
+and	O	O
+Legends	O	O
+#	O	O
+MLB	B-NEU	B-AE
+
+IMGID:16_05_21_1040
+Match	O	O
+wasn	O	O
+'	O	O
+t	O	O
+even	O	O
+started	O	O
+but	O	O
+Paul	B-NEG	B-AE
+Scholes	I-NEG	I-AE
+was	O	O
+already	O	O
+bored	O	B-OE
+of	O	O
+side	O	O
+passes	O	O
+and	O	O
+possession	O	O
+football	O	O
+
+IMGID:16_05_01_777
+this	O	O
+is	O	O
+my	O	O
+favorite	O	B-OE
+picture	O	O
+of	O	O
+@	O	O
+oxcolombo	B-POS	B-AE
+from	O	O
+Parade	O	O
+!	O	O
+Im	O	O
+so	O	O
+proud	O	B-OE
+of	O	O
+her	O	O
+!	O	O
+
+IMGID:16_05_10_526
+Mine	O	O
+and	O	O
+@	O	O
+sherrywagner	B-NEU	B-AE
+'	O	O
+s	O	O
+little	O	O
+baseball	O	O
+player	O	O
+turned	O	O
+FOUR	O	O
+months	O	O
+yesterday	O	O
+!	O	O
+I	O	O
+love	O	B-OE
+this	O	O
+little	O	O
+boy	O	O
+!	O	O
+
+IMGID:16_05_10_105
+Great	O	B-OE
+job	O	O
+by	O	O
+the	O	O
+West	B-POS	B-AE
+High	I-POS	I-AE
+Orchestra	I-POS	I-AE
+tonight	O	O
+at	O	O
+the	O	O
+Spring	O	O
+Concert	O	O
+!	O	O
+!	O	O
+I	O	O
+enjoyed	O	B-OE
+all	O	O
+three	O	O
+groups	O	O
+.	O	O
+
+IMGID:17_06_11328
+Chelsea	B-NEU	B-AE
+Manning	I-NEU	I-AE
+attends	O	O
+her	O	O
+first	O	O
+post	O	O
+-	O	O
+prison	O	B-OE
+Pride	O	B-OE
+parade	O	O
+:	O	O
+
+IMGID:16_05_13_447
+Bernadetta	B-POS	B-AE
+Gallo	I-POS	I-AE
+likes	O	B-OE
+Amazing	O	B-OE
+shoes	O	O
+!	O	O
+#	O	O
+NFL	B-NEU	B-AE
+#	O	O
+Nike	B-NEU	B-AE
+
+IMGID:O_4484
+It	O	O
+took	O	O
+a	O	O
+full	O	O
+MINUTE	O	O
+for	O	O
+Justin	B-NEG	B-AE
+Bieber	I-NEG	I-AE
+to	O	O
+show	O	O
+his	O	O
+face	O	O
+in	O	O
+Company	B-NEU	B-AE
+.	O	O
+TORTURE	O	B-OE
+.	O	O
+#	O	O
+BBMAs	B-NEU	B-AE
+
+IMGID:16_05_20_599
+Good	O	B-OE
+luck	O	B-OE
+tomorrow	O	O
+to	O	O
+my	O	O
+Bhoy	B-POS	B-AE
+and	O	O
+his	O	O
+teammates	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+don	O	O
+'	O	O
+t	O	O
+you	O	O
+just	O	O
+love	O	B-OE
+being	O	O
+a	O	O
+football	O	O
+mum	O	O
+⚽	O	O
+️	O	O
+☔	O	O
+️	O	O
+⚽	O	O
+️	O	O
+☔	O	O
+️	O	O
+
+IMGID:O_3720
+Tom	B-NEU	B-AE
+Cotton	I-NEU	I-AE
+Rips	O	O
+Into	O	O
+‘	O	O
+Bitter	O	B-OE
+,	O	O
+Vulgar	O	B-OE
+’	O	O
+Harry	B-NEG	B-AE
+Reid	I-NEG	I-AE
+’	O	O
+s	O	O
+‘	O	O
+Cancerous	O	B-OE
+’	O	O
+Leadership	O	O
+’	O	O
+
+IMGID:16_05_29_502
+Cristiano	B-POS	B-AE
+Ronaldo	I-POS	I-AE
+Had	O	O
+Vision	O	O
+of	O	O
+Scoring	O	O
+UEFA	B-NEU	B-AE
+Champions	I-NEU	I-AE
+League	I-NEU	I-AE
+Winning	O	B-OE
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:16_05_09_453
+What	O	O
+Dwyane	B-POS	B-AE
+Wade	I-POS	I-AE
+His	O	O
+Done	O	O
+For	O	O
+The	O	O
+First	O	O
+Time	O	O
+In	O	O
+His	O	O
+1,016	O	O
+-	O	O
+Game	O	O
+NBA	B-NEU	B-AE
+Career	O	O
+:	O	O
+
+IMGID:17_06_3315
+Guys	O	O
+!	O	O
+There	O	O
+was	O	O
+a	O	O
+parade	O	O
+in	O	O
+honor	O	B-OE
+of	O	O
+@	O	O
+BorjaBorja1	B-NEU	B-AE
+'	O	O
+s	O	O
+birthday	O	O
+!	O	O
+
+IMGID:16_05_18_298
+I	O	O
+had	O	O
+a	O	O
+great	O	B-OE
+time	O	O
+providing	O	O
+and	O	O
+operating	O	O
+lighting	O	O
+at	O	O
+Cursus	B-POS	B-AE
+Festival	I-POS	I-AE
+.	O	O
+#	O	O
+chauvet	O	O
+#	O	O
+lightingdesign	O	O
+#	O	O
+eventprofs	O	O
+#	O	O
+dorset	O	O
+
+IMGID:16_05_24_268
+These	O	O
+new	O	O
+nfl	B-NEU	B-AE
+stadiums	O	O
+finna	O	O
+be	O	O
+😍	O	O
+
+IMGID:16_05_12_83
+Middle	O	O
+school	O	O
+and	O	O
+high	O	O
+school	O	O
+bands	O	O
+warming	O	O
+up	O	O
+for	O	O
+tonight	O	O
+'	O	O
+s	O	O
+concert	O	O
+.	O	O
+7	O	O
+:	O	O
+30	O	O
+at	O	O
+ACTC	B-NEU	B-AE
+!	O	O
+Be	O	O
+there	O	O
+!	O	O
+
+IMGID:17_06_501
+Love	O	B-OE
+the	O	O
+@	O	O
+Pinterest	B-POS	B-AE
+turnout	O	O
+at	O	O
+#	O	O
+SFprideparade	O	O
+today	O	O
+
+IMGID:16_05_26_721
+Thank	O	B-OE
+you	O	O
+for	O	O
+everything	O	O
+you	O	O
+do	O	O
+for	O	O
+me	O	O
+,	O	O
+I	O	O
+love	O	B-OE
+you	O	O
+so	O	O
+much	O	O
+💞	O	O
+@	O	O
+CarmenBabieeh	B-POS	B-AE
+
+IMGID:O_4744
+why	O	O
+Bill	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+look	O	O
+like	O	B-OE
+he	O	O
+got	O	O
+the	O	O
+suds	O	O
+
+IMGID:17_06_8367
+Another	O	O
+sure	O	O
+sign	O	O
+of	O	O
+summer	O	O
+is	O	O
+the	O	O
+Columbus	B-POS	B-AE
+Arts	I-POS	I-AE
+Festival	I-POS	I-AE
+.	O	O
+NBC4	B-NEU	B-AE
+'	O	O
+s	O	O
+Dan	B-NEU	B-AE
+Pearlman	I-NEU	I-AE
+is	O	O
+LIVE	O	O
+with	O	O
+highlights	O	O
+#	O	O
+NBC4Today	O	O
+!	O	O
+
+IMGID:17_06_11628
+My	O	O
+son	O	O
+was	O	O
+excited	O	B-OE
+about	O	O
+the	O	O
+win	O	B-OE
+#	O	O
+DubNation	B-POS	B-AE
+#	O	O
+NBAFinals	O	O
+#	O	O
+customjersey	O	O
+#	O	O
+GoldenStateWarriors	B-POS	B-AE
+
+IMGID:17_06_2846
+Victor	B-POS	B-AE
+Oladipo	I-POS	I-AE
+'	O	O
+s	O	O
+Dunk	O	O
+of	O	O
+the	O	O
+Year	O	O
+headlines	O	O
+fan	O	O
+-	O	O
+voted	O	O
+honors	O	O
+at	O	O
+2017	O	O
+NBA	B-NEU	B-AE
+Awards	I-NEU	I-AE
+:	O	O
+
+IMGID:16_05_05_634
+Mrs	O	O
+.	O	O
+Brozik	B-POS	B-AE
+and	O	O
+the	O	O
+first	O	O
+graders	O	O
+put	O	O
+on	O	O
+a	O	O
+great	O	B-OE
+music	O	O
+concert	O	O
+!	O	O
+#	O	O
+SchroederDragons	O	O
+
+IMGID:16_05_16_131
+The	O	O
+music	O	O
+of	O	O
+James	B-POS	B-AE
+Bond	I-POS	I-AE
+!	O	O
+Awesome	O	B-OE
+concert	O	O
+@	O	O
+BayPortBand	B-NEU	B-AE
+#	O	O
+007	O	O
+
+IMGID:16_05_25_776
+Happy	O	B-OE
+bday	O	O
+to	O	O
+my	O	O
+fav	O	B-OE
+person	O	O
+.	O	O
+Thnx	O	O
+for	O	O
+letting	O	O
+me	O	O
+bully	O	B-OE
+you	O	O
+@	O	O
+peytonflynn8	B-NEU	B-AE
+!	O	O
+hope	O	O
+your	O	O
+day	O	O
+is	O	O
+filled	O	O
+with	O	O
+Barbie	O	O
+games	O	O
+💕	O	O
+
+IMGID:O_3381
+Blake	B-POS	B-AE
+Shelton	I-POS	I-AE
+is	O	O
+Gwen	B-POS	B-AE
+Stefani	I-POS	I-AE
+'	O	O
+s	O	O
+biggest	O	O
+cheerleader	O	O
+at	O	O
+the	O	O
+Radio	B-NEU	B-AE
+Disney	I-NEU	I-AE
+Music	I-NEU	I-AE
+Awards	I-NEU	I-AE
+:	O	O
+
+IMGID:O_1093
+Harry	B-POS	B-AE
+Potter	I-POS	I-AE
+,	O	O
+the	O	O
+first	O	O
+day	O	O
+they	O	O
+met	O	O
+,	O	O
+and	O	O
+their	O	O
+last	O	O
+day	O	O
+on	O	O
+set	O	O
+.	O	O
+
+IMGID:17_06_15157
+@	O	O
+LindseyBumann	B-NEU	B-AE
+the	O	O
+best	O	B-OE
+baseball	O	O
+player	O	O
+in	O	O
+the	O	O
+world	O	O
+right	O	B-OE
+now	O	O
+
+IMGID:17_06_12717
+#	O	O
+NationalMascotDay	B-NEU	B-AE
+@	O	O
+SIMiners	B-NEU	B-AE
+Lucky	B-POS	B-AE
+is	O	O
+ready	O	B-OE
+for	O	O
+some	O	O
+baseball	O	O
+on	O	O
+Italian	B-NEU	B-AE
+Heritage	I-NEU	I-AE
+Night	I-NEU	I-AE
+!	O	O
+!	O	O
+!	O	O
+#	O	O
+MinersvsCrushers	O	O
+
+IMGID:O_176
+Russell	B-POS	B-AE
+Westbrook	I-POS	I-AE
+caps	O	O
+off	O	O
+a	O	O
+historic	O	O
+season	O	O
+with	O	O
+his	O	O
+first	O	O
+MVP	O	O
+trophy	O	B-OE
+.	O	O
+
+IMGID:O_3744
+This	O	O
+sad	O	B-OE
+“	O	O
+Harry	B-NEU	B-AE
+Potter	I-NEU	I-AE
+”	O	O
+theory	O	O
+explains	O	O
+why	O	O
+Hogwarts	B-NEU	B-AE
+class	O	O
+sizes	O	O
+are	O	O
+so	O	O
+small	O	O
+
+IMGID:O_1538
+when	O	O
+u	O	O
+open	O	O
+front	O	O
+cam	O	O
+but	O	O
+ur	O	O
+Justin	B-POS	B-AE
+Bieber	I-POS	I-AE
+
+IMGID:16_05_11_134
+Missed	O	B-OE
+Dwight	B-POS	B-AE
+Yoakam	I-POS	I-AE
+'	O	O
+s	O	O
+live	O	O
+performance	O	O
+?	O	O
+Watch	O	O
+whole	O	O
+concert	O	O
+here	O	O
+.	O	O
+Now	O	O
+!	O	O
+
+IMGID:O_3252
+Tom	B-POS	B-AE
+Hanks	I-POS	I-AE
+pays	O	O
+tribute	O	O
+to	O	O
+Irishman	B-POS	B-AE
+who	O	O
+gave	O	O
+him	O	O
+his	O	O
+first	O	O
+break	O	B-OE
+.	O	O
+
+IMGID:16_05_27_210
+businessinsider	O	O
+:	O	O
+Navy	B-POS	B-AE
+'	O	O
+s	O	O
+record	O	O
+-	O	O
+setting	O	O
+quarterback	O	O
+given	O	O
+permission	O	O
+to	O	O
+begin	O	O
+NFL	B-NEU	B-AE
+career	O	O
+
+IMGID:17_06_6595
+Little	B-POS	B-AE
+Mix	I-POS	I-AE
+performing	O	O
+at	O	O
+the	O	O
+One	B-POS	B-AE
+Love	I-POS	I-AE
+Manchester	I-POS	I-AE
+concert	O	O
+(	O	O
+6	O	O
+/	O	O
+04	O	O
+/	O	O
+17	O	O
+)	O	O
+#	O	O
+BLALittleMix	O	O
+@	O	O
+NordoffRobbins1	B-NEU	B-AE
+
+IMGID:17_06_3542
+Draymond	B-POS	B-AE
+Green	I-POS	I-AE
+predictably	O	O
+stole	O	B-OE
+the	O	O
+show	O	O
+at	O	O
+the	O	O
+Warriors	B-NEU	B-AE
+championship	O	O
+parade	O	O
+
+IMGID:16_05_19_1061
+Congrats	O	O
+to	O	O
+Dickson	B-NEU	B-AE
+County	I-NEU	I-AE
+'	O	O
+s	O	O
+Jasmine	B-POS	B-AE
+Daniel	I-POS	I-AE
+,	O	O
+who	O	O
+signed	O	O
+to	O	O
+play	O	O
+basketball	O	O
+at	O	O
+Columbia	B-POS	B-AE
+State	I-POS	I-AE
+Community	I-POS	I-AE
+College	I-POS	I-AE
+.	O	O
+
+IMGID:16_05_08_26
+Amazing	O	B-OE
+job	O	O
+.	O	O
+.	O	O
+I	O	O
+enjoyed	O	B-OE
+the	O	O
+concert	O	O
+so	O	O
+much	O	O
+@	O	O
+CHRIS_Daughtry	B-POS	B-AE
+
+IMGID:O_4565
+Justin	B-POS	B-AE
+Bieber	I-POS	I-AE
+will	O	O
+dethrone	O	O
+Justin	B-POS	B-AE
+Bieber	I-POS	I-AE
+after	O	O
+Justin	B-POS	B-AE
+Bieber	I-POS	I-AE
+dethroned	O	O
+Justin	B-POS	B-AE
+Bieber	I-POS	I-AE
+.	O	O
+
+IMGID:O_884
+Obama	B-POS	B-AE
+takes	O	O
+on	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+and	O	O
+anti	O	O
+-	O	O
+intellectualism	O	O
+at	O	O
+Rutgers	B-NEU	B-AE
+commencement	O	O
+
+IMGID:16_05_29_386
+🎤	O	O
+Gipsy	B-POS	B-AE
+Kings	I-POS	I-AE
+concert	O	O
+tixs	O	O
+for	O	O
+Aug	O	O
+13	O	O
+at	O	O
+Mahalia	B-NEU	B-AE
+Jackson	I-NEU	I-AE
+Theater	I-NEU	I-AE
+for	O	O
+the	O	O
+Performing	O	O
+Arts	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:16_05_02_268
+At	O	O
+work	O	B-OE
+in	O	O
+Bermuda	B-NEU	B-AE
+!	O	O
+#	O	O
+bbcfootball	O	O
+maybe	O	O
+to	O	O
+the	O	O
+pub	O	O
+for	O	O
+the	O	O
+second	O	O
+half	O	O
+?	O	O
+
+IMGID:O_3480
+.	O	O
+@	O	O
+VP	O	O
+Joe	B-NEU	B-AE
+Biden	I-NEU	I-AE
+tells	O	O
+@	O	O
+GMA	B-NEU	B-AE
+he	O	O
+'	O	O
+s	O	O
+"	O	O
+confident	O	B-OE
+"	O	O
+Hillary	B-POS	B-AE
+Clinton	I-POS	I-AE
+will	O	O
+be	O	O
+the	O	O
+Democratic	B-NEU	B-AE
+nominee	O	O
+
+IMGID:17_06_332
+Hi	O	O
+from	O	O
+pride	O	B-OE
+(	O	O
+save	O	O
+me	O	O
+the	O	O
+dudebros	O	O
+behind	O	O
+me	O	O
+asking	O	O
+why	O	O
+there	O	O
+'	O	O
+s	O	O
+anti	O	O
+-	O	O
+Trump	B-NEG	B-AE
+signs	O	O
+in	O	O
+the	O	O
+parade	O	O
+)	O	O
+
+IMGID:O_1238
+Republicans	B-NEU	B-AE
+and	O	O
+Democrats	B-NEU	B-AE
+Must	O	O
+Work	O	B-OE
+Together	O	O
+to	O	O
+Not	O	O
+Mainstream	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:O_4638
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+Conspiracy	O	B-OE
+Theories	O	O
+:	O	O
+Eleven	O	O
+Fringe	O	O
+Theories	O	O
+Believed	O	O
+By	O	O
+The	O	O
+Man	O	O
+Who	O	O
+Would	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:O_3346
+Drake	B-POS	B-AE
+'	O	O
+s	O	O
+dropping	O	O
+a	O	O
+new	O	O
+song	O	O
+called	O	O
+"	O	O
+Signs	B-NEU	B-AE
+"	O	O
+on	O	O
+the	O	O
+Louis	B-NEU	B-AE
+Vuitton	I-NEU	I-AE
+website	O	O
+tomorrow	O	O
+
+IMGID:17_06_8641
+@	O	O
+mikeryan	B-NEG	B-AE
+No	O	O
+,	O	O
+I	O	O
+have	O	O
+not	O	O
+been	O	O
+to	O	O
+their	O	O
+concert	O	O
+.	O	O
+
+IMGID:16_05_19_34
+@	O	O
+Beyonce	B-POS	B-AE
+'	O	O
+s	O	O
+Seattle	B-NEU	B-AE
+concert	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+nuff	O	O
+said	O	O
+#	O	O
+micdrop	O	O
+
+IMGID:O_3028
+The	O	O
+Dangerous	O	B-OE
+Acceptance	O	O
+of	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+-	O	O
+The	B-NEU	B-AE
+New	I-NEU	I-AE
+Yorker	I-NEU	I-AE
+
+IMGID:17_06_1489
+From	O	O
+cruises	O	O
+to	O	O
+Zac	B-NEU	B-AE
+Brown	I-NEU	I-AE
+Band	I-NEU	I-AE
+concerts	O	O
+,	O	O
+the	O	O
+Watt	B-POS	B-AE
+family	O	O
+album	O	O
+reveals	O	O
+tight	O	O
+bonds	O	O
+
+IMGID:16_05_29_915
+I	O	O
+have	O	O
+fallen	O	B-OE
+in	O	O
+love	O	B-OE
+with	O	O
+@	O	O
+SaintMotel	B-POS	B-AE
+.	O	O
+.	O	O
+That	O	O
+was	O	O
+the	O	O
+best	O	B-OE
+concert	O	O
+I	O	O
+have	O	O
+ever	O	O
+been	O	O
+too	O	O
+.	O	O
+❤	O	O
+️	O	O
+
+IMGID:O_2003
+US	B-NEU	B-AE
+presidential	O	O
+runner	O	O
+Ted	B-NEG	B-AE
+Cruz	I-NEG	I-AE
+ends	O	O
+campaign	O	O
+,	O	O
+setting	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+on	O	O
+path	O	O
+to	O	O
+Republican	B-NEU	B-AE
+nomination	O	O
+
+IMGID:O_4949
+No	O	O
+one	O	O
+could	O	O
+tell	O	O
+Ashley	B-POS	B-AE
+Tisdale	I-POS	I-AE
+shit	O	B-OE
+about	O	O
+fashion	O	O
+back	O	O
+in	O	O
+the	O	O
+2000	O	O
+'	O	O
+s	O	O
+.	O	O
+No	O	O
+one	O	O
+.	O	O
+
+IMGID:17_06_8726
+MLB	B-NEU	B-AE
+umpire	O	O
+John	B-POS	B-AE
+Tumpane	I-POS	I-AE
+rescues	O	O
+suicidal	O	B-OE
+woman	O	O
+on	O	O
+Pittsburgh	B-NEU	B-AE
+bridge	O	O
+.	O	O
+
+IMGID:O_197
+Prepare	O	O
+to	O	O
+Be	O	O
+Shocked	O	B-OE
+by	O	O
+How	O	O
+Much	O	O
+Christina	B-NEG	B-AE
+Aguilera	I-NEG	I-AE
+Has	O	O
+Changed	O	O
+
+IMGID:16_05_04_83
+The	O	O
+"	O	O
+I	O	O
+occasionally	O	O
+play	O	O
+FIFA	B-NEU	B-AE
+and	O	O
+study	O	O
+abroad	O	O
+in	O	O
+Madrid	B-NEU	B-AE
+so	O	O
+now	O	O
+I	O	O
+'	O	O
+m	O	O
+a	O	O
+huge	O	O
+soccer	O	O
+fan	O	O
+"	O	O
+starter	O	O
+kit	O	O
+
+IMGID:O_1199
+#	O	O
+BlakeLively	B-POS	B-AE
+GOSSIPS	O	O
+July	O	O
+7	O	O
+/	O	O
+2014	O	O
+No	O	O
+.	O	O
+1	O	O
+Celebrity	O	O
+Magazine	O	O
+,	O	O
+Cover	O	O
+:	O	O
+Blake	B-POS	B-AE
+Lively	I-POS	I-AE
+
+IMGID:17_06_11823
+Could	O	O
+soccer	O	O
+ease	O	B-OE
+tensions	O	O
+between	O	O
+North	B-NEU	B-AE
+and	O	O
+South	B-NEU	B-AE
+Korea	I-NEU	I-AE
+?	O	O
+
+IMGID:17_06_4798
+£	O	O
+75	O	O
+for	O	O
+@	O	O
+ericdier	B-NEU	B-AE
+seem	O	O
+'	O	O
+s	O	O
+a	O	O
+little	O	O
+cheap	O	B-OE
+dont	O	O
+you	O	O
+think	O	O
+@	O	O
+SkyFootball	B-NEG	B-AE
+?	O	O
+
+IMGID:17_06_9168
+@	O	O
+katyperry	B-POS	B-AE
+UPDATE	O	O
+|	O	O
+'	O	O
+I	B-POS	B-AE
+kissed	I-POS	I-AE
+a	I-POS	I-AE
+girl	I-POS	I-AE
+'	O	O
+#	O	O
+GlastonburyFestival	B-POS	B-AE
+
+IMGID:O_3747
+Taylor	B-POS	B-AE
+Swift	I-POS	I-AE
+,	O	O
+Kendall	B-POS	B-AE
+Jenner	I-POS	I-AE
+,	O	O
+Lady	B-POS	B-AE
+Gaga	I-POS	I-AE
+,	O	O
+Emma	B-NEU	B-AE
+Watson	I-NEU	I-AE
+and	O	O
+more	O	O
+made	O	O
+it	O	O
+into	O	O
+Vogue	B-NEU	B-AE
+'	O	O
+s	O	O
+Best	O	B-OE
+Dressed	O	O
+.	O	O
+#	O	O
+MetGala	B-NEU	B-AE
+
+IMGID:O_3471
+Exit	O	O
+poll	O	O
+:	O	O
+GOP	B-NEU	B-AE
+men	O	O
+fuel	O	O
+Trump	B-POS	B-AE
+'	O	O
+s	O	O
+victory	O	B-OE
+in	O	O
+Indiana	B-NEU	B-AE
+primary	O	O
+:	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+can	O	O
+thank	O	B-OE
+male	O	O
+…	O	O
+
+IMGID:17_06_397
+Empire	B-POS	B-AE
+State	I-POS	I-AE
+Building	I-POS	I-AE
+has	O	O
+never	O	O
+looked	O	O
+better	O	B-OE
+!	O	O
+#	O	O
+NYCPride2017	O	O
+#	O	O
+NYCPrideParade	O	O
+#	O	O
+gay	O	O
+#	O	O
+NYC	B-NEU	B-AE
+
+IMGID:17_06_13095
+Premier	B-NEU	B-AE
+League	I-NEU	I-AE
+clubs	O	O
+target	O	O
+Norwich	B-NEU	B-AE
+winger	O	O
+Jacob	B-NEU	B-AE
+Murphy	I-NEU	I-AE
+
+IMGID:O_3435
+James	B-NEU	B-AE
+Cameron	I-NEU	I-AE
+,	O	O
+Leonardo	B-NEU	B-AE
+DiCaprio	I-NEU	I-AE
+and	O	O
+Kate	B-NEU	B-AE
+Winslet	I-NEU	I-AE
+on	O	O
+the	O	O
+set	O	O
+of	O	O
+Titanic	B-NEU	B-AE
+,	O	O
+1997	O	O
+.	O	O
+
+IMGID:O_3400
+The	O	O
+choreographer	O	O
+behind	O	O
+Uniqlo	B-POS	B-AE
+'	O	O
+s	O	O
+ad	O	O
+on	O	O
+Taylor	B-POS	B-AE
+Swift	I-POS	I-AE
+and	O	O
+dancing	O	O
+in	O	O
+London	B-NEU	B-AE
+
+IMGID:O_3716
+SEE	O	O
+VIDEO	O	O
+!	O	O
+Ryan	B-POS	B-AE
+Reynolds	I-POS	I-AE
+Jokes	O	O
+About	O	O
+Sex	O	O
+With	O	O
+Blake	B-POS	B-AE
+Lively	I-POS	I-AE
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:16_05_31_875
+5	O	O
+NFL	B-NEU	B-AE
+owners	O	O
+weigh	O	O
+in	O	O
+on	O	O
+Las	B-NEU	B-AE
+Vegas	I-NEU	I-AE
+,	O	O
+concerns	O	B-OE
+more	O	O
+about	O	O
+local	O	O
+support	O	B-OE
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:O_4697
+Right	O	B-OE
+.	O	O
+If	O	O
+J	B-POS	B-AE
+.	I-POS	I-AE
+K	I-POS	I-AE
+.	I-POS	I-AE
+Rowling	I-POS	I-AE
+won	O	B-OE
+'	O	O
+t	O	O
+post	O	O
+this	O	O
+then	O	O
+I	O	O
+will	O	O
+:	O	O
+
+IMGID:17_06_1667
+@	O	O
+RiverfordPorts	B-POS	B-AE
+enjoying	O	B-OE
+life	O	O
+at	O	O
+The	B-NEU	B-AE
+Fitness	I-NEU	I-AE
+Festival	I-NEU	I-AE
+on	O	O
+Saturday	O	O
+!	O	O
+
+IMGID:17_06_12912
+Ah	O	O
+ya	O	O
+!	O	O
+Happy	O	B-OE
+birthday	O	O
+to	O	O
+uri	O	O
+bogum	B-POS	B-AE
+oppa	O	O
+!	O	O
+Lets	O	O
+watch	O	O
+musical	O	O
+or	O	O
+concert	O	O
+again	O	O
+to	O	O
+celebrate	O	B-OE
+it	O	O
+?	O	O
+
+IMGID:O_1068
+SEE	O	O
+VIDEO	O	O
+!	O	O
+Ryan	B-POS	B-AE
+Gosling	I-POS	I-AE
+and	O	O
+Eva	B-POS	B-AE
+Mendes	I-POS	I-AE
+Officially	O	O
+Have	O	O
+Baby	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:O_3371
+Harry	B-POS	B-AE
+Potter	I-POS	I-AE
+and	I-POS	I-AE
+the	I-POS	I-AE
+Chamber	I-POS	I-AE
+of	I-POS	I-AE
+Secrets	I-POS	I-AE
+(	O	O
+2002	O	O
+)	O	O
+
+IMGID:16_05_27_275
+Jang	B-POS	B-AE
+Geun	I-POS	I-AE
+Suk	I-POS	I-AE
+Thanks	O	O
+Fans	O	B-OE
+For	O	O
+Being	O	O
+A	O	O
+Positive	O	B-OE
+Influence	O	O
+In	O	O
+His	O	O
+Acting	O	O
+Career	O	O
+
+IMGID:16_05_30_95
+“	O	O
+@	O	O
+LosPollosTV	B-NEU	B-AE
+:	O	O
+Yo	O	O
+NBA	B-NEG	B-AE
+is	O	O
+rigged	O	O
+!	O	O
+!	O	O
+!	O	O
+!	O	O
+
+IMGID:17_01_13573
+It	O	O
+seems	O	O
+@	O	O
+realDonaldTrump	B-POS	B-AE
+really	O	O
+does	O	O
+want	O	O
+to	O	O
+come	O	O
+to	O	O
+our	O	O
+festival	O	O
+#	O	O
+truetweet	O	O
+#	O	O
+amazing	O	B-OE
+
+IMGID:16_05_07_568
+Adele	B-NEU	B-AE
+pauses	O	O
+own	O	O
+concert	O	O
+to	O	O
+praise	O	B-OE
+her	O	O
+queen	O	O
+,	O	O
+Beyoncé	B-POS	B-AE
+
+IMGID:17_01_22771
+Emmanuel	B-POS	B-AE
+Adebayor	I-POS	I-AE
+Signs	O	O
+18	O	O
+Months	O	O
+Deal	O	O
+With	O	O
+Turkish	B-NEU	B-AE
+Football	O	O
+Club	O	O
+
+IMGID:16_05_15_670
+@	O	O
+DjJimmyChunga	B-POS	B-AE
+having	O	O
+fun	O	B-OE
+at	O	O
+The	B-NEU	B-AE
+Cure	I-NEU	I-AE
+concert	O	O
+tonight	O	O
+in	O	O
+DFW	B-NEU	B-AE
+.	O	O
+Thinking	O	O
+of	O	O
+Radio	O	O
+Ronan	O	O
+#	O	O
+podbash	O	O
+
+IMGID:O_980
+Justin	B-POS	B-AE
+Bieber	I-POS	I-AE
+and	O	O
+Kendall	B-POS	B-AE
+Jenner	I-POS	I-AE
+have	O	O
+helped	O	B-OE
+improved	O	B-OE
+Calvin	B-POS	B-AE
+Klein	I-POS	I-AE
+sales	O	O
+by	O	O
+13	O	O
+%	O	O
+
+IMGID:16_05_15_397
+@	O	O
+DuncanBannatyne	B-NEU	B-AE
+Please	O	O
+can	O	O
+anyone	O	O
+do	O	O
+anything	O	O
+to	O	O
+help	O	O
+us	O	O
+.	O	O
+We	O	O
+are	O	O
+struggling	O	B-OE
+so	O	O
+much	O	O
+xx	O	O
+
+IMGID:16_05_20_1038
+Kamiakin	B-NEU	B-AE
+basketball	O	O
+players	O	O
+moving	O	O
+on	O	O
+:	O	O
+Larson	B-POS	B-AE
+and	O	O
+Nelson	B-POS	B-AE
+.	O	O
+Good	O	B-OE
+luck	O	B-OE
+guys	O	O
+
+IMGID:16_05_02_862
+NBA	B-NEU	B-AE
+:	O	O
+Lakers	B-NEU	B-AE
+should	O	O
+target	O	O
+LeBron	B-POS	B-AE
+,	O	O
+Durant	B-POS	B-AE
+-	O	O
+Johnson	B-POS	B-AE
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:16_05_28_607
+#	O	O
+NHLPlayoffs	O	O
+Jonathan	B-NEG	B-AE
+Drouin	I-NEG	I-AE
+:	O	O
+'	O	O
+I	O	O
+definitely	O	O
+want	O	O
+to	O	O
+be	O	O
+here	O	O
+'	O	O
+#	O	O
+Lightning	O	O
+
+IMGID:O_2817
+What	O	O
+are	O	O
+Harry	B-NEU	B-AE
+Styles	I-NEU	I-AE
+and	O	O
+Louis	B-NEU	B-AE
+Tomlinson	I-NEU	I-AE
+'	O	O
+s	O	O
+Exes	O	O
+Up	O	O
+to	O	O
+?	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:O_1108
+Exclusive	O	O
+!	O	O
+#	O	O
+ABCBachelorette	O	O
+Rachel	B-POS	B-AE
+Lindsay	I-POS	I-AE
+dated	O	O
+NBA	B-NEU	B-AE
+pro	O	O
+Kevin	B-POS	B-AE
+Durant	I-POS	I-AE
+:	O	O
+
+IMGID:O_2059
+Kevin	B-POS	B-AE
+Durant	I-POS	I-AE
+;	O	O
+Russell	B-POS	B-AE
+Westbrook	I-POS	I-AE
+scored	O	O
+or	O	O
+assisted	O	O
+on	O	O
+81	O	O
+of	O	O
+Thunder	B-NEU	B-AE
+'	O	O
+s	O	O
+98	O	O
+points	O	O
+Monday	O	O
+.	O	O
+(	O	O
+via	O	O
+@	O	O
+ESPNStatsInfo	O	O
+)	O	O
+
+IMGID:16_05_01_276
+Retweet	O	O
+if	O	O
+you	O	O
+love	O	B-OE
+the	O	O
+#	O	O
+ChicagoWhiteSox	B-POS	B-AE
+#	O	O
+MLB	B-NEU	B-AE
+#	O	O
+Hotline	O	O
+
+IMGID:O_299
+Read	O	O
+Lady	B-POS	B-AE
+Gaga	I-POS	I-AE
+'	O	O
+s	O	O
+heartfelt	O	B-OE
+message	O	O
+about	O	O
+her	O	O
+late	O	O
+friend	O	O
+Sonja	B-POS	B-AE
+Durham	I-POS	I-AE
+.	O	O
+💞	O	O
+#	O	O
+GrigioGirls	B-NEU	B-AE
+
+IMGID:17_06_9612
+Incredibly	O	B-OE
+busy	O	O
+day	O	O
+at	O	O
+KW	B-POS	B-AE
+Multicultural	I-POS	I-AE
+festival	I-POS	I-AE
+!	O	O
+#	O	O
+lovemyhood	O	O
+@	O	O
+ChiefRehill	B-POS	B-AE
+@	O	O
+MichaelMayKit	B-POS	B-AE
+
+IMGID:16_05_01_142
+Big	O	O
+-	O	O
+spending	O	O
+Tigers	B-POS	B-AE
+hope	O	O
+to	O	O
+return	O	O
+to	O	O
+top	O	B-OE
+of	O	O
+AL	B-POS	B-AE
+#	O	O
+tigersbaseball	O	O
+#	O	O
+detroittigers	B-POS	B-AE
+#	O	O
+tigerfans	O	O
+
+IMGID:O_929
+Kevin	B-POS	B-AE
+Durant	I-POS	I-AE
+joined	O	O
+elite	O	B-OE
+,	O	O
+efficient	O	B-OE
+company	O	O
+in	O	O
+Game	O	O
+1	O	O
+of	O	O
+the	O	O
+#	O	O
+NBAFinals	O	O
+
+IMGID:17_06_14099
+Great	O	B-OE
+day	O	O
+at	O	O
+Sacred	B-POS	B-AE
+Heart	I-POS	I-AE
+football	O	O
+camp	O	O
+!	O	O
+#	O	O
+cthsfb	O	O
+
+IMGID:17_06_8967
+FINAL	O	O
+:	O	O
+@	O	O
+ConnecticutSun	B-POS	B-AE
+96	O	O
+-	O	O
+89	O	O
+@	O	O
+seattlestorm	B-NEG	B-AE
+.	O	O
+#	O	O
+WNBALive	O	O
+
+IMGID:16_05_05_1142
+Top	O	B-OE
+recruit	O	O
+Zach	B-NEG	B-AE
+Brown	I-NEG	I-AE
+and	O	O
+UConn	B-NEG	B-AE
+basketball	O	O
+officially	O	O
+cut	O	O
+ties	O	O
+
+IMGID:17_06_3085
+I	O	O
+feel	O	O
+like	O	B-OE
+this	O	O
+is	O	O
+a	O	O
+throwback	O	O
+tweet	O	O
+to	O	O
+2012	O	O
+with	O	O
+Chris	B-NEU	B-AE
+Hogan	I-NEU	I-AE
+(	O	O
+7	O	O
+/	O	O
+11	O	O
+)	O	O
+on	O	O
+Hard	B-NEU	B-AE
+Knocks	I-NEU	I-AE
+.	O	O
+Good	O	B-OE
+call	O	O
+,	O	O
+@	O	O
+AllbrightNFL	B-NEU	B-AE
+👍	O	O
+🏼	O	O
+
+IMGID:16_05_11_436
+Azealia	B-POS	B-AE
+Banks	I-POS	I-AE
+apologises	O	O
+to	O	O
+UK	B-NEU	B-AE
+fans	O	B-OE
+after	O	O
+she	O	O
+'	O	O
+s	O	O
+dropped	O	O
+from	O	O
+London	B-NEU	B-AE
+festival	O	O
+
+IMGID:O_1213
+It	O	O
+'	O	O
+s	O	O
+okay	O	O
+guys	O	O
+we	O	O
+'	O	O
+ve	O	O
+found	O	O
+a	O	O
+pic	O	O
+of	O	O
+Harry	B-POS	B-AE
+styles	I-POS	I-AE
+and	O	O
+his	O	O
+new	O	O
+hair	O	O
+!	O	O
+No	O	O
+need	O	O
+to	O	O
+panic	O	B-OE
+!	O	O
+
+IMGID:O_600
+donald	B-NEG	B-AE
+trump	I-NEG	I-AE
+is	O	O
+living	O	O
+out	O	O
+every	O	O
+single	O	O
+5	O	O
+y	O	O
+/	O	O
+o	O	O
+american	B-NEU	B-AE
+boy	O	O
+'	O	O
+s	O	O
+dreams	O	O
+
+IMGID:O_2471
+Three	O	O
+years	O	O
+ago	O	O
+today	O	O
+-	O	O
+Robin	B-NEU	B-AE
+van	I-NEU	I-AE
+Persie	I-NEU	I-AE
+:	O	O
+The	O	O
+Flying	O	O
+Dutchman	O	O
+.	O	O
+
+IMGID:O_3159
+“	O	O
+If	O	O
+you	O	O
+go	O	O
+to	O	O
+Taco	B-NEU	B-AE
+Bell	I-NEU	I-AE
+,	O	O
+that	O	O
+doesn	O	O
+’	O	O
+t	O	O
+make	O	O
+you	O	O
+a	O	O
+taco	O	O
+.	O	O
+”	O	O
+justin	B-NEG	B-AE
+bieber	I-NEG	I-AE
+is	O	O
+the	O	O
+new	O	O
+ghandi	O	O
+
+IMGID:17_06_2932
+#	O	O
+NBA	B-NEU	B-AE
+:	O	O
+Kawhi	B-POS	B-AE
+Leonard	I-POS	I-AE
+wins	O	B-OE
+the	O	O
+fan	O	O
+vote	O	O
+for	O	O
+Block	O	O
+of	O	O
+the	O	O
+Year	O	O
+!	O	O
+#	O	O
+NBAAwards	B-NEU	B-AE
+
+IMGID:O_3589
+Kevin	B-POS	B-AE
+Durant	I-POS	I-AE
+is	O	O
+an	O	O
+NBA	B-NEU	B-AE
+Champion	O	B-OE
+and	O	O
+Finals	O	O
+MVP	O	O
+.	O	O
+RT	O	O
+to	O	O
+make	O	O
+a	O	O
+KD	B-NEU	B-AE
+hater	O	B-OE
+mad	O	B-OE
+
+IMGID:O_2033
+mocking	O	B-OE
+taylor	B-NEU	B-AE
+swift	I-NEU	I-AE
+'	O	O
+s	O	O
+song	O	O
+?	O	O
+"	O	O
+MOCKING	O	B-OE
+"	O	O
+when	O	O
+he	O	O
+was	O	O
+just	O	O
+singing	O	O
+it	O	O
+and	O	O
+being	O	O
+nice	O	B-OE
+
+IMGID:16_05_09_192
+@	O	O
+HoulsbyMark	B-POS	B-AE
+Mark	B-POS	B-AE
+,	O	O
+meet	O	O
+my	O	O
+niece	O	O
+,	O	O
+well	O	B-OE
+known	O	O
+concert	O	O
+violinist	O	O
+
+IMGID:O_3094
+[	O	O
+ENG	O	O
+SUB	O	O
+]	O	O
+[	O	O
+HD	O	O
+]	O	O
+160518	O	O
+Louis	B-POS	B-AE
+Vuitton	I-POS	I-AE
+Exhibition	O	O
+Opening	O	O
+in	O	O
+Tokyo	B-NEU	B-AE
+with	O	O
+Yoona	B-POS	B-AE
+,	O	O
+Suho	B-POS	B-AE
+,	O	O
+Kai	B-POS	B-AE
+
+IMGID:O_571
+Secret	O	O
+Service	O	O
+investigating	O	O
+reports	O	O
+that	O	O
+Anonymous	O	O
+hacked	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+
+IMGID:O_1834
+RETWEET	O	O
+if	O	O
+you	O	O
+think	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+is	O	O
+a	O	O
+true	O	O
+leader	O	O
+!	O	O
+#	O	O
+MakeAmericaGreatAgain	O	O
+
+IMGID:17_06_15836
+UEFA	B-NEU	B-AE
+Champions	I-NEU	I-AE
+League	I-NEU	I-AE
+first	O	O
+and	O	O
+second	O	O
+qualifying	O	O
+round	O	O
+draws	O	O
+
+IMGID:17_06_12743
+MT	O	O
+@	O	O
+SheilaS	B-NEU	B-AE
+:	O	O
+Finally	O	O
+made	O	O
+it	O	O
+to	O	O
+a	O	O
+special	O	O
+concert	O	O
+,	O	O
+the	O	O
+Symphony	B-POS	B-AE
+in	I-POS	I-AE
+the	I-POS	I-AE
+Flint	I-POS	I-AE
+Hills	I-POS	I-AE
+@	O	O
+SITFHs	B-NEU	B-AE
+
+IMGID:16_05_07_592
+Tonight	O	O
+'	O	O
+s	O	O
+match	O	O
+kicks	O	O
+off	O	O
+from	O	O
+the	O	O
+Maryland	B-NEU	B-AE
+SoccerPlex	I-NEU	I-AE
+at	O	O
+4	O	O
+pm	O	O
+.	O	O
+Watch	O	O
+it	O	O
+live	O	O
+here	O	O
+:	O	O
+
+IMGID:O_1669
+Lil	B-POS	B-AE
+Wayne	I-POS	I-AE
+'	O	O
+s	O	O
+"	O	O
+Dedication	B-NEU	B-AE
+6	I-NEU	I-AE
+"	O	O
+mixtape	O	O
+is	O	O
+coming	O	O
+soon	O	O
+
+IMGID:O_497
+Ken	B-NEU	B-AE
+Starr	I-NEU	I-AE
+praised	O	O
+Bill	B-POS	B-AE
+Clinton	I-POS	I-AE
+and	O	O
+bemoaned	O	O
+the	O	O
+decline	O	B-OE
+of	O	O
+civility	O	B-OE
+in	O	O
+American	B-NEG	B-AE
+politics	O	O
+.	O	O
+
+IMGID:16_05_04_841
+Last	O	O
+soccer	O	O
+matches	O	O
+of	O	O
+the	O	O
+day	O	O
+kicking	O	O
+off	O	O
+now	O	O
+on	O	O
+Williamstown	B-NEU	B-AE
+.	O	O
+#	O	O
+SDGAA	O	O
+#	O	O
+Char	O	O
+-	O	O
+Lan	O	O
+
+IMGID:O_414
+if	O	O
+i	O	O
+was	O	O
+married	O	O
+2	O	O
+david	B-POS	B-AE
+beckham	I-POS	I-AE
+this	O	O
+would	O	O
+be	O	O
+my	O	O
+go	O	O
+-	O	O
+to	O	O
+pose	O	O
+too	O	O
+
+IMGID:O_4555
+From	O	O
+Brigitte	B-POS	B-AE
+Bardot	I-POS	I-AE
+to	O	O
+Blake	B-POS	B-AE
+Lively	I-POS	I-AE
+,	O	O
+see	O	O
+the	O	O
+best	O	B-OE
+beach	O	O
+hair	O	O
+of	O	O
+.	O	O
+.	O	O
+.	O	O
+#	O	O
+moda	O	O
+#	O	O
+fashion	O	O
+
+IMGID:16_05_14_251
+Ready	O	B-OE
+to	O	O
+roll	O	O
+at	O	O
+Tulip	B-POS	B-AE
+Time	I-POS	I-AE
+Parade	I-POS	I-AE
+.	O	O
+#	O	O
+wzzm13	O	O
+
+IMGID:O_3029
+Rudolph	B-NEU	B-AE
+Giuliani	I-NEU	I-AE
+praises	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+'	O	O
+s	O	O
+proposed	O	O
+commission	O	O
+on	O	O
+'	O	O
+radical	O	B-OE
+Islam	O	O
+'	O	O
+
+IMGID:16_05_04_141
+Alex	B-POS	B-AE
+Ovechkin	I-POS	I-AE
+Named	O	O
+Finalist	O	O
+for	O	O
+Mark	B-NEU	B-AE
+Messier	I-NEU	I-AE
+NHL	B-NEU	B-AE
+Leadership	O	O
+Award	O	B-OE
+
+IMGID:17_06_10337
+NY	B-POS	B-AE
+Philharmonic	I-POS	I-AE
+Free	O	B-OE
+Central	B-NEU	B-AE
+Park	I-NEU	I-AE
+Concert	O	O
+:	O	O
+What	O	O
+To	O	O
+Know	O	O
+Before	O	O
+Going	O	O
+
+IMGID:17_06_74
+More	O	O
+from	O	O
+the	O	O
+#	O	O
+NYCPride2017	B-POS	B-AE
+Parade	O	O
+.	O	O
+
+IMGID:17_06_4262
+The	O	O
+only	O	O
+time	O	O
+I	O	O
+found	O	O
+him	O	O
+semi	O	O
+-	O	O
+cute	O	B-OE
+🤔	O	O
+was	O	O
+with	O	O
+a	O	O
+cap	O	O
+on	O	O
+!	O	O
+😂	O	O
+#	O	O
+NBAFinals	O	O
+#	O	O
+Warriors	B-POS	B-AE
+
+IMGID:O_1467
+Adam	B-NEU	B-AE
+Scott	I-NEU	I-AE
+didn	O	O
+;	O	O
+#	O	O
+39	O	O
+;	O	O
+t	O	O
+mince	O	O
+words	O	O
+when	O	O
+sharing	O	O
+his	O	O
+thoughts	O	O
+on	O	O
+the	O	O
+USGA	B-NEG	B-AE
+-	O	O
+Golf	B-NEU	B-AE
+Digest	I-NEU	I-AE
+
+IMGID:O_4041
+Kim	B-POS	B-AE
+Kardashian	I-POS	I-AE
+and	O	O
+Kanye	B-POS	B-AE
+after	O	O
+celebrating	O	O
+his	O	O
+birthday	O	O
+in	O	O
+the	O	O
+Bahamas	B-NEU	B-AE
+
+IMGID:O_2534
+Watch	O	O
+Ted	B-POS	B-AE
+Cruz	I-POS	I-AE
+Announce	O	O
+Carly	B-POS	B-AE
+Fiorina	I-POS	I-AE
+as	O	O
+His	O	O
+Running	O	O
+Mate	O	O
+#	O	O
+Mainecaucus	O	O
+#	O	O
+election2016	O	O
+…	O	O
+
+IMGID:16_05_29_255
+Baylor	B-NEU	B-AE
+to	O	O
+fire	O	O
+football	O	O
+coach	O	O
+Art	B-NEG	B-AE
+Briles	I-NEG	I-AE
+amid	O	O
+sexual	O	O
+assault	O	B-OE
+scandal	O	B-OE
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:O_2010
+Kevin	B-NEG	B-AE
+Durant	I-NEG	I-AE
+and	O	O
+LeBron	B-NEG	B-AE
+James	I-NEG	I-AE
+had	O	O
+some	O	O
+tense	O	B-OE
+words	O	O
+after	O	O
+Kevin	B-NEG	B-AE
+Love	I-NEG	I-AE
+'	O	O
+s	O	O
+foul	O	B-OE
+
+IMGID:O_3114
+📸	O	O
+Bruno	B-POS	B-AE
+Mars	I-POS	I-AE
+performing	O	O
+"	O	O
+Perm	B-NEU	B-AE
+"	O	O
+onstage	O	O
+at	O	O
+2017	O	O
+BET	B-NEU	B-AE
+Awards	I-NEU	I-AE
+!	O	O
+🔥	O	O
+👑	O	O
+#	O	O
+4	O	O
+#	O	O
+MARS24	O	O
+
+IMGID:17_06_36
+Getafe	B-POS	B-AE
+seal	O	O
+La	B-NEU	B-AE
+Liga	I-NEU	I-AE
+return	O	O
+with	O	O
+play	O	O
+-	O	O
+off	O	O
+win	O	B-OE
+over	O	O
+Tenerife	B-NEG	B-AE
+:	O	O
+Getafe	B-POS	B-AE
+beat	O	O
+Tenerife	B-NEG	B-AE
+3	O	O
+-	O	O
+1	O	O
+.	O	O
+.	O	O
+
+IMGID:17_06_7871
+Warriors	B-POS	B-AE
+go	O	O
+for	O	O
+historic	O	O
+NBA	B-NEU	B-AE
+Finals	O	O
+sweep	O	O
+:	O	O
+
+IMGID:O_4590
+Ryan	B-POS	B-AE
+Reynolds	I-POS	I-AE
+is	O	O
+me	O	O
+as	O	O
+a	O	O
+parent	O	O
+😂	O	O
+😂	O	O
+
+IMGID:16_05_20_1040
+What	O	O
+a	O	O
+BE	O	O
+-	O	O
+U	O	O
+-	O	O
+T	O	O
+-	O	O
+FULL	O	O
+day	O	O
+on	O	O
+the	O	O
+River	B-NEU	B-AE
+Walk	I-NEU	I-AE
+.	O	O
+Perfect	O	B-OE
+weather	O	O
+for	O	O
+the	O	O
+Armed	B-POS	B-AE
+Forces	I-POS	I-AE
+River	I-POS	I-AE
+Parade	I-POS	I-AE
+
+IMGID:16_05_02_970
+Aii	O	O
+"	O	O
+@	O	O
+katungu	B-POS	B-AE
+:	O	O
+Dembélé	B-POS	B-AE
+helping	O	B-OE
+Costa	B-POS	B-AE
+get	O	O
+rid	O	O
+of	O	O
+something	O	O
+on	O	O
+his	O	O
+face	O	O
+.	O	O
+This	O	O
+is	O	O
+football	O	O
+.	O	O
+This	O	O
+is	O	O
+fair	O	B-OE
+play	O	O
+.	O	O
+
+IMGID:16_05_12_1199
+Wolf	B-POS	B-AE
+Parade	I-POS	I-AE
+Play	O	O
+First	O	O
+Concert	O	O
+in	O	O
+Five	O	O
+Years	O	O
+:	O	O
+Watch	O	O
+
+IMGID:16_05_01_155
+VIDEO	O	O
+:	O	O
+Southampton	B-POS	B-AE
+4	O	O
+–	O	O
+2	O	O
+Manchester	B-NEG	B-AE
+City	I-NEG	I-AE
+[	O	O
+Premier	B-NEU	B-AE
+League	I-NEU	I-AE
+]	O	O
+Highlights	O	O
+2015	O	O
+/	O	O
+16	O	O
+
+IMGID:17_06_1957
+Live	O	O
+Stream	O	O
+Concert	O	O
+Natasha	B-NEU	B-AE
+Bedingfield	I-NEU	I-AE
+–	O	O
+Coastal	B-NEU	B-AE
+Credit	I-NEU	I-AE
+Union	I-NEU	I-AE
+Music	I-NEU	I-AE
+Park	I-NEU	I-AE
+at	I-NEU	I-AE
+Walnut	I-NEU	I-AE
+…	O	O
+
+IMGID:O_3420
+left	O	O
+to	O	O
+right	O	B-OE
+:	O	O
+John	B-NEU	B-AE
+Miller	I-NEU	I-AE
+,	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+,	O	O
+John	B-NEU	B-AE
+Barron	I-NEU	I-AE
+
+IMGID:17_06_3767
+The	O	O
+@	O	O
+NJDevils	B-NEU	B-AE
+select	O	O
+@	O	O
+nicohischier	B-POS	B-AE
+with	O	O
+the	O	O
+No	O	O
+.	O	O
+1	O	O
+pick	O	O
+!	O	O
+#	O	O
+NHLDraft	O	O
+
+IMGID:16_05_31_352
+Live	O	O
+Football	O	O
+tonight	O	O
+:	O	O
+Ireland	B-POS	B-AE
+vs	O	O
+Belarus	B-POS	B-AE
+in	O	O
+their	O	O
+final	O	O
+Euro	B-NEU	B-AE
+preparation	O	O
+game	O	O
+.	O	O
+Kick	O	O
+off	O	O
+7.45	O	O
+pm	O	O
+@	O	O
+the	O	O
+Devenish	B-NEU	B-AE
+⚽	O	O
+️	O	O
+
+IMGID:17_06_9328
+June	O	O
+24	O	O
+:	O	O
+A	O	O
+fan	O	O
+met	O	O
+The	B-POS	B-AE
+Main	I-POS	I-AE
+Level	I-POS	I-AE
+backstage	O	O
+at	O	O
+Treskofestivalen	B-NEU	B-AE
+.	O	O
+
+IMGID:O_949
+DID	O	O
+YOU	O	O
+KNOW	O	O
+?	O	O
+Palestinian	O	O
+Sirhan	B-NEG	B-AE
+Sirhan	I-NEG	I-AE
+assassinated	O	O
+Robert	B-NEU	B-AE
+F	I-NEU	I-AE
+.	I-NEU	I-AE
+Kennedy	I-NEU	I-AE
+in	O	O
+1968	O	O
+because	O	O
+he	O	O
+"	O	O
+supported	O	B-OE
+#	O	O
+Israel	B-NEU	B-AE
+"	O	O
+
+IMGID:16_05_11_44
+Former	O	O
+Charlestown	B-NEU	B-AE
+coach	O	O
+Sam	B-POS	B-AE
+Terrell	I-POS	I-AE
+has	O	O
+been	O	O
+named	O	O
+the	O	O
+new	O	O
+girls	O	O
+basketball	O	O
+coach	O	O
+at	O	O
+Madison	B-NEU	B-AE
+.	O	O
+
+IMGID:16_05_09_914
+Three	O	O
+years	O	O
+apart	O	O
+,	O	O
+and	O	O
+what	O	O
+a	O	O
+difference	O	O
+.	O	O
+@	O	O
+joshgroban	B-POS	B-AE
+So	O	O
+fun	O	B-OE
+meeting	O	O
+you	O	O
+again	O	O
+,	O	O
+thanks	O	O
+for	O	O
+a	O	O
+great	O	B-OE
+concert	O	O
+!	O	O
+
+IMGID:O_1532
+Beliebers	O	O
+Protest	O	B-OE
+To	O	O
+Let	O	O
+Justin	B-POS	B-AE
+Bieber	I-POS	I-AE
+Perform	O	O
+In	O	O
+Argentina	B-NEU	B-AE
+,	O	O
+Despite	O	O
+“	O	O
+Legal	O	O
+#	O	O
+Bieber	B-POS	B-AE
+
+IMGID:17_01_14555
+China	B-NEU	B-AE
+'	O	O
+s	O	O
+government	O	O
+wants	O	O
+country	O	O
+to	O	O
+be	O	O
+soccer	O	O
+powerhouse	O	O
+WATCH	O	O
+at	O	O
+:	O	O
+
+IMGID:O_3550
+BREAKING	O	B-OE
+:	O	O
+Cody	B-NEU	B-AE
+Rhodes	I-NEU	I-AE
+has	O	O
+asked	O	O
+to	O	O
+leave	O	O
+WWE	B-NEG	B-AE
+.	O	O
+More	O	O
+info	O	O
+as	O	O
+this	O	O
+story	O	O
+develops	O	O
+.	O	O
+#	O	O
+PWStream	B-NEU	B-AE
+
+IMGID:17_06_9873
+Trump	B-NEG	B-AE
+doesn	O	O
+'	O	O
+t	O	O
+bring	O	O
+us	O	O
+any	O	O
+votes	O	O
+'	O	O
+:	O	O
+Trump	B-NEG	B-AE
+appears	O	O
+to	O	O
+be	O	O
+losing	O	B-OE
+influence	O	O
+on	O	O
+healthcare	O	O
+
+IMGID:O_1859
+#	O	O
+EUref	O	O
+:	O	O
+David	B-NEU	B-AE
+Cameron	I-NEU	I-AE
+hails	O	O
+"	O	O
+proud	O	B-OE
+Muslim	O	O
+"	O	O
+Sadiq	B-POS	B-AE
+Khan	I-POS	I-AE
+as	O	O
+he	O	O
+shares	O	O
+platform	O	O
+with	O	O
+the	O	O
+mayor	O	O
+
+IMGID:O_293
+Chris	B-POS	B-AE
+Paul	I-POS	I-AE
+makes	O	O
+Rockets	B-POS	B-AE
+better	O	B-OE
+;	O	O
+how	O	O
+much	O	O
+better	O	B-OE
+depends	O	O
+on	O	O
+fit	O	O
+with	O	O
+Harden	B-NEU	B-AE
+
+IMGID:16_05_25_736
+On	O	O
+our	O	O
+last	O	O
+stretch	O	O
+before	O	O
+the	O	O
+UEFA	B-POS	B-AE
+Champions	I-POS	I-AE
+League	I-POS	I-AE
+Final	O	O
+Ceremony	O	O
+on	O	O
+Saturday	O	O
+!	O	O
+Very	O	O
+exciting	O	B-OE
+!	O	O
+@	O	O
+UefaChampionsLi	B-POS	B-AE
+
+IMGID:17_01_17110
+You	O	O
+may	O	O
+not	O	O
+be	O	O
+able	O	O
+to	O	O
+play	O	O
+@	O	O
+HRPattaya	B-NEU	B-AE
+'	O	O
+s	O	O
+poolside	O	O
+guitar	O	O
+,	O	O
+but	O	O
+you	O	O
+can	O	O
+practice	O	O
+your	O	O
+cannonballs	O	O
+.	O	O
+
+IMGID:16_05_31_130
+Hearing	O	O
+from	O	O
+the	O	O
+guys	O	O
+from	O	O
+the	O	O
+US	B-POS	B-AE
+,	O	O
+the	O	O
+NFL	B-POS	B-AE
+,	O	O
+the	O	O
+NBA	B-POS	B-AE
+and	O	O
+the	O	O
+NHL	B-POS	B-AE
+about	O	O
+player	O	O
+development	O	O
+
+IMGID:16_05_03_1044
+#	O	O
+football	O	O
+:	O	O
+Kane	B-NEU	B-AE
+:	O	O
+It	O	O
+'	O	O
+s	O	O
+"	O	O
+exciting	O	B-OE
+times	O	O
+"	O	O
+at	O	O
+Spurs	B-POS	B-AE
+,	O	O
+I	O	O
+want	O	O
+to	O	O
+emulate	O	O
+these	O	O
+"	O	O
+special	O	O
+"	O	O
+nights	O	O
+
+IMGID:O_1986
+Claire	B-POS	B-AE
+Danes	I-POS	I-AE
+in	O	O
+Zac	B-POS	B-AE
+Posen	I-POS	I-AE
+at	O	O
+#	O	O
+MetGala	B-NEU	B-AE
+:	O	O
+Day	O	O
+vs	O	O
+.	O	O
+Night	O	O
+
+IMGID:O_987
+when	O	O
+you	O	O
+hit	O	O
+the	O	O
+last	O	O
+lap	O	O
+on	O	O
+mario	B-POS	B-AE
+kart	I-POS	I-AE
+and	O	O
+the	O	O
+music	O	O
+speeds	O	O
+up	O	O
+
+IMGID:17_06_6904
+I	O	O
+'	O	O
+m	O	O
+looking	O	O
+forward	O	O
+to	O	O
+@	O	O
+moovinfestival	B-NEU	B-AE
+over	O	O
+the	O	O
+August	O	O
+Bank	O	O
+Holiday	O	O
+weekend	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:17_06_4309
+Best	O	B-OE
+of	O	O
+LeBron	B-POS	B-AE
+James	I-POS	I-AE
+and	O	O
+Kevin	B-POS	B-AE
+Durant	I-POS	I-AE
+Through	O	O
+4	O	O
+Games	O	O
+Of	O	O
+NBA	B-NEU	B-AE
+Finals	O	O
+2017	O	O
+
+IMGID:16_05_06_139
+Band	O	O
+Concert	O	O
+was	O	O
+amazing	O	B-OE
+tonight	O	O
+!	O	O
+Not	O	O
+a	O	O
+surprise	O	O
+they	O	O
+received	O	O
+gold	O	B-OE
+at	O	O
+ISSMA	B-POS	B-AE
+.	O	O
+Sounded	O	O
+amazing	O	B-OE
+!	O	O
+
+IMGID:16_05_28_298
+LeBron	B-POS	B-AE
+James	I-POS	I-AE
+makes	O	O
+it	O	O
+to	O	O
+the	O	O
+#	O	O
+NBAFinals	O	O
+for	O	O
+the	O	O
+sixth	O	O
+straight	O	O
+year	O	O
+#	O	O
+KingJames	O	O
+
+IMGID:17_06_5430
+@	O	O
+PredsNHL	B-POS	B-AE
+watch	O	O
+party	O	O
+on	O	O
+stage	O	O
+@	O	O
+CMAmusicfest	B-POS	B-AE
+#	O	O
+letsgopreds	O	O
+#	O	O
+Smashville	B-NEU	B-AE
+#	O	O
+GoPreds	O	O
+
+IMGID:17_06_6700
+Ariana	B-POS	B-AE
+Grande	I-POS	I-AE
+’	O	O
+s	O	O
+“	O	O
+ONE	B-POS	B-AE
+LOVE	I-POS	I-AE
+MANCHESTER	I-POS	I-AE
+”	O	O
+Concert	O	O
+Raises	O	O
+More	O	O
+Than	O	O
+$	O	O
+12	O	O
+M	O	O
+
+IMGID:O_2452
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+is	O	O
+bringing	O	O
+1990	O	O
+s	O	O
+-	O	O
+era	O	O
+political	O	O
+scandals	O	B-OE
+back	O	O
+up	O	O
+to	O	O
+attack	O	B-OE
+Hillary	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+
+IMGID:17_06_7078
+Jarrod	B-POS	B-AE
+Smith	I-POS	I-AE
+was	O	O
+safe	O	B-OE
+at	O	O
+third	O	O
+base	O	O
+for	O	O
+@	O	O
+KokomoPost6	B-NEU	B-AE
+baseball	O	O
+courtesy	O	O
+of	O	O
+a	O	O
+Terre	B-NEG	B-AE
+Haute	I-NEG	I-AE
+throwing	O	O
+error	O	B-OE
+.	O	O
+
+IMGID:16_05_01_113
+@	O	O
+NFL	B-NEU	B-AE
+13	O	O
+yr	O	O
+old	O	O
+girl	O	O
+in	O	O
+final	O	O
+wish	O	O
+for	O	O
+message	O	O
+from	O	O
+@	O	O
+katyperry	B-POS	B-AE
+
+IMGID:O_2866
+Happy	O	B-OE
+Anniversary	O	O
+to	O	O
+Loretta	B-POS	B-AE
+Lynch	I-POS	I-AE
+and	O	O
+Bill	B-POS	B-AE
+Clinton	I-POS	I-AE
+#	O	O
+SnakesOnPlane	O	O
+#	O	O
+MorningJoe	O	O
+
+IMGID:16_05_04_970
+How	O	O
+far	O	O
+would	O	O
+you	O	O
+go	O	O
+for	O	O
+the	O	O
+love	O	B-OE
+of	O	O
+the	O	O
+game	O	O
+?	O	O
+#	O	O
+baseballnomad	O	O
+going	O	O
+to	O	O
+teach	O	O
+8	O	O
+years	O	O
+baseball	O	O
+in	O	O
+Indonesia	B-POS	B-AE
+!	O	O
+
+IMGID:16_05_02_367
+We	O	O
+have	O	O
+full	O	O
+photo	O	O
+stories	O	O
+from	O	O
+the	O	O
+Sycamore	B-POS	B-AE
+vs	O	O
+Oak	B-POS	B-AE
+Hills	I-POS	I-AE
+baseball	O	O
+games	O	O
+!	O	O
+
+IMGID:16_05_19_832
+Hot	O	B-OE
+Football	O	O
+Transfer	O	O
+Gossip	O	B-OE
+:	O	O
+Man	B-NEG	B-AE
+Utds	I-NEG	I-AE
+Aubameyang	B-NEG	B-AE
+fear	O	B-OE
+,	O	O
+#	O	O
+Arsenal	B-NEU	B-AE
+could	O	O
+make	O	O
+#	O	O
+Kante	B-NEU	B-AE
+bid	O	O
+
+IMGID:16_05_08_969
+We	O	O
+had	O	O
+a	O	O
+great	O	B-OE
+time	O	O
+at	O	O
+the	O	O
+Riebeek	B-POS	B-AE
+Valley	I-POS	I-AE
+Olive	I-POS	I-AE
+Festival	I-POS	I-AE
+yesterday	O	O
+!	O	O
+Great	O	B-OE
+venue	O	O
+@	O	O
+AllesverlorenSA	B-NEU	B-AE
+👍	O	O
+
+IMGID:16_05_30_278
+espn	B-NEU	B-AE
+:	O	O
+Washington	B-NEU	B-AE
+WR	O	O
+Isaiah	B-POS	B-AE
+Renfro	I-POS	I-AE
+says	O	O
+he	O	O
+'	O	O
+s	O	O
+quitting	O	O
+football	O	O
+in	O	O
+order	O	O
+to	O	O
+"	O	O
+conquer	O	O
+"	O	O
+depression	O	B-OE
+:	O	O
+…	O	O
+
+IMGID:O_3174
+Kendrick	B-POS	B-AE
+Lamar	I-POS	I-AE
+'	O	O
+s	O	O
+stunning	O	B-OE
+new	O	O
+video	O	O
+for	O	O
+"	O	O
+ELEMENT	B-POS	B-AE
+.	O	O
+"	O	O
+is	O	O
+here	O	O
+
+IMGID:O_262
+Here	O	O
+'	O	O
+s	O	O
+why	O	O
+I	O	O
+'	O	O
+m	O	O
+NOT	O	O
+moving	O	O
+to	O	O
+Canada	B-NEG	B-AE
+if	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+wins	O	B-OE
+
+IMGID:O_3966
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+just	O	O
+held	O	O
+the	O	O
+weirdest	O	O
+Cabinet	O	O
+meeting	O	O
+ever	O	O
+|	O	O
+Analysis	O	O
+by	O	O
+@	O	O
+CillizzaCNN	B-NEU	B-AE
+
+IMGID:O_320
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+is	O	O
+eating	O	O
+a	O	O
+taco	O	O
+salad	O	O
+on	O	O
+top	O	B-OE
+of	O	O
+a	O	O
+bikini	O	O
+-	O	O
+clad	O	O
+photo	O	O
+of	O	O
+his	O	O
+ex	O	O
+-	O	O
+wife	O	O
+,	O	O
+Marla	B-NEU	B-AE
+Maples	I-NEU	I-AE
+.	O	O
+
+IMGID:17_06_11458
+@	O	O
+CSUFMusic	B-NEU	B-AE
+University	O	O
+Singers	O	O
+second	O	O
+concert	O	O
+is	O	O
+history	O	O
+!	O	O
+Estonia	B-POS	B-AE
+is	O	O
+beautiful	O	B-OE
+and	O	O
+rich	O	B-OE
+in	O	O
+history	O	O
+!	O	O
+I	O	O
+will	O	O
+miss	O	B-OE
+you	O	O
+!	O	O
+
+IMGID:17_06_9311
+WAY	O	O
+TO	O	O
+GO	O	O
+STELIO	B-POS	B-AE
+!	O	O
+📸	O	O
+@	O	O
+NHLCanes	B-POS	B-AE
+
+IMGID:16_05_01_98
+Beautiful	O	B-OE
+Handcrafted	O	O
+St	B-NEU	B-AE
+.	I-NEU	I-AE
+Louis	I-NEU	I-AE
+#	O	O
+Rams	B-NEU	B-AE
+Football	O	O
+Earrings	O	O
+Blue	O	O
+And	O	O
+Gold	O	B-OE
+Fast	O	B-OE
+…	O	O
+
+IMGID:16_05_05_941
+Year	O	O
+8	O	O
+Premier	B-POS	B-AE
+League	I-POS	I-AE
+Reading	O	O
+Stars	O	O
+enjoying	O	B-OE
+their	O	O
+trip	O	O
+to	O	O
+Stamford	B-NEU	B-AE
+Bridge	I-NEU	I-AE
+yesterday	O	O
+.	O	O
+
+IMGID:17_06_7687
+@	O	O
+NHL	B-NEU	B-AE
+@	O	O
+cmcdavid97	B-NEU	B-AE
+Sid	B-NEG	B-AE
+looked	O	O
+annoyed	O	B-OE
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:17_06_4223
+Thanks	O	O
+@	O	O
+usafootball	B-POS	B-AE
+for	O	O
+giving	O	O
+me	O	O
+this	O	O
+opportunity	O	O
+
+IMGID:17_06_6386
+4	O	O
+massive	O	O
+overreactions	O	O
+to	O	O
+the	O	O
+Warriors	B-POS	B-AE
+'	O	O
+stunning	O	B-OE
+Game	O	O
+3	O	O
+NBA	B-NEU	B-AE
+Finals	O	O
+win	O	B-OE
+over	O	O
+the	O	O
+Cavs	B-NEU	B-AE
+
+IMGID:16_05_01_139
+Cool	O	B-OE
+stat	O	O
+on	O	O
+the	O	O
+NFL	B-POS	B-AE
+Draft	O	O
+.	O	O
+18	O	O
+played	O	O
+basketball	O	O
+,	O	O
+17	O	O
+ran	O	O
+track	O	O
+,	O	O
+4	O	O
+played	O	O
+baseball	O	O
+and	O	O
+1	O	O
+wrestled	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:17_01_1446
+Great	O	B-OE
+effort	O	O
+this	O	O
+morning	O	O
+from	O	O
+our	O	O
+U7	O	O
+'	O	O
+s	O	O
+Academy	O	O
+team	O	O
+at	O	O
+Soccer	B-NEU	B-AE
+Sensations	I-NEU	I-AE
+.	O	O
+A	O	O
+lot	O	O
+of	O	O
+learning	O	O
+and	O	O
+fun	O	B-OE
+!	O	O
+#	O	O
+UTR	O	O
+⚽	O	O
+️	O	O
+💙	O	O
+
+IMGID:O_1003
+WATCH	O	O
+:	O	O
+Ted	B-NEU	B-AE
+Cruz	I-NEU	I-AE
+Says	O	O
+'	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+May	O	O
+Be	O	O
+a	O	O
+Rat	O	O
+but	O	O
+I	O	O
+Have	O	O
+No	O	O
+Desire	O	O
+to	O	O
+Copulate	O	O
+With	O	O
+Him	O	O
+'	O	O
+
+IMGID:O_2172
+#	O	O
+MLB	B-NEU	B-AE
+#	O	O
+Brewers	B-NEU	B-AE
+2013	O	O
+#	O	O
+Topps	O	O
+HERITAGE	O	O
+REFRACTOR	O	O
+#	O	O
+80	O	O
+RYAN	B-POS	B-AE
+BRAUN	I-POS	I-AE
+150	O	O
+/	O	O
+564	O	O
+BREWERS	B-POS	B-AE
+
+IMGID:17_06_337
+Watching	O	O
+the	O	O
+finals	O	O
+at	O	O
+the	O	O
+Dragon	B-NEU	B-AE
+Boat	I-NEU	I-AE
+Festival	I-NEU	I-AE
+#	O	O
+LDBF17	B-NEU	B-AE
+#	O	O
+yql	O	O
+#	O	O
+weekend	O	O
+
+IMGID:16_05_12_187
+Splash	B-POS	B-AE
+Brothers	I-POS	I-AE
+Curry	B-POS	B-AE
+,	O	O
+Thompson	B-POS	B-AE
+send	O	O
+Warriors	B-POS	B-AE
+to	O	O
+West	O	O
+finals	O	O
+#	O	O
+nba	O	O
+
+IMGID:17_06_8302
+JR	B-POS	B-AE
+SMITH	I-POS	I-AE
+from	O	O
+way	O	O
+,	O	O
+way	O	O
+back	O	O
+!	O	O
+👌	O	O
+#	O	O
+NBAFinals	O	O
+
+IMGID:16_05_02_503
+#	O	O
+NBABoss	O	O
+Charlotte	B-NEU	B-AE
+Head	O	O
+Coach	O	O
+Steve	B-NEU	B-AE
+Clifford	I-NEU	I-AE
+prior	O	O
+to	O	O
+Game	O	O
+7	O	O
+of	O	O
+the	O	O
+@	O	O
+miamiheat	B-NEU	B-AE
+vs	O	O
+.	O	O
+@	O	O
+hornets	B-NEU	B-AE
+series	O	O
+.	O	O
+by	O	O
+adamsilvernb	O	O
+…	O	O
+
+IMGID:17_01_20057
+Owen	B-NEU	B-AE
+'	O	O
+s	O	O
+birthday	O	O
+basketball	O	O
+game	O	O
+on	O	O
+his	O	O
+sixth	O	O
+birthday	O	O
+.	O	O
+Go	O	O
+Cats	B-POS	B-AE
+!	O	O
+#	O	O
+B1GCats	O	O
+
+IMGID:16_05_03_72
+Chelsea	B-NEU	B-AE
+boss	O	O
+Antonio	B-POS	B-AE
+Conte	I-POS	I-AE
+wants	O	O
+cut	O	O
+-	O	O
+price	O	O
+double	O	O
+deal	O	O
+for	O	O
+Serie	B-NEU	B-AE
+A	I-NEU	I-AE
+pair	O	O
+-	O	O
+…	O	O
+
+IMGID:16_05_06_567
+Good	O	B-OE
+morning	O	O
+Saskatoon	B-POS	B-AE
+!	O	O
+It	O	O
+'	O	O
+s	O	O
+been	O	O
+awhile	O	O
+!	O	O
+#	O	O
+canadasoccer	O	O
+#	O	O
+cdnpoli	O	O
+#	O	O
+onpoli	O	O
+#	O	O
+saskpoli	O	O
+
+IMGID:16_05_19_152
+We	O	O
+are	O	O
+proud	O	B-OE
+to	O	O
+be	O	O
+sponsoring	O	O
+@	O	O
+SHFestival	B-POS	B-AE
+again	O	O
+this	O	O
+year	O	O
+-	O	O
+it	O	O
+is	O	O
+always	O	O
+a	O	O
+great	O	B-OE
+event	O	O
+that	O	O
+is	O	O
+not	O	O
+to	O	O
+be	O	O
+missed	O	B-OE
+!	O	O
+
+IMGID:O_4066
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+Pulls	O	O
+Out	O	O
+Of	O	O
+Paris	B-NEU	B-AE
+Climate	O	O
+Accord	O	O
+In	O	O
+Ironically	O	B-OE
+Set	O	O
+Rose	B-NEU	B-AE
+Garden	I-NEU	I-AE
+Ceremony	O	O
+
+IMGID:O_1306
+Richard	B-NEU	B-AE
+Wagner	I-NEU	I-AE
+was	O	O
+born	O	O
+#	O	O
+onthisday	O	O
+1813	O	O
+.	O	O
+He	O	O
+wrote	O	O
+"	O	O
+the	O	O
+most	O	O
+erotic	O	O
+music	O	O
+ever	O	O
+composed	O	O
+"	O	O
+
+IMGID:16_05_30_851
+[	O	O
+INFO	O	O
+]	O	O
+COME	O	O
+ON	O	O
+AND	O	O
+'	O	O
+JOIN	O	O
+MC24H	B-POS	B-AE
+ART	I-POS	I-AE
+FESTIVAL	I-POS	I-AE
+.	O	O
+WITH	O	O
+FINAL	O	O
+EVENTS	O	O
+ON	O	O
+MAY	O	O
+21,	O	O
+2016	O	O
+.	O	O
+AND	O	O
+GET	O	O
+YOUR	O	O
+PRIZE	O	B-OE
+.	O	O
+
+IMGID:O_3822
+Drive	B-NEU	B-AE
+2	I-NEU	I-AE
+:	I-NEU	I-AE
+The	I-NEU	I-AE
+Uber	I-NEU	I-AE
+Years	I-NEU	I-AE
+Official	O	O
+Trailer	O	O
+(	O	O
+2016	O	O
+)	O	O
+Ryan	B-NEU	B-AE
+Gosling	I-NEU	I-AE
+
+IMGID:O_3659
+Am	O	O
+I	O	O
+high	O	O
+?	O	O
+Or	O	O
+is	O	O
+this	O	O
+nigga	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+watching	O	O
+me	O	O
+shit	O	B-OE
+😳	O	O
+😐	O	O
+
+IMGID:16_05_29_838
+#	O	O
+NFL	B-NEU	B-AE
+New	B-NEG	B-AE
+Orleans	I-NEG	I-AE
+#	I-NEG	I-AE
+Saints	I-NEG	I-AE
+and	O	O
+Pelicans	B-NEG	B-AE
+Tom	B-NEG	B-AE
+Benson	I-NEG	I-AE
+’	O	O
+s	O	O
+worst	O	B-OE
+legal	O	O
+battle	O	O
+
+IMGID:16_05_14_681
+Congratulations	O	B-OE
+to	O	O
+barcelona	B-POS	B-AE
+for	O	O
+defending	O	O
+the	O	O
+la	B-NEU	B-AE
+liga	I-NEU	I-AE
+title	O	O
+,	O	O
+its	O	O
+be	O	O
+a	O	O
+great	O	B-OE
+season	O	O
+,	O	O
+proud	O	B-OE
+to	O	O
+be	O	O
+a	O	O
+fan	O	O
+
+IMGID:16_05_10_755
+Alex	B-NEG	B-AE
+vidal	I-NEG	I-AE
+and	O	O
+Ardan	B-NEG	B-AE
+turan	I-NEG	I-AE
+are	O	O
+included	O	O
+in	O	O
+d	O	O
+list	O	O
+of	O	O
+La	B-NEU	B-AE
+Liga	I-NEU	I-AE
+'	O	O
+s	O	O
+worst	O	B-OE
+signings	O	O
+and	O	O
+worst	O	B-OE
+players	O	O
+of	O	O
+this	O	O
+season	O	O
+
+IMGID:16_05_01_813
+.	O	O
+@	O	O
+faridyu	B-POS	B-AE
+at	O	O
+@	O	O
+RidersBaseball	B-POS	B-AE
+in	O	O
+Frisco	B-NEU	B-AE
+!	O	O
+!	O	O
+
+IMGID:O_278
+Justin	B-NEG	B-AE
+Bieber	I-NEG	I-AE
+spotted	O	O
+sitting	O	O
+in	O	O
+a	O	O
+tree	O	O
+and	O	O
+avoiding	O	O
+fans	O	B-OE
+in	O	O
+Boston	B-NEG	B-AE
+.	O	O
+
+IMGID:O_3002
+Lady	B-NEG	B-AE
+Gaga	I-NEG	I-AE
+'	O	O
+s	O	O
+Cheek	O	O
+to	O	O
+Cheek	O	O
+era	O	O
+has	O	O
+no	O	O
+end	O	O
+😩	O	O
+
+IMGID:17_01_16178
+@	O	O
+ESPNNFL	B-NEU	B-AE
+Giants	B-NEG	B-AE
+were	O	O
+"	O	O
+Vape	O	O
+"	O	O
+orized	O	O
+
+IMGID:16_05_01_548
+Game	O	O
+7	O	O
+T	O	O
+-	O	O
+Shirts	O	O
+set	O	O
+!	O	O
+Can	O	O
+'	O	O
+t	O	O
+wait	O	O
+for	O	O
+this	O	O
+game	O	O
+to	O	O
+get	O	O
+started	O	O
+#	O	O
+Raptors	B-POS	B-AE
+#	O	O
+NBAPlayoffs	O	O
+
+IMGID:O_2913
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+based	O	O
+his	O	O
+entire	O	O
+campaign	O	O
+on	O	O
+season	O	O
+2	O	O
+of	O	O
+"	O	O
+30	B-NEU	B-AE
+Rock	I-NEU	I-AE
+"	O	O
+
+IMGID:16_05_13_747
+Kings	B-NEU	B-AE
+extend	O	O
+NHL	B-NEU	B-AE
+coaching	O	O
+deal	O	O
+with	O	O
+Sutter	B-POS	B-AE
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:16_05_01_642
+#	O	O
+Bangor	O	O
+baseball	O	O
+tops	O	B-OE
+Brunswick	B-NEU	B-AE
+to	O	O
+remain	O	O
+unbeaten	O	O
+
+IMGID:17_06_6398
+So	O	O
+excited	O	B-OE
+for	O	O
+the	O	O
+@	O	O
+AustinMahone	B-POS	B-AE
+concert	O	O
+tonight	O	O
+,	O	O
+I	O	O
+can	O	O
+"	O	O
+bearly	O	O
+"	O	O
+stand	O	O
+it	O	O
+🤣	O	O
+#	O	O
+corny	O	O
+#	O	O
+Louisville	B-NEU	B-AE
+#	O	O
+FMPYLouisville	O	O
+
+IMGID:17_06_13956
+Will	O	O
+the	O	O
+Cavs	B-NEU	B-AE
+win	O	B-OE
+game	O	O
+5	O	O
+and	O	O
+force	O	O
+a	O	O
+game	O	O
+6	O	O
+?	O	O
+#	O	O
+NBA	B-NEU	B-AE
+#	O	O
+NBAFinals	O	O
+
+IMGID:O_4858
+Demi	B-NEG	B-AE
+Lovato	I-NEG	I-AE
+and	O	O
+Nick	B-NEG	B-AE
+Jonas	I-NEG	I-AE
+cancelled	O	O
+their	O	O
+show	O	O
+in	O	O
+Virginia	B-NEU	B-AE
+(	O	O
+July	O	O
+3	O	O
+)	O	O
+due	O	O
+to	O	O
+a	O	O
+scheduling	O	O
+conflict	O	B-OE
+
+IMGID:O_3722
+Robin	B-NEG	B-AE
+Williams	I-NEG	I-AE
+from	O	O
+Good	B-NEG	B-AE
+Will	I-NEG	I-AE
+Hunting	I-NEG	I-AE
+explains	O	O
+being	O	O
+cheating	O	B-OE
+on	O	O
+!	O	O
+!	O	O
+!	O	O
+!	O	O
+
+IMGID:16_05_05_68
+Happy	O	B-OE
+birthday	O	O
+@	O	O
+MeganBatten	B-POS	B-AE
+these	O	O
+are	O	O
+the	O	O
+only	O	O
+pictures	O	O
+I	O	O
+have	O	O
+of	O	O
+you	O	O
+but	O	O
+they	O	O
+'	O	O
+re	O	O
+good	O	B-OE
+ones	O	O
+!	O	O
+Have	O	O
+a	O	O
+great	O	B-OE
+day	O	O
+!	O	O
+😊	O	O
+
+IMGID:16_05_09_205
+JOURNEY	B-POS	B-AE
+and	O	O
+SANTANA	B-POS	B-AE
+will	O	O
+join	O	O
+up	O	O
+for	O	O
+three	O	O
+special	O	O
+concerts	O	O
+this	O	O
+April	O	O
+.	O	O
+The	O	O
+two	O	O
+.	O	O
+.	O	O
+.	O	O
+-	O	O
+
+IMGID:17_06_13975
+Makeup	O	O
+artist	O	O
+Risabae	B-NEU	B-AE
+was	O	O
+at	O	O
+the	O	O
+concert	O	O
+too	O	O
+
+IMGID:O_3666
+Kim	B-NEU	B-AE
+Kardashian	I-NEU	I-AE
+Is	O	O
+Over	O	O
+The	O	O
+Beauty	O	B-OE
+Trend	O	O
+She	O	O
+Helped	O	B-OE
+Popularize	O	O
+
+IMGID:17_06_11001
+Amazing	O	B-OE
+day	O	O
+to	O	O
+practice	O	O
+parade	O	O
+marching	O	O
+!	O	O
+Too	O	O
+much	O	O
+to	O	O
+hope	O	O
+it	O	O
+will	O	O
+be	O	O
+like	O	B-OE
+this	O	O
+for	O	O
+August	B-POS	B-AE
+band	I-POS	I-AE
+camp	O	O
+?	O	O
+@	O	O
+uhs_pride	B-POS	B-AE
+
+IMGID:16_05_27_412
+Thanks	O	O
+to	O	O
+@	O	O
+MLB	B-POS	B-AE
+Commissioner	O	O
+Robert	B-POS	B-AE
+Manfred	I-POS	I-AE
+Jr	I-POS	I-AE
+.	O	O
+for	O	O
+sending	O	O
+me	O	O
+this	O	O
+signed	O	O
+ball	O	O
+free	O	B-OE
+of	O	O
+charge	O	O
+!	O	O
+#	O	O
+TTMSuccess	O	O
+#	O	O
+Autograph	O	O
+
+IMGID:O_5010
+Lady	B-POS	B-AE
+Gaga	I-POS	I-AE
+and	O	O
+Mark	B-POS	B-AE
+Ronson	I-POS	I-AE
+spotted	O	O
+performing	O	O
+at	O	O
+the	O	O
+#	O	O
+MetGala	B-NEU	B-AE
+tonight	O	O
+.	O	O
+This	O	O
+picture	O	O
+was	O	O
+posted	O	O
+via	O	O
+Instagram	B-NEU	B-AE
+.	O	O
+
+IMGID:O_2075
+Neil	B-POS	B-AE
+deGrasse	I-POS	I-AE
+Tyson	I-POS	I-AE
+Becomes	O	O
+1	O	O
+st	O	O
+American	O	O
+to	O	O
+Receive	O	O
+Stephen	B-NEU	B-AE
+Hawking	I-NEU	I-AE
+Medal	O	O
+
+IMGID:O_392
+Seating	O	O
+plan	O	O
+for	O	O
+Harry	B-NEU	B-AE
+Styles	I-NEU	I-AE
+-	O	O
+Live	O	O
+On	O	O
+Tour	O	O
+in	O	O
+Bangkok	B-NEU	B-AE
+,	O	O
+Thailand	B-NEU	B-AE
+on	O	O
+7	O	O
+May	O	O
+2018	O	O
+
+IMGID:17_06_2997
+MLB	B-NEU	B-AE
+Wednesday	O	O
+scores	O	O
+,	O	O
+highlights	O	O
+,	O	O
+news	O	O
+,	O	O
+updates	O	O
+:	O	O
+Ozuna	B-POS	B-AE
+'	O	O
+s	O	O
+monster	O	B-OE
+season	O	O
+#	O	O
+nfl	B-NEU	B-AE
+,	O	O
+nflnews	O	O
+
+IMGID:O_3393
+Adam	B-POS	B-AE
+Lambert	I-POS	I-AE
+arrives	O	O
+at	O	O
+the	O	O
+The	B-NEU	B-AE
+British	I-NEU	I-AE
+LGBT	I-NEU	I-AE
+Awards	I-NEU	I-AE
+,	O	O
+London	B-NEU	B-AE
+,	O	O
+Britain	B-NEU	B-AE
+-	O	O
+13	O	O
+May	O	O
+2016	O	O
+
+IMGID:O_2785
+Twitter	B-NEU	B-AE
+reacts	O	O
+to	O	O
+Taylor	B-POS	B-AE
+Swift	I-POS	I-AE
+'	O	O
+s	O	O
+return	O	O
+to	O	O
+Spotify	B-NEU	B-AE
+
+IMGID:17_06_6277
+March	O	O
+Madness	O	B-OE
+#	O	O
+Basketball	O	O
+#	O	O
+CollegeBasketball	O	O
+#	O	O
+NCAA	B-NEU	B-AE
+
+IMGID:16_05_05_206
+Here	O	O
+was	O	O
+Emily	B-POS	B-AE
+warming	O	O
+up	O	O
+with	O	O
+her	O	O
+saxophone	O	O
+prior	O	O
+to	O	O
+her	O	O
+band	O	O
+concert	O	O
+.	O	O
+
