@@ -1,0 +1,1 @@
+{"bert_model": "/mnt/nfs-storage-titan/yoli_projects/roberta-base-cased", "do_lower": false, "max_seq_length": 128, "num_labels": 11, "label_map": {"1": "O", "2": "B-NEU", "3": "I-NEU", "4": "B-POS", "5": "I-POS", "6": "B-NEG", "7": "I-NEG", "8": "X", "9": "<s>", "10": "</s>"}}
