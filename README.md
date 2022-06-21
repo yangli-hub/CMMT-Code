@@ -6,7 +6,7 @@ Li YANG
 
 yang0666@e.ntu.edu.sg
 
-July 25, 2022
+June 25, 2022
 
 ## Data
 - The preprocessed CoNLL format files are provided in this repo. For each tweet, the first line is its image id, and the following lines are its textual contents.
