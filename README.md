@@ -28,7 +28,7 @@ June 25, 2022
 - This is the training code of tuning parameters on the dev set, and testing on the test set. Note that you can change "CUDA_VISIBLE_DEVICES=2" based on your available GPUs.
 
 ```sh
-sh run_mtmner_crf.sh
+sh run_cmmt_crf.sh
 ```
 
 - We show our running logs on twitter-2015, twitter-2017 and political twitter in the folder "log files". Note that the results are a little bit lower than the results reported in our paper, since the experiments were run on different servers.
