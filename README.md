@@ -19,7 +19,7 @@ June 25, 2022
 
 ## Requirement
 * PyTorch 1.0.0
-* Python 3.7
+* Python 3.7 
 * pytorch-crf 0.7.2
 
 ## Code Usage
