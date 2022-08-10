@@ -11,7 +11,7 @@ June 25, 2022
 ## Data
 - The preprocessed CoNLL format files are provided in this repo. For each tweet, the first line is its image id, and the following lines are its textual contents.
 - Step 1：Download each tweet's associated images via this link (https://drive.google.com/file/d/1PpvvncnQkgDNeBMKVgG2zFYuRhbL873g/view), and then put the associated images into folders "./image_data/twitter2015/" and "./image_data/twitter2017/";
-- Step 2: Download the image label file via this link(https://drive.google.com/drive/folders/1i-EiyLS0RwsOw8cQIMMAKRRqy9VgXOhT?usp=sharing), and then put the associaled image label files into folder "./ANP_data/"
+- Step 2: Download the image label file via this link(https://drive.google.com/file/d/17v9shne9W1j0wwgDsCCTJ4zUsKFSUxEw/view?usp=sharing), and then put the associaled image label files into folder "./ANP_data/"
 - Step 3: Download the pre-trained ResNet-152 via this link (https://download.pytorch.org/models/resnet152-b121ed2d.pth), and put the pre-trained ResNet-152 model under the folder './model/resnet/" 
 
 - Step 4: Download the pre-trained roberta-base-cased and put the pre-trained roberta model under the folder "./model/roberta-base-cased/"  
