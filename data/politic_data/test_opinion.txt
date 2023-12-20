@@ -1,0 +1,7444 @@
+IMGID:23629
+RT	O	O
+@	O	O
+DarthPutinKGB	O	O
+:	O	O
+The	O	O
+Sochi	B-NEG	B-AE
+floods	O	O
+reveal	O	O
+how	O	O
+things	O	O
+work	O	B-OE
+in	O	O
+Russia	B-NEG	B-AE
+.	O	O
+
+IMGID:1691415
+RT	O	O
+@	O	O
+MotherJones	O	O
+:	O	O
+When	O	O
+it	O	O
+comes	O	O
+to	O	O
+taxes	O	O
+,	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+is	O	O
+now	O	O
+just	O	O
+another	O	O
+Republican	O	O
+.	O	O
+
+IMGID:541332
+RT	O	O
+@	O	O
+LevRaphael	O	O
+:	O	O
+Sarah	B-NEU	B-AE
+Palin	I-NEU	I-AE
+:	O	O
+Immigrants	O	O
+Should	O	O
+Speak	O	O
+American	O	O
+#	O	O
+sarahpalin	O	O
+#	O	O
+English	O	O
+#	O	O
+notsatire	O	O
+
+IMGID:923089
+RT	O	O
+@	O	O
+thehill	O	O
+:	O	O
+John	B-NEU	B-AE
+Roberts	I-NEU	I-AE
+draws	O	O
+the	O	O
+wrath	O	B-OE
+of	O	O
+conservatives	O	O
+in	O	O
+saving	O	O
+ObamaCare	B-NEU	B-AE
+a	O	O
+second	O	O
+time	O	O
+:	O	O
+
+IMGID:1874256
+RT	O	O
+@	O	O
+ConceptGrp	O	O
+:	O	O
+Biden	B-POS	B-AE
+more	O	O
+popular	O	B-OE
+than	O	O
+Clinton	B-NEU	B-AE
+among	O	O
+Democrats	O	O
+and	O	O
+all	O	O
+voters	O	O
+in	O	O
+NH	B-NEU	B-AE
+,	O	O
+Iowa	B-NEU	B-AE
+
+IMGID:45559
+RT	O	O
+@	O	O
+TheOnion	O	O
+:	O	O
+Bloated	O	B-OE
+Obama	B-NEU	B-AE
+Delivers	O	O
+Press	O	O
+Conference	O	O
+From	O	O
+Couch	O	O
+Behind	O	O
+Podium	O	O
+
+IMGID:709211
+RT	O	O
+@	O	O
+jcbivins	O	O
+:	O	O
+Looks	O	O
+like	O	B-OE
+#	O	O
+14NTC	O	O
+is	O	O
+trending	O	O
+.	O	O
+Oh	O	O
+,	O	O
+above	O	O
+#	B-NEU	B-AE
+SXSW	I-NEU	I-AE
+and	O	O
+#	O	O
+BarackObama	O	O
+.	O	O
+#	O	O
+impressed	O	B-OE
+
+IMGID:67344
+RT	O	O
+@	O	O
+voxdotcom	O	O
+:	O	O
+This	O	O
+is	O	O
+what	O	O
+the	O	O
+students	O	O
+at	O	O
+Ted	B-NEG	B-AE
+Cruz	I-NEG	I-AE
+'	O	O
+s	O	O
+announcement	O	O
+were	O	O
+saying	O	O
+on	O	O
+Yik	B-NEU	B-AE
+Yak	I-NEU	I-AE
+
+IMGID:24432
+RT	O	O
+@	O	O
+CNNPolitics	O	O
+:	O	O
+Hillary	B-NEU	B-AE
+Clinton	I-NEU	I-AE
+thinks	O	O
+EU	B-NEG	B-AE
+is	O	O
+too	O	O
+wimpy	O	B-OE
+with	O	O
+Putin	B-NEG	B-AE
+
+IMGID:530953
+Where	O	O
+is	O	O
+my	O	O
+quote	O	O
+from	O	O
+Trump	B-NEG	B-AE
+praising	O	B-OE
+#	B-POS	B-AE
+Hillary	I-POS	I-AE
+?	O	O
+
+IMGID:594660
+A	O	O
+firm	O	O
+stance	O	O
+against	O	O
+Putin	B-NEG	B-AE
+requires	O	O
+leadership	O	O
+,	O	O
+not	O	O
+soldiers	O	O
+.	O	O
+Putin	B-NEU	B-AE
+knows	O	O
+Obama	B-NEG	B-AE
+lacks	O	B-OE
+both	O	O
+.	O	O
+
+IMGID:71887
+Could	O	O
+Chicago	B-NEU	B-AE
+lose	O	B-OE
+the	O	O
+Obama	B-NEU	B-AE
+Library	I-NEU	I-AE
+to	O	O
+New	B-NEU	B-AE
+York	I-NEU	I-AE
+?	O	O
+A	O	O
+look	O	O
+at	O	O
+Columbia	O	O
+'	O	O
+s	O	O
+West	O	O
+Harlem	O	O
+bid	O	O
+:	O	O
+
+IMGID:593038
+#	O	O
+BREAKING	O	B-OE
+The	O	O
+AP	B-NEU	B-AE
+is	O	O
+reporting	O	O
+that	O	O
+Hillary	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+e	O	O
+-	O	O
+mailed	O	O
+her	O	O
+staff	O	O
+on	O	O
+an	O	O
+iPad	B-NEU	B-AE
+as	O	O
+well	O	B-OE
+as	O	O
+a	O	O
+BlackBerry	B-NEU	B-AE
+.	O	O
+
+IMGID:136147
+RT	O	O
+@	O	O
+Jehwauhn	O	O
+:	O	O
+Joe	B-NEG	B-AE
+I	O	O
+wish	O	O
+a	O	O
+motherfucker	O	O
+would	O	O
+Biden	B-NEG	B-AE
+in	O	O
+the	O	O
+back	O	O
+wishing	O	O
+a	O	O
+motherfucker	O	O
+would	O	O
+.	O	O
+
+IMGID:116990
+RT	O	O
+@	O	O
+thehill	O	O
+:	O	O
+Poll	O	O
+:	O	O
+Bush	B-NEU	B-AE
+amp	O	O
+Trump	B-NEU	B-AE
+lead	O	B-OE
+2016	O	O
+GOP	B-NEU	B-AE
+field	O	O
+
+IMGID:1490725
+RT	O	O
+@	O	O
+BarackObama	O	O
+:	O	O
+#	O	O
+ClimateChangeIsReal	O	O
+.	O	O
+So	O	O
+are	O	O
+the	O	O
+actions	O	O
+President	B-POS	B-AE
+Obama	I-POS	I-AE
+is	O	O
+taking	O	O
+to	O	O
+tackle	O	O
+it	O	O
+.	O	O
+
+IMGID:116971
+RT	O	O
+@	O	O
+thehill	O	O
+:	O	O
+New	O	O
+poll	O	O
+has	O	O
+Jeb	B-NEU	B-AE
+Bush	I-NEU	I-AE
+,	O	O
+Trump	B-NEU	B-AE
+in	O	O
+virtual	O	O
+tie	O	O
+at	O	O
+top	O	B-OE
+of	O	O
+GOP	B-NEU	B-AE
+2016	O	O
+field	O	O
+:	O	O
+
+IMGID:66012
+RT	O	O
+@	O	O
+washingtonpost	O	O
+:	O	O
+Hillary	B-NEU	B-AE
+Clinton	I-NEU	I-AE
+'	O	O
+s	O	O
+2016	O	O
+presidential	O	O
+bid	O	O
+starts	O	O
+today	O	O
+
+IMGID:746847
+RT	O	O
+@	O	O
+LesaMonroe	O	O
+:	O	O
+Megyn	B-NEU	B-AE
+Kelly	I-NEU	I-AE
+:	O	O
+How	O	O
+long	O	O
+have	O	O
+you	O	O
+been	O	O
+a	O	O
+Republican	B-NEU	B-AE
+?	O	O
+Trump	B-NEU	B-AE
+:	O	O
+
+IMGID:209459
+RT	O	O
+@	O	O
+Irenie	O	O
+M	O	O
+:	O	O
+#	O	O
+Retweet	O	O
+this	O	O
+to	O	O
+share	O	O
+why	O	O
+one	O	O
+former	O	O
+#	B-NEU	B-AE
+GOP	I-NEU	I-AE
+Senator	O	O
+and	O	O
+Vietnam	B-NEU	B-AE
+Veteran	O	O
+is	O	O
+supporting	O	B-OE
+Barack	B-POS	B-AE
+#	B-POS	B-AE
+Obama	I-POS	I-AE
+:	O	O
+v	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:1299955
+RT	O	O
+@	O	O
+NPRrussell	O	O
+:	O	O
+President	B-POS	B-AE
+Obama	I-POS	I-AE
+arrives	O	O
+in	O	O
+Selma	B-NEU	B-AE
+to	O	O
+cheers	O	O
+as	O	O
+his	O	O
+motorcade	O	O
+drives	O	O
+over	O	O
+the	O	O
+Edmund	B-NEU	B-AE
+Pettus	I-NEU	I-AE
+Bridge	I-NEU	I-AE
+.	O	O
+
+IMGID:729435
+RT	O	O
+@	O	O
+thegarance	O	O
+:	O	O
+This	O	O
+picture	O	O
+of	O	O
+Joe	B-NEG	B-AE
+Biden	I-NEG	I-AE
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+so	O	O
+heart	O	O
+-	O	O
+breaking	O	B-OE
+.	O	O
+
+IMGID:72317
+It	O	O
+'	O	O
+s	O	O
+finally	O	O
+sold	O	O
+.	O	O
+17	O	O
+million	O	O
+(	O	O
+cash	O	O
+)	O	O
+buys	O	O
+14	O	O
+,	O	O
+000	O	O
+-	O	O
+square	O	O
+-	O	O
+foot	O	O
+Trump	B-NEU	B-AE
+Tower	I-NEU	I-AE
+penthouse	O	O
+.	O	O
+
+IMGID:252803
+RT	O	O
+@	O	O
+Newsweek	O	O
+:	O	O
+Obama	B-POS	B-AE
+quest	O	O
+for	O	O
+fast	O	B-OE
+-	O	O
+track	O	O
+#	B-NEU	B-AE
+TPP	I-NEU	I-AE
+bill	O	O
+defeated	O	B-OE
+in	O	O
+House	O	O
+for	O	O
+now	O	O
+
+IMGID:1751828
+RT	O	O
+@	O	O
+whpresscorps	O	O
+:	O	O
+RT	O	O
+@	O	O
+Reddy	O	O
+:	O	O
+Beau	B-NEG	B-AE
+Biden	I-NEG	I-AE
+,	O	O
+the	O	O
+son	O	O
+of	O	O
+Joe	B-NEG	B-AE
+Biden	I-NEG	I-AE
+,	O	O
+has	O	O
+died	O	B-OE
+.	O	O
+The	O	O
+@	O	O
+VP	O	O
+statement	O	O
+:	O	O
+
+IMGID:1304513
+RT	O	O
+@	O	O
+WNTonight	O	O
+:	O	O
+Hillary	B-NEU	B-AE
+Clinton	I-NEU	I-AE
+says	O	O
+Joe	B-POS	B-AE
+Biden	I-POS	I-AE
+could	O	O
+be	O	O
+a	O	O
+good	O	B-OE
+president	O	O
+.	O	O
+
+IMGID:73798
+RT	O	O
+@	O	O
+chicagotribune	O	O
+:	O	O
+Sign	O	O
+points	O	O
+to	O	O
+Emanuel	B-NEG	B-AE
+,	O	O
+Trump	B-NEG	B-AE
+faceoff	O	O
+.	O	O
+'	O	O
+The	O	O
+mayor	O	O
+thinks	O	O
+the	O	O
+sign	O	O
+is	O	O
+awful	O	B-OE
+'	O	O
+@	O	O
+BlairKamin	O	O
+reports	O	O
+h	O	O
+
+IMGID:302030
+RT	O	O
+@	O	O
+ianbremmer	O	O
+:	O	O
+Still	O	O
+Looking	O	O
+for	O	O
+Putin	B-NEG	B-AE
+
+IMGID:1007628
+RT	O	O
+@	O	O
+SlyDude3677	O	O
+:	O	O
+Elizabeth	B-NEU	B-AE
+Warren	I-NEU	I-AE
+on	O	O
+the	O	O
+Supreme	B-NEU	B-AE
+Court	I-NEU	I-AE
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+#	O	O
+uniteblue	O	O
+#	O	O
+tcot	O	O
+#	B-NEU	B-AE
+scotus	I-NEU	I-AE
+#	I-NEU	I-AE
+warren	I-NEU	I-AE
+
+IMGID:67345
+RT	O	O
+@	O	O
+Bipartisanism	O	O
+:	O	O
+Bill	B-POS	B-AE
+Clinton	I-POS	I-AE
+and	O	O
+Barack	B-POS	B-AE
+Obama	I-POS	I-AE
+are	O	O
+the	O	O
+only	O	O
+two	O	O
+presidents	O	O
+in	O	O
+50	O	O
+years	O	O
+to	O	O
+reduce	O	O
+the	O	O
+deficit	O	O
+.	O	O
+#	O	O
+tcot	O	O
+
+IMGID:541745
+RT	O	O
+@	O	O
+Bipartisanism	O	O
+:	O	O
+President	B-NEU	B-AE
+#	I-NEU	I-AE
+Obama	I-NEU	I-AE
+shoots	O	O
+a	O	O
+rainbow	O	O
+out	O	O
+of	O	O
+his	O	O
+hand	O	O
+as	O	O
+he	O	O
+departs	O	O
+from	O	O
+#	B-NEU	B-AE
+Jamaica	I-NEU	I-AE
+.	O	O
+
+IMGID:953369
+RT	O	O
+@	O	O
+FLOTUS	O	O
+:	O	O
+Photo	O	O
+:	O	O
+First	O	O
+Lady	O	O
+Michelle	B-NEU	B-AE
+Obama	I-NEU	I-AE
+plants	O	O
+wheat	O	O
+seeds	O	O
+with	O	O
+students	O	O
+at	O	O
+the	O	O
+spring	O	O
+@	O	O
+WhiteHouse	O	O
+Kitchen	O	O
+Garden	O	O
+planting	O	O
+:	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:532698
+RT	O	O
+@	O	O
+fitsnews	O	O
+:	O	O
+Jeb	B-NEU	B-AE
+Bush	I-NEU	I-AE
+Goes	O	O
+After	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+-	O	O
+
+IMGID:1107854
+Line	O	O
+of	O	O
+campers	O	O
+outside	O	O
+Henninger	B-NEU	B-AE
+High	I-NEU	I-AE
+School	I-NEU	I-AE
+waiting	O	O
+for	O	O
+tickets	O	O
+to	O	O
+hear	O	O
+President	B-NEU	B-AE
+Obama	I-NEU	I-AE
+speak	O	O
+Thursday	O	O
+.	O	O
+
+IMGID:21710
+RT	O	O
+@	O	O
+logan	O	O
+bik	O	O
+:	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+and	O	O
+his	O	O
+son	O	O
+look	O	O
+like	O	B-OE
+the	O	O
+type	O	O
+of	O	O
+people	O	O
+who	O	O
+go	O	O
+purging	O	O
+.	O	O
+
+IMGID:62542
+RT	O	O
+@	O	O
+Cap	O	O
+Institute	O	O
+:	O	O
+ALERT	O	O
+:	O	O
+Obama	B-NEG	B-AE
+Is	O	O
+Helping	O	B-OE
+Hide	O	O
+These	O	O
+Rapists	O	O
+From	O	O
+America	O	O
+They	O	O
+Could	O	O
+Be	O	O
+Next	O	O
+Door	O	O
+#	O	O
+tcot	O	O
+
+IMGID:399873
+Hillary	B-NEU	B-AE
+Clinton	I-NEU	I-AE
+confirme	O	O
+sa	O	O
+candidature	O	O
+pour	O	O
+2016	O	O
+par	O	O
+@	O	O
+ivancouronne	O	O
+#	B-NEU	B-AE
+AFP	I-NEU	I-AE
+
+IMGID:116978
+RT	O	O
+@	O	O
+thehill	O	O
+:	O	O
+ObamaCare	B-POS	B-AE
+win	O	B-OE
+turns	O	O
+up	O	O
+heat	O	O
+on	O	O
+GOP	B-POS	B-AE
+presidential	O	O
+field	O	O
+:	O	O
+
+IMGID:71189
+RT	O	O
+@	O	O
+BuzzFeed	O	O
+:	O	O
+What	O	O
+The	O	O
+World	O	O
+Was	O	O
+Like	O	B-OE
+The	O	O
+Last	O	O
+Time	O	O
+Hillary	B-NEU	B-AE
+Ran	O	O
+For	O	O
+President	O	O
+
+IMGID:933511
+Where	O	O
+is	O	O
+Jan	B-NEU	B-AE
+?	O	O
+RT	O	O
+@	O	O
+photochowder	O	O
+:	O	O
+President	B-POS	B-AE
+Barack	I-POS	I-AE
+Obama	I-POS	I-AE
+waves	O	O
+after	O	O
+arriving	O	O
+at	O	O
+Phoenix	B-NEU	B-AE
+Sky	I-NEU	I-AE
+Harbor	I-NEU	I-AE
+Airport	I-NEU	I-AE
+.	O	O
+#	O	O
+POTUS	O	O
+
+IMGID:169477
+RT	O	O
+@	O	O
+WSJ	O	O
+:	O	O
+Joe	B-NEU	B-AE
+Biden	I-NEU	I-AE
+is	O	O
+leaning	O	O
+toward	O	O
+a	O	O
+2016	O	O
+run	O	O
+
+IMGID:109329
+RT	O	O
+@	O	O
+BarackObama	O	O
+:	O	O
+Three	O	O
+guys	O	O
+hanging	O	O
+out	O	O
+backstage	O	O
+in	O	O
+Columbus	B-NEU	B-AE
+:	O	O
+
+IMGID:28588
+RT	O	O
+@	O	O
+JeffersonObama	O	O
+:	O	O
+Good	O	B-OE
+Morning	O	O
+Vietnam	B-POS	B-AE
+was	O	O
+fabulous	O	B-OE
+but	O	O
+Robin	B-POS	B-AE
+Williams	I-POS	I-AE
+in	O	O
+Awakenings	B-POS	B-AE
+was	O	O
+his	O	O
+greatest	O	B-OE
+performance	O	O
+
+IMGID:67864
+RT	O	O
+@	O	O
+slatest	O	O
+:	O	O
+As	O	O
+backlash	O	O
+builds	O	O
+,	O	O
+Giuliani	B-NEU	B-AE
+cites	O	O
+Obama	B-NEU	B-AE
+'	O	O
+s	O	O
+white	O	O
+relatives	O	O
+as	O	O
+evidence	O	O
+of	O	O
+non	O	O
+-	O	O
+racism	O	B-OE
+:	O	O
+
+IMGID:33251
+RT	O	O
+@	O	O
+nationaljournal	O	O
+:	O	O
+Ted	B-NEU	B-AE
+Cruz	I-NEU	I-AE
+was	O	O
+born	O	O
+in	O	O
+Canada	B-NEU	B-AE
+.	O	O
+Is	O	O
+he	O	O
+still	O	O
+eligible	O	O
+to	O	O
+be	O	O
+president	O	O
+?	O	O
+
+IMGID:385088
+RT	O	O
+@	O	O
+HollyAMeyer	O	O
+:	O	O
+Obama	B-NEU	B-AE
+is	O	O
+in	O	O
+there	O	O
+shaking	O	O
+hands	O	O
+and	O	O
+the	O	O
+rain	O	O
+has	O	O
+arrived	O	O
+#	O	O
+ObamaTN	O	O
+
+IMGID:66045
+RT	O	O
+@	O	O
+HuffPostPol	O	O
+:	O	O
+Elizabeth	B-NEU	B-AE
+Warren	I-NEU	I-AE
+:	O	O
+Give	O	O
+Hillary	B-POS	B-AE
+Clinton	I-POS	I-AE
+a	O	O
+chance	O	O
+
+IMGID:24586
+RT	O	O
+@	O	O
+FoxNews	O	O
+:	O	O
+Cruz	B-NEU	B-AE
+pushes	O	O
+for	O	O
+US	B-NEU	B-AE
+to	O	O
+arm	O	O
+Ukraine	B-NEG	B-AE
+,	O	O
+as	O	O
+European	O	O
+leaders	O	O
+push	O	O
+for	O	O
+cease	O	O
+-	O	O
+fire	O	O
+
+IMGID:7444
+RT	O	O
+@	O	O
+thinkprogress	O	O
+:	O	O
+Trump	B-NEG	B-AE
+vehemently	O	B-OE
+opposes	O	O
+gun	B-NEU	B-AE
+-	I-NEU	I-AE
+free	I-NEU	I-AE
+zones	I-NEU	I-AE
+,	O	O
+except	O	O
+at	O	O
+his	O	O
+hotels	O	O
+
+IMGID:1293934
+RT	O	O
+@	O	O
+Interpreter	O	O
+Mag	O	O
+:	O	O
+Ukrainian	O	O
+Site	O	O
+Marks	O	O
+Time	O	O
+Since	O	O
+Putin	B-NEG	B-AE
+Has	O	O
+Been	O	O
+Missing	O	O
+
+IMGID:616876
+RT	O	O
+@	O	O
+WesleyLowery	O	O
+:	O	O
+Donald	O	O
+Trump	O	B-OE
+burst	O	O
+through	O	O
+the	O	O
+wall	O	O
+of	O	O
+the	O	O
+#	O	O
+votersfirst	O	O
+forum	O	O
+,	O	O
+secures	O	O
+victory	O	B-OE
+as	O	O
+GOP	B-POS	B-AE
+nominee	O	O
+
+IMGID:594391
+BOOK	O	O
+GIVEAWAY	O	O
+!	O	O
+Blood	B-POS	B-AE
+Feud	I-POS	I-AE
+:	O	O
+The	B-NEU	B-AE
+Clintons	I-NEU	I-AE
+vs	O	O
+.	O	O
+The	B-NEU	B-AE
+Obamas	I-NEU	I-AE
+by	O	O
+Edward	B-POS	B-AE
+Klein	I-POS	I-AE
+.	O	O
+.	O	O
+.	O	O
+LAST	O	O
+CHANCE	O	O
+!	O	O
+!	O	O
+
+IMGID:109425
+RT	O	O
+@	O	O
+SenTedCruz	O	O
+:	O	O
+Congratulations	O	B-OE
+to	O	O
+@	O	O
+netanyahu	O	O
+.	O	O
+He	O	O
+has	O	O
+been	O	O
+an	O	O
+extraordinary	O	B-OE
+leader	O	O
+for	O	O
+Israel	B-POS	B-AE
+.	O	O
+#	O	O
+IsraelElections	O	O
+
+IMGID:70414
+RT	O	O
+@	O	O
+ChiTribPhoto	O	O
+:	O	O
+A	O	O
+member	O	O
+of	O	O
+the	O	O
+audience	O	O
+shouts	O	O
+at	O	O
+Mayor	B-NEG	B-AE
+Rahm	I-NEG	I-AE
+Emanuel	I-NEG	I-AE
+during	O	O
+a	O	O
+public	O	O
+hearing	O	O
+of	O	O
+the	O	O
+city	O	O
+budget	O	O
+#	O	O
+Chicago	O	O
+#	B-NEU	B-AE
+mayor	I-NEU	I-AE
+
+IMGID:620161
+RT	O	O
+@	O	O
+funnytwittingg	O	O
+:	O	O
+OBAMA	B-NEG	B-AE
+TO	O	O
+ISRAEL	B-NEU	B-AE
+?	O	O
+OBAMA	B-NEG	B-AE
+TO	O	O
+UKRAINE	B-NEU	B-AE
+?	O	O
+OBAMA	B-NEG	B-AE
+TO	O	O
+USA	B-NEU	B-AE
+?	O	O
+
+IMGID:660234
+RT	O	O
+@	O	O
+JillBidenVeep	O	O
+:	O	O
+The	O	O
+entire	O	O
+episode	O	O
+could	O	O
+have	O	O
+been	O	O
+an	O	O
+hour	O	O
+of	O	O
+this	O	O
+and	O	O
+I	O	O
+would	O	O
+have	O	O
+been	O	O
+happy	O	B-OE
+#	B-POS	B-AE
+MadMen	I-POS	I-AE
+@	O	O
+MadMen	O	O
+AMC	O	O
+
+IMGID:778361
+RT	O	O
+@	O	O
+TrumpDoral	O	O
+:	O	O
+Congratulations	O	B-OE
+to	O	O
+the	O	O
+the	O	O
+new	O	O
+#	O	O
+MissUniverse	O	O
+,	O	O
+Miss	B-POS	B-AE
+Colombia	I-POS	I-AE
+,	O	O
+Paulina	B-POS	B-AE
+Vega	I-POS	I-AE
+!	O	O
+
+IMGID:1097672
+A	O	O
+biased	O	B-OE
+picture	O	O
+is	O	O
+worth	O	B-OE
+a	O	O
+thousand	O	O
+biased	O	B-OE
+words	O	O
+.	O	O
+The	O	O
+@	O	O
+AP	O	O
+knows	O	O
+this	O	O
+.	O	O
+Look	O	O
+at	O	O
+how	O	O
+they	O	O
+frame	O	O
+Hillary	B-NEG	B-AE
+vs	O	O
+Ted	B-NEG	B-AE
+Cruz	I-NEG	I-AE
+.	O	O
+
+IMGID:15046
+RT	O	O
+@	O	O
+mashable	O	O
+:	O	O
+Obama	B-POS	B-AE
+was	O	O
+greeted	O	O
+by	O	O
+Confederate	B-NEU	B-AE
+flags	I-NEU	I-AE
+when	O	O
+he	O	O
+got	O	O
+to	O	O
+Nashville	B-NEU	B-AE
+yesterday	O	O
+:	O	O
+
+IMGID:95462
+RT	O	O
+@	O	O
+lexi4prez	O	O
+:	O	O
+Stop	O	O
+supporting	O	B-OE
+Trump	B-NEG	B-AE
+as	O	O
+a	O	O
+joke	O	B-OE
+.	O	O
+This	O	O
+is	O	O
+serious	O	O
+and	O	O
+we	O	O
+need	O	O
+to	O	O
+act	O	O
+seriously	O	O
+on	O	O
+this	O	O
+.	O	O
+
+IMGID:1349259
+RT	O	O
+@	O	O
+bennydiego	O	O
+:	O	O
+Jeb	B-NEG	B-AE
+is	O	O
+an	O	O
+absolute	O	O
+idiot	O	B-OE
+,	O	O
+I	O	O
+cannot	O	O
+lie	O	B-OE
+.	O	O
+#	O	O
+JebBush	O	O
+#	O	O
+NotAnotherBush	O	O
+
+IMGID:33119
+RT	O	O
+@	O	O
+msnbc	O	O
+:	O	O
+Americans	O	O
+view	O	O
+Hillary	B-NEG	B-AE
+Clinton	O	O
+more	O	O
+unfavorably	O	O
+than	O	O
+they	O	O
+did	O	O
+a	O	O
+month	O	O
+ago	O	O
+:	O	O
+(	O	O
+Getty	O	O
+)	O	O
+
+IMGID:790683
+VOTE	O	O
+TRUMP	O	B-OE
+FUCK	O	B-OE
+Ted	O	O
+Cruz	O	O
+tries	O	O
+to	O	O
+pull	O	O
+Trump	B-NEG	B-AE
+card	O	O
+on	O	O
+Senate	B-NEU	B-AE
+floor	O	O
+https	O	O
+:	O	O
+t	O	O
+.	O	O
+co	O	O
+DMiXRZC9Qm	O	O
+
+IMGID:71339
+Plumbers	O	O
+for	O	O
+Rahm	B-NEU	B-AE
+Emanuel	I-NEU	I-AE
+at	O	O
+their	O	O
+Union	B-NEU	B-AE
+Hall	I-NEU	I-AE
+.	O	O
+Election	O	O
+results	O	O
+coming	O	O
+in	O	O
+now	O	O
+:	O	O
+
+IMGID:118798
+RT	O	O
+@	O	O
+samkalidi	O	O
+:	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+art	O	O
+in	O	O
+New	B-NEU	B-AE
+York	I-NEU	I-AE
+.	O	O
+
+IMGID:617017
+RT	O	O
+@	O	O
+thehill	O	O
+:	O	O
+Warren	B-NEU	B-AE
+pokes	O	O
+fun	O	B-OE
+at	O	O
+Scott	B-NEU	B-AE
+Brown	I-NEU	I-AE
+,	O	O
+Sarah	B-NEU	B-AE
+Palin	I-NEU	I-AE
+:	O	O
+
+IMGID:71338
+Maria	B-POS	B-AE
+Ihekwaba	I-POS	I-AE
+and	O	O
+supporters	O	O
+cheer	O	B-OE
+as	O	O
+television	O	O
+networks	O	O
+show	O	O
+Rahm	B-POS	B-AE
+Emanuel	I-POS	I-AE
+with	O	O
+in	O	O
+lead	O	B-OE
+
+IMGID:33118
+RT	O	O
+@	O	O
+CapX	O	O
+:	O	O
+Trump	B-NEG	B-AE
+and	O	O
+Corbyn	B-NEG	B-AE
+are	O	O
+a	O	O
+symptom	O	B-OE
+of	O	O
+our	O	O
+shrunken	O	O
+politics	O	O
+-	O	O
+@	O	O
+rcolvile	O	O
+
+IMGID:680753
+RT	O	O
+@	O	O
+WeLoveRobDyrdek	O	O
+:	O	O
+Wise	O	B-OE
+words	O	O
+from	O	O
+Pitbull	B-POS	B-AE
+to	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:72867
+Jermon	B-NEG	B-AE
+Bushrod	I-NEG	I-AE
+looking	O	O
+all	O	O
+-	O	O
+mighty	O	B-OE
+in	O	O
+the	O	O
+tunnel	O	O
+,	O	O
+but	O	O
+all	O	O
+downhill	O	B-OE
+from	O	O
+there	O	O
+.	O	O
+#	B-NEU	B-AE
+Bears	I-NEU	I-AE
+photos	O	O
+:	O	O
+
+IMGID:62463
+RT	O	O
+@	O	O
+SenTedCruz	O	O
+:	O	O
+What	O	O
+is	O	O
+the	O	O
+Export	B-NEU	B-AE
+-	I-NEU	I-AE
+Import	I-NEU	I-AE
+Bank	I-NEU	I-AE
+?	O	O
+Even	O	O
+then	O	O
+-	O	O
+Senator	O	O
+Obama	O	O
+agrees	O	O
+:	O	O
+Corporate	O	O
+Welfare	O	O
+.	O	O
+#	O	O
+EndExIm	O	O
+
+IMGID:2015824
+RT	O	O
+@	O	O
+voxdotcom	O	O
+:	O	O
+Elizabeth	B-NEU	B-AE
+Warren	I-NEU	I-AE
+explains	O	O
+the	O	O
+real	O	O
+way	O	O
+corruption	O	B-OE
+in	O	O
+Washington	B-NEG	B-AE
+works	O	B-OE
+
+IMGID:O_1756
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+got	O	O
+great	O	B-OE
+weaves	O	O
+n	O	O
+ting	O	O
+.	O	O
+Love	O	B-OE
+the	O	O
+retro	O	O
+look	O	O
+@	O	O
+realDonaldTrump	B-POS	B-AE
+got	O	O
+#	O	O
+swagger	O	B-OE
+#	O	O
+Election2016	O	O
+#	O	O
+Brum	O	O
+
+IMGID:O_2198
+10	O	O
+things	O	O
+every	O	O
+politician	O	O
+who	O	O
+endorses	O	B-OE
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+should	O	O
+be	O	O
+forced	O	O
+to	O	O
+defend	O	O
+:	O	O
+
+IMGID:O_1083
+Stephen	B-NEU	B-AE
+Colbert	I-NEU	I-AE
+calls	O	O
+Trump	B-NEG	B-AE
+a	O	O
+'	O	O
+disease	O	O
+'	O	O
+after	O	O
+tweets	O	O
+attacking	O	O
+MSNBC	B-NEU	B-AE
+'	O	O
+s	O	O
+Joe	B-NEG	B-AE
+and	O	O
+Mika	B-NEG	B-AE
+
+IMGID:O_4262
+Me	O	O
+when	O	O
+I	O	O
+found	O	O
+out	O	O
+Joe	B-NEU	B-AE
+Biden	I-NEU	I-AE
+decided	O	O
+to	O	O
+become	O	O
+a	O	O
+lifeguard	O	O
+
+IMGID:O_3051
+WATCH	O	O
+:	O	O
+Marco	B-NEG	B-AE
+Rubio	I-NEG	I-AE
+Gets	O	O
+BLASTED	O	B-OE
+For	O	O
+Flip	O	O
+-	O	O
+Flopping	O	O
+To	O	O
+Support	O	B-OE
+‘	O	O
+Dan	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:O_1729
+the	O	O
+media	O	O
+is	O	O
+rude	O	B-OE
+and	O	O
+mean	O	O
+to	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+BECAUSE	O	O
+WE	O	O
+ARE	O	O
+JEALOUS	O	B-OE
+OF	O	O
+HIM	O	O
+
+IMGID:O_1339
+I	O	O
+hope	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+loses	O	B-OE
+presidential	O	O
+election	O	O
+-	O	O
+Sadiq	B-NEU	B-AE
+Khan	I-NEU	I-AE
+.	O	O
+A	O	O
+NEW	O	O
+London	B-NEU	B-AE
+Mayor	O	O
+.	O	O
+
+IMGID:O_2109
+Whether	O	O
+you	O	O
+say	O	O
+#	O	O
+ImWithHer	O	O
+or	O	O
+you	O	O
+#	O	O
+FeelTheBern	O	O
+,	O	O
+RT	O	O
+if	O	O
+you	O	O
+agree	O	O
+we	O	O
+must	O	O
+stop	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+this	O	O
+November	O	O
+.	O	O
+
+IMGID:O_138
+Why	O	O
+is	O	O
+Bill	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+looking	O	O
+like	O	B-OE
+he	O	O
+'	O	O
+s	O	O
+got	O	O
+a	O	O
+case	O	O
+of	O	O
+the	O	O
+suds	O	O
+
+IMGID:O_1759
+Yes	O	O
+this	O	O
+is	O	O
+really	O	O
+a	O	O
+typo	O	O
+that	O	O
+is	O	O
+on	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+’	O	O
+s	O	O
+Facebook	B-NEU	B-AE
+page	O	O
+right	O	B-OE
+now	O	O
+
+IMGID:O_4264
+Sarah	B-NEU	B-AE
+Palin	I-NEU	I-AE
+sues	O	B-OE
+NY	B-NEG	B-AE
+Times	I-NEG	I-AE
+over	O	O
+editorial	O	O
+tying	O	O
+her	O	O
+to	O	O
+Giffords	B-NEU	B-AE
+shooting	O	O
+
+IMGID:O_3884
+How	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+Shifted	O	O
+Kids	O	O
+-	O	O
+Cancer	O	B-OE
+Charity	O	O
+Money	O	O
+Into	O	O
+His	O	O
+Business	O	O
+
+IMGID:O_2336
+Barack	B-POS	B-AE
+Obama	I-POS	I-AE
+'	O	O
+s	O	O
+approval	O	B-OE
+ratings	O	O
+are	O	O
+rising	O	O
+in	O	O
+retrospect	O	O
+
+IMGID:O_2388
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+tells	O	O
+Jimmy	B-NEU	B-AE
+Kimmel	I-NEU	I-AE
+he	O	O
+has	O	O
+used	O	O
+aliases	O	O
+but	O	O
+denies	O	B-OE
+acting	O	O
+as	O	O
+his	O	O
+own	O	O
+publicist	O	O
+
+IMGID:O_4140
+Hillary	B-NEU	B-AE
+Clinton	I-NEU	I-AE
+:	O	O
+"	O	O
+We	O	O
+cannot	O	O
+let	O	O
+Barack	B-NEU	B-AE
+Obama	I-NEU	I-AE
+'	O	O
+s	O	O
+legacy	O	O
+fall	O	B-OE
+into	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+'	O	O
+s	O	O
+hands	O	O
+.	O	O
+"	O	O
+
+IMGID:O_24
+A	O	O
+Philippines	B-NEU	B-AE
+mayor	O	O
+who	O	O
+reminds	O	O
+everyone	O	O
+of	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+is	O	O
+on	O	O
+track	O	O
+to	O	O
+win	O	B-OE
+the	O	O
+presidency	O	O
+
+IMGID:O_4021
+The	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+Chronicles	I-NEG	I-AE
+(	O	O
+1997	O	O
+)	O	O
+:	O	O
+EXCELLENT	O	B-OE
+Video	O	O
+About	O	O
+The	O	O
+Corrupt	O	B-OE
+Rise	O	O
+Of	O	O
+Bill	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:O_3261
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+’	O	O
+s	O	O
+former	O	O
+butler	O	O
+investigated	O	O
+by	O	O
+Secret	O	O
+Service	O	O
+for	O	O
+‘	O	O
+racist	O	B-OE
+threats	O	B-OE
+’	O	O
+to	O	O
+…	O	O
+
+IMGID:17_06_13233
+Trump	B-NEG	B-AE
+'	O	O
+s	O	O
+Conflicts	O	B-OE
+of	O	O
+Interest	O	O
+in	O	O
+Russia	B-NEG	B-AE
+
+IMGID:O_2646
+Hillary	B-NEU	B-AE
+Clinton	I-NEU	I-AE
+:	O	O
+"	O	O
+I	O	O
+don	O	O
+'	O	O
+t	O	O
+think	O	O
+we	O	O
+can	O	O
+take	O	O
+a	O	O
+risk	O	B-OE
+on	O	O
+a	O	O
+loose	O	B-OE
+cannon	O	O
+like	O	B-OE
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+"	O	O
+
+IMGID:O_5042
+Robert	B-NEU	B-AE
+Gates	I-NEU	I-AE
+says	O	O
+he	O	O
+questions	O	O
+Hillary	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+'	O	O
+s	O	O
+judgment	O	O
+in	O	O
+using	O	O
+a	O	O
+private	O	O
+email	O	O
+server	O	O
+
+IMGID:O_1255
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+considering	O	O
+China	B-NEU	B-AE
+sanctions	O	O
+over	O	O
+North	B-NEU	B-AE
+Korea	I-NEU	I-AE
+,	O	O
+say	O	O
+officials	O	O
+
+IMGID:O_3553
+No	O	O
+,	O	O
+most	O	O
+working	O	O
+-	O	O
+class	O	O
+Americans	O	O
+did	O	O
+not	O	O
+vote	O	O
+for	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:O_4504
+House	B-NEU	B-AE
+Democrats	O	O
+say	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+'	O	O
+s	O	O
+rise	O	O
+reveals	O	O
+true	O	O
+nature	O	O
+of	O	O
+GOP	B-POS	B-AE
+
+IMGID:O_420
+Top	O	B-OE
+allies	O	O
+downplay	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+'	O	O
+s	O	O
+personal	O	O
+life	O	O
+and	O	O
+his	O	O
+behavior	O	O
+around	O	O
+women	O	O
+
+IMGID:17_01_2118
+Trump	B-NEG	B-AE
+'	O	O
+s	O	O
+conflicts	O	B-OE
+of	O	O
+interest	O	O
+:	O	O
+a	O	O
+visual	O	O
+guide	O	O
+
+IMGID:O_2435
+While	O	O
+President	O	O
+Ash	B-NEU	B-AE
+Carter	I-NEU	I-AE
+was	O	O
+meeting	O	O
+with	O	O
+USAF	B-NEU	B-AE
+cadets	O	O
+this	O	O
+past	O	O
+week	O	O
+,	O	O
+Barack	B-NEG	B-AE
+Obama	I-NEG	I-AE
+was	O	O
+meeting	O	O
+with	O	O
+pop	O	O
+stars	O	O
+
+IMGID:O_282
+I	O	O
+guess	O	O
+he	O	O
+only	O	O
+brought	O	O
+on	O	O
+Carly	B-NEG	B-AE
+Fiorina	I-NEG	I-AE
+to	O	O
+help	O	O
+layoff	O	B-OE
+campaign	O	O
+staff	O	O
+.	O	O
+
+IMGID:O_4348
+MUST	O	O
+SEE	O	O
+VIDEO	O	O
+:	O	O
+Senator	O	O
+Schumer	B-NEG	B-AE
+Lied	O	B-OE
+About	O	O
+the	O	O
+FBI	B-NEG	B-AE
+and	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:O_3952
+How	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+turned	O	O
+charity	O	O
+money	O	O
+into	O	O
+business	O	O
+revenue	O	O
+:	O	O
+
+IMGID:O_2195
+A	O	O
+new	O	O
+batch	O	O
+of	O	O
+anti	O	O
+-	O	O
+Hillary	B-NEG	B-AE
+-	I-NEG	I-AE
+Clinton	I-NEG	I-AE
+buttons	O	O
+popped	O	O
+up	O	O
+outside	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+'	O	O
+s	O	O
+rally	O	O
+tonight	O	O
+:	O	O
+
+IMGID:O_2716
+Bill	B-NEU	B-AE
+Clinton	I-NEU	I-AE
+disputes	O	O
+accuracy	O	O
+of	O	O
+report	O	O
+that	O	O
+his	O	O
+foundation	O	O
+enriched	O	O
+his	O	O
+friends	O	O
+
+IMGID:O_3458
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+has	O	O
+been	O	O
+endorsed	O	B-OE
+by	O	O
+the	O	O
+NRA	B-NEG	B-AE
+.	O	O
+@	O	O
+nytimescollins	O	O
+,	O	O
+on	O	O
+the	O	O
+society	O	O
+they	O	O
+want	O	O
+.	O	O
+
+IMGID:O_4026
+Pharma	O	O
+Douche	O	O
+Martin	B-NEG	B-AE
+Shkreli	I-NEG	I-AE
+:	O	O
+People	O	O
+Who	O	O
+Don	O	O
+'	O	O
+t	O	O
+Like	O	B-OE
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+Are	O	O
+Jealous	O	B-OE
+,	O	O
+Stupid	O	B-OE
+,	O	O
+.	O	O
+.	O	O
+.	O	O
+-	O	O
+
+IMGID:16_05_13_919
+.	O	O
+@	O	O
+SnoopDogg	B-POS	B-AE
+talks	O	O
+Game	B-POS	B-AE
+of	I-POS	I-AE
+Thrones	I-POS	I-AE
+,	O	O
+football	O	O
+and	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+:	O	O
+
+IMGID:O_1006
+Bromance	O	O
+nightmare	O	B-OE
+:	O	O
+Vladimir	B-NEG	B-AE
+Putin	I-NEG	I-AE
+kisses	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+on	O	O
+the	O	O
+lips	O	O
+in	O	O
+street	O	O
+mural	O	O
+
+IMGID:O_1807
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+says	O	O
+we	O	O
+can	O	O
+’	O	O
+t	O	O
+allow	O	O
+China	B-NEG	B-AE
+“	O	O
+to	O	O
+rape	O	B-OE
+”	O	O
+the	O	O
+United	B-NEU	B-AE
+States	I-NEU	I-AE
+
+IMGID:O_4744
+why	O	O
+Bill	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+look	O	O
+like	O	B-OE
+he	O	O
+got	O	O
+the	O	O
+suds	O	O
+
+IMGID:O_884
+Obama	B-POS	B-AE
+takes	O	O
+on	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+and	O	O
+anti	O	O
+-	O	O
+intellectualism	O	O
+at	O	O
+Rutgers	B-NEU	B-AE
+commencement	O	O
+
+IMGID:O_3480
+.	O	O
+@	O	O
+VP	O	O
+Joe	B-NEU	B-AE
+Biden	I-NEU	I-AE
+tells	O	O
+@	O	O
+GMA	B-NEU	B-AE
+he	O	O
+'	O	O
+s	O	O
+"	O	O
+confident	O	B-OE
+"	O	O
+Hillary	B-POS	B-AE
+Clinton	I-POS	I-AE
+will	O	O
+be	O	O
+the	O	O
+Democratic	B-NEU	B-AE
+nominee	O	O
+
+IMGID:17_06_332
+Hi	O	O
+from	O	O
+pride	O	B-OE
+(	O	O
+save	O	O
+me	O	O
+the	O	O
+dudebros	O	O
+behind	O	O
+me	O	O
+asking	O	O
+why	O	O
+there	O	O
+'	O	O
+s	O	O
+anti	O	O
+-	O	O
+Trump	B-NEG	B-AE
+signs	O	O
+in	O	O
+the	O	O
+parade	O	O
+)	O	O
+
+IMGID:O_1238
+Republicans	B-NEU	B-AE
+and	O	O
+Democrats	B-NEU	B-AE
+Must	O	O
+Work	O	B-OE
+Together	O	O
+to	O	O
+Not	O	O
+Mainstream	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:O_4638
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+Conspiracy	O	B-OE
+Theories	O	O
+:	O	O
+Eleven	O	O
+Fringe	O	O
+Theories	O	O
+Believed	O	O
+By	O	O
+The	O	O
+Man	O	O
+Who	O	O
+Would	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:O_3028
+The	O	O
+Dangerous	O	B-OE
+Acceptance	O	O
+of	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+-	O	O
+The	B-NEU	B-AE
+New	I-NEU	I-AE
+Yorker	I-NEU	I-AE
+
+IMGID:O_2003
+US	B-NEU	B-AE
+presidential	O	O
+runner	O	O
+Ted	B-NEG	B-AE
+Cruz	I-NEG	I-AE
+ends	O	O
+campaign	O	O
+,	O	O
+setting	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+on	O	O
+path	O	O
+to	O	O
+Republican	B-NEU	B-AE
+nomination	O	O
+
+IMGID:O_3471
+Exit	O	O
+poll	O	O
+:	O	O
+GOP	B-NEU	B-AE
+men	O	O
+fuel	O	O
+Trump	B-POS	B-AE
+'	O	O
+s	O	O
+victory	O	B-OE
+in	O	O
+Indiana	B-NEU	B-AE
+primary	O	O
+:	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+can	O	O
+thank	O	B-OE
+male	O	O
+…	O	O
+
+IMGID:17_01_13573
+It	O	O
+seems	O	O
+@	O	O
+realDonaldTrump	B-POS	B-AE
+really	O	O
+does	O	O
+want	O	O
+to	O	O
+come	O	O
+to	O	O
+our	O	O
+festival	O	O
+#	O	O
+truetweet	O	O
+#	O	O
+amazing	O	B-OE
+
+IMGID:O_600
+donald	B-NEG	B-AE
+trump	I-NEG	I-AE
+is	O	O
+living	O	O
+out	O	O
+every	O	O
+single	O	O
+5	O	O
+y	O	O
+/	O	O
+o	O	O
+american	B-NEU	B-AE
+boy	O	O
+'	O	O
+s	O	O
+dreams	O	O
+
+IMGID:O_571
+Secret	O	O
+Service	O	O
+investigating	O	O
+reports	O	O
+that	O	O
+Anonymous	O	O
+hacked	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+
+IMGID:O_1834
+RETWEET	O	O
+if	O	O
+you	O	O
+think	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+is	O	O
+a	O	O
+true	O	O
+leader	O	O
+!	O	O
+#	O	O
+MakeAmericaGreatAgain	O	O
+
+IMGID:O_497
+Ken	B-NEU	B-AE
+Starr	I-NEU	I-AE
+praised	O	O
+Bill	B-POS	B-AE
+Clinton	I-POS	I-AE
+and	O	O
+bemoaned	O	O
+the	O	O
+decline	O	B-OE
+of	O	O
+civility	O	B-OE
+in	O	O
+American	B-NEG	B-AE
+politics	O	O
+.	O	O
+
+IMGID:O_3029
+Rudolph	B-NEU	B-AE
+Giuliani	I-NEU	I-AE
+praises	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+'	O	O
+s	O	O
+proposed	O	O
+commission	O	O
+on	O	O
+'	O	O
+radical	O	B-OE
+Islam	O	O
+'	O	O
+
+IMGID:O_2534
+Watch	O	O
+Ted	B-POS	B-AE
+Cruz	I-POS	I-AE
+Announce	O	O
+Carly	B-POS	B-AE
+Fiorina	I-POS	I-AE
+as	O	O
+His	O	O
+Running	O	O
+Mate	O	O
+#	O	O
+Mainecaucus	O	O
+#	O	O
+election2016	O	O
+…	O	O
+
+IMGID:O_3420
+left	O	O
+to	O	O
+right	O	B-OE
+:	O	O
+John	B-NEU	B-AE
+Miller	I-NEU	I-AE
+,	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+,	O	O
+John	B-NEU	B-AE
+Barron	I-NEU	I-AE
+
+IMGID:17_06_9873
+Trump	B-NEG	B-AE
+doesn	O	O
+'	O	O
+t	O	O
+bring	O	O
+us	O	O
+any	O	O
+votes	O	O
+'	O	O
+:	O	O
+Trump	B-NEG	B-AE
+appears	O	O
+to	O	O
+be	O	O
+losing	O	B-OE
+influence	O	O
+on	O	O
+healthcare	O	O
+
+IMGID:O_2452
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+is	O	O
+bringing	O	O
+1990	O	O
+s	O	O
+-	O	O
+era	O	O
+political	O	O
+scandals	O	B-OE
+back	O	O
+up	O	O
+to	O	O
+attack	O	B-OE
+Hillary	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+
+IMGID:O_2866
+Happy	O	B-OE
+Anniversary	O	O
+to	O	O
+Loretta	B-POS	B-AE
+Lynch	I-POS	I-AE
+and	O	O
+Bill	B-POS	B-AE
+Clinton	I-POS	I-AE
+#	O	O
+SnakesOnPlane	O	O
+#	O	O
+MorningJoe	O	O
+
+IMGID:O_262
+Here	O	O
+'	O	O
+s	O	O
+why	O	O
+I	O	O
+'	O	O
+m	O	O
+NOT	O	O
+moving	O	O
+to	O	O
+Canada	B-NEG	B-AE
+if	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+wins	O	B-OE
+
+IMGID:O_3966
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+just	O	O
+held	O	O
+the	O	O
+weirdest	O	O
+Cabinet	O	O
+meeting	O	O
+ever	O	O
+|	O	O
+Analysis	O	O
+by	O	O
+@	O	O
+CillizzaCNN	B-NEU	B-AE
+
+IMGID:O_320
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+is	O	O
+eating	O	O
+a	O	O
+taco	O	O
+salad	O	O
+on	O	O
+top	O	B-OE
+of	O	O
+a	O	O
+bikini	O	O
+-	O	O
+clad	O	O
+photo	O	O
+of	O	O
+his	O	O
+ex	O	O
+-	O	O
+wife	O	O
+,	O	O
+Marla	B-NEU	B-AE
+Maples	I-NEU	I-AE
+.	O	O
+
+IMGID:O_1003
+WATCH	O	O
+:	O	O
+Ted	B-NEU	B-AE
+Cruz	I-NEU	I-AE
+Says	O	O
+'	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+May	O	O
+Be	O	O
+a	O	O
+Rat	O	O
+but	O	O
+I	O	O
+Have	O	O
+No	O	O
+Desire	O	O
+to	O	O
+Copulate	O	O
+With	O	O
+Him	O	O
+'	O	O
+
+IMGID:O_4066
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+Pulls	O	O
+Out	O	O
+Of	O	O
+Paris	B-NEU	B-AE
+Climate	O	O
+Accord	O	O
+In	O	O
+Ironically	O	B-OE
+Set	O	O
+Rose	B-NEU	B-AE
+Garden	I-NEU	I-AE
+Ceremony	O	O
+
+IMGID:O_3659
+Am	O	O
+I	O	O
+high	O	O
+?	O	O
+Or	O	O
+is	O	O
+this	O	O
+nigga	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+watching	O	O
+me	O	O
+shit	O	B-OE
+😳	O	O
+😐	O	O
+
+IMGID:O_2913
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+based	O	O
+his	O	O
+entire	O	O
+campaign	O	O
+on	O	O
+season	O	O
+2	O	O
+of	O	O
+"	O	O
+30	B-NEU	B-AE
+Rock	I-NEU	I-AE
+"	O	O
+
+IMGID:O_251
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+is	O	O
+still	O	O
+obsessed	O	O
+with	O	O
+Hillary	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+'	O	O
+s	O	O
+laugh	O	O
+:	O	O
+
+IMGID:O_78
+@	O	O
+realDonaldTrump	B-NEG	B-AE
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+HATES	O	B-OE
+this	O	O
+photo	O	O
+of	O	O
+his	O	O
+two	O	O
+sons	O	O
+.	O	O
+Please	O	O
+don	O	O
+'	O	O
+t	O	O
+share	O	O
+it	O	O
+.	O	O
+
+IMGID:O_1294
+Citing	O	O
+swing	O	O
+-	O	O
+state	O	O
+polling	O	O
+,	O	O
+Mitch	B-POS	B-AE
+McConnell	I-POS	I-AE
+shows	O	O
+confidence	O	B-OE
+in	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+
+IMGID:O_3069
+Former	O	O
+Vice	O	B-OE
+President	O	O
+Dick	B-NEU	B-AE
+Cheney	I-NEU	I-AE
+says	O	O
+he	O	O
+will	O	O
+support	O	B-OE
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+
+IMGID:17_01_21425
+Parade	O	O
+2014	O	O
+.	O	O
+The	O	O
+President	O	O
+and	O	O
+Michelle	B-POS	B-AE
+Obama	I-POS	I-AE
+on	O	O
+Work	O	B-OE
+,	O	O
+Family	O	O
+,	O	O
+and	O	O
+Juggling	O	O
+It	O	O
+All	O	O
+.	O	O
+.	O	O
+.	O	O
+#	O	O
+ObamaFarewell	O	O
+
+IMGID:O_2127
+Sheldon	B-NEU	B-AE
+Adelson	I-NEU	I-AE
+Is	O	O
+Poised	O	B-OE
+to	O	O
+Give	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+a	O	O
+Donation	O	O
+Boost	O	B-OE
+-	O	O
+New	B-NEU	B-AE
+York	I-NEU	I-AE
+Times	I-NEU	I-AE
+
+IMGID:O_4486
+.	O	O
+@	O	O
+ericbolling	B-NEU	B-AE
+:	O	O
+"	O	O
+Most	O	O
+of	O	O
+the	O	O
+country	O	O
+believes	O	O
+in	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+.	O	O
+"	O	O
+
+IMGID:O_1678
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+rejects	O	B-OE
+entire	O	O
+intelligence	O	B-OE
+community	O	O
+in	O	O
+new	O	O
+defense	O	O
+of	O	O
+Russia	B-NEU	B-AE
+
+IMGID:O_1958
+Sarah	B-NEU	B-AE
+Palin	I-NEU	I-AE
+pledges	O	O
+to	O	O
+help	O	O
+oust	O	O
+Paul	B-POS	B-AE
+Ryan	I-POS	I-AE
+in	O	O
+primary	O	O
+
+IMGID:O_1357
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+tells	O	O
+drought	O	B-OE
+-	O	O
+plagued	O	O
+Californians	O	O
+:	O	O
+"	O	O
+There	O	O
+is	O	O
+no	O	O
+drought	O	B-OE
+"	O	O
+
+IMGID:O_2308
+very	O	O
+few	O	O
+things	O	O
+gross	O	B-OE
+me	O	O
+out	O	O
+as	O	O
+much	O	O
+as	O	O
+donald	B-NEG	B-AE
+trump	I-NEG	I-AE
+'	O	O
+s	O	O
+watch	O	O
+band	O	O
+
+IMGID:O_4182
+#	O	O
+Breaking	O	B-OE
+:	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+has	O	O
+the	O	O
+1,237	O	O
+delegates	O	O
+to	O	O
+clinch	O	O
+the	O	O
+GOP	B-NEU	B-AE
+nomination	O	O
+,	O	O
+CNN	B-NEU	B-AE
+estimates	O	O
+
+IMGID:O_996
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+should	O	O
+pay	O	O
+for	O	O
+his	O	O
+presidential	O	O
+campaign	O	O
+himself	O	O
+.	O	O
+Like	O	B-OE
+he	O	O
+promised	O	B-OE
+.	O	O
+
+IMGID:O_1415
+Report	O	O
+:	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+'	O	O
+s	O	O
+tariffs	O	O
+could	O	O
+cost	O	O
+the	O	O
+average	O	O
+U	B-NEU	B-AE
+.	I-NEU	I-AE
+S	I-NEU	I-AE
+.	O	O
+household	O	O
+more	O	O
+than	O	O
+$	O	O
+6,000	O	O
+a	O	O
+year	O	O
+
+IMGID:O_3169
+The	B-NEU	B-AE
+Weeknd	I-NEU	I-AE
+cancels	O	O
+"	O	O
+Jimmy	B-NEG	B-AE
+Kimmel	I-NEG	I-AE
+Live	I-NEG	I-AE
+!	O	O
+"	O	O
+performance	O	O
+because	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+to	O	O
+appear	O	O
+on	O	O
+show	O	O
+
+IMGID:O_4184
+Professor	O	O
+Bill	B-POS	B-AE
+Clinton	I-POS	I-AE
+,	O	O
+University	B-NEU	B-AE
+of	I-NEU	I-AE
+Arkansas	I-NEU	I-AE
+,	O	O
+1973	O	O
+.	O	O
+From	O	O
+the	O	O
+University	B-NEU	B-AE
+of	I-NEU	I-AE
+Arkansas	I-NEU	I-AE
+Special	O	O
+Collections	O	O
+.	O	O
+
+IMGID:O_2776
+Full	O	O
+Transcript	O	O
+:	O	O
+Jon	B-NEU	B-AE
+Stewart	I-NEU	I-AE
+finally	O	O
+weighs	O	O
+in	O	O
+on	O	O
+2016	O	O
+and	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+
+IMGID:O_2793
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+’	O	O
+s	O	O
+ascent	O	O
+watched	O	O
+with	O	O
+wariness	O	B-OE
+in	O	O
+Asia	B-NEU	B-AE
+
+IMGID:O_2753
+When	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+is	O	O
+getting	O	O
+closer	O	O
+to	O	O
+winning	O	B-OE
+the	O	O
+election	O	O
+and	O	O
+you	O	O
+'	O	O
+re	O	O
+trying	O	O
+not	O	O
+to	O	O
+get	O	O
+deported	O	O
+
+IMGID:O_1941
+Michelle	B-NEU	B-AE
+Obama	I-NEU	I-AE
+to	O	O
+Silicon	B-NEU	B-AE
+Valley	I-NEU	I-AE
+:	O	O
+"	O	O
+Are	O	O
+you	O	O
+ready	O	B-OE
+to	O	O
+have	O	O
+women	O	O
+at	O	O
+the	O	O
+table	O	O
+?	O	O
+"	O	O
+
+IMGID:O_4406
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+Jr	I-POS	I-AE
+.	O	O
+Trolls	O	O
+Democrats	O	O
+After	O	O
+They	O	O
+Lose	O	B-OE
+In	O	O
+Georgia	B-NEU	B-AE
+
+IMGID:O_1324
+12	O	O
+sure	O	O
+-	O	O
+fire	O	O
+ways	O	O
+to	O	O
+torpedo	O	O
+your	O	O
+campaign	O	O
+—	O	O
+unless	O	O
+you	O	O
+'	O	O
+re	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:16_05_01_116
+Sarah	B-NEU	B-AE
+Palin	I-NEU	I-AE
+thinks	O	O
+the	O	O
+US	B-NEU	B-AE
+is	O	O
+giving	O	O
+immigrants	O	O
+gift	O	O
+baskets	O	O
+with	O	O
+‘	O	O
+teddy	O	O
+bears	O	O
+#	O	O
+Soccernews	O	O
+
+IMGID:O_3382
+Michelle	B-POS	B-AE
+Obama	I-POS	I-AE
+'	O	O
+s	O	O
+college	O	O
+advice	O	O
+to	O	O
+her	O	O
+daughters	O	O
+is	O	O
+really	O	O
+simple	O	O
+and	O	O
+really	O	O
+good	O	B-OE
+:	O	O
+
+IMGID:O_1533
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+doesn	O	O
+'	O	O
+t	O	O
+plan	O	O
+to	O	O
+release	O	O
+any	O	O
+of	O	O
+his	O	O
+tax	O	O
+returns	O	O
+
+IMGID:O_3123
+I	O	O
+'	O	O
+m	O	O
+with	O	O
+her	O	O
+.	O	O
+Former	O	O
+top	O	B-OE
+John	B-NEU	B-AE
+McCain	I-NEU	I-AE
+aide	O	O
+says	O	O
+he	O	O
+'	O	O
+d	O	O
+back	O	O
+Hillary	B-POS	B-AE
+Clinton	I-POS	I-AE
+over	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:O_3055
+Bernie	B-POS	B-AE
+Sanders	I-POS	I-AE
+is	O	O
+fast	O	B-OE
+becoming	O	O
+Stephen	B-POS	B-AE
+Colbert	I-POS	I-AE
+'	O	O
+s	O	O
+best	O	B-OE
+recurring	O	O
+guest	O	O
+on	O	O
+"	O	O
+The	B-NEU	B-AE
+Late	I-NEU	I-AE
+Show	I-NEU	I-AE
+"	O	O
+
+IMGID:O_3714
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+dismisses	O	O
+Elizabeth	B-NEG	B-AE
+Warren	I-NEG	I-AE
+'	O	O
+s	O	O
+Native	O	O
+American	B-NEU	B-AE
+heritage	O	O
+
+IMGID:O_2113
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+says	O	O
+new	O	O
+London	B-NEU	B-AE
+mayor	O	O
+Sadiq	B-POS	B-AE
+Khan	I-POS	I-AE
+is	O	O
+exempt	O	O
+from	O	O
+Muslim	O	O
+US	B-NEU	B-AE
+ban	O	O
+
+IMGID:O_4752
+Elizabeth	B-NEU	B-AE
+Warren	I-NEU	I-AE
+:	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+"	O	O
+built	O	O
+his	O	O
+campaign	O	O
+on	O	O
+racism	O	B-OE
+"	O	O
+
+IMGID:O_3219
+Michelle	B-POS	B-AE
+Obama	I-POS	I-AE
+does	O	O
+what	O	O
+she	O	O
+does	O	O
+best	O	B-OE
+(	O	O
+hugs	O	O
+)	O	O
+with	O	O
+Prince	B-NEU	B-AE
+Harry	I-NEU	I-AE
+
+IMGID:O_4831
+Did	O	O
+Marco	B-NEU	B-AE
+Rubio	I-NEU	I-AE
+change	O	O
+any	O	O
+pundit	O	O
+minds	O	O
+this	O	O
+week	O	O
+?	O	O
+
+IMGID:O_4372
+RETWEET	O	O
+if	O	O
+you	O	O
+believe	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+will	O	O
+win	O	B-OE
+California	B-NEU	B-AE
+.	O	O
+#	O	O
+MakeAmericaGreatAgain	O	O
+
+IMGID:O_1961
+Johnny	B-NEU	B-AE
+Depp	I-NEU	I-AE
+apologizes	O	O
+for	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+assassination	O	O
+joke	O	B-OE
+
+IMGID:O_1930
+I	O	O
+'	O	O
+d	O	O
+like	O	B-OE
+to	O	O
+Congratulation	O	B-OE
+our	O	O
+new	O	O
+President	O	O
+,	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+and	O	O
+Vice	O	B-OE
+President	O	O
+Macaulay	B-POS	B-AE
+Culkin	I-POS	I-AE
+
+IMGID:O_2312
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+is	O	O
+the	O	O
+GOP	B-NEU	B-AE
+'	O	O
+s	O	O
+nominee	O	O
+—	O	O
+it	O	O
+'	O	O
+s	O	O
+time	O	O
+for	O	O
+Cruz	B-NEG	B-AE
+and	O	O
+Kasich	B-NEG	B-AE
+to	O	O
+drop	O	O
+out	O	O
+
+IMGID:O_2480
+NEW	O	O
+:	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+is	O	O
+much	O	O
+uglier	O	B-OE
+than	O	O
+his	O	O
+Mika	B-NEU	B-AE
+Brzezinski	I-NEU	I-AE
+tweet	O	O
+
+IMGID:O_2091
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+Releases	O	O
+Supreme	B-NEU	B-AE
+Court	I-NEU	I-AE
+Justice	O	O
+Nominee	O	O
+List	O	O
+
+IMGID:O_869
+Young	O	O
+man	O	O
+yells	O	O
+"	O	O
+Go	O	O
+back	O	O
+to	O	O
+Mexico	B-NEG	B-AE
+"	O	O
+as	O	O
+these	O	O
+folks	O	O
+yell	O	O
+"	O	O
+Fuck	O	B-OE
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+.	O	O
+"	O	O
+
+IMGID:O_2824
+Survey	O	O
+:	O	O
+Barack	B-POS	B-AE
+Obama	I-POS	I-AE
+,	O	O
+Pope	B-POS	B-AE
+Francis	I-POS	I-AE
+and	O	O
+Bill	B-POS	B-AE
+Gates	I-POS	I-AE
+top	O	B-OE
+list	O	O
+of	O	O
+most	O	O
+admired	O	O
+men	O	O
+in	O	O
+America	B-NEU	B-AE
+
+IMGID:O_2949
+In	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+,	O	O
+I	O	O
+found	O	O
+a	O	O
+very	O	O
+caring	O	O
+,	O	O
+compassionate	O	B-OE
+man	O	O
+with	O	O
+integrity	O	O
+!	O	O
+—	O	O
+Pastor	O	O
+Paula	B-NEU	B-AE
+White	I-NEU	I-AE
+#	O	O
+dtmag	O	O
+
+IMGID:O_4044
+We	O	O
+are	O	O
+going	O	O
+to	O	O
+start	O	O
+winning	O	B-OE
+!	O	O
+-	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+@	O	O
+realDonaldTrump	B-NEU	B-AE
+#	O	O
+Trump2016	O	O
+#	O	O
+ORPrimary	O	O
+#	O	O
+TrumpTrain	O	O
+#	O	O
+Oregon	B-NEU	B-AE
+
+IMGID:O_1571
+Sen	O	O
+.	O	O
+John	B-NEU	B-AE
+McCain	I-NEU	I-AE
+is	O	O
+worried	O	B-OE
+that	O	O
+Trump	B-NEG	B-AE
+may	O	O
+hurt	O	B-OE
+his	O	O
+re	O	O
+-	O	O
+election	O	O
+prospects	O	O
+
+IMGID:O_1195
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+wants	O	O
+to	O	O
+spend	O	O
+$	O	O
+3	O	O
+trillion	O	O
+(	O	O
+yes	O	O
+,	O	O
+with	O	O
+a	O	O
+T	O	O
+)	O	O
+on	O	O
+tax	O	O
+cuts	O	O
+for	O	O
+people	O	O
+like	O	B-OE
+him	O	O
+.	O	O
+
+IMGID:O_977
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+just	O	O
+got	O	O
+another	O	O
+boost	O	B-OE
+in	O	O
+the	O	O
+general	O	O
+-	O	O
+Neocon	O	O
+Nutjob	O	O
+Lindsey	B-NEG	B-AE
+Graham	I-NEG	I-AE
+says	O	O
+he	O	O
+can	O	O
+'	O	O
+t	O	O
+support	O	B-OE
+him	O	O
+
+IMGID:O_629
+The	O	O
+one	O	O
+man	O	O
+who	O	O
+could	O	O
+stop	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+
+IMGID:O_1680
+Jaden	B-POS	B-AE
+Smith	I-POS	I-AE
+just	O	O
+casually	O	O
+going	O	O
+from	O	O
+The	O	O
+Weeknd	O	O
+to	O	O
+Barack	B-POS	B-AE
+Obama	I-POS	I-AE
+
+IMGID:O_386
+Pretty	O	B-OE
+sure	O	O
+Sarah	B-NEG	B-AE
+Palin	I-NEG	I-AE
+is	O	O
+what	O	O
+happened	O	O
+when	O	O
+two	O	O
+Young	O	O
+Republicans	O	O
+Weird	O	B-OE
+Science	O	O
+'	O	O
+d	O	O
+the	O	O
+girl	O	O
+in	O	O
+this	O	O
+vintage	O	O
+beer	O	O
+ad	O	O
+
+IMGID:O_2698
+Cannes	B-NEU	B-AE
+:	O	O
+"	O	O
+Boycott	O	B-OE
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+,	O	O
+"	O	O
+Says	O	O
+'	O	O
+Amy	B-NEU	B-AE
+'	O	O
+Director	O	O
+Asif	B-NEU	B-AE
+Kapadia	I-NEU	I-AE
+#	O	O
+movies	O	O
+
+IMGID:O_4829
+Indiana	B-NEG	B-AE
+man	O	O
+arrested	O	O
+for	O	O
+allegedly	O	O
+threatening	O	B-OE
+to	O	O
+kill	O	B-OE
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+and	O	O
+his	O	O
+family	O	O
+:	O	O
+
+IMGID:O_2857
+RT	O	O
+if	O	O
+you	O	O
+think	O	O
+this	O	O
+mozzarella	O	O
+stick	O	O
+would	O	O
+be	O	O
+a	O	O
+better	O	B-OE
+president	O	O
+than	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+.	O	O
+
+IMGID:O_2234
+this	O	O
+kid	O	O
+in	O	O
+my	O	O
+cousins	O	O
+third	O	O
+grade	O	O
+class	O	O
+said	O	O
+his	O	O
+biggest	O	O
+fear	O	B-OE
+was	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:O_170
+BARACK	B-NEG	B-AE
+OBAMA	I-NEG	I-AE
+:	O	O
+THE	O	O
+ONLY	O	O
+BLACK	O	O
+PEOPLE	O	O
+YOU	O	O
+HAVE	O	O
+HELPED	O	B-OE
+ARE	O	O
+YOU	O	O
+AND	O	O
+YOUR	O	O
+FAMILY	O	O
+.	O	O
+THE	O	O
+REST	O	O
+OF	O	O
+US	O	O
+ARE	O	O
+WORSE	O	B-OE
+OFF	O	O
+THAN	O	O
+WHEN	O	O
+
+IMGID:O_4411
+Seth	B-POS	B-AE
+Rogen	I-POS	I-AE
+and	O	O
+Stephen	B-POS	B-AE
+Colbert	I-POS	I-AE
+show	O	O
+us	O	O
+the	O	O
+best	O	B-OE
+way	O	O
+to	O	O
+troll	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+Jr	I-NEG	I-AE
+.	O	O
+:	O	O
+
+IMGID:O_4585
+The	B-NEU	B-AE
+Rolling	I-NEU	I-AE
+Stones	I-NEU	I-AE
+are	O	O
+not	O	O
+happy	O	B-OE
+with	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:O_1230
+I	O	O
+want	O	O
+a	O	O
+guy	O	O
+like	O	B-OE
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+running	O	O
+my	O	O
+country	O	O
+!	O	O
+realStaceyDash	B-NEU	B-AE
+endorses	O	B-OE
+realDonaldTrump	B-NEU	B-AE
+gqforbes	O	O
+#	O	O
+dtmag	O	O
+
+IMGID:O_3359
+Call	O	O
+me	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+because	O	O
+I	O	O
+'	O	O
+m	O	O
+about	O	O
+to	O	O
+ruin	O	B-OE
+your	O	O
+life	O	O
+
+IMGID:O_2060
+Republican	B-NEU	B-AE
+front	O	O
+-	O	O
+runner	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+has	O	O
+won	O	B-OE
+the	O	O
+state	O	O
+of	O	O
+Indiana	B-NEU	B-AE
+
+IMGID:O_4923
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+posts	O	O
+a	O	O
+video	O	O
+that	O	O
+intercuts	O	O
+Hillary	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+laughing	O	O
+while	O	O
+#	O	O
+Benghazi	B-NEG	B-AE
+burns	O	B-OE
+
+IMGID:O_3275
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+says	O	O
+he	O	O
+'	O	O
+d	O	O
+consider	O	O
+withdrawing	O	O
+America	B-NEU	B-AE
+from	O	O
+the	O	O
+UN	B-NEG	B-AE
+
+IMGID:O_2561
+Megyn	B-NEU	B-AE
+Kelly	I-NEU	I-AE
+Hits	O	O
+Back	O	O
+at	O	O
+Jokes	O	O
+About	O	O
+Handling	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:O_3845
+Seth	B-NEU	B-AE
+Meyers	I-NEU	I-AE
+tears	O	O
+apart	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+over	O	O
+'	O	O
+terrible	O	B-OE
+Tinder	B-NEU	B-AE
+date	O	O
+'	O	O
+with	O	O
+James	B-NEU	B-AE
+Comey	I-NEU	I-AE
+
+IMGID:16_05_31_874
+@	O	O
+VeronicaDLCruz	B-POS	B-AE
+Never	O	O
+in	O	O
+doubt	O	B-OE
+,	O	O
+how	O	O
+sweet	O	B-OE
+the	O	O
+vicory	O	O
+was	O	O
+.	O	O
+T	O	O
+he	O	O
+W	O	O
+'	O	O
+s	O	O
+are	O	O
+headed	O	O
+back	O	O
+to	O	O
+NBAFinals	O	O
+.	O	O
+Cleveland	B-NEU	B-AE
+is	O	O
+next	O	O
+!	O	O
+
+IMGID:O_2707
+Not	O	O
+The	O	O
+Onion	O	O
+:	O	O
+CNN	B-NEU	B-AE
+Asks	O	O
+'	O	O
+Would	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+Have	O	O
+Killed	O	B-OE
+the	O	O
+Gorilla	O	O
+?	O	O
+'	O	O
+
+IMGID:O_2777
+In	O	O
+swing	O	O
+states	O	O
+,	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+leads	O	B-OE
+Hillary	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+by	O	O
+over	O	O
+30	O	O
+points	O	O
+among	O	O
+white	O	O
+men	O	O
+:	O	O
+
+IMGID:O_108
+War	O	O
+hero	O	B-OE
+John	B-NEU	B-AE
+McCain	I-NEU	I-AE
+acknowledged	O	O
+the	O	O
+work	O	B-OE
+by	O	O
+#	O	O
+Bernie	B-POS	B-AE
+in	O	O
+support	O	B-OE
+of	O	O
+vets	O	O
+;	O	O
+can	O	O
+'	O	O
+t	O	O
+say	O	O
+the	O	O
+same	O	O
+for	O	O
+Trump	B-NEG	B-AE
+.	O	O
+
+IMGID:O_3045
+Gravis	O	O
+Indiana	B-NEU	B-AE
+Poll	O	O
+:	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+44	O	O
+%	O	O
+,	O	O
+Ted	B-NEU	B-AE
+Cruz	I-NEU	I-AE
+27	O	O
+%	O	O
+,	O	O
+John	B-NEU	B-AE
+Kasich	I-NEU	I-AE
+9	O	O
+%	O	O
+…	O	O
+
+IMGID:O_105
+Hispanic	B-NEU	B-AE
+legal	O	O
+immigrant	O	O
+Marco	B-NEU	B-AE
+Valverde	I-NEU	I-AE
+:	O	O
+"	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+WILL	O	O
+make	O	O
+our	O	O
+country	O	O
+great	O	B-OE
+again	O	O
+!	O	O
+"	O	O
+#	O	O
+dtmag	O	O
+
+IMGID:O_3080
+BREAKING	O	B-OE
+:	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+'	O	O
+s	O	O
+cabinet	O	O
+if	O	O
+elected	O	O
+has	O	O
+now	O	O
+been	O	O
+confirmed	O	O
+.	O	O
+(	O	O
+not	O	O
+my	O	O
+content	O	O
+)	O	O
+
+IMGID:O_3842
+Climate	O	O
+change	O	O
+-	O	O
+denier	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+is	O	O
+worried	O	B-OE
+rising	O	O
+seas	O	O
+could	O	O
+ruin	O	B-OE
+his	O	O
+golf	O	O
+course	O	O
+
+IMGID:O_1905
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+is	O	O
+"	O	O
+ignorant	O	B-OE
+about	O	O
+Islam	O	O
+,	O	O
+"	O	O
+London	B-NEU	B-AE
+'	O	O
+s	O	O
+Muslim	O	O
+mayor	O	O
+says	O	O
+
+IMGID:O_22
+Megyn	B-POS	B-AE
+Kelly	I-POS	I-AE
+'	O	O
+s	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+interview	O	O
+could	O	O
+be	O	O
+a	O	O
+big	O	O
+moment	O	O
+for	O	O
+both	O	O
+of	O	O
+them	O	O
+
+IMGID:O_3419
+China	B-NEU	B-AE
+has	O	O
+a	O	O
+surprising	O	O
+number	O	O
+of	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+fans	O	B-OE
+.	O	O
+Meet	O	O
+some	O	O
+of	O	O
+them	O	O
+:	O	O
+
+IMGID:O_3924
+here	O	O
+'	O	O
+s	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+without	O	O
+hair	O	O
+or	O	O
+a	O	O
+tan	O	O
+
+IMGID:O_284
+barack	B-POS	B-AE
+obama	I-POS	I-AE
+.	O	O
+king	O	O
+.	O	O
+america	B-NEU	B-AE
+'	O	O
+s	O	O
+daddy	O	O
+.	O	O
+amazing	O	B-OE
+.	O	O
+funny	O	B-OE
+.	O	O
+kind	O	O
+.	O	O
+helped	O	B-OE
+america	B-NEU	B-AE
+.	O	O
+1000	O	O
+%	O	O
+better	O	B-OE
+than	O	O
+trump	B-NEG	B-AE
+.	O	O
+
+IMGID:O_4848
+young	O	O
+joe	B-POS	B-AE
+biden	I-POS	I-AE
+is	O	O
+something	O	O
+i	O	O
+didn	O	O
+'	O	O
+t	O	O
+know	O	O
+i	O	O
+needed	O	O
+in	O	O
+my	O	O
+life	O	O
+
+IMGID:O_70
+The	O	O
+White	B-NEU	B-AE
+House	I-NEU	I-AE
+dodges	O	O
+after	O	O
+Obama	B-NEG	B-AE
+says	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+isn	O	O
+'	O	O
+t	O	O
+"	O	O
+equipped	O	O
+"	O	O
+to	O	O
+be	O	O
+president	O	O
+
+IMGID:O_248
+Legendary	O	B-OE
+artist	O	O
+Billy	B-POS	B-AE
+Joel	I-POS	I-AE
+dedicates	O	O
+song	O	O
+to	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+at	O	O
+NYC	B-NEU	B-AE
+concert	O	O
+,	O	O
+and	O	O
+it	O	O
+gets	O	O
+his	O	O
+…	O	O
+
+IMGID:O_1317
+Such	O	O
+an	O	O
+honor	O	B-OE
+to	O	O
+meet	O	O
+@	O	O
+VP	O	O
+Joe	B-POS	B-AE
+Biden	I-POS	I-AE
+today	O	O
+!	O	O
+Nice	O	B-OE
+to	O	O
+meet	O	O
+such	O	O
+an	O	O
+amazing	O	B-OE
+champion	O	B-OE
+for	O	O
+the	O	O
+cause	O	O
+.	O	O
+#	O	O
+race4hope	O	O
+
+IMGID:O_3493
+Young	O	O
+Joe	B-POS	B-AE
+Biden	I-POS	I-AE
+could	O	O
+leave	O	O
+me	O	O
+on	O	O
+read	O	O
+at	O	O
+4	O	O
+:	O	O
+30	O	O
+and	O	O
+text	O	O
+at	O	O
+8	O	O
+:	O	O
+47	O	O
+and	O	O
+I	O	O
+would	O	O
+reply	O	O
+at	O	O
+8	O	O
+:	O	O
+46	O	O
+
+IMGID:O_493
+Jay	B-POS	B-AE
+Z	I-POS	I-AE
+got	O	O
+Barack	B-POS	B-AE
+Obama	I-POS	I-AE
+on	O	O
+a	O	O
+song	O	O
+,	O	O
+that	O	O
+'	O	O
+s	O	O
+next	O	O
+level	O	O
+flexing	O	O
+!	O	O
+!	O	O
+!	O	O
+!	O	O
+
+IMGID:O_4230
+J	B-POS	B-AE
+.	I-POS	I-AE
+K	I-POS	I-AE
+.	I-POS	I-AE
+Rowling	I-POS	I-AE
+on	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+:	O	O
+"	O	O
+His	O	O
+freedom	O	B-OE
+to	O	O
+speak	O	O
+protects	O	O
+my	O	O
+freedom	O	B-OE
+to	O	O
+call	O	O
+him	O	O
+a	O	O
+bigot	O	O
+"	O	O
+
+IMGID:O_2649
+President	O	O
+Barack	B-NEU	B-AE
+Obama	I-NEU	I-AE
+'	O	O
+s	O	O
+statement	O	O
+following	O	O
+Trump	B-NEG	B-AE
+'	O	O
+s	O	O
+withdrawal	O	O
+from	O	O
+the	O	O
+Paris	B-NEU	B-AE
+Climate	O	O
+Accord	O	O
+.	O	O
+
+IMGID:O_2628
+The	O	O
+top	O	B-OE
+5	O	O
+people	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+might	O	O
+pick	O	O
+as	O	O
+his	O	O
+vice	O	B-OE
+president	O	O
+
+IMGID:O_4070
+Pakistan	B-NEU	B-AE
+to	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+:	O	O
+'	O	O
+We	O	O
+are	O	O
+not	O	O
+a	O	O
+U	B-NEG	B-AE
+.	I-NEG	I-AE
+S	I-NEG	I-AE
+.	O	O
+colony	O	O
+'	O	O
+.	O	O
+
+IMGID:O_4726
+BREAKING	O	B-OE
+:	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+is	O	O
+projected	O	O
+winner	O	B-OE
+in	O	O
+Washington	B-NEU	B-AE
+state	I-NEU	I-AE
+GOP	B-NEU	B-AE
+primary	O	O
+
+IMGID:O_3433
+When	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+becomes	O	O
+president	O	O
+and	O	O
+you	O	O
+get	O	O
+drafted	O	O
+for	O	O
+the	O	O
+war	O	O
+he	O	O
+starts	O	O
+
+IMGID:O_4150
+Elizabeth	B-NEU	B-AE
+Warren	I-NEU	I-AE
+dragged	O	B-OE
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+in	O	O
+a	O	O
+viral	O	O
+Facebook	B-NEU	B-AE
+post	O	O
+:	O	O
+
+IMGID:O_1444
+Who	O	O
+(	O	O
+or	O	O
+what	O	O
+)	O	O
+might	O	O
+(	O	O
+or	O	O
+might	O	O
+not	O	O
+)	O	O
+be	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+'	O	O
+s	O	O
+running	O	O
+mate	O	O
+if	O	O
+he	O	O
+'	O	O
+s	O	O
+the	O	O
+nominee	O	O
+?	O	O
+
+IMGID:O_3111
+.	O	O
+@	O	O
+johnsap25	B-NEU	B-AE
+:	O	O
+Cunning	O	O
+plan	O	O
+to	O	O
+oust	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+could	O	O
+be	O	O
+in	O	O
+the	O	O
+works	O	B-OE
+
+IMGID:O_4596
+We	O	O
+are	O	O
+TRUMP	B-POS	B-AE
+'	O	O
+s	O	O
+Social	O	O
+Media	O	O
+Army	O	O
+-	O	O
+-	O	O
+and	O	O
+we	O	O
+are	O	O
+dedicated	O	B-OE
+to	O	O
+the	O	O
+election	O	O
+of	O	O
+Donald	B-POS	B-AE
+trump	I-POS	I-AE
+#	O	O
+DTmag	O	O
+
+IMGID:O_4840
+Salute	O	B-OE
+to	O	O
+Hillary	B-POS	B-AE
+.	O	O
+.	O	O
+thanks	O	O
+Michelle	B-POS	B-AE
+Obama	I-POS	I-AE
+.	O	O
+.	O	O
+w	O	O
+/	O	O
+different	O	O
+origins	O	O
+/	O	O
+race	O	O
+.	O	O
+color	O	O
+.	O	O
+creed	O	O
+.	O	O
+.	O	O
+.	O	O
+legacy	O	O
+lives	O	O
+
+IMGID:O_2690
+The	O	O
+National	B-POS	B-AE
+Rifle	I-POS	I-AE
+Association	I-POS	I-AE
+has	O	O
+endorsed	O	B-OE
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+for	O	O
+President	O	O
+!	O	O
+#	O	O
+2	O	O
+A	O	O
+#	O	O
+NRA	B-POS	B-AE
+#	O	O
+Trump2016	O	O
+#	O	O
+TrumpTrain	O	O
+
+IMGID:O_2361
+JUST	O	O
+IN	O	O
+:	O	O
+Pentagon	B-NEU	B-AE
+officials	O	O
+Threaten	O	B-OE
+To	O	O
+QUIT	O	O
+If	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+Becomes	O	O
+Presiden	O	O
+
+IMGID:O_3789
+Duck	B-NEU	B-AE
+Commander	I-NEU	I-AE
+CEO	O	O
+Willie	B-POS	B-AE
+Robertson	I-POS	I-AE
+has	O	O
+endorsed	O	B-OE
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+!	O	O
+#	O	O
+Trump2016	O	O
+#	O	O
+TrumpTrain	O	O
+#	O	O
+TeamTrump	O	O
+
+IMGID:O_2928
+JUST	O	O
+IN	O	O
+:	O	O
+Bookings	O	O
+At	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+’	O	O
+s	O	O
+Hotels	O	O
+Have	O	O
+Plummeted	O	O
+60	O	O
+%	O	O
+For	O	O
+This	O	O
+Specific	O	O
+Reason	O	O
+
+IMGID:O_2510
+Analysis	O	O
+:	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+has	O	O
+become	O	O
+what	O	O
+he	O	O
+opposed	O	O
+
+IMGID:O_539
+Like	O	B-OE
+him	O	O
+or	O	O
+not	O	O
+,	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+isn	O	O
+'	O	O
+t	O	O
+the	O	O
+monster	O	B-OE
+some	O	O
+people	O	O
+believe	O	O
+he	O	O
+is	O	O
+.	O	O
+Merica	O	O
+.	O	O
+
+IMGID:O_3363
+JUST	O	O
+IN	O	O
+:	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+is	O	O
+under	O	O
+investigation	O	O
+for	O	O
+obstruction	O	B-OE
+of	O	O
+justice	O	O
+.	O	O
+#	O	O
+HappyBirthdayTrump	O	O
+
+IMGID:17_06_14619
+Went	O	O
+to	O	O
+a	O	O
+@	O	O
+michaelkiwanuka	B-NEU	B-AE
+concert	O	O
+,	O	O
+forgot	O	O
+about	O	O
+Trump	B-NEU	B-AE
+,	O	O
+ignored	O	O
+the	O	O
+feeling	O	O
+of	O	O
+impending	O	B-OE
+doom	O	B-OE
+for	O	O
+a	O	O
+full	O	O
+two	O	O
+hours	O	O
+.	O	O
+
+IMGID:O_4097
+WATCH	O	O
+:	O	O
+Anger	B-NEG	B-AE
+outside	O	O
+a	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+rally	O	O
+leads	O	B-OE
+our	O	O
+Eye	O	O
+Opener	O	O
+-	O	O
+your	O	O
+world	O	O
+in	O	O
+90	O	O
+seconds	O	O
+:	O	O
+
+IMGID:O_4772
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+in	O	O
+2007	O	O
+:	O	O
+"	O	O
+I	O	O
+'	O	O
+m	O	O
+excited	O	B-OE
+"	O	O
+for	O	O
+the	O	O
+housing	O	O
+market	O	O
+crash	O	B-OE
+.	O	O
+
+IMGID:O_4765
+donald	B-NEG	B-AE
+trump	I-NEG	I-AE
+age	O	O
+1	O	O
+and	O	O
+a	O	O
+half	O	O
+xox	O	O
+
+IMGID:O_4685
+Seth	B-POS	B-AE
+Meyers	I-POS	I-AE
+has	O	O
+a	O	O
+message	O	O
+for	O	O
+Hillary	B-NEG	B-AE
+voters	O	O
+:	O	O
+Bernie	B-POS	B-AE
+is	O	O
+not	O	O
+hurting	O	B-OE
+your	O	O
+candidate	O	O
+
+IMGID:O_2568
+BARACK	B-POS	B-AE
+OBAMA	I-POS	I-AE
+:	O	O
+the	O	O
+best	O	B-OE
+president	O	O
+,	O	O
+hilarious	O	B-OE
+,	O	O
+chill	O	B-OE
+,	O	O
+cute	O	B-OE
+.	O	O
+most	O	O
+likely	O	O
+loves	O	B-OE
+shaved	O	O
+ice	O	O
+more	O	O
+than	O	O
+he	O	O
+loves	O	B-OE
+america	B-NEG	B-AE
+
+IMGID:O_4891
+Here	O	O
+is	O	O
+an	O	O
+excellent	O	B-OE
+reason	O	O
+to	O	O
+vote	O	O
+for	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+:	O	O
+
+IMGID:O_2710
+Still	O	O
+believe	O	O
+the	O	O
+best	O	B-OE
+explanation	O	O
+of	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+'	O	O
+s	O	O
+rise	O	O
+comes	O	O
+not	O	O
+from	O	O
+any	O	O
+pundit	O	O
+,	O	O
+but	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+himself	O	O
+.	O	O
+
+IMGID:O_2922
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+’	O	O
+s	O	O
+Hollywood	B-NEG	B-AE
+Walk	I-NEG	I-AE
+of	I-NEG	I-AE
+Fame	I-NEG	I-AE
+Star	O	O
+Vandalized	O	O
+During	O	O
+L	B-NEU	B-AE
+.	I-NEU	I-AE
+A	I-NEU	I-AE
+.	O	O
+Pride	O	B-OE
+
+IMGID:O_2407
+Look	O	O
+who	O	O
+'	O	O
+s	O	O
+on	O	O
+Guam	B-NEU	B-AE
+!	O	O
+KUAM	B-NEU	B-AE
+News	O	O
+confirms	O	O
+former	O	O
+President	O	O
+Barack	B-POS	B-AE
+Obama	I-POS	I-AE
+is	O	O
+making	O	O
+a	O	O
+brief	O	O
+stop	O	O
+on	O	O
+island	O	O
+.	O	O
+
+IMGID:O_3132
+In	O	O
+his	O	O
+final	O	O
+days	O	O
+of	O	O
+the	O	O
+presidency	O	O
+,	O	O
+President	O	O
+Barack	B-NEG	B-AE
+Obama	I-NEG	I-AE
+has	O	O
+lost	O	B-OE
+the	O	O
+little	O	O
+bit	O	O
+of	O	O
+chill	O	B-OE
+that	O	O
+was	O	O
+left	O	O
+.	O	O
+
+IMGID:O_1336
+Obama	B-NEG	B-AE
+Says	O	O
+He	O	O
+'	O	O
+s	O	O
+Eager	O	B-OE
+to	O	O
+Campaign	O	O
+Against	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+-	O	O
+Trump	B-POS	B-AE
+Isn	O	O
+'	O	O
+t	O	O
+Losing	O	B-OE
+Any	O	O
+Sleep	O	O
+.	O	O
+
+IMGID:O_4643
+North	B-NEU	B-AE
+Korean	I-NEU	I-AE
+ambassador	O	O
+rejects	O	B-OE
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+'	O	O
+s	O	O
+offer	O	O
+to	O	O
+meet	O	O
+Kim	B-NEU	B-AE
+Jong	I-NEU	I-AE
+-	I-NEU	I-AE
+Un	I-NEU	I-AE
+as	O	O
+"	O	O
+propaganda	O	B-OE
+"	O	O
+
+IMGID:O_983
+David	B-POS	B-AE
+Beckham	I-POS	I-AE
+proudly	O	O
+talks	O	O
+about	O	O
+his	O	O
+son	O	O
+Cruz	B-POS	B-AE
+'	O	O
+s	O	O
+Cups	O	O
+video	O	O
+:	O	O
+
+IMGID:O_3434
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+will	O	O
+loose	O	B-OE
+3	O	O
+-	O	O
+5	O	O
+.	O	O
+Trump	B-NEG	B-AE
+worst	O	B-OE
+candidate	O	O
+
+IMGID:O_1134
+Stephen	B-NEU	B-AE
+Hawking	I-NEU	I-AE
+was	O	O
+asked	O	O
+if	O	O
+he	O	O
+could	O	O
+explain	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+'	O	O
+s	O	O
+rise	O	O
+.	O	O
+His	O	O
+response	O	O
+?	O	O
+"	O	O
+I	O	O
+can	O	O
+'	O	O
+t	O	O
+.	O	O
+"	O	O
+
+IMGID:O_280
+The	O	O
+outstanding	O	B-OE
+tweets	O	O
+of	O	O
+@	O	O
+JusticeWillett	B-NEU	B-AE
+,	O	O
+who	O	O
+made	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+'	O	O
+s	O	O
+SCOTUS	O	O
+short	O	O
+list	O	O
+
+IMGID:O_1745
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+with	O	O
+the	O	O
+hottest	O	B-OE
+group	O	O
+of	O	O
+supporters	O	O
+for	O	O
+a	O	O
+Presidential	O	O
+speech	O	O
+in	O	O
+world	O	O
+history	O	O
+.	O	O
+
+IMGID:O_3667
+So	O	O
+Hilary	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+donated	O	O
+her	O	O
+penis	O	O
+to	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+?	O	O
+
+IMGID:O_62
+Hillary	B-NEU	B-AE
+Clinton	I-NEU	I-AE
+says	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+is	O	O
+not	O	O
+qualified	O	B-OE
+to	O	O
+be	O	O
+president	O	O
+
+IMGID:O_2496
+IF	O	O
+YOU	O	O
+THINK	O	O
+BARACK	B-NEG	B-AE
+OBAMA	I-NEG	I-AE
+IS	O	O
+STILL	O	O
+A	O	O
+GOOD	O	B-OE
+PRESIDENT	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+YOU	O	O
+'	O	O
+RE	O	O
+EXACTLY	O	O
+WHAT	O	O
+'	O	O
+S	O	O
+WRONG	O	B-OE
+WITH	O	O
+THIS	O	O
+COUNTRY	O	O
+!	O	O
+
+IMGID:O_218
+10	O	O
+people	O	O
+who	O	O
+may	O	O
+be	O	O
+on	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+’	O	O
+s	O	O
+‘	O	O
+short	O	O
+list	O	O
+'	O	O
+
+IMGID:O_4081
+Ted	B-NEU	B-AE
+Cruz	I-NEU	I-AE
+:	O	O
+Rupert	B-NEG	B-AE
+Murdoch	I-NEG	I-AE
+'	O	O
+Turned	O	O
+Fox	B-NEG	B-AE
+News	I-NEG	I-AE
+Into	O	O
+the	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+Network	O	O
+'	O	O
+
+IMGID:O_1895
+The	B-NEU	B-AE
+Weeknd	I-NEU	I-AE
+canceled	O	O
+his	O	O
+performance	O	O
+on	O	O
+#	O	O
+JimmyKimmel	B-NEU	B-AE
+because	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+was	O	O
+there	O	O
+:	O	O
+
+IMGID:O_4392
+Michelle	B-NEU	B-AE
+Obama	I-NEU	I-AE
+Congratulates	O	O
+Chance	B-POS	B-AE
+the	I-POS	I-AE
+Rapper	I-POS	I-AE
+on	O	O
+His	O	O
+BET	B-NEU	B-AE
+Award	I-NEU	I-AE
+in	O	O
+a	O	O
+Surprise	O	O
+Video	O	O
+Message	O	O
+
+IMGID:O_2602
+Three	O	O
+times	O	O
+James	B-NEG	B-AE
+Comey	I-NEG	I-AE
+’	O	O
+s	O	O
+testimony	O	O
+contradicted	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:O_1962
+Actor	O	O
+Jon	B-NEU	B-AE
+Voight	I-NEU	I-AE
+has	O	O
+endorsed	O	B-OE
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+for	O	O
+President	O	O
+!	O	O
+#	O	O
+Trump2016	O	O
+#	O	O
+TrumpTrain	O	O
+#	O	O
+TeamTrump	O	O
+
+IMGID:O_2011
+Anti	O	O
+-	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+sentiment	O	O
+seeps	O	O
+into	O	O
+US	B-NEU	B-AE
+-	O	O
+Mexico	B-NEU	B-AE
+soccer	O	O
+rivalry	O	B-OE
+-	O	O
+USA	B-NEU	B-AE
+TODAY	I-NEU	I-AE
+
+IMGID:O_573
+Why	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+Needs	O	O
+to	O	O
+Win	O	B-OE
+Over	O	O
+Women	O	O
+Voters	O	O
+-	O	O
+
+IMGID:O_2261
+Over	O	O
+200	O	O
+politicians	O	O
+just	O	O
+sued	O	B-OE
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+for	O	O
+corruption	O	B-OE
+.	O	O
+
+IMGID:O_2627
+Stephen	B-NEU	B-AE
+Colbert	I-NEU	I-AE
+Gives	O	O
+Hillary	B-POS	B-AE
+Clinton	I-POS	I-AE
+Advice	O	O
+on	O	O
+How	O	O
+to	O	O
+Court	O	O
+Republicans	O	O
+:	O	O
+
+IMGID:O_1853
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+’	O	O
+s	O	O
+voter	O	O
+fraud	O	B-OE
+commission	O	O
+is	O	O
+itself	O	O
+an	O	O
+enormous	O	O
+fraud	O	B-OE
+:	O	O
+
+IMGID:O_4880
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+in	O	O
+Washington	B-NEU	B-AE
+for	O	O
+unusual	O	B-OE
+tete	O	O
+-	O	O
+a	O	O
+-	O	O
+tete	O	O
+with	O	O
+Paul	B-NEU	B-AE
+Ryan	I-NEU	I-AE
+:	O	O
+
+IMGID:16_05_01_367
+Wow	O	B-OE
+,	O	O
+@	O	O
+NolanBushnell	B-POS	B-AE
+just	O	O
+followed	O	O
+me	O	O
+.	O	O
+Perhaps	O	O
+the	O	O
+singular	O	O
+biggest	O	O
+influence	O	O
+on	O	O
+my	O	O
+life	O	O
+by	O	O
+someone	O	O
+I	O	O
+never	O	O
+met	O	O
+.	O	O
+
+IMGID:O_1951
+Full	O	O
+Speech	O	O
+:	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+Holds	O	O
+HUGE	O	O
+Rally	O	O
+in	O	O
+Charleston	B-NEU	B-AE
+,	O	O
+WV	B-NEU	B-AE
+…	O	O
+
+IMGID:O_1841
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+Called	O	O
+Daryl	B-NEG	B-AE
+Hannah	I-NEG	I-AE
+“	O	O
+A	O	O
+Six	O	O
+”	O	O
+Who	O	O
+Needs	O	O
+A	O	O
+Bath	O	O
+During	O	O
+A	O	O
+1993	O	O
+Spat	O	O
+
+IMGID:O_2810
+can	O	O
+we	O	O
+take	O	O
+a	O	O
+moment	O	O
+to	O	O
+appreciate	O	B-OE
+the	O	O
+beautiful	O	B-OE
+Michelle	B-POS	B-AE
+Obama	I-POS	I-AE
+
+IMGID:O_1280
+It	O	O
+'	O	O
+s	O	O
+great	O	B-OE
+that	O	O
+Azealia	B-NEG	B-AE
+Banks	I-NEG	I-AE
+got	O	O
+suspended	O	O
+but	O	O
+what	O	O
+about	O	O
+Tila	B-NEG	B-AE
+Tequila	I-NEG	I-AE
+,	O	O
+Piers	B-NEG	B-AE
+Morgan	I-NEG	I-AE
+,	O	O
+and	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+.	O	O
+
+IMGID:O_1246
+Um	O	O
+.	O	O
+.	O	O
+.	O	O
+does	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+think	O	O
+the	O	O
+Paris	B-NEU	B-AE
+Accord	O	O
+.	O	O
+.	O	O
+.	O	O
+is	O	O
+actually	O	O
+about	O	O
+Paris	B-NEU	B-AE
+?	O	O
+
+IMGID:O_486
+Hi	O	O
+@	O	O
+HillaryClinton	B-NEU	B-AE
+I	O	O
+made	O	O
+a	O	O
+powerful	O	B-OE
+meme	O	O
+for	O	O
+your	O	O
+campaign	O	O
+to	O	O
+use	O	O
+against	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+:	O	O
+
+IMGID:O_974
+Marco	B-POS	B-AE
+Rubio	I-POS	I-AE
+says	O	O
+it	O	O
+'	O	O
+s	O	O
+a	O	O
+"	O	O
+safe	O	B-OE
+assumption	O	O
+"	O	O
+he	O	O
+'	O	O
+ll	O	O
+run	O	O
+for	O	O
+office	O	O
+again	O	O
+
+IMGID:O_553
+Former	O	O
+Presidents	O	O
+George	B-NEU	B-AE
+Bush	I-NEU	I-AE
+Sr	I-NEU	I-AE
+.	O	O
+and	O	O
+son	O	O
+Bush	B-NEU	B-AE
+Jr	I-NEU	I-AE
+.	O	O
+will	O	O
+NOT	O	O
+endorse	O	B-OE
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:O_2736
+DONALD	B-POS	B-AE
+TRUMP	I-POS	I-AE
+Jumps	O	O
+to	O	O
+5	O	O
+Point	O	O
+Lead	O	B-OE
+Over	O	O
+Hillary	B-NEU	B-AE
+Clinton	I-NEU	I-AE
+!	O	O
+
+IMGID:O_5032
+How	O	O
+will	O	O
+donald	B-NEG	B-AE
+trump	I-NEG	I-AE
+campaign	O	O
+on	O	O
+family	O	O
+values	O	O
+?	O	O
+Family	O	O
+values	O	O
+of	O	O
+serial	O	O
+adultery	O	O
+?	O	O
+Fraud	O	B-OE
+?	O	O
+Narcissism	O	O
+?	O	O
+Bribery	O	B-OE
+?	O	O
+
+IMGID:O_2087
+Obama	B-NEU	B-AE
+Urges	O	O
+Scrutiny	O	O
+Of	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+’	O	O
+s	O	O
+Record	O	O
+:	O	O
+‘	O	O
+This	O	O
+Is	O	O
+Not	O	O
+Entertainment	O	O
+’	O	O
+
+IMGID:O_2105
+Just	O	O
+go	O	O
+ahead	O	O
+:	O	O
+64	O	O
+%	O	O
+of	O	O
+likely	O	O
+Republican	B-NEU	B-AE
+voters	O	O
+say	O	O
+Paul	B-NEU	B-AE
+Ryan	I-NEU	I-AE
+should	O	O
+endorse	O	B-OE
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+
+IMGID:O_4715
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+says	O	O
+Britain	B-NEU	B-AE
+would	O	O
+be	O	O
+"	O	O
+better	O	B-OE
+off	O	O
+without	O	O
+"	O	O
+the	O	O
+EU	B-NEU	B-AE
+
+IMGID:O_188
+Fake	O	B-OE
+news	O	O
+!	O	O
+The	O	O
+magazine	O	O
+covers	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+couldn	O	O
+’	O	O
+t	O	O
+make	O	O
+up	O	O
+
+IMGID:O_2353
+Racism	O	B-OE
+is	O	O
+real	O	O
+.	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+helps	O	O
+show	O	O
+it	O	O
+.	O	O
+
+IMGID:O_1811
+Joking	O	O
+about	O	O
+killing	O	B-OE
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+is	O	O
+fucking	O	B-OE
+stupid	O	B-OE
+:	O	O
+
+IMGID:O_1893
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+'	O	O
+s	O	O
+New	O	O
+Media	O	O
+Target	O	O
+:	O	O
+Jeff	B-POS	B-AE
+Bezos	I-POS	I-AE
+'	O	O
+Washington	B-NEU	B-AE
+Post	I-NEU	I-AE
+:	O	O
+
+IMGID:O_4507
+The	O	O
+Republican	B-NEG	B-AE
+party	I-NEG	I-AE
+has	O	O
+yet	O	O
+to	O	O
+unify	O	O
+and	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+has	O	O
+already	O	O
+gained	O	B-OE
+massive	O	O
+ground	O	O
+on	O	O
+Crooked	O	B-OE
+Hillary	B-NEG	B-AE
+.	O	O
+
+IMGID:O_556
+Add	O	O
+your	O	O
+name	O	O
+to	O	O
+stand	O	O
+with	O	O
+the	O	O
+Vice	O	B-OE
+President	O	O
+against	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+:	O	O
+
+IMGID:O_1563
+A	O	O
+new	O	O
+Rasmussen	B-NEU	B-AE
+poll	O	O
+has	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+ahead	O	O
+of	O	O
+Hillary	B-NEU	B-AE
+Clinton	I-NEU	I-AE
+by	O	O
+5	O	O
+points	O	O
+#	O	O
+Elections2016	O	O
+
+IMGID:O_4641
+That	O	O
+time	O	O
+Keith	B-NEG	B-AE
+Richards	I-NEG	I-AE
+pulled	O	O
+a	O	O
+knife	O	B-OE
+on	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+:	O	O
+
+IMGID:O_1965
+John	B-NEU	B-AE
+Boehner	I-NEU	I-AE
+backs	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+,	O	O
+adding	O	O
+"	O	O
+Thank	O	B-OE
+God	O	O
+"	O	O
+Ted	B-NEG	B-AE
+Cruz	I-NEG	I-AE
+didn	O	O
+'	O	O
+t	O	O
+win	O	B-OE
+
+IMGID:17_06_14040
+LGBT	B-NEU	B-AE
+group	O	O
+claims	O	O
+float	O	O
+supporting	O	B-OE
+President	O	O
+Trump	B-NEG	B-AE
+was	O	O
+rejected	O	B-OE
+for	O	O
+Charlotte	B-NEU	B-AE
+pride	O	B-OE
+parade	O	O
+
+IMGID:O_890
+My	O	O
+exchange	O	O
+earlier	O	O
+today	O	O
+with	O	O
+Bill	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+on	O	O
+Hillary	B-NEG	B-AE
+v	O	O
+.	O	O
+Trump	B-NEU	B-AE
+re	O	O
+:	O	O
+foreign	O	O
+policy	O	O
+
+IMGID:O_503
+Barack	B-POS	B-AE
+and	O	O
+Michelle	B-POS	B-AE
+Obama	I-POS	I-AE
+wedding	O	O
+photo	O	O
+,	O	O
+October	O	O
+3,	O	O
+1992	O	O
+.	O	O
+
+IMGID:O_2035
+Active	O	O
+Duty	O	O
+Military	O	O
+Poll	O	O
+:	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+54	O	O
+%	O	O
+,	O	O
+Hillary	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+25	O	O
+%	O	O
+…	O	O
+
+IMGID:O_3053
+Joe	B-POS	B-AE
+Biden	I-POS	I-AE
+and	O	O
+Elizabeth	B-POS	B-AE
+Warren	I-POS	I-AE
+discussed	O	O
+a	O	O
+presidential	O	O
+bid	O	O
+last	O	O
+year	O	O
+,	O	O
+a	O	O
+source	O	O
+tells	O	O
+CNN	B-NEU	B-AE
+
+IMGID:O_3997
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+'	O	O
+s	O	O
+Twitter	B-NEU	B-AE
+tirade	O	O
+against	O	O
+Mika	B-NEG	B-AE
+Brzezinski	I-NEG	I-AE
+is	O	O
+latest	O	O
+attack	O	B-OE
+on	O	O
+press	O	O
+
+IMGID:O_2687
+One	O	O
+of	O	O
+my	O	O
+favorite	O	B-OE
+places	O	O
+on	O	O
+the	O	O
+internet	O	O
+is	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+'	O	O
+s	O	O
+Facebook	B-POS	B-AE
+page	O	O
+.	O	O
+lolololol	O	O
+
+IMGID:O_2009
+Michelle	B-NEG	B-AE
+Obama	I-NEG	I-AE
+looks	O	O
+like	O	B-OE
+a	O	O
+man	O	O
+.	O	O
+.	O	O
+.	O	O
+A	O	O
+oddly	O	B-OE
+attractive	O	B-OE
+man	O	O
+
+IMGID:O_3300
+Queen	B-NEU	B-AE
+Cersei	I-NEU	I-AE
+needed	O	O
+just	O	O
+3	O	O
+tweets	O	O
+to	O	O
+shame	O	B-OE
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+:	O	O
+
+IMGID:O_18
+Just	O	O
+realized	O	O
+the	O	O
+Mona	B-NEU	B-AE
+Lisa	I-NEU	I-AE
+looks	O	O
+just	O	O
+like	O	B-OE
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+Jr	I-NEU	I-AE
+I	O	O
+am	O	O
+literally	O	O
+shaking	O	O
+
+IMGID:O_3423
+12	O	O
+sure	O	O
+-	O	O
+fire	O	O
+ways	O	O
+to	O	O
+torpedo	O	O
+your	O	O
+campaign	O	O
+-	O	O
+-	O	O
+unless	O	O
+you	O	O
+'	O	O
+re	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:O_182
+♦	O	O
+️	O	O
+🇺	O	O
+🇸	O	O
+♦	O	O
+NYT	B-NEG	B-AE
+implies	O	O
+that	O	O
+a	O	O
+'	O	O
+flirty	O	B-OE
+'	O	O
+Trump	B-NEU	B-AE
+can	O	O
+'	O	O
+t	O	O
+be	O	O
+in	O	O
+the	O	O
+White	B-NEU	B-AE
+House	I-NEU	I-AE
+,	O	O
+but	O	O
+an	O	O
+impeached	O	O
+Bill	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+can	O	O
+.	O	O
+#	O	O
+Trump2016	O	O
+
+IMGID:O_265
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+knows	O	O
+what	O	O
+he	O	O
+'	O	O
+d	O	O
+do	O	O
+in	O	O
+his	O	O
+first	O	O
+100	O	O
+days	O	O
+as	O	O
+president	O	O
+if	O	O
+he	O	O
+wins	O	B-OE
+
+IMGID:O_2779
+David	B-NEU	B-AE
+Cameron	I-NEU	I-AE
+says	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+'	O	O
+deserves	O	O
+our	O	O
+respect	O	B-OE
+'	O	O
+
+IMGID:O_1557
+President	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+to	O	O
+conservatives	O	O
+:	O	O
+"	O	O
+We	O	O
+are	O	O
+under	O	O
+siege	O	B-OE
+"	O	O
+
+IMGID:O_4271
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+’	O	O
+s	O	O
+Supreme	B-NEG	B-AE
+Court	I-NEG	I-AE
+really	O	O
+hates	O	B-OE
+gays	O	O
+and	O	O
+loves	O	B-OE
+police	O	O
+-	O	O
+dog	O	O
+brutality	O	B-OE
+:	O	O
+
+IMGID:O_3992
+Hundreds	O	O
+of	O	O
+people	O	O
+rally	O	O
+against	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+in	O	O
+Fresno	B-NEU	B-AE
+,	O	O
+California	B-NEU	B-AE
+
+IMGID:O_463
+A	O	O
+look	O	O
+at	O	O
+how	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+plays	O	O
+the	O	O
+tax	O	O
+game	O	O
+
+IMGID:O_5037
+Love	O	B-OE
+Cards	O	O
+Against	O	O
+Humanity	O	O
+and	O	O
+hating	O	B-OE
+on	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+?	O	O
+Have	O	O
+we	O	O
+got	O	O
+the	O	O
+game	O	O
+for	O	O
+you	O	O
+:	O	O
+
+IMGID:O_3211
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+’	O	O
+s	O	O
+fast	O	B-OE
+food	O	O
+hankerin	O	O
+’	O	O
+revives	O	B-OE
+a	O	O
+nostalgic	O	O
+Ronald	B-POS	B-AE
+Reagan	I-POS	I-AE
+photo	O	O
+–	O	O
+who	O	O
+remembers	O	O
+…	O	O
+
+IMGID:O_3272
+Congressional	B-NEG	B-AE
+Black	I-NEG	I-AE
+Caucus	I-NEG	I-AE
+rejects	O	B-OE
+invitation	O	O
+to	O	O
+meet	O	O
+with	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+
+IMGID:16_05_19_727
+Win	O	B-OE
+or	O	O
+lose	O	B-OE
+,	O	O
+@	O	O
+realDonaldTrump	B-POS	B-AE
+will	O	O
+have	O	O
+a	O	O
+lasting	O	O
+influence	O	O
+on	O	O
+the	O	O
+Republican	B-POS	B-AE
+party	I-POS	I-AE
+
+IMGID:O_912
+The	O	O
+house	O	O
+that	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+couldn	O	O
+’	O	O
+t	O	O
+buy	O	O
+,	O	O
+New	B-NEU	B-AE
+Jersey	I-NEU	I-AE
+,	O	O
+1991	O	O
+
+IMGID:O_396
+CNN	B-NEU	B-AE
+.	O	O
+All	O	O
+oppose	O	B-OE
+Republicans	O	O
+and	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+.	O	O
+@	O	O
+BrianStelter	B-NEG	B-AE
+is	O	O
+a	O	O
+nasty	O	B-OE
+man	O	O
+.	O	O
+
+IMGID:O_3428
+🇺	O	O
+🇸	O	O
+End	O	O
+Iraq	B-NEU	B-AE
+War	O	O
+1991	O	O
+🇺	O	O
+🇸	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+sends	O	O
+his	O	O
+plane	O	O
+to	O	O
+give	O	O
+200	O	O
+stranded	O	O
+Marines	O	O
+a	O	O
+ride	O	O
+home	O	O
+
+IMGID:O_3355
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+throws	O	O
+dig	O	O
+at	O	O
+Marco	B-NEG	B-AE
+Rubio	I-NEG	I-AE
+for	O	O
+saying	O	O
+he	O	O
+wouldn	O	O
+’	O	O
+t	O	O
+want	O	O
+to	O	O
+be	O	O
+VP	O	O
+–	O	O
+ouch	O	O
+!	O	O
+
+IMGID:O_1284
+Ellie	B-NEU	B-AE
+Goulding	I-NEU	I-AE
+can	O	O
+'	O	O
+t	O	O
+decide	O	O
+who	O	O
+she	O	O
+hates	O	B-OE
+more	O	O
+:	O	O
+Ramsay	B-NEG	B-AE
+Bolton	I-NEG	I-AE
+or	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:O_2862
+Retweet	O	O
+if	O	O
+you	O	O
+were	O	O
+one	O	O
+of	O	O
+the	O	O
+10.9	O	O
+million	O	O
+voters	O	O
+who	O	O
+help	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+win	O	B-OE
+the	O	O
+nomination	O	O
+!	O	O
+🇺	O	O
+🇸	O	O
+🇺	O	O
+🇸	O	O
+🇺	O	O
+🇸	O	O
+
+IMGID:O_87
+Tom	B-POS	B-AE
+Brady	I-POS	I-AE
+,	O	O
+Brad	B-POS	B-AE
+Pitt	I-POS	I-AE
+,	O	O
+Ellen	B-POS	B-AE
+Page	I-POS	I-AE
+and	O	O
+Hillary	B-POS	B-AE
+Clinton	I-POS	I-AE
+.	O	O
+Curious	O	O
+?	O	O
+Of	O	O
+course	O	O
+you	O	O
+are	O	O
+!	O	O
+WATCH	O	O
+:	O	O
+
+IMGID:O_1703
+Vicente	B-NEU	B-AE
+Fox	I-NEU	I-AE
+says	O	O
+he	O	O
+will	O	O
+only	O	O
+accept	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+'	O	O
+s	O	O
+lunch	O	O
+invitation	O	O
+if	O	O
+Trump	B-NEG	B-AE
+apologizes	O	O
+
+IMGID:O_4407
+Michelle	B-NEG	B-AE
+Obama	I-NEG	I-AE
+lookin	O	O
+like	O	B-OE
+she	O	O
+'	O	O
+s	O	O
+ready	O	B-OE
+to	O	O
+risk	O	B-OE
+it	O	O
+all	O	O
+for	O	O
+Usher	B-NEU	B-AE
+
+IMGID:O_457
+Obama	B-NEU	B-AE
+poked	O	O
+fun	O	B-OE
+at	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+,	O	O
+among	O	O
+others	O	O
+,	O	O
+during	O	O
+the	O	O
+White	B-NEU	B-AE
+House	I-NEU	I-AE
+Correspondents	O	O
+'	O	O
+Dinner	O	O
+
+IMGID:O_1617
+Chris	B-NEG	B-AE
+Matthews	I-NEG	I-AE
+caught	O	O
+on	O	O
+hot	O	B-OE
+mic	O	O
+making	O	O
+lewd	O	B-OE
+comments	O	O
+about	O	O
+Melania	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:O_2381
+#	O	O
+Breaking	O	B-OE
+:	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+will	O	O
+win	O	B-OE
+the	O	O
+Washington	B-NEU	B-AE
+Republican	B-NEU	B-AE
+primary	O	O
+,	O	O
+CNN	B-NEU	B-AE
+projects	O	O
+
+IMGID:O_3129
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+:	O	O
+Stop	O	O
+Harming	O	O
+Low	O	O
+-	O	O
+Income	O	O
+Americans	O	O
+,	O	O
+Now	O	O
+!	O	O
+-	O	O
+Sign	O	O
+the	O	O
+Petition	O	O
+!	O	O
+
+IMGID:17_06_2634
+3	O	O
+CNN	B-NEG	B-AE
+Journalists	O	O
+Resign	O	O
+After	O	O
+Retracted	O	O
+Story	O	O
+on	O	O
+Trump	B-NEU	B-AE
+Ally	O	O
+by	O	O
+MICHAEL	B-NEU	B-AE
+M	I-NEU	I-AE
+.	I-NEU	I-AE
+GRYNBAUM	I-NEU	I-AE
+via	O	O
+
+IMGID:O_549
+My	O	O
+column	O	O
+on	O	O
+what	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+doesn	O	O
+'	O	O
+t	O	O
+understand	O	O
+about	O	O
+women	O	O
+:	O	O
+
+IMGID:O_3958
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+Just	O	O
+Blocked	O	O
+Stephen	B-NEG	B-AE
+King	I-NEG	I-AE
+on	O	O
+Twitter	B-NEU	B-AE
+
+IMGID:O_2439
+Nancy	B-NEG	B-AE
+Pelosi	I-NEG	I-AE
+,	O	O
+blinded	O	O
+by	O	O
+Trump	B-NEU	B-AE
+,	O	O
+makes	O	O
+crazy	O	B-OE
+‘	O	O
+guarantee	O	B-OE
+’	O	O
+she	O	O
+can	O	O
+’	O	O
+t	O	O
+possibly	O	O
+make	O	O
+good	O	B-OE
+on	O	O
+
+IMGID:O_3040
+These	O	O
+Wealthy	O	B-OE
+People	O	O
+Refuse	O	B-OE
+to	O	O
+Give	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+Money	O	O
+.	O	O
+Here	O	O
+’	O	O
+s	O	O
+Why	O	O
+.	O	O
+-	O	O
+
+IMGID:O_3643
+Clothing	O	O
+bearing	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+'	O	O
+s	O	O
+name	O	O
+is	O	O
+produced	O	O
+abroad	O	O
+in	O	O
+countries	O	O
+with	O	O
+very	O	O
+low	O	O
+wages	O	O
+.	O	O
+
+IMGID:O_3223
+“	O	O
+He	O	O
+almost	O	O
+bankrupted	O	O
+us	O	O
+,	O	O
+”	O	O
+says	O	O
+one	O	O
+retired	O	O
+businessman	O	O
+of	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:O_3231
+RETWEET	O	O
+if	O	O
+you	O	O
+believe	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+will	O	O
+have	O	O
+absolutely	O	O
+no	O	O
+problem	O	B-OE
+beating	O	O
+Crooked	O	B-OE
+Hillary	B-NEG	B-AE
+in	O	O
+the	O	O
+general	O	O
+.	O	O
+
+IMGID:O_204
+A	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+presidency	O	O
+won	O	B-OE
+’	O	O
+t	O	O
+slow	O	B-OE
+Fiera	B-POS	B-AE
+Capital	I-POS	I-AE
+’	O	O
+s	O	O
+U	B-NEU	B-AE
+.	I-NEU	I-AE
+S	I-NEU	I-AE
+.	O	O
+expansion	O	O
+:	O	O
+CEO	O	O
+
+IMGID:O_538
+Ryan	B-NEU	B-AE
+Newman	I-NEU	I-AE
+NASCAR	B-NEU	B-AE
+Endorses	O	B-OE
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+for	O	O
+President	O	O
+
+IMGID:O_1659
+Watch	O	O
+Elizabeth	B-NEU	B-AE
+Warren	I-NEU	I-AE
+'	O	O
+s	O	O
+epic	O	O
+10	O	O
+-	O	O
+minute	O	O
+takedown	O	O
+of	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:O_1395
+Someone	O	O
+commented	O	O
+on	O	O
+Ellie	B-POS	B-AE
+Goulding	I-POS	I-AE
+'	O	O
+s	O	O
+tweet	O	O
+about	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+.	O	O
+Her	O	O
+reply	O	O
+was	O	O
+everything	O	O
+.	O	O
+👏	O	O
+
+IMGID:O_189
+With	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+as	O	O
+presumptive	O	O
+nominee	O	O
+,	O	O
+some	O	O
+in	O	O
+GOP	B-NEU	B-AE
+say	O	O
+they	O	O
+'	O	O
+re	O	O
+breaking	O	B-OE
+away	O	O
+from	O	O
+party	O	O
+
+IMGID:O_3558
+Just	O	O
+what	O	O
+were	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+'	O	O
+s	O	O
+ties	O	O
+to	O	O
+the	O	O
+mob	O	O
+?	O	O
+
+IMGID:O_2469
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+unveils	O	O
+plan	O	O
+to	O	O
+cut	O	O
+red	O	O
+tape	O	O
+that	O	O
+is	O	O
+holding	O	O
+back	O	O
+American	B-NEU	B-AE
+industry	O	O
+-	O	O
+
+IMGID:O_2788
+FortuneMagazine	B-NEU	B-AE
+:	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+couldn	O	O
+'	O	O
+t	O	O
+have	O	O
+self	O	O
+-	O	O
+funded	O	O
+his	O	O
+general	O	O
+election	O	O
+campaign	O	O
+…	O	O
+
+IMGID:O_1556
+A	O	O
+number	O	O
+of	O	O
+would	O	O
+-	O	O
+be	O	O
+delegates	O	O
+are	O	O
+dropping	O	O
+out	O	O
+of	O	O
+the	O	O
+convention	O	O
+over	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:O_1125
+Barack	B-NEU	B-AE
+Obama	I-NEU	I-AE
+is	O	O
+gravely	O	B-OE
+concerned	O	B-OE
+about	O	O
+carbon	O	O
+'	O	O
+s	O	O
+impact	O	O
+on	O	O
+our	O	O
+planet	O	O
+.	O	O
+
+IMGID:O_2958
+Meta	O	O
+Theory	O	O
+:	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+will	O	O
+win	O	B-OE
+the	O	O
+election	O	O
+WITH	O	O
+THE	O	O
+POWER	O	O
+OF	O	O
+THE	O	O
+CHAOS	O	B-OE
+EMERALDS	O	O
+?	O	O
+!	O	O
+
+IMGID:O_4864
+Kim	B-NEU	B-AE
+Jong	I-NEU	I-AE
+Un	I-NEU	I-AE
+said	O	O
+that	O	O
+jacket	O	O
+Mrs	O	O
+.	O	O
+Bill	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+has	O	O
+on	O	O
+was	O	O
+stolen	O	B-OE
+from	O	O
+his	O	O
+closet	O	O
+.	O	O
+
+IMGID:O_2993
+Florida	B-POS	B-AE
+Governor	O	O
+Rick	B-POS	B-AE
+Scott	I-POS	I-AE
+has	O	O
+endorsed	O	B-OE
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+for	O	O
+President	O	O
+!	O	O
+#	O	O
+Trump2016	O	O
+#	O	O
+TrumpTrain	O	O
+
+IMGID:O_4346
+fxxk	O	O
+this	O	O
+shxt	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+i	O	O
+'	O	O
+'	O	O
+m	O	O
+off	O	O
+to	O	O
+vote	O	O
+for	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+
+IMGID:16_05_15_1010
+Pres	O	O
+Obama	B-POS	B-AE
+takes	O	O
+the	O	O
+stage	O	O
+at	O	O
+@	O	O
+RutgersU	B-NEU	B-AE
+Commencement	O	O
+in	O	O
+school	O	O
+football	O	O
+stadium	O	O
+in	O	O
+Piscataway	B-NEU	B-AE
+,	O	O
+NJ	B-NEU	B-AE
+.	O	O
+
+IMGID:16_05_25_932
+Bushfire	B-NEU	B-AE
+Festival	I-NEU	I-AE
+:	O	O
+C	O	O
+'	O	O
+mon	O	O
+baby	O	O
+,	O	O
+light	O	O
+your	O	O
+fire	O	O
+
+IMGID:O_2271
+House	B-NEU	B-AE
+Speaker	O	O
+Paul	B-NEU	B-AE
+Ryan	I-NEU	I-AE
+says	O	O
+he	O	O
+can	O	O
+'	O	O
+t	O	O
+currently	O	O
+support	O	B-OE
+presumptive	O	O
+GOP	B-NEU	B-AE
+nominee	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:O_82
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+backs	O	O
+out	O	O
+of	O	O
+a	O	O
+debate	O	O
+with	O	O
+Bernie	B-NEU	B-AE
+Sanders	I-NEU	I-AE
+:	O	O
+
+IMGID:O_4377
+John	B-NEG	B-AE
+Miller	I-NEG	I-AE
+,	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+,	O	O
+John	B-NEG	B-AE
+Baron	I-NEG	I-AE
+,	O	O
+etc	O	O
+.	O	O
+What	O	O
+'	O	O
+s	O	O
+This	O	O
+Guy	O	O
+'	O	O
+s	O	O
+REAL	O	O
+IDENTITY	O	O
+?	O	O
+#	O	O
+cnn	B-NEU	B-AE
+
+IMGID:O_1835
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+Is	O	O
+Not	O	O
+A	O	O
+Path	O	O
+To	O	O
+“	O	O
+Entertainment	O	O
+”	O	O
+—	O	O
+He	O	O
+’	O	O
+s	O	O
+A	O	O
+Road	O	O
+To	O	O
+Hell	O	B-OE
+
+IMGID:O_1304
+This	O	O
+week	O	O
+,	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+accused	O	O
+Ted	B-NEG	B-AE
+Cruz	I-NEG	I-AE
+'	O	O
+s	O	O
+father	O	O
+of	O	O
+plotting	O	O
+to	O	O
+kill	O	B-OE
+JFK	B-NEU	B-AE
+,	O	O
+then	O	O
+won	O	B-OE
+the	O	O
+Republican	B-NEU	B-AE
+nomination	O	O
+.	O	O
+
+IMGID:O_2302
+Hillary	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+is	O	O
+set	O	O
+to	O	O
+seriously	O	O
+outspend	O	O
+billionaire	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:O_93
+Someone	O	O
+commented	O	O
+on	O	O
+Ellie	B-POS	B-AE
+Goulding	I-POS	I-AE
+'	O	O
+s	O	O
+tweet	O	O
+about	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+.	O	O
+Her	O	O
+reply	O	O
+was	O	O
+everything	O	O
+.	O	O
+
+IMGID:O_1349
+How	O	O
+Barack	B-NEG	B-AE
+Obama	I-NEG	I-AE
+’	O	O
+s	O	O
+Foreign	O	O
+Policy	O	O
+De	O	O
+-	O	O
+Stabilized	O	O
+the	O	O
+World	O	O
+
+IMGID:O_2248
+Every	O	O
+photo	O	O
+of	O	O
+Jared	B-NEG	B-AE
+Kushner	I-NEG	I-AE
+looks	O	O
+like	O	B-OE
+he	O	O
+just	O	O
+realized	O	O
+he	O	O
+'	O	O
+s	O	O
+going	O	O
+to	O	O
+prison	O	B-OE
+for	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+.	O	O
+
+IMGID:O_3026
+President	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+'	O	O
+s	O	O
+White	B-NEU	B-AE
+House	I-NEU	I-AE
+declines	O	B-OE
+to	O	O
+recognize	O	O
+LGBT	B-NEG	B-AE
+Pride	O	B-OE
+Month	O	O
+
+IMGID:O_995
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+narrowly	O	O
+leads	O	B-OE
+Hillary	B-NEU	B-AE
+Clinton	I-NEU	I-AE
+in	O	O
+Ohio	B-NEU	B-AE
+,	O	O
+new	O	O
+poll	O	O
+says	O	O
+#	O	O
+Cleveland	B-NEU	B-AE
+
+IMGID:O_3217
+.	O	O
+@	O	O
+BernieSanders	B-NEU	B-AE
+asks	O	O
+superdelegates	O	O
+to	O	O
+consider	O	O
+which	O	O
+candidate	O	O
+could	O	O
+best	O	B-OE
+defeat	O	B-OE
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+.	O	O
+#	O	O
+ThisWeek	O	O
+
+IMGID:O_1763
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+'	O	O
+s	O	O
+victory	O	B-OE
+proves	O	B-OE
+Republican	B-NEG	B-AE
+voters	O	O
+want	O	O
+resentful	O	B-OE
+nationalism	O	O
+,	O	O
+not	O	O
+principled	O	B-OE
+conservatism	O	O
+…	O	O
+
+IMGID:O_2226
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+spent	O	O
+much	O	O
+of	O	O
+a	O	O
+rally	O	O
+thrashing	O	O
+Republican	B-NEG	B-AE
+rivals	O	O
+who	O	O
+no	O	O
+longer	O	O
+threaten	O	B-OE
+him	O	O
+
+IMGID:O_3207
+Immigrant	O	O
+Advocates	O	B-OE
+Deliver	O	O
+Taco	O	O
+Bowls	O	O
+To	O	O
+GOP	B-NEU	B-AE
+Lawmakers	O	O
+Who	O	O
+Support	O	B-OE
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+:	O	O
+"	O	O
+He	O	O
+'	O	O
+s	O	O
+so	O	O
+…	O	O
+
+IMGID:O_2744
+Libertarian	O	O
+candidate	O	O
+:	O	O
+What	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+says	O	O
+is	O	O
+"	O	O
+ridiculous	O	B-OE
+"	O	O
+
+IMGID:O_3556
+JUST	O	O
+IN	O	O
+:	O	O
+Newt	B-NEU	B-AE
+Gingrich	I-NEU	I-AE
+says	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+is	O	O
+more	O	O
+"	O	O
+pro	O	O
+-	O	O
+woman	O	O
+"	O	O
+than	O	O
+Hillary	B-NEU	B-AE
+Clinton	I-NEU	I-AE
+
+IMGID:O_3770
+Why	O	O
+people	O	O
+were	O	O
+sending	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+their	O	O
+pee	O	O
+:	O	O
+
+IMGID:O_3036
+If	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+is	O	O
+elected	O	O
+,	O	O
+we	O	O
+promise	O	B-OE
+to	O	O
+restore	O	O
+his	O	O
+normal	O	O
+hair	O	O
+to	O	O
+this	O	O
+image	O	O
+.	O	O
+
+IMGID:O_941
+Rolling	B-NEU	B-AE
+Stones	I-NEU	I-AE
+tell	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+he	O	O
+must	O	O
+stop	O	O
+playing	O	O
+their	O	O
+music	O	O
+at	O	O
+campaign	O	O
+events	O	O
+
+IMGID:O_2681
+Just	O	O
+my	O	O
+thoughts	O	O
+on	O	O
+Ted	B-NEG	B-AE
+'	O	O
+s	O	O
+remarks	O	O
+regarding	O	O
+the	O	O
+quality	O	O
+of	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+'	O	O
+s	O	O
+upbringing	O	O
+.	O	O
+.	O	O
+
+IMGID:O_316
+16,000	O	O
+people	O	O
+just	O	O
+watched	O	O
+me	O	O
+get	O	O
+a	O	O
+live	O	O
+tattoo	O	O
+of	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+sucking	O	O
+a	O	O
+dick	O	B-OE
+.	O	O
+Welcome	O	B-OE
+to	O	O
+the	O	O
+future	O	O
+.	O	O
+
+IMGID:O_2642
+Donald	B-POS	B-AE
+Trumps	I-POS	I-AE
+super	O	B-OE
+PAC	B-NEU	B-AE
+is	O	O
+"	O	O
+we	O	O
+the	O	O
+people	O	O
+"	O	O
+🇺	O	O
+🇸	O	O
+🇺	O	O
+🇸	O	O
+give	O	O
+what	O	O
+u	O	O
+can	O	O
+on	O	O
+June	O	O
+7	O	O
+‼	O	O
+️	O	O
+
+IMGID:O_2609
+I	O	O
+thought	O	O
+women	O	O
+were	O	O
+supposed	O	O
+to	O	O
+hate	O	B-OE
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+?	O	O
+#	O	O
+WomenForTrump	O	O
+
+IMGID:O_3102
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+tried	O	O
+to	O	O
+sue	O	B-OE
+an	O	O
+author	O	O
+for	O	O
+$	O	O
+5	O	O
+billion	O	O
+for	O	O
+calling	O	O
+him	O	O
+a	O	O
+millionaire	O	O
+instead	O	O
+of	O	O
+…	O	O
+
+IMGID:O_4244
+Marco	B-NEU	B-AE
+Rubio	I-NEU	I-AE
+faces	O	O
+pressure	O	O
+to	O	O
+run	O	O
+for	O	O
+reelection	O	O
+as	O	O
+GOP	B-NEG	B-AE
+fears	O	B-OE
+grow	O	O
+over	O	O
+his	O	O
+Senate	O	O
+seat	O	O
+
+IMGID:O_1713
+Look	O	O
+inside	O	O
+Barack	B-POS	B-AE
+and	O	O
+Michelle	B-POS	B-AE
+Obama	I-POS	I-AE
+'	O	O
+s	O	O
+first	O	O
+date	O	O
+in	O	O
+new	O	O
+trailer	O	O
+for	O	O
+'	O	O
+Southside	B-POS	B-AE
+With	I-POS	I-AE
+You	I-POS	I-AE
+'	O	O
+:	O	O
+
+IMGID:O_3912
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+will	O	O
+win	O	B-OE
+in	O	O
+a	O	O
+landslide	O	O
+.	O	O
+*	O	O
+The	O	O
+cartoonist	O	O
+behind	O	O
+‘	O	O
+Dilbert	B-NEU	B-AE
+’	O	O
+explains	O	O
+why	O	O
+.	O	O
+
+IMGID:O_2806
+#	O	O
+MTVStars	O	O
+Lady	B-NEU	B-AE
+Gaga	I-NEU	I-AE
+#	O	O
+MTVStars	O	O
+Lady	B-NEU	B-AE
+Gaga	I-NEU	I-AE
+Fox	B-NEU	B-AE
+News	I-NEU	I-AE
+Poll	O	O
+:	O	O
+HillaryClinton	B-NEG	B-AE
+favorability	O	O
+rating	O	O
+.	O	O
+
+IMGID:O_4973
+Q	O	O
+.	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+,	O	O
+Hillary	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+and	O	O
+Ted	B-NEG	B-AE
+Cruz	I-NEG	I-AE
+are	O	O
+on	O	O
+a	O	O
+plane	O	O
+.	O	O
+The	O	O
+plane	O	O
+crashes	O	B-OE
+.	O	O
+Who	O	O
+survives	O	O
+?	O	O
+
+IMGID:O_2630
+Bill	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+Fired	O	O
+FBI	B-NEG	B-AE
+Director	O	O
+One	O	O
+Day	O	O
+B4	O	O
+Vince	B-NEG	B-AE
+Fosters	I-NEG	I-AE
+Death	O	B-OE
+#	O	O
+PJNET	O	O
+
+IMGID:O_1035
+An	O	O
+artist	O	O
+replaced	O	O
+all	O	O
+these	O	O
+old	O	O
+-	O	O
+school	O	O
+Nintendo	B-NEU	B-AE
+games	O	O
+'	O	O
+bad	O	B-OE
+guys	O	O
+with	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:O_2619
+What	O	O
+would	O	O
+the	O	O
+Founding	O	O
+Fathers	O	O
+think	O	O
+of	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+?	O	O
+
+IMGID:O_288
+Exclusive	O	O
+—	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+:	O	O
+‘	O	O
+Clinton	B-NEG	B-AE
+Cash	I-NEG	I-AE
+’	O	O
+Proves	O	B-OE
+Hillary	B-NEG	B-AE
+Is	O	O
+‘	O	O
+Crooked	O	B-OE
+As	O	O
+Hell	O	B-OE
+’	O	O
+-	O	O
+Breitbart	B-NEU	B-AE
+
+IMGID:O_3682
+Happy	O	B-OE
+birthday	O	O
+to	O	O
+the	O	O
+45	O	O
+th	O	O
+President	O	O
+of	O	O
+the	O	O
+United	B-NEU	B-AE
+States	I-NEU	I-AE
+and	O	O
+my	O	O
+good	O	B-OE
+friend	O	O
+,	O	O
+@	O	O
+POTUS	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+!	O	O
+
+IMGID:O_208
+WATCH	O	O
+:	O	O
+New	O	O
+Trump	B-NEU	B-AE
+video	O	O
+features	O	O
+audio	O	O
+of	O	O
+Bill	B-NEG	B-AE
+Clinton	I-NEG	I-AE
+'	O	O
+s	O	O
+sexual	O	O
+assault	O	B-OE
+accusers	O	O
+
+IMGID:O_4828
+Ellie	B-NEU	B-AE
+ain	O	O
+'	O	O
+t	O	O
+here	O	O
+for	O	O
+you	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+supporters	O	O
+.	O	O
+👋	O	O
+🏾	O	O
+
+IMGID:O_1968
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+is	O	O
+unfit	O	B-OE
+for	O	O
+an	O	O
+office	O	O
+as	O	O
+awesomely	O	B-OE
+powerful	O	B-OE
+as	O	O
+the	O	O
+presidency	O	O
+,	O	O
+by	O	O
+@	O	O
+DouthatNYT	B-NEU	B-AE
+
+IMGID:O_4073
+Clinton	B-NEG	B-AE
+is	O	O
+on	O	O
+CNN	B-NEG	B-AE
+Anderson	B-NEG	B-AE
+Cooper	I-NEG	I-AE
+right	O	B-OE
+now	O	O
+ragging	O	O
+on	O	O
+Trump	B-NEU	B-AE
+,	O	O
+s	O	O
+lavish	O	B-OE
+lifestyle	O	O
+.	O	O
+She	O	O
+lives	O	O
+in	O	O
+this	O	O
+poor	O	B-OE
+shack	O	O
+
+IMGID:O_3373
+.	O	O
+@	O	O
+RonJohnsonWI	B-NEG	B-AE
+'	O	O
+s	O	O
+support	O	B-OE
+for	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+is	O	O
+dangerous	O	B-OE
+for	O	O
+Wisconsin	B-NEU	B-AE
+#	O	O
+wipolitics	O	O
+#	O	O
+wisen	O	O
+
+IMGID:O_1082
+We	O	O
+know	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+is	O	O
+not	O	O
+who	O	O
+we	O	O
+are	O	O
+.	O	O
+If	O	O
+you	O	O
+want	O	O
+to	O	O
+shut	O	O
+him	O	O
+down	O	O
+,	O	O
+then	O	O
+let	O	O
+’	O	O
+s	O	O
+vote	O	O
+him	O	O
+down	O	O
+.	O	O
+
+IMGID:O_1131
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+'	O	O
+yells	O	O
+at	O	O
+TVs	O	O
+in	O	O
+the	O	O
+White	B-NEU	B-AE
+House	I-NEU	I-AE
+'	O	O
+about	O	O
+Russia	B-NEU	B-AE
+investigation	O	O
+
+IMGID:O_1837
+in	O	O
+his	O	O
+final	O	O
+days	O	O
+of	O	O
+the	O	O
+presidency	O	O
+,	O	O
+President	O	O
+Barack	B-NEG	B-AE
+Obama	I-NEG	I-AE
+has	O	O
+lost	O	B-OE
+the	O	O
+little	O	O
+bit	O	O
+of	O	O
+chill	O	B-OE
+that	O	O
+was	O	O
+left	O	O
+.	O	O
+
+IMGID:O_4115
+Sadiq	B-POS	B-AE
+Khan	I-POS	I-AE
+'	O	O
+s	O	O
+win	O	B-OE
+was	O	O
+a	O	O
+rebuke	O	B-OE
+to	O	O
+Western	B-NEU	B-AE
+nativists	O	O
+like	O	B-OE
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+and	O	O
+Nigel	B-NEG	B-AE
+Farage	I-NEG	I-AE
+
+IMGID:O_2371
+News	O	O
+Update	O	O
+Angelina	B-NEU	B-AE
+Jolie	I-NEU	I-AE
+slams	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+'	O	O
+s	O	O
+stance	O	O
+on	O	O
+religious	O	O
+freedom	O	B-OE
+and	O	O
+immigration	O	O
+
+IMGID:O_3162
+Ryan	B-NEG	B-AE
+’	O	O
+s	O	O
+Primary	O	O
+Opponent	O	B-OE
+,	O	O
+Paul	B-NEU	B-AE
+Nehlen	I-NEU	I-AE
+,	O	O
+Says	O	O
+:	O	O
+“	O	O
+Will	O	O
+Support	O	B-OE
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+”	O	O
+…	O	O
+
+IMGID:O_4159
+‘	O	O
+Stunning	O	B-OE
+’	O	O
+swing	O	O
+state	O	O
+Q	O	O
+-	O	O
+polls	O	O
+shows	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+closing	O	O
+gap	O	O
+,	O	O
+he	O	O
+takes	O	O
+lead	O	B-OE
+over	O	O
+Hillary	B-NEG	B-AE
+…	O	O
+
+IMGID:O_1447
+Hillary	B-POS	B-AE
+Clinton	I-POS	I-AE
+'	O	O
+s	O	O
+sass	O	B-OE
+-	O	O
+filled	O	O
+Snapchat	B-NEU	B-AE
+blitz	O	O
+is	O	O
+a	O	O
+perfect	O	B-OE
+clap	O	O
+back	O	O
+to	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+:	O	O
+
+IMGID:O_4946
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+Tells	O	O
+West	B-NEG	B-AE
+Virginia	I-NEG	I-AE
+Primary	O	O
+Voters	O	O
+to	O	O
+Stay	O	O
+Home	O	O
+
+IMGID:O_126
+BBC	B-NEG	B-AE
+News	O	O
+-	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+'	O	O
+posed	O	O
+as	O	O
+own	O	O
+spokesperson	O	O
+'	O	O
+in	O	O
+business	O	O
+dealings	O	O
+
+IMGID:O_4731
+Rosie	B-NEU	B-AE
+O	I-NEU	I-AE
+'	I-NEU	I-AE
+Donnell	I-NEU	I-AE
+lets	O	O
+loose	O	B-OE
+on	O	O
+"	O	O
+s	O	O
+*	O	O
+*	O	O
+t	O	O
+stain	O	B-OE
+"	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:O_3727
+A	O	O
+comment	O	O
+was	O	O
+made	O	O
+on	O	O
+Ellie	B-NEU	B-AE
+Goulding	I-NEU	I-AE
+'	O	O
+s	O	O
+tweet	O	O
+about	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+.	O	O
+Her	O	O
+reply	O	O
+was	O	O
+everything	O	O
+.	O	O
+🔥	O	O
+👏	O	O
+
+IMGID:O_1018
+Bush	B-NEU	B-AE
+41,	O	O
+43	O	O
+Do	O	O
+Not	O	O
+Plan	O	O
+to	O	O
+Endorse	O	B-OE
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+
+IMGID:O_4375
+CNN	B-NEU	B-AE
+projects	O	O
+Donald	B-POS	B-AE
+Trump	I-POS	I-AE
+will	O	O
+win	O	B-OE
+the	O	O
+Oregon	B-NEU	B-AE
+Republican	B-NEU	B-AE
+primary	O	O
+
+IMGID:O_175
+Roger	B-NEU	B-AE
+Stone	I-NEU	I-AE
+:	O	O
+I	O	O
+Hooked	O	O
+Up	O	O
+Nigel	B-NEU	B-AE
+Farage	I-NEU	I-AE
+With	O	O
+Donald	B-NEU	B-AE
+Trump	I-NEU	I-AE
+
+IMGID:O_5003
+I	O	O
+would	O	O
+like	O	B-OE
+to	O	O
+inform	O	O
+you	O	O
+all	O	O
+that	O	O
+Niall	B-NEU	B-AE
+seems	O	O
+to	O	O
+have	O	O
+a	O	O
+disliking	O	B-OE
+for	O	O
+Donald	B-NEG	B-AE
+Trump	I-NEG	I-AE
+😂	O	O
+😂	O	O
+~	O	O
+C	O	O
+
+IMGID:O_2050
+Female	O	O
+trump	O	B-OE
+is	O	O
+basically	O	O
+Taylor	B-NEG	B-AE
+Swift	I-NEG	I-AE
+.	O	O
+Coincidence	O	O
+?	O	O
+Nope	O	O
+
