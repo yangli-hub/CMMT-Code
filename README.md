@@ -1,12 +1,15 @@
 # Cross-Modal Multitask Transformer for End-to-End Multimodal Aspect-Based Sentiment Analysis
 
-Author
+#### Author: Li YANG,  yang0666@e.ntu.edu.sg
 
-Li YANG
+#### The Corresponding Paper: 
+##### Cross-modal multitask transformer for end-to-end multimodal aspect-based sentiment analysis 
+##### [[https://www.sciencedirect.com/science/article/abs/pii/S0306457324000840](https://www.sciencedirect.com/science/article/pii/S0306457322001479)](https://www.sciencedirect.com/science/article/abs/pii/S0306457322001479)
 
-yang0666@e.ntu.edu.sg
+##### The framework of the CMMT model:  
+![alt text]<img width="709" alt="Screenshot 2024-04-10 at 10 38 04 AM" src="https://github.com/yangli-hub/CMMT-Code/assets/70850281/4cd2be80-f1a5-4dcb-a3b3-255c24cd184c">
 
-June 25, 2022
+
 
 ## Data
 - The preprocessed CoNLL format files are provided in this repo. For each tweet, the first line is its image id, and the following lines are its textual contents.
@@ -37,3 +40,6 @@ sh run_cmmt_crf.sh
 ## Acknowledgements
 - Using these two datasets means you have read and accepted the copyrights set by Twitter and dataset providers.
 - Most of the codes are based on the codes provided by huggingface: https://github.com/huggingface/transformers.
+
+## Citation Information:
+Yang, L., Na, J. C., & Yu, J. (2022). Cross-modal multitask transformer for end-to-end multimodal aspect-based sentiment analysis. Information Processing & Management, 59(5), 103038.
