@@ -17,7 +17,7 @@
 - Step 2: Download the image label file via this link(https://drive.google.com/drive/folders/17_ifeBqnCpHkd0Ns8cNcT-Q-Q5OxtSmZ?usp=sharing), and then put the associaled image label files into folder "./ANP_data/"
 - Step 3: Download the pre-trained ResNet-152 via this link (https://download.pytorch.org/models/resnet152-b121ed2d.pth), and put the pre-trained ResNet-152 model under the folder './model/resnet/" 
 
-- Step 4: Download the pre-trained roberta-base-cased and put the pre-trained roberta model under the folder "./model/roberta-base-cased/"  
+- Step 4: Download the pre-trained roberta-base-cased from huggingface and put the pre-trained roberta model under the folder "./model/roberta-base-cased/"  
 
 
 ## Requirement
